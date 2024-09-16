@@ -1,6 +1,6 @@
 {
-  "name": "mistralys/cyberpunk-mods-db",
-  "description": "JSON database of Cyberpunk 2077 clothing mods",
+  "name": "mistralys/cyberpunk-mod-db",
+  "description": "JSON database of Cyberpunk 2077 Clothing Mods",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "MIT",
