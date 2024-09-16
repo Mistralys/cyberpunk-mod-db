@@ -1,0 +1,13 @@
+{
+  "name": "mistralys/cyberpunk-mods-db",
+  "description": "JSON database of Cyberpunk 2077 clothing mods",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastian Mordziol",
+      "email": "s.mordziol@mistralys.eu"
+    }
+  ]
+}
