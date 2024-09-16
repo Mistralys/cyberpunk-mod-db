@@ -1,0 +1,157 @@
+{
+  "mod": "Skirts Expansion Part 1",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7387",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+  "authors": [
+    "MONSTERaider"
+  ],
+  "tags": [
+    "Clothing",
+    "Legs",
+    "FemV",
+    "Skimpy",
+    "Body-Vanilla",
+    "Body-Spawn0",
+    "Body-Hyst",
+    "Body-Solo"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "raid_cyberskirt_black",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Black Skull",
+      "code": "raid_cyberskirt_black_skull",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Plaid Red",
+      "code": "raid_cyberskirt_plaid_red",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Plaid Navy",
+      "code": "raid_cyberskirt_plaid_navy",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Navy",
+      "code": "raid_cyberskirt_navy",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Pink",
+      "code": "raid_cyberskirt_pink",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Lime",
+      "code": "raid_cyberskirt_lime",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Stripes",
+      "code": "raid_cyberskirt_stripes",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Cotton Black",
+      "code": "raid_cyberskirt_cotton_black",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Cotton White",
+      "code": "raid_cyberskirt_cotton_white",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Cotton Navy",
+      "code": "raid_cyberskirt_cotton_navy",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Wool Beige",
+      "code": "raid_cyberskirt_wool_beige",
+      "category": "Regular and micro skirts"
+    },
+    {
+      "name": "Transparent",
+      "code": "raid_cyberskirt_transparent",
+      "category": "Regular and micro skirts"
+    },
+
+
+    {
+      "name": "Light Red",
+      "code": "raid_cybersmini_light_red",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Black Formal",
+      "code": "raid_cybersmini_black_formal",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Olive Formal",
+      "code": "raid_cybersmini_olive_formal",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Silver",
+      "code": "raid_cybersmini_silver",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Beige",
+      "code": "raid_cybersmini_beige",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Cyan",
+      "code": "raid_cybersmini_cyan",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Lime",
+      "code": "raid_cybersmini_lime",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Green",
+      "code": "raid_cybersmini_green",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Pink",
+      "code": "raid_cybersmini_pink",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Burgundy",
+      "code": "raid_cybersmini_burgundy",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Red",
+      "code": "raid_cybersmini_red",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "White",
+      "code": "raid_cybersmini_white",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Holo",
+      "code": "raid_cybersmini_holo",
+      "category": "Short and mini skirts"
+    },
+    {
+      "name": "Transparent",
+      "code": "raid_cybersmini_transparent",
+      "category": "Short and mini skirts"
+    }
+  ]
+}

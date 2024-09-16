@@ -1,0 +1,34 @@
+{
+  "mod": "Alt Cunningham's Choker",
+  "authors": ["mistshield"],
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6947",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+  "tags": [
+    "Choker",
+    "Neck",
+    "Clothing",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "alt_strap_default"
+    },
+    {
+        "name": "Beige",
+        "code": "alt_strap_beige"
+    },
+    {
+        "name": "Zebra",
+        "code": "alt_strap_zebra"
+    },
+    {
+        "name": "Gold",
+        "code": "alt_strap_gold"
+    },
+    {
+      "name": "White",
+      "code": "alt_strap_white"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "mod": "Biker Boots",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7982",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+  "authors": ["MONSTERaider"],
+  "tags": [
+    "Boots",
+    "Feet",
+    "FemV",
+    "MaleV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Body-Solo",
+    "Body-Lush",
+    "Body-Spawn0"
+  ],
+  "items": [
+    {
+      "name": "Black, Green Emissive",
+      "code": "raid_bikerboots_black_emissive_green",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Black, Red Emissive",
+      "code": "raid_bikerboots_black_emissive_red",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Yellow, Yellow Emissive",
+      "code": "raid_bikerboots_yellow_emissive_yellow",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Red, White Emissive",
+      "code": "raid_bikerboots_red_emissive_white",
+      "category": "Long Boots"
+    },
+    {
+      "name": "White, Teal Emissive",
+      "code": "raid_bikerboots_white_emissive_teal",
+      "category": "Long Boots"
+    },
+    {
+      "name": "White, Golden Emissive",
+      "code": "raid_bikerboots_white_emissive_gold",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Gold, Golden Emissive",
+      "code": "raid_bikerboots_gold_emissive_gold",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Silver, Teal Emissive",
+      "code": "raid_bikerboots_silver_emissive_teal",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Cyan, Blue Emissive",
+      "code": "raid_bikerboots_cyan_emissive_blue",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Pink, Pink Emissive",
+      "code": "raid_bikerboots_pink_glow_pink",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Gold and White, Golden Emissive",
+      "code": "raid_biker_boot_white_emissive_gold",
+      "category": "Long Boots"
+    },
+    {
+      "name": "Black, Green Emissive",
+      "code": "raid_biker_boot_black_emissive_green",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Black, Red Emissive",
+      "code": "raid_biker_boot_black_emissive_red",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Yellow, Yellow Emissive",
+      "code": "raid_biker_boot_yellow_emissive_yellow",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Red, White Emissive",
+      "code": "raid_biker_boot_red_emissive_white",
+      "category": "Short Boots"
+    },
+    {
+      "name": "White, Teal Emissive",
+      "code": "raid_biker_boot_white_emissive_teal",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Gold, Golden Emissive",
+      "code": "raid_biker_boot_gold_emissive_gold",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Silver, Teal Emissive",
+      "code": "raid_biker_boot_silver_emissive_teal",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Cyan, Blue Emissive",
+      "code": "raid_biker_boot_cyan_emissive_blue",
+      "category": "Short Boots"
+    },
+    {
+      "name": "Pink, Pink Emissive",
+      "code": "raid_biker_boot_pink_glow_pink",
+      "category": "Short Boots"
+    }
+  ]
+}

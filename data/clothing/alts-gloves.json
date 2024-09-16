@@ -1,0 +1,22 @@
+{
+  "mod": "Alt's Actual Gloves",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7130",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6779",
+  "authors": ["Kwek"],
+  "tags": [
+    "Clothing",
+    "Hands",
+    "Gloves",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Leather: White",
+      "code": "gloves_03_basic_02_kwek"
+    },
+    {
+      "name": "Leather: Black",
+      "code": "gloves_03_basic_01_kwek"
+    }
+  ]
+}

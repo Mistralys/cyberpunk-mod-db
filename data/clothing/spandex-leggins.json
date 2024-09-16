@@ -1,0 +1,66 @@
+{
+  "mod": "Leggings Spandex - Custom Mats and HQ Masks",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/10385",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+  "authors": [
+    "Apzurv"
+  ],
+  "tags": [
+    "Clothing",
+    "Legs",
+    "FemV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Body-Hyst-RB"
+  ],
+  "items": [
+    {
+      "name": "Arasaka Gold",
+      "code": "spanl_a"
+    },
+    {
+      "name": "Arasaka Silver",
+      "code": "spanl_b"
+    },
+    {
+      "name": "Fragile Gold",
+      "code": "spanl_c"
+    },
+    {
+      "name": "Fragile White",
+      "code": "spanl_d"
+    },
+    {
+      "name": "Mox Gold",
+      "code": "spanl_e"
+    },
+    {
+      "name": "Mox Silver",
+      "code": "spanl_f"
+    },
+    {
+      "name": "Never Fade Away Gold",
+      "code": "spanl_g"
+    },
+    {
+      "name": "Never Fade Away Silver",
+      "code": "spanl_h"
+    },
+    {
+      "name": "Samurai Gold",
+      "code": "spanl_i"
+    },
+    {
+      "name": "Samurai Silver",
+      "code": "spanl_j"
+    },
+    {
+      "name": "The Mox Gold (Vertical)",
+      "code": "spanl_k"
+    },
+    {
+      "name": "The Mox Silver (Vertical)",
+      "code": "spanl_l"
+    }
+  ]
+}

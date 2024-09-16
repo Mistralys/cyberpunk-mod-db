@@ -1,0 +1,82 @@
+{
+  "mod": "Comfy Set",
+  "authors": [
+    "PeachuHime"
+  ],
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/12041",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+  "tags": [
+    "Torso",
+    "Legs",
+    "FemV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Body-Hyst-EBB",
+    "Body-Hyst-EBBP",
+    "Body-Hyst-RB"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "peachu_comfytop_black",
+      "category": "Top"
+    },
+    {
+      "name": "Purple",
+      "code": "peachu_comfytop_purple",
+      "category": "Top"
+    },
+    {
+      "name": "Red",
+      "code": "peachu_comfytop_red",
+      "category": "Top"
+    },
+    {
+      "name": "Blue",
+      "code": "peachu_comfytop_blue",
+      "category": "Top"
+    },
+    {
+      "name": "Pink",
+      "code": "peachu_comfytop_pink",
+      "category": "Top"
+    },
+    {
+      "name": "White",
+      "code": "peachu_comfytop_white",
+      "category": "Top"
+    },
+
+
+    {
+      "name": "Black",
+      "code": "peachu_comfyshorts_black",
+      "category": "Shorts"
+    },
+    {
+      "name": "Purple",
+      "code": "peachu_comfyshorts_purple",
+      "category": "Shorts"
+    },
+    {
+      "name": "Red",
+      "code": "peachu_comfyshorts_red",
+      "category": "Shorts"
+    },
+    {
+      "name": "Blue",
+      "code": "peachu_comfyshorts_blue",
+      "category": "Shorts"
+    },
+    {
+      "name": "Pink",
+      "code": "peachu_comfyshorts_pink",
+      "category": "Shorts"
+    },
+    {
+      "name": "White",
+      "code": "peachu_comfyshorts_white",
+      "category": "Shorts"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "mod": "Celebrity Dress (Modular)",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8299",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+  "authors": [
+    "MONSTERaider"
+  ],
+  "tags": [
+    "Clothing",
+    "Body",
+    "Torso",
+    "Legs",
+    "Accessories",
+    "Emissive",
+    "FemV",
+    "Body-Vanilla",
+    "Body-Spawn0",
+    "Body-Solo",
+    "Body-Hyst",
+    "Body-Lush"
+  ],
+  "comments": "The leg rings are great to use independently of the dress.",
+  "items": [
+    {
+      "name": "Gold",
+      "code": "raid_cyberceleb_bra_gold",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Silver",
+      "code": "raid_cyberceleb_bra_silver",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Pink Metal",
+      "code": "raid_cyberceleb_bra_pinkmetal",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Blue Metal",
+      "code": "raid_cyberceleb_bra_bluemetal",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Gold Emissive White",
+      "code": "raid_cyberceleb_bra_gold_emissive_white",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Gold Emissive Yellow",
+      "code": "raid_cyberceleb_bra_gold_emissive_yellow",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Pink Metal Emissive Red",
+      "code": "raid_cyberceleb_bra_pinkmetal_emissive_red",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Blue Metal Emissive Blue",
+      "code": "raid_cyberceleb_bra_bluemetal_emissive_blue",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Silver Emissive Green",
+      "code": "raid_cyberceleb_bra_silver_emissive_green",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Silver Emissive Gold",
+      "code": "raid_cyberceleb_bra_silver_emissive_gold",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Silver Emissive Teal",
+      "code": "raid_cyberceleb_bra_silver_emissive_teal",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Silver Glow Pink",
+      "code": "raid_cyberceleb_bra_silver_glow_pink",
+      "category": "Celebrity Bras"
+    },
+    {
+      "name": "Black",
+      "code": "raid_cyberceleb_skirt_black",
+      "category": "Skirts"
+    },
+    {
+      "name": "White",
+      "code": "raid_cyberceleb_skirt_white",
+      "category": "Skirts"
+    },
+    {
+      "name": "Crimson",
+      "code": "raid_cyberceleb_skirt_crimson",
+      "category": "Skirts"
+    },
+    {
+      "name": "Pink",
+      "code": "raid_cyberceleb_skirt_pink",
+      "category": "Skirts"
+    },
+    {
+      "name": "Gold",
+      "code": "raid_cyberceleb_skirt_gold",
+      "category": "Skirts"
+    },
+    {
+      "name": "Black Skimpy",
+      "code": "raid_cyberceleb_skirt_skimpy_black",
+      "category": "Skirts"
+    },
+    {
+      "name": "White Skimpy",
+      "code": "raid_cyberceleb_skirt_skimpy_white",
+      "category": "Skirts"
+    },
+    {
+      "name": "Crimson Skimpy",
+      "code": "raid_cyberceleb_skirt_skimpy_crimson",
+      "category": "Skirts"
+    },
+    {
+      "name": "Pink Skimpy",
+      "code": "raid_cyberceleb_skirt_skimpy_pink",
+      "category": "Skirts"
+    },
+    {
+      "name": "Gold Skimpy",
+      "code": "raid_cyberceleb_skirt_skimpy_gold",
+      "category": "Skirts"
+    },
+    {
+      "name": "Gold",
+      "code": "raid_cyberceleb_rings_left_gold",
+      "category": "Celebrity Rings - Left"
+    },
+    {
+      "name": "Silver",
+      "code": "raid_cyberceleb_rings_left_silver",
+      "category": "Celebrity Rings - Left"
+    },
+    {
+      "name": "Pink Metal",
+      "code": "raid_cyberceleb_rings_left_pinkmetal",
+      "category": "Celebrity Rings - Left"
+    },
+    {
+      "name": "Blue Metal",
+      "code": "raid_cyberceleb_rings_left_bluemetal",
+      "category": "Celebrity Rings - Left"
+    },
+    {
+      "name": "Gold",
+      "code": "raid_cyberceleb_rings_right_gold",
+      "category": "Celebrity Rings - Right"
+    },
+    {
+      "name": "Silver",
+      "code": "raid_cyberceleb_rings_right_silver",
+        "category": "Celebrity Rings - Right"
+    },
+    {
+      "name": "Pink Metal",
+      "code": "raid_cyberceleb_rings_right_pinkmetal",
+      "category": "Celebrity Rings - Right"
+    },
+    {
+      "name": "Blue Metal",
+      "code": "raid_cyberceleb_rings_right_bluemetal",
+      "category": "Celebrity Rings - Right"
+    },
+
+    {
+      "name": "Gold Black",
+      "code": "raid_celeb_full_gold_black",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Gold White",
+      "code": "raid_celeb_full_gold_white",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Gold Full",
+      "code": "raid_celeb_full_gold_full",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Silver Black",
+      "code": "raid_celeb_full_silver_black",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Silver White",
+      "code": "raid_celeb_full_silver_white",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Mox",
+      "code": "raid_celeb_full_mox",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Blue Metal White",
+      "code": "raid_celeb_full_bluemetal_white",
+      "category": "Full Dresses"
+    },
+    {
+      "name": "Pink Metal Crimson",
+      "code": "raid_celeb_full_pinkmetal_crimson",
+      "category": "Full Dresses"
+    }
+  ]
+}

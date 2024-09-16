@@ -1,0 +1,86 @@
+{
+  "mod": "Short Tank Top",
+  "authors": ["LxRHyst"],
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6601",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6015",
+  "tags": [
+    "FemV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Clothing",
+    "Torso",
+    "Skimpy"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "hyst_short_tank_black",
+      "category": "Regular"
+    },
+    {
+      "name": "Red",
+      "code": "hyst_short_tank_red",
+      "category": "Regular"
+    },
+    {
+      "name": "Blue",
+      "code": "hyst_short_tank_blue",
+      "category": "Regular"
+    },
+    {
+      "name": "Pink Pastel",
+      "code": "hyst_short_tank_pinkpastel",
+      "category": "Regular"
+    },
+    {
+      "name": "White",
+      "code": "hyst_short_tank_white",
+      "category": "Regular"
+    },
+    {
+      "name": "Green",
+      "code": "hyst_short_tank_green",
+      "category": "Regular"
+    },
+    {
+      "name": "Pink",
+      "code": "hyst_short_tank_pink",
+      "category": "Regular"
+    },
+    {
+      "name": "Black",
+      "code": "hyst_short_tank_ub_black",
+      "category": "Underboob"
+    },
+    {
+      "name": "Red",
+      "code": "hyst_short_tank_ub_red",
+      "category": "Underboob"
+    },
+    {
+      "name": "Blue",
+      "code": "hyst_short_tank_ub_blue",
+      "category": "Underboob"
+    },
+    {
+      "name": "Pink Pastel",
+      "code": "hyst_short_tank_ub_pinkpastel",
+      "category": "Underboob"
+    },
+    {
+      "name": "White",
+      "code": "hyst_short_tank_ub_white",
+      "category": "Underboob"
+    },
+    {
+      "name": "Green",
+      "code": "hyst_short_tank_ub_green",
+      "category": "Underboob"
+    },
+    {
+      "name": "Pink",
+      "code": "hyst_short_tank_ub_pink",
+      "category": "Underboob"
+    }
+  ]
+}

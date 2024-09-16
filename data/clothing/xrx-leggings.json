@@ -1,0 +1,58 @@
+{
+  "mod": "XRX Leggings",
+  "authors": [
+    "Apzurv"
+  ],
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/15635",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+  "tags": [
+    "Legs",
+    "FemV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Body-Hyst-RB",
+    "Body-Hyst-Angel"
+  ],
+  "items": [
+    {
+      "name": "Spandex Black",
+      "code": "xrxlegrv_a"
+    },
+    {
+      "name": "Spandex White",
+      "code": "xrxlegrv_b"
+    },
+    {
+      "name": "Spandex Blue",
+      "code": "xrxlegrv_c"
+    },
+    {
+      "name": "Rubber Black",
+      "code": "xrxlegrv_d"
+    },
+    {
+      "name": "Burgundy",
+      "code": "xrxlegrv_e"
+    },
+    {
+      "name": "Green",
+      "code": "xrxlegrv_f"
+    },
+    {
+      "name": "Black",
+      "code": "xrxlegrv_g"
+    },
+    {
+      "name": "Grey",
+      "code": "xrxlegrv_h"
+    },
+    {
+      "name": "Camo Black",
+      "code": "xrxlegrv_i"
+    },
+    {
+      "name": "Camo Green",
+      "code": "xrxlegrv_j"
+    }
+  ]
+}

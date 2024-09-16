@@ -1,0 +1,335 @@
+{
+  "mod": "Lethal Outfit",
+  "authors": [
+    "NolaDreamer",
+    "Aquelyras",
+    "Veegee"
+  ],
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/15867",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11964",
+  "tags": [
+    "Torso",
+    "Mask",
+    "Legs",
+    "Waist",
+    "Arms",
+    "Accessories",
+    "Outfit",
+    "FemV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Body-Lush"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "nola_veegee_aquelyras_lethal_bag_black",
+      "category": "Bag"
+    },
+    {
+      "name": "Blue",
+      "code": "nola_veegee_aquelyras_lethal_bag_blue",
+      "category": "Bag"
+    },
+    {
+      "name": "Brown",
+      "code": "nola_veegee_aquelyras_lethal_bag_brown",
+      "category": "Bag"
+    },
+    {
+      "name": "Green",
+      "code": "nola_veegee_aquelyras_lethal_bag_green",
+      "category": "Bag"
+    },
+    {
+      "name": "Red",
+      "code": "nola_veegee_aquelyras_lethal_bag_red",
+      "category": "Bag"
+    },
+    {
+      "name": "White",
+      "code": "nola_veegee_aquelyras_lethal_bag_white",
+      "category": "Bag"
+    },
+    {
+      "name": "Camo Blue",
+      "code": "nola_veegee_aquelyras_lethal_bag_camo_blue",
+      "category": "Bag"
+    },
+    {
+      "name": "Camo Brown",
+      "code": "nola_veegee_aquelyras_lethal_bag_camo_brown",
+      "category": "Bag"
+    },
+    {
+      "name": "Camo Red",
+      "code": "nola_veegee_aquelyras_lethal_bag_camo_red",
+      "category": "Bag"
+    },
+    {
+      "name": "Camo White",
+      "code": "nola_veegee_aquelyras_lethal_bag_camo_white",
+      "category": "Bag"
+    },
+
+
+    {
+      "name": "Black",
+      "code": "nola_veegee_aquelyras_lethal_belt_black",
+      "category": "Belt"
+    },
+    {
+      "name": "Blue",
+      "code": "nola_veegee_aquelyras_lethal_belt_blue",
+      "category": "Belt"
+    },
+    {
+      "name": "Brown",
+      "code": "nola_veegee_aquelyras_lethal_belt_brown",
+      "category": "Belt"
+    },
+    {
+      "name": "Green",
+      "code": "nola_veegee_aquelyras_lethal_belt_green",
+      "category": "Belt"
+    },
+    {
+      "name": "Red",
+      "code": "nola_veegee_aquelyras_lethal_belt_red",
+      "category": "Belt"
+    },
+    {
+      "name": "White",
+      "code": "nola_veegee_aquelyras_lethal_belt_white",
+      "category": "Belt"
+    },
+    {
+      "name": "Camo Blue",
+      "code": "nola_veegee_aquelyras_lethal_belt_camo_blue",
+      "category": "Belt"
+    },
+    {
+      "name": "Camo Brown",
+      "code": "nola_veegee_aquelyras_lethal_belt_camo_brown",
+      "category": "Belt"
+    },
+    {
+      "name": "Camo Red",
+      "code": "nola_veegee_aquelyras_lethal_belt_camo_red",
+      "category": "Belt"
+    },
+    {
+      "name": "Camo White",
+      "code": "nola_veegee_aquelyras_lethal_belt_camo_white",
+      "category": "Belt"
+    },
+
+
+    {
+      "name": "Black",
+      "code": "nola_veegee_aquelyras_lethal_mask_black",
+      "category": "Mask"
+    },
+    {
+      "name": "Blue",
+      "code": "nola_veegee_aquelyras_lethal_mask_blue",
+      "category": "Mask"
+    },
+    {
+      "name": "Brown",
+      "code": "nola_veegee_aquelyras_lethal_mask_brown",
+      "category": "Mask"
+    },
+    {
+      "name": "Green",
+      "code": "nola_veegee_aquelyras_lethal_mask_green",
+      "category": "Mask"
+    },
+    {
+      "name": "Red",
+      "code": "nola_veegee_aquelyras_lethal_mask_red",
+      "category": "Mask"
+    },
+    {
+      "name": "White",
+      "code": "nola_veegee_aquelyras_lethal_mask_white",
+      "category": "Mask"
+    },
+    {
+      "name": "Camo Blue",
+      "code": "nola_veegee_aquelyras_lethal_mask_camo_blue",
+      "category": "Mask"
+    },
+    {
+      "name": "Camo Brown",
+      "code": "nola_veegee_aquelyras_lethal_mask_camo_brown",
+      "category": "Mask"
+    },
+    {
+      "name": "Camo Red",
+      "code": "nola_veegee_aquelyras_lethal_mask_camo_red",
+      "category": "Mask"
+    },
+    {
+      "name": "Camo White",
+      "code": "nola_veegee_aquelyras_lethal_mask_camo_white",
+      "category": "Mask"
+    },
+
+
+    {
+      "name": "Black",
+      "code": "nola_veegee_aquelyras_lethal_pants_black",
+      "category": "Pants"
+    },
+    {
+      "name": "Blue",
+      "code": "nola_veegee_aquelyras_lethal_pants_blue",
+      "category": "Pants"
+    },
+    {
+      "name": "Brown",
+      "code": "nola_veegee_aquelyras_lethal_pants_brown",
+      "category": "Pants"
+    },
+    {
+      "name": "Green",
+      "code": "nola_veegee_aquelyras_lethal_pants_green",
+      "category": "Pants"
+    },
+    {
+      "name": "Red",
+      "code": "nola_veegee_aquelyras_lethal_pants_red",
+      "category": "Pants"
+    },
+    {
+      "name": "White",
+      "code": "nola_veegee_aquelyras_lethal_pants_white",
+      "category": "Pants"
+    },
+    {
+      "name": "Camo Blue",
+      "code": "nola_veegee_aquelyras_lethal_pants_camo_blue",
+      "category": "Pants"
+    },
+    {
+      "name": "Camo Brown",
+      "code": "nola_veegee_aquelyras_lethal_pants_camo_brown",
+      "category": "Pants"
+    },
+    {
+      "name": "Camo Red",
+      "code": "nola_veegee_aquelyras_lethal_pants_camo_red",
+      "category": "Pants"
+    },
+    {
+      "name": "Camo White",
+      "code": "nola_veegee_aquelyras_lethal_pants_camo_white",
+      "category": "Pants"
+    },
+
+
+    {
+      "name": "Black",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_black",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Blue",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_blue",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Brown",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_brown",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Green",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_green",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Red",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_red",
+      "category": "Sleeve"
+    },
+    {
+      "name": "White",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_white",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Camo Blue",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_camo_blue",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Camo Brown",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_camo_brown",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Camo Red",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_camo_red",
+      "category": "Sleeve"
+    },
+    {
+      "name": "Camo White",
+      "code": "nola_veegee_aquelyras_lethal_sleeve_camo_white",
+      "category": "Sleeve"
+    },
+
+
+    {
+      "name": "Black",
+      "code": "nola_veegee_aquelyras_lethal_top_black",
+      "category": "Top"
+    },
+    {
+      "name": "Blue",
+      "code": "nola_veegee_aquelyras_lethal_top_blue",
+      "category": "Top"
+    },
+    {
+      "name": "Brown",
+      "code": "nola_veegee_aquelyras_lethal_top_brown",
+      "category": "Top"
+    },
+    {
+      "name": "Green",
+      "code": "nola_veegee_aquelyras_lethal_top_green",
+      "category": "Top"
+    },
+    {
+      "name": "Red",
+      "code": "nola_veegee_aquelyras_lethal_top_red",
+      "category": "Top"
+    },
+    {
+      "name": "White",
+      "code": "nola_veegee_aquelyras_lethal_top_white",
+      "category": "Top"
+    },
+    {
+      "name": "Camo Blue",
+      "code": "nola_veegee_aquelyras_lethal_top_camo_blue",
+      "category": "Top"
+    },
+    {
+      "name": "Camo Brown",
+      "code": "nola_veegee_aquelyras_lethal_top_camo_brown",
+      "category": "Top"
+    },
+    {
+      "name": "Camo Red",
+      "code": "nola_veegee_aquelyras_lethal_top_camo_red",
+      "category": "Top"
+    },
+    {
+      "name": "Camo White",
+      "code": "nola_veegee_aquelyras_lethal_top_camo_white",
+      "category": "Top"
+    }
+  ]
+}

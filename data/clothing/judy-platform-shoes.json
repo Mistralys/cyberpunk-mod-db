@@ -1,0 +1,117 @@
+{
+  "mod": "Clothes for FemV (Pack 2) - Judy's Platform Shoes",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6885",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+  "authors": ["NolaDreamer"],
+  "tags": [
+    "Clothing",
+    "Feet",
+    "FemV",
+    "Body-Vanilla",
+    "Body-Hyst",
+    "Body-Lush",
+    "Body-Small"
+  ],
+  "items": [
+    {
+      "name": "Default",
+      "code": "nd_judy_platform_shoe_default",
+      "category": "Standard"
+    },
+    {
+      "name": "Velvet Red",
+      "code": "nd_judy_platform_shoe_velvet_red",
+      "category": "Velvet"
+    },
+    {
+      "name": "Velvet Pink",
+      "code": "nd_judy_platform_shoe_velvet_pink",
+      "category": "Velvet"
+    },
+    {
+      "name": "Velvet Green",
+      "code": "nd_judy_platform_shoe_velvet_green",
+      "category": "Velvet"
+    },
+    {
+      "name": "Velvet Blue",
+      "code": "nd_judy_platform_shoe_velvet_blue",
+      "category": "Velvet"
+    },
+    {
+      "name": "Velvet Black",
+      "code": "nd_judy_platform_shoe_velvet_black",
+      "category": "Velvet"
+    },
+    {
+      "name": "Leather White",
+      "code": "nd_judy_platform_shoe_leather_white",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Red",
+      "code": "nd_judy_platform_shoe_leather_red",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Pink",
+      "code": "nd_judy_platform_shoe_leather_pink",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Green",
+      "code": "nd_judy_platform_shoe_leather_green",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Brown",
+      "code": "nd_judy_platform_shoe_leather_brown",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Burgundy",
+      "code": "nd_judy_platform_shoe_leather_burgundy",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Blue",
+      "code": "nd_judy_platform_shoe_leather_blue",
+      "category": "Leather"
+    },
+    {
+      "name": "Leather Black",
+      "code": "nd_judy_platform_shoe_leather_black",
+      "category": "Leather"
+    },
+    {
+      "name": "Velvet Burgundy",
+      "code": "nd_judy_platform_shoe_velvet_burgundy",
+      "category": "Velvet"
+    },
+    {
+      "name": "Velvet Brown",
+      "code": "nd_judy_platform_shoe_velvet_brown",
+      "category": "Velvet"
+    },
+    {
+      "name": "Black Red",
+      "code": "nd_judy_platform_shoe_black_red",
+      "category": "Standard"
+    },
+    {
+      "name": "Black White",
+      "code": "nd_judy_platform_shoe_black_white",
+      "category": "Standard"
+    },
+    {
+      "name": "Red White",
+      "code": "nd_judy_platform_shoe_red_white",
+      "category": "Standard"
+    },
+    {
+      "name": "Red Black",
+      "code": "nd_judy_platform_shoe_red_black",
+      "category": "Standard"
+    }
+  ]
+}

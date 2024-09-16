@@ -1,0 +1,315 @@
+{
+  "mod": "Glasses Pack",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/13095",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8688",
+  "authors": ["Veegee"],
+  "tags": [
+    "Jewelry",
+    "Glasses",
+    "Head",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Gold Black",
+      "code": "veegee_glasses_wing_gold_black",
+      "category": "Wing"
+    },
+    {
+      "name": "Silver Black",
+      "code": "veegee_glasses_wing_silver_black",
+      "category": "Wing"
+    },
+    {
+      "name": "Gold Blue",
+      "code": "veegee_glasses_wing_gold_blue",
+      "category": "Wing"
+    },
+    {
+      "name": "Silver Blue",
+      "code": "veegee_glasses_wing_silver_blue",
+      "category": "Wing"
+    },
+    {
+      "name": "Gold Green",
+      "code": "veegee_glasses_wing_gold_green",
+      "category": "Wing"
+    },
+    {
+      "name": "Silver Green",
+      "code": "veegee_glasses_wing_silver_green",
+      "category": "Wing"
+    },
+    {
+      "name": "Gold Pink",
+      "code": "veegee_glasses_wing_gold_pink",
+      "category": "Wing"
+    },
+    {
+      "name": "Silver Pink",
+      "code": "veegee_glasses_wing_silver_pink",
+      "category": "Wing"
+    },
+    {
+      "name": "Gold White",
+      "code": "veegee_glasses_wing_gold_white",
+      "category": "Wing"
+    },
+    {
+      "name": "Silver White",
+      "code": "veegee_glasses_wing_silver_white",
+      "category": "Wing"
+    },
+    {
+      "name": "Gold Yellow",
+      "code": "veegee_glasses_wing_gold_yellow",
+      "category": "Wing"
+    },
+    {
+      "name": "Silver Yellow",
+      "code": "veegee_glasses_wing_silver_yellow",
+      "category": "Wing"
+    },
+    {
+      "name": "Gold Black",
+      "code": "veegee_glasses_leaves_gold_black",
+      "category": "Leaves"
+    },
+    {
+      "name": "Silver Black",
+      "code": "veegee_glasses_leaves_silver_black",
+      "category": "Leaves"
+    },
+    {
+      "name": "Gold Blue",
+      "code": "veegee_glasses_leaves_gold_blue",
+      "category": "Leaves"
+    },
+
+    {
+      "name": "Silver Blue",
+      "code": "veegee_glasses_leaves_silver_blue",
+      "category": "Leaves"
+    },
+    {
+      "name": "Gold Green",
+      "code": "veegee_glasses_leaves_gold_green",
+      "category": "Leaves"
+    },
+    {
+      "name": "Silver Green",
+      "code": "veegee_glasses_leaves_silver_green",
+      "category": "Leaves"
+    },
+    {
+      "name": "Gold Pink",
+      "code": "veegee_glasses_leaves_gold_pink",
+      "category": "Leaves"
+    },
+    {
+      "name": "Silver Pink",
+      "code": "veegee_glasses_leaves_silver_pink",
+      "category": "Leaves"
+    },
+    {
+      "name": "Gold White",
+      "code": "veegee_glasses_leaves_gold_white",
+      "category": "Leaves"
+    },
+    {
+      "name": "Silver White",
+      "code": "veegee_glasses_leaves_silver_white",
+      "category": "Leaves"
+    },
+    {
+      "name": "Gold Yellow",
+      "code": "veegee_glasses_leaves_gold_yellow",
+      "category": "Leaves"
+    },
+    {
+      "name": "Silver Yellow",
+      "code": "veegee_glasses_leaves_silver_yellow",
+      "category": "Leaves"
+    },
+    {
+      "name": "Gold Black",
+      "code": "veegee_glasses_fire_gold_black",
+      "category": "Fire"
+    },
+    {
+      "name": "Silver Black",
+      "code": "veegee_glasses_fire_silver_black",
+      "category": "Fire"
+    },
+    {
+      "name": "Gold Blue",
+      "code": "veegee_glasses_fire_gold_blue",
+      "category": "Fire"
+    },
+    {
+      "name": "Silver Blue",
+      "code": "veegee_glasses_fire_silver_blue",
+      "category": "Fire"
+    },
+    {
+      "name": "Gold Green",
+      "code": "veegee_glasses_fire_gold_green",
+      "category": "Fire"
+    },
+    {
+      "name": "Silver Green",
+        "code": "veegee_glasses_fire_silver_green",
+        "category": "Fire"
+    },
+    {
+      "name": "Gold Pink",
+      "code": "veegee_glasses_fire_gold_pink",
+      "category": "Fire"
+    },
+    {
+      "name": "Silver Pink",
+      "code": "veegee_glasses_fire_silver_pink",
+      "category": "Fire"
+    },
+    {
+      "name": "Gold White",
+      "code": "veegee_glasses_fire_gold_white",
+      "category": "Fire"
+    },
+    {
+      "name": "Silver White",
+      "code": "veegee_glasses_fire_silver_white",
+      "category": "Fire"
+    },
+    {
+      "name": "Gold Yellow",
+      "code": "veegee_glasses_fire_gold_yellow",
+      "category": "Fire"
+    },
+    {
+      "name": "Silver Yellow",
+      "code": "veegee_glasses_fire_silver_yellow",
+      "category": "Fire"
+    },
+    {
+      "name": "Gold Black",
+      "code": "veegee_glasses_cloud_gold_black",
+      "category": "Cloud"
+    },
+    {
+      "name": "Silver Black",
+      "code": "veegee_glasses_cloud_silver_black",
+      "category": "Cloud"
+    },
+    {
+      "name": "Gold Blue",
+      "code": "veegee_glasses_cloud_gold_blue",
+      "category": "Cloud"
+    },
+    {
+      "name": "Silver Blue",
+      "code": "veegee_glasses_cloud_silver_blue",
+      "category": "Cloud"
+    },
+    {
+      "name": "Gold Green",
+      "code": "veegee_glasses_cloud_gold_green",
+      "category": "Cloud"
+    },
+    {
+      "name": "Silver Green",
+      "code": "veegee_glasses_cloud_silver_green",
+      "category": "Cloud"
+    },
+    {
+      "name": "Gold Pink",
+      "code": "veegee_glasses_cloud_gold_pink",
+      "category": "Cloud"
+    },
+    {
+      "name": "Silver Pink",
+      "code": "veegee_glasses_cloud_silver_pink",
+      "category": "Cloud"
+    },
+    {
+      "name": "Gold White",
+      "code": "veegee_glasses_cloud_gold_white",
+      "category": "Cloud"
+    },
+    {
+      "name": "Silver White",
+      "code": "veegee_glasses_cloud_silver_white",
+      "category": "Cloud"
+    },
+    {
+      "name": "Gold Yellow",
+      "code": "veegee_glasses_cloud_gold_yellow",
+      "category": "Cloud"
+    },
+    {
+      "name": "Silver Yellow",
+      "code": "veegee_glasses_cloud_silver_yellow",
+      "category": "Cloud"
+    },
+    {
+      "name": "Gold Black",
+      "code": "veegee_glasses_butterfly_gold_black",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Silver Black",
+      "code": "veegee_glasses_butterfly_silver_black",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Gold Blue",
+      "code": "veegee_glasses_butterfly_gold_blue",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Silver Blue",
+      "code": "veegee_glasses_butterfly_silver_blue",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Gold Green",
+      "code": "veegee_glasses_butterfly_gold_green",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Silver Green",
+      "code": "veegee_glasses_butterfly_silver_green",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Gold Pink",
+      "code": "veegee_glasses_butterfly_gold_pink",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Silver Pink",
+      "code": "veegee_glasses_butterfly_silver_pink",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Gold White",
+      "code": "veegee_glasses_butterfly_gold_white",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Silver White",
+      "code": "veegee_glasses_butterfly_silver_white",
+      "category": "Butterfly"
+    },
+    {
+      "name": "Gold Yellow",
+      "code": "veegee_glasses_butterfly_gold_yellow",
+        "category": "Butterfly"
+    },
+    {
+      "name": "Silver Yellow",
+      "code": "veegee_glasses_butterfly_silver_yellow",
+      "category": "Butterfly"
+    }
+  ]
+}
