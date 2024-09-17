@@ -1,0 +1,119 @@
+{
+  "mod": "Angel Heart Navel Piercing",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/14411",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
+  "authors": [
+    "cyb3rsn4k34li3n"
+  ],
+  "tags": [
+    "Accessories",
+    "Jewellery",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Silver",
+      "code": "cyb3rsn4k3_angelheart_navel_silver"
+    },
+    {
+      "name": "Gold",
+      "code": "cyb3rsn4k3_angelheart_navel_gold"
+    },
+    {
+      "name": "Rose Gold",
+      "code": "cyb3rsn4k3_angelheart_navel_rosegold"
+    },
+    {
+      "name": "Pink",
+      "code": "cyb3rsn4k3_angelheart_navel_pink"
+    },
+    {
+      "name": "Purple",
+      "code": "cyb3rsn4k3_angelheart_navel_purple"
+    },
+    {
+      "name": "Baby Blue",
+      "code": "cyb3rsn4k3_angelheart_navel_babyblue"
+    },
+    {
+      "name": "Blue",
+      "code": "cyb3rsn4k3_angelheart_navel_blue"
+    },
+    {
+      "name": "Green",
+      "code": "cyb3rsn4k3_angelheart_navel_green"
+    },
+    {
+      "name": "Yellow",
+      "code": "cyb3rsn4k3_angelheart_navel_yellow"
+    },
+    {
+      "name": "Orange",
+      "code": "cyb3rsn4k3_angelheart_navel_orange"
+    },
+    {
+      "name": "Red",
+      "code": "cyb3rsn4k3_angelheart_navel_red"
+    },
+    {
+      "name": "Witch",
+      "code": "cyb3rsn4k3_angelheart_navel_witch"
+    },
+    {
+      "name": "Vamp",
+      "code": "cyb3rsn4k3_angelheart_navel_vamp"
+    },
+    {
+      "name": "Barghest",
+      "code": "cyb3rsn4k3_angelheart_navel_barghest"
+    },
+    {
+      "name": "Valentino",
+      "code": "cyb3rsn4k3_angelheart_navel_valentino"
+    },
+    {
+      "name": "Circ",
+      "code": "cyb3rsn4k3_angelheart_navel_circ"
+    },
+    {
+      "name": "Maelstrom",
+      "code": "cyb3rsn4k3_angelheart_navel_maelstrom"
+    },
+    {
+      "name": "Netrunner",
+      "code": "cyb3rsn4k3_angelheart_navel_netrunner"
+    },
+    {
+      "name": "Nomad",
+      "code": "cyb3rsn4k3_angelheart_navel_nomad"
+    },
+    {
+      "name": "Samurai",
+      "code": "cyb3rsn4k3_angelheart_navel_samurai"
+    },
+    {
+      "name": "Tyger",
+      "code": "cyb3rsn4k3_angelheart_navel_tyger"
+    },
+    {
+      "name": "Voodoo",
+      "code": "cyb3rsn4k3_angelheart_navel_voodoo"
+    },
+    {
+      "name": "Wraith",
+      "code": "cyb3rsn4k3_angelheart_navel_wraith"
+    },
+    {
+      "name": "Lina",
+      "code": "cyb3rsn4k3_angelheart_navel_lina"
+    },
+    {
+      "name": "McBling",
+      "code": "cyb3rsn4k3_angelheart_navel_mcbling"
+    },
+    {
+      "name": "Mox",
+      "code": "cyb3rsn4k3_angelheart_navel_mox"
+    }
+  ]
+}
