@@ -1,0 +1,30 @@
+{
+  "mod": "Johnny Silverhand's String Bracelet",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6912",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+  "authors": [
+    "kwek"
+  ],
+  "tags": [
+    "Accessories",
+    "Jewelry",
+    "Arms",
+    "FemV",
+    "MaleV",
+    "Physics"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "bracelet_01_basic_01_kwek"
+    },
+    {
+      "name": "Silver",
+      "code": "bracelet_01_basic_02_kwek"
+    },
+    {
+      "name": "Gold",
+      "code": "bracelet_01_basic_03_kwek"
+    }
+  ]
+}
