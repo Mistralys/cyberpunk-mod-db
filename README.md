@@ -87,6 +87,7 @@ The JSON format is quite simple:
 - `Accessories`
 - `Jewelry`
 - `Emissive` - _Items that emit light_
+- `Holo` - _Holographic items_
 
 ### Gender support
 
