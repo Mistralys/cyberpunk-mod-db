@@ -1,0 +1,45 @@
+{
+  "mod": "Elizabeth Peralez Earrings",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7048",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+  "authors": [
+    "kwek"
+  ],
+  "tags": [
+    "Accessories",
+    "Jewelry",
+    "Ears",
+    "FemV",
+    "Physics"
+  ],
+  "items": [
+    {
+      "name": "Gold",
+      "code": "earrings_05_basic_01_kwek"
+    },
+    {
+      "name": "Silver",
+      "code": "earrings_05_basic_02_kwek"
+    },
+    {
+      "name": "Glowy Pink",
+      "code": "earrings_05_basic_03_kwek"
+    },
+    {
+      "name": "Orange",
+      "code": "earrings_05_basic_04_kwek"
+    },
+    {
+      "name": "Holo",
+      "code": "earrings_05_old_01_kwek"
+    },
+    {
+      "name": "Purple",
+      "code": "earrings_05_old_02_kwek"
+    },
+    {
+      "name": "PinkPinkShit",
+      "code": "earrings_05_old_03_kwek"
+    }
+  ]
+}
