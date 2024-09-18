@@ -1,0 +1,59 @@
+{
+  "mod": "Simple Chain Bracelet",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7500",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+  "authors": [
+    "kwek"
+  ],
+  "tags": [
+    "Accessories",
+    "Jewelry",
+    "Arms",
+    "FemV",
+    "MaleV",
+    "Physics",
+    "Holo"
+  ],
+  "items": [
+    {
+      "name": "Default",
+      "code": "kwek_bracelet_02_default"
+    },
+    {
+      "name": "Silver",
+      "code": "kwek_bracelet_02_silver"
+    },
+    {
+      "name": "Glow Pink",
+      "code": "kwek_bracelet_02_glow_pink"
+    },
+    {
+      "name": "Orange",
+      "code": "kwek_bracelet_02_orange"
+    },
+    {
+      "name": "Holo",
+      "code": "kwek_bracelet_02_holo"
+    },
+    {
+      "name": "Purple",
+      "code": "kwek_bracelet_02_purple"
+    },
+    {
+      "name": "Pink",
+      "code": "kwek_bracelet_02_pink"
+    },
+    {
+      "name": "Red",
+      "code": "kwek_bracelet_02_red"
+    },
+    {
+      "name": "White",
+      "code": "kwek_bracelet_02_white"
+    },
+    {
+      "name": "Black",
+      "code": "kwek_bracelet_02_black"
+    }
+  ]
+}
