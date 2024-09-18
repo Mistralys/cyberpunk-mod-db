@@ -1,0 +1,29 @@
+{
+  "mod": "Alt's Necklaces",
+  "authors": [
+    "mistshield"
+  ],
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7122",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+  "comments": "The full version and the bullet only version use the OutfitSlots.NecklaceLong slot of Equipment Ex. The Samurai only version takes up the OutfitSlots.NecklaceShort slot of Equipment Ex. In the vanilla game, all 3 take up the face slot.",
+  "tags": [
+    "Neck",
+    "Jewelry",
+    "Clothing",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Full (Bullet + Samurai)",
+      "code": "alt_necklace_full"
+    },
+    {
+      "name": "Bullet Only",
+      "code": "alt_necklace_bullet"
+    },
+    {
+      "name": "Samurai Only",
+      "code": "alt_necklace_samurai"
+    }
+  ]
+}
