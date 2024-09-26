@@ -1,0 +1,20 @@
+{
+  "mod": "Mirror's Edge - Faith Outfit",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/4599",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+  "authors": [
+    "Apzurv"
+  ],
+  "comments": "IMPORTANT : Do not equip anything in the legs slot.",
+  "tags": [
+    "Outfit",
+    "Clothing",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Outfit",
+      "code": "faith_top"
+    }
+  ]
+}
