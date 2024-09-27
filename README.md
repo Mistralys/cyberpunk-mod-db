@@ -3,6 +3,10 @@
 Curated database of Cyberpunk 2077 clothing mods, stored in individual JSON files
 and with custom screenshots for each mod.
 
+## Live examples
+
+- [Aeon's Cyberpunk Mods][]
+
 ## Accessing the Database
 
 At its simplest level, you can include the project as a submodule in your own
@@ -103,9 +107,7 @@ The JSON format is quite simple:
 - `Body-Spawn0` - _[Spawn0 Body](https://www.nexusmods.com/cyberpunk2077/mods/1424)_
 - `Body-VTK` - _[VTK Body](https://www.nexusmods.com/cyberpunk2077/mods/7054)_
 
-## Live examples
 
-- [Aeon's Cyberpunk Mods][]
 
 
 [Cyberpunk 2077 Clothing Mods Database PHP]: https://github.com/Mistralys/cyberpunk-mod-db-php
