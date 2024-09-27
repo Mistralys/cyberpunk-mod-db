@@ -1,3 +1,22 @@
+## v1.1.1 - Added mods
+- Mods: Added "Mirror's Edge - Faith Outfit" by Apzurv.
+- Mods: Added "Aurore Modular Set" by MONSTERaider.
+- Mods: Added "Alt Jacket and Pants" by NolaDreamer.
+- Mods: Added "Arasaka Corpo Shirt" by Apzurv.
+- Mods: Added "Basic Tees" by halkuonn.
+- Mods: Added "Chromed Long Blouse" by PinkyDude.
+- Mods: Added "Cute Dress" by Apzurv.
+- Mods: Added "Hanako Dress" by Apzurv.
+- Mods: Added "Jacket Bolero Hex" by Apzurv. 
+- Mods: Added "Manta Ray Glasses" bybeaniebby.
+- Mods: Added "Slim Bolero Jacket" by MONSTERaider.
+- Mods: Added "Spy Long Coat" by PinkyDude.
+- Mods: Added "Tactical Belt" by Apzurv.
+- Mods: Added "Tight Shiny Pants" by PinkyDude.
+- Mods: Added "Ziva Cross Cut Dress" by Apzurv.
+- Mods: Added "Ziva Dress" by Apzurv.
+- Mods: Added "Ziva Navel Chains" by Apzurv.
+
 ## v1.1.0 - Added mods
 - Mods: Added "Alt's Necklaces" by mistshield.
 - Mods: Added "Elizabeth Peralez' Earrings" by Kwek.
