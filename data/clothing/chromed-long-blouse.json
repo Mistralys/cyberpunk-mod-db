@@ -1,0 +1,25 @@
+{
+  "mod": "Chromed Long Blouse",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7609",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+  "authors": [
+    "PinkyDude"
+  ],
+  "tags": [
+    "Torso",
+    "Legs",
+    "FullBody",
+    "Clothing",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Silver",
+      "code": "PinkyDude_ChromedLongBlouse_Silver"
+    },
+    {
+      "name": "Gold",
+      "code": "PinkyDude_ChromedLongBlouse_Gold"
+    }
+  ]
+}

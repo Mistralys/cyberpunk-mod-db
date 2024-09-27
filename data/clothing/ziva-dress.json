@@ -1,0 +1,60 @@
+{
+  "mod": "Ziva Dress",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8256",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+  "authors": [
+    "Apzurv"
+  ],
+  "tags": [
+    "Torso",
+    "FullBody",
+    "Legs",
+    "Clothing",
+    "Body-Hyst-EBB",
+    "Body-Hyst-EBBRB",
+    "Body-Hyst-RB",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Black with Gold Dots",
+      "code": "zivad_a"
+    },
+    {
+      "name": "Black and Red",
+      "code": "zivad_b"
+    },
+    {
+      "name": "White Patterned",
+      "code": "zivad_c"
+    },
+    {
+      "name": "Black and Gold Slashes",
+      "code": "zivad_d"
+    },
+    {
+      "name": "Red with Gold Dots",
+      "code": "zivad_e"
+    },
+    {
+      "name": "Blue with Gold Dots",
+      "code": "zivad_f"
+    },
+    {
+      "name": "Black Plain",
+      "code": "zivad_g"
+    },
+    {
+      "name": "Black latex with Gold Dots",
+      "code": "zivad_h"
+    },
+    {
+      "name": "Flashy Red and Black",
+      "code": "zivad_i"
+    },
+    {
+      "name": "Teal and Gold Dots",
+      "code": "zivad_j"
+    }
+  ]
+}

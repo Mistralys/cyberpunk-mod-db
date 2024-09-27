@@ -1,0 +1,46 @@
+{
+  "mod": "Tactical Belt",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/15548",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+  "authors": [
+    "Apzurv"
+  ],
+  "tags": [
+    "Waist",
+    "Belt",
+    "Accessories",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Black",
+      "code": "ucbelt_a",
+      "category": "Simple"
+    },
+    {
+      "name": "Green",
+      "code": "ucbelt_b",
+      "category": "Simple"
+    },
+    {
+      "name": "FDE Tan (Flat Dark Earth)",
+      "code": "ucbelt_c",
+      "category": "Simple"
+    },
+    {
+      "name": "Black",
+      "code": "ucbelt_d",
+      "category": "With Accessories"
+    },
+    {
+      "name": "Green",
+      "code": "ucbelt_e",
+      "category": "With Accessories"
+    },
+    {
+      "name": "FDE Tan (Flat Dark Earth)",
+      "code": "ucbelt_f",
+      "category": "With Accessories"
+    }
+  ]
+}

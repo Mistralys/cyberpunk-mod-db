@@ -1,0 +1,55 @@
+{
+  "mod": "Tight Shiny Pants",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/10546",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+  "authors": [
+    "PinkyDude"
+  ],
+  "tags": [
+    "Legs",
+    "Clothing",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Default",
+      "code": "PinkyDude_ShinyTightPantsF_Default"
+    },
+    {
+      "name": "Silver",
+      "code": "PinkyDude_ShinyTightPantsF_Silver"
+    },
+    {
+      "name": "Black",
+      "code": "PinkyDude_ShinyTightPantsF_Black"
+    },
+    {
+      "name": "White",
+      "code": "PinkyDude_ShinyTightPantsF_White"
+    },
+    {
+      "name": "Red",
+      "code": "PinkyDude_ShinyTightPantsF_Red"
+    },
+    {
+      "name": "Blue",
+      "code": "PinkyDude_ShinyTightPantsF_Blue"
+    },
+    {
+      "name": "Pink",
+      "code": "PinkyDude_ShinyTightPantsF_Pink"
+    },
+    {
+      "name": "Purple",
+      "code": "PinkyDude_ShinyTightPantsF_Purple"
+    },
+    {
+      "name": "Sequin",
+      "code": "PinkyDude_ShinyTightPantsF_Sequin"
+    },
+    {
+      "name": "Quilted",
+      "code": "PinkyDude_ShinyTightPantsF_Quilted"
+    }
+  ]
+}

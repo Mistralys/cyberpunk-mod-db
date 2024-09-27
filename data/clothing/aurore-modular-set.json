@@ -12,8 +12,11 @@
     "Accessories",
     "Clothing",
     "Emissive",
+    "Physics",
+    "Modular",
     "FemV"
   ],
+  "comments": "Very modular indeed, up to the optional back plugs and glowy lines on the jacket and pants.",
   "items": [
     {
       "name": "Black",

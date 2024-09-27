@@ -1,0 +1,30 @@
+{
+  "mod": "Slim Bolero Jacket",
+  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7278",
+  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+  "authors": [
+    "MONSTERaider"
+  ],
+  "tags": [
+    "Torso",
+    "FemV"
+  ],
+  "items": [
+    {
+      "name": "Standard",
+      "code": "raid_slimbolero_standard"
+    },
+    {
+      "name": "Red",
+      "code": "raid_slimbolero_red"
+    },
+    {
+      "name": "White",
+      "code": "raid_slimbolero_white"
+    },
+    {
+      "name": "Black",
+      "code": "raid_slimbolero_black"
+    }
+  ]
+}
