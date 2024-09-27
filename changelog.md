@@ -1,4 +1,4 @@
-## v1.1.1 - Added mods
+## v1.0.1 - Added mods
 - Mods: Added "Mirror's Edge - Faith Outfit" by Apzurv.
 - Mods: Added "Aurore Modular Set" by MONSTERaider.
 - Mods: Added "Alt Jacket and Pants" by NolaDreamer.
@@ -16,8 +16,6 @@
 - Mods: Added "Ziva Cross Cut Dress" by Apzurv.
 - Mods: Added "Ziva Dress" by Apzurv.
 - Mods: Added "Ziva Navel Chains" by Apzurv.
-
-## v1.1.0 - Added mods
 - Mods: Added "Alt's Necklaces" by mistshield.
 - Mods: Added "Elizabeth Peralez' Earrings" by Kwek.
 - Mods: Added "Liquid Heart Earrings" by cyb3rsn4k34li3n.
