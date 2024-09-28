@@ -1,221 +1,199 @@
 {
-  "mod": "Alt Jacket and Pants",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7701",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
-  "authors": [
-    "NolaDreamer"
-  ],
-  "tags": [
-    "Torso",
-    "Legs",
-    "Clothing",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBBRB",
-    "Body-Hyst-EBBP",
-    "Body-Hyst-EBBPRB",
-    "Body-Hyst-RB",
-    "Body-Solo"
-  ],
-  "items": [
-    {
-      "name": "Default",
-      "code": "nd_alt_jacket_default",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Black",
-      "code": "nd_alt_jacket_black",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_alt_jacket_blue",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Green",
-      "code": "nd_alt_jacket_green",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_alt_jacket_pink",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Red",
-      "code": "nd_alt_jacket_red",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "White",
-      "code": "nd_alt_jacket_white",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_alt_jacket_burgundy",
-      "category": "Jacket Set 1"
-    },
-    {
-      "name": "Brown",
-      "code": "nd_alt_jacket_brown",
-      "category": "Jacket Set 1"
-    },
-
-
-    {
-      "name": "Default",
-      "code": "nd_alt_jacket_brown",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Black",
-      "code": "nd_alt_jacket_black",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_alt_jacket_blue",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Green",
-      "code": "nd_alt_jacket_green",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_alt_jacket_pink",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Red",
-      "code": "nd_alt_jacket_red",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "White",
-      "code": "nd_alt_jacket_white",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_alt_jacket_burgundy",
-      "category": "Jacket Set 2"
-    },
-    {
-      "name": "Brown",
-      "code": "nd_alt_jacket_brown",
-      "category": "Jacket Set 2"
-    },
-
-
-
-    {
-      "name": "Black",
-      "code": "nd_alt_pants_black",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_alt_pants_blue",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_alt_pants_pink",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "White",
-      "code": "nd_alt_pants_white",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Full Blue",
-      "code": "nd_alt_pants_fullblue",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Full Black",
-      "code": "nd_alt_pants_fullblack",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_alt_pants_burgundy",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Light Blue",
-      "code": "nd_alt_pants_lightblue",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Default Blue",
-      "code": "nd_alt_pants_defaultblue",
-      "category": "Pants Set 1"
-    },
-    {
-      "name": "Default Black",
-      "code": "nd_alt_pants_defaultblack",
-      "category": "Pants Set 1"
-    },
-
-
-
-    {
-      "name": "Black",
-      "code": "nd_alt_pants2_black",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_alt_pants2_blue",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_alt_pants2_pink",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "White",
-      "code": "nd_alt_pants2_white",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Full Blue",
-      "code": "nd_alt_pants2_fullblue",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Full Black",
-      "code": "nd_alt_pants2_fullblack",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_alt_pants2_burgundy",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Light Blue",
-      "code": "nd_alt_pants2_lightblue",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Default Blue",
-      "code": "nd_alt_pants2_defaultblue",
-      "category": "Pants Set 2"
-    },
-    {
-      "name": "Default Black",
-      "code": "nd_alt_pants2_defaultblack",
-      "category": "Pants Set 2"
-    }
-  ]
+    "mod": "Alt Jacket and Pants",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7701",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "authors": [
+        "NolaDreamer"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Jacket Set 1",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_alt_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_alt_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nd_alt_jacket_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_alt_jacket_burgundy"
+                },
+                {
+                    "name": "Default",
+                    "code": "nd_alt_jacket_default"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_alt_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_alt_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_alt_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_alt_jacket_white"
+                }
+            ]
+        },
+        {
+            "label": "Jacket Set 2",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_alt_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_alt_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nd_alt_jacket_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_alt_jacket_burgundy"
+                },
+                {
+                    "name": "Default",
+                    "code": "nd_alt_jacket_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_alt_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_alt_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_alt_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_alt_jacket_white"
+                }
+            ]
+        },
+        {
+            "label": "Pants Set 1",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_alt_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_alt_pants_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_alt_pants_burgundy"
+                },
+                {
+                    "name": "Default Black",
+                    "code": "nd_alt_pants_defaultblack"
+                },
+                {
+                    "name": "Default Blue",
+                    "code": "nd_alt_pants_defaultblue"
+                },
+                {
+                    "name": "Full Black",
+                    "code": "nd_alt_pants_fullblack"
+                },
+                {
+                    "name": "Full Blue",
+                    "code": "nd_alt_pants_fullblue"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "nd_alt_pants_lightblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_alt_pants_pink"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_alt_pants_white"
+                }
+            ]
+        },
+        {
+            "label": "Pants Set 2",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_alt_pants2_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_alt_pants2_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_alt_pants2_burgundy"
+                },
+                {
+                    "name": "Default Black",
+                    "code": "nd_alt_pants2_defaultblack"
+                },
+                {
+                    "name": "Default Blue",
+                    "code": "nd_alt_pants2_defaultblue"
+                },
+                {
+                    "name": "Full Black",
+                    "code": "nd_alt_pants2_fullblack"
+                },
+                {
+                    "name": "Full Blue",
+                    "code": "nd_alt_pants2_fullblue"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "nd_alt_pants2_lightblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_alt_pants2_pink"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_alt_pants2_white"
+                }
+            ]
+        }
+    ]
 }

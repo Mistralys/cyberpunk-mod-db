@@ -1,27 +1,35 @@
 {
-  "mod": "Cat Antenna",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8794",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": ["Apzurv"],
-  "tags": [
-    "Clothing",
-    "Accessories",
-    "Head",
-    "FemV",
-    "AXL",
-    "EQEX",
-    "TXL",
-    "CDW",
-    "NC Fashion"
-  ],
-  "items": [
-    {
-      "name": "Variant A (White)",
-      "code": "sciears_a"
-    },
-    {
-      "name": "Variant B (Black)",
-      "code": "sciears_b"
-    }
-  ]
+    "mod": "Cat Antenna",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8794",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "AXL",
+        "Accessories",
+        "CDW",
+        "Clothing",
+        "EQEX",
+        "FemV",
+        "Head",
+        "NC Fashion",
+        "TXL"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Variant A (White)",
+                    "code": "sciears_a"
+                },
+                {
+                    "name": "Variant B (Black)",
+                    "code": "sciears_b"
+                }
+            ]
+        }
+    ]
 }

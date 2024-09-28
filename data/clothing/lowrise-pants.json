@@ -1,137 +1,127 @@
 {
-  "mod": "Lowrise Pants",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8456",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6949",
-  "authors": ["cubfan82"],
-  "tags": [
-    "Clothing",
-    "Legs",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Solo",
-    "Body-Lush",
-    "Body-Hyst"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "cubfan82_brapants_black",
-      "category": "Regular"
-    },
-    {
-      "name": "White w Stars",
-      "code": "cubfan82_lowrise_whitestars",
-      "category": "Regular"
-    },
-    {
-      "name": "White",
-      "code": "cubfan82_lowrise_white",
-      "category": "Regular"
-    },
-    {
-      "name": "Red",
-      "code": "cubfan82_lowrise_red",
-      "category": "Regular"
-    },
-    {
-      "name": "Purple",
-      "code": "cubfan82_lowrise_purple",
-      "category": "Regular"
-    },
-    {
-      "name": "Blue",
-      "code": "cubfan82_lowrise_blue",
-      "category": "Regular"
-    },
-    {
-      "name": "Green",
-      "code": "cubfan82_lowrise_green",
-      "category": "Regular"
-    },
-    {
-      "name": "Brown",
-      "code": "cubfan82_lowrise_brown",
-      "category": "Regular"
-    },
-    {
-      "name": "Grey",
-      "code": "cubfan82_lowrise_grey",
-      "category": "Regular"
-    },
-    {
-      "name": "Magenta",
-      "code": "cubfan82_lowrise_magenta",
-      "category": "Regular"
-    },
-    {
-      "name": "Plaid",
-      "code": "cubfan82_lowrise_plaid",
-      "category": "Regular"
-    },
-    {
-      "name": "Painted",
-      "code": "cubfan82_lowrise_paint",
-      "category": "Regular"
-    },
-    {
-      "name": "Magenta",
-      "code": "cubfan82_lowrise_magentasilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Blue Grey",
-      "code": "cubfan82_lowrise_bluegrey",
-      "category": "Regular"
-    },
-    {
-      "name": "Pink w Stars",
-      "code": "cubfan82_lowrise_pinkstars",
-      "category": "Regular"
-    },
-    {
-      "name": "Black",
-      "code": "cubfan82_lowrise_blacksilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Red",
-      "code": "cubfan82_lowrise_redsilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Purple",
-      "code": "cubfan82_lowrise_purplesilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Blue",
-      "code": "cubfan82_lowrise_bluesilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Green",
-      "code": "cubfan82_lowrise_greensilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Brown",
-      "code": "cubfan82_lowrise_brownsilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Grey",
-      "code": "cubfan82_lowrise_greysilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Gold",
-      "code": "cubfan82_lowrise_goldsilk",
-      "category": "Silk"
-    },
-    {
-      "name": "Silver",
-      "code": "cubfan82_lowrise_silversilk",
-      "category": "Silk"
-    }
-  ]
+    "mod": "Lowrise Pants",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8456",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6949",
+    "authors": [
+        "cubfan82"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs"
+    ],
+    "itemCategories": [
+        {
+            "label": "Regular",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_brapants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_lowrise_blue"
+                },
+                {
+                    "name": "Blue Grey",
+                    "code": "cubfan82_lowrise_bluegrey"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_lowrise_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_lowrise_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_lowrise_grey"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "cubfan82_lowrise_magenta"
+                },
+                {
+                    "name": "Painted",
+                    "code": "cubfan82_lowrise_paint"
+                },
+                {
+                    "name": "Pink w Stars",
+                    "code": "cubfan82_lowrise_pinkstars"
+                },
+                {
+                    "name": "Plaid",
+                    "code": "cubfan82_lowrise_plaid"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_lowrise_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_lowrise_red"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_lowrise_white"
+                },
+                {
+                    "name": "White w Stars",
+                    "code": "cubfan82_lowrise_whitestars"
+                }
+            ]
+        },
+        {
+            "label": "Silk",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_lowrise_blacksilk"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_lowrise_bluesilk"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_lowrise_brownsilk"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cubfan82_lowrise_goldsilk"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_lowrise_greensilk"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_lowrise_greysilk"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "cubfan82_lowrise_magentasilk"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_lowrise_purplesilk"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_lowrise_redsilk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cubfan82_lowrise_silversilk"
+                }
+            ]
+        }
+    ]
 }

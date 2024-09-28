@@ -1,160 +1,150 @@
 {
-  "mod": "Street Outfit",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/9041",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8704",
-  "authors": [
-    "Nola Dreamer",
-    "Aquelyras"
-  ],
-  "tags": [
-    "FemV",
-    "Clothing",
-    "Legs",
-    "Torso",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Body-Lush"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "nd_aquelyras_street_jeans_black",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_aquelyras_street_jeans_blue",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_aquelyras_street_jeans_burgundy",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Green",
-      "code": "nd_aquelyras_street_jeans_green",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_aquelyras_street_jeans_pink",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Red",
-      "code": "nd_aquelyras_street_jeans_red",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Teal",
-      "code": "nd_aquelyras_street_jeans_teal",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Violet",
-      "code": "nd_aquelyras_street_jeans_violet",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "White",
-      "code": "nd_aquelyras_street_jeans_white",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Yellow",
-      "code": "nd_aquelyras_street_jeans_yellow",
-      "category": "Street Jeans"
-    },
-    {
-      "name": "Black",
-      "code": "nd_aquelyras_street_top_black",
-      "category": "Street Top"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_aquelyras_street_top_blue",
-      "category": "Street Top"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_aquelyras_street_top_burgundy",
-      "category": "Street Top"
-    },
-    {
-      "name": "Green",
-      "code": "nd_aquelyras_street_top_green",
-      "category": "Street Top"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_aquelyras_street_top_pink",
-      "category": "Street Top"
-    },
-    {
-      "name": "Red",
-      "code": "nd_aquelyras_street_top_red",
-      "category": "Street Top"
-    },
-    {
-      "name": "Teal",
-      "code": "nd_aquelyras_street_top_teal",
-      "category": "Street Top"
-    },
-    {
-      "name": "Violet",
-      "code": "nd_aquelyras_street_top_violet",
-      "category": "Street Top"
-    },
-    {
-      "name": "White",
-      "code": "nd_aquelyras_street_top_white",
-      "category": "Street Top"
-    },
-    {
-      "name": "Yellow",
-      "code": "nd_aquelyras_street_top_yellow",
-      "category": "Street Top"
-    },
-    {
-      "name": "Black",
-      "code": "nd_aquelyras_street_jacket_black",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_aquelyras_street_jacket_pink",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_aquelyras_street_jacket_burgundy",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "Green",
-      "code": "nd_aquelyras_street_jacket_green",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "Brown",
-      "code": "nd_aquelyras_street_jacket_brown",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_aquelyras_street_jacket_blue",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "Violet",
-      "code": "nd_aquelyras_street_jacket_violet",
-      "category": "Street Jacket"
-    },
-    {
-      "name": "White",
-      "code": "nd_aquelyras_street_jacket_white",
-      "category": "Street Jacket"
-    }
-  ]
+    "mod": "Street Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/9041",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8704",
+    "authors": [
+        "Aquelyras",
+        "Nola Dreamer"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Lush",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Street Jacket",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_aquelyras_street_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_aquelyras_street_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nd_aquelyras_street_jacket_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_aquelyras_street_jacket_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_aquelyras_street_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_aquelyras_street_jacket_pink"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nd_aquelyras_street_jacket_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_aquelyras_street_jacket_white"
+                }
+            ]
+        },
+        {
+            "label": "Street Jeans",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_aquelyras_street_jeans_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_aquelyras_street_jeans_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_aquelyras_street_jeans_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_aquelyras_street_jeans_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_aquelyras_street_jeans_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_aquelyras_street_jeans_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nd_aquelyras_street_jeans_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nd_aquelyras_street_jeans_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_aquelyras_street_jeans_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nd_aquelyras_street_jeans_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Street Top",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_aquelyras_street_top_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_aquelyras_street_top_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_aquelyras_street_top_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_aquelyras_street_top_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_aquelyras_street_top_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_aquelyras_street_top_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nd_aquelyras_street_top_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nd_aquelyras_street_top_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_aquelyras_street_top_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nd_aquelyras_street_top_yellow"
+                }
+            ]
+        }
+    ]
 }

@@ -1,320 +1,290 @@
 {
-  "mod": "Atelier for Flash Posers",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8886",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8886",
-  "authors": ["jerinski"],
-  "tags": [
-    "Clothing",
-    "Legs",
-    "Torso",
-    "FemV",
-    "MaleV",
-    "Body-Vanilla",
-    "Body-Solo",
-    "Emissive"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "jerinski_xl_riding_pants_black",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Black Coral",
-      "code": "jerinski_xl_riding_pants_black_coral",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Black Teal",
-      "code": "jerinski_xl_riding_pants_black_teal",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Black Yellow",
-      "code": "jerinski_xl_riding_pants_black_yellow",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Denim",
-      "code": "jerinski_xl_riding_pants_denim",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Denim Dark",
-      "code": "jerinski_xl_riding_pants_denim_dark",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Denim Light",
-      "code": "jerinski_xl_riding_pants_denim_light",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Denim Silver",
-      "code": "jerinski_xl_riding_pants_denim_silver",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Hot Metal",
-      "code": "jerinski_xl_riding_pants_hot_metal",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Netrunner",
-      "code": "jerinski_xl_riding_pants_netrunner",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Orange",
-      "code": "jerinski_xl_riding_pants_orange",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Violet",
-      "code": "jerinski_xl_riding_pants_violet",
-      "category": "Riding Pants"
-    },
-    {
-      "name": "Black",
-      "code": "jerinski_xl_holster_shirt_black",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black Coral",
-      "code": "jerinski_xl_holster_shirt_black_coral",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black Gold",
-      "code": "jerinski_xl_holster_shirt_black_gold",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black Pink",
-      "code": "jerinski_xl_holster_shirt_black_pink",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black Silver",
-      "code": "jerinski_xl_holster_shirt_black_silver",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black Teal",
-      "code": "jerinski_xl_holster_shirt_black_teal",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black Yellow",
-      "code": "jerinski_xl_holster_shirt_black_yellow",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Hot Metal",
-      "code": "jerinski_xl_holster_shirt_hot_metal",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Lumberjack",
-      "code": "jerinski_xl_holster_shirt_lumberjack",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Orange",
-      "code": "jerinski_xl_holster_shirt_orange",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Purple Navy",
-      "code": "jerinski_xl_holster_shirt_purple_navy",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "White Silk",
-      "code": "jerinski_xl_holster_shirt_white_silk",
-      "category": "Holstered Shirt"
-    },
-    {
-      "name": "Black",
-      "code": "jerinski_xl_neotac_pants_black",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Black Gold",
-      "code": "jerinski_xl_neotac_pants_black_gold",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Black Green",
-      "code": "jerinski_xl_neotac_pants_black_green",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Black Pink",
-      "code": "jerinski_xl_neotac_pants_black_pink",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Black Purple",
-      "code": "jerinski_xl_neotac_pants_black_purple",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Black Yellow",
-      "code": "jerinski_xl_neotac_pants_black_yellow",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Grey Red",
-      "code": "jerinski_xl_neotac_pants_grey_red",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Maxtac",
-      "code": "jerinski_xl_neotac_pants_maxtac",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Olive",
-      "code": "jerinski_xl_neotac_pants_olive",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Orange",
-      "code": "jerinski_xl_neotac_pants_orange",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "White Silk",
-      "code": "jerinski_xl_neotac_pants_white_silk",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Yellow",
-      "code": "jerinski_xl_neotac_pants_yellow",
-      "category": "Neotac Pants"
-    },
-    {
-      "name": "Black, Shiny",
-      "code": "jerinski_xl_combat_shirt_black_c_blackshiny",
-      "category": "Combat Shirt"
-    },
-
-    {
-      "name": "Black Coral",
-      "code": "jerinski_xl_combat_shirt_black_coral_c_black",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Black Gold",
-      "code": "jerinski_xl_combat_shirt_black_gold_c_blackshiny",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Black Pink",
-      "code": "jerinski_xl_combat_shirt_black_pink_c_pink",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Black Purple",
-      "code": "jerinski_xl_combat_shirt_black_purple_c_blackshiny",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Black Yellow",
-      "code": "jerinski_xl_combat_shirt_black_yellow_c_black",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Grey Red",
-      "code": "jerinski_xl_combat_shirt_grey_red_c_grey",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Maxtac",
-      "code": "jerinski_xl_combat_shirt_maxtac_c_blackmatte",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Olive",
-      "code": "jerinski_xl_combat_shirt_olive_clean_c_olive",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Orange",
-      "code": "jerinski_xl_combat_shirt_orange_c_black",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "Purple Rose",
-      "code": "jerinski_xl_combat_shirt_purple_rose_c_black",
-      "category": "Combat Shirt"
-    },
-    {
-      "name": "White Silk",
-      "code": "jerinski_xl_combat_shirt_white_silk_c_white",
-      "category": "Combat Shirt"
-    },
-
-    {
-      "name": "Shiny Black, Yellow lights",
-      "code": "jerinski_xl_combat_shirt_em_black_c_blackshiny_e_yellow",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Black Coral, Blue lights",
-      "code": "jerinski_xl_combat_shirt_em_black_coral_c_black_e_blue",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Shiny Black and Gold, Yellow lights",
-      "code": "jerinski_xl_combat_shirt_em_black_gold_c_blackshiny_e_yellow",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Black and Pink, Pink lights",
-      "code": "jerinski_xl_combat_shirt_em_black_pink_c_pink_e_pink",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Black and Purple, Yellow lights",
-      "code": "jerinski_xl_combat_shirt_em_black_purple_c_blackshiny_e_yellow",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Black and Yellow, Red lights",
-      "code": "jerinski_xl_combat_shirt_em_black_yellow_c_black_e_red",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Grey and Red, Red lights",
-      "code": "jerinski_xl_combat_shirt_em_grey_red_c_grey_e_red",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Maxtac Matte Black, Blue Lights",
-      "code": "jerinski_xl_combat_shirt_em_maxtac_c_blackmatte_e_blue",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Olive, Yellow lights",
-      "code": "jerinski_xl_combat_shirt_em_olive_clean_c_olive_e_yellow",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Orange and Black, Red lights",
-      "code": "jerinski_xl_combat_shirt_em_orange_c_black_e_red",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "Purple and Rose, Green Lights",
-      "code": "jerinski_xl_combat_shirt_em_purple_rose_c_black_e_green",
-      "category": "Combat Shirt, Emissive"
-    },
-    {
-      "name": "White Silk, Green lights",
-      "code": "jerinski_xl_combat_shirt_em_white_silk_c_white_e_green",
-      "category": "Combat Shirt, Emissive"
-    }
-  ]
+    "mod": "Atelier for Flash Posers",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8886",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8886",
+    "authors": [
+        "jerinski"
+    ],
+    "tags": [
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "Emissive",
+        "FemV",
+        "Legs",
+        "MaleV",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Combat Shirt",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black, Shiny",
+                    "code": "jerinski_xl_combat_shirt_black_c_blackshiny"
+                },
+                {
+                    "name": "Black Coral",
+                    "code": "jerinski_xl_combat_shirt_black_coral_c_black"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "jerinski_xl_combat_shirt_black_gold_c_blackshiny"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "jerinski_xl_combat_shirt_black_pink_c_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "jerinski_xl_combat_shirt_black_purple_c_blackshiny"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "jerinski_xl_combat_shirt_black_yellow_c_black"
+                },
+                {
+                    "name": "Grey Red",
+                    "code": "jerinski_xl_combat_shirt_grey_red_c_grey"
+                },
+                {
+                    "name": "Maxtac",
+                    "code": "jerinski_xl_combat_shirt_maxtac_c_blackmatte"
+                },
+                {
+                    "name": "Olive",
+                    "code": "jerinski_xl_combat_shirt_olive_clean_c_olive"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jerinski_xl_combat_shirt_orange_c_black"
+                },
+                {
+                    "name": "Purple Rose",
+                    "code": "jerinski_xl_combat_shirt_purple_rose_c_black"
+                },
+                {
+                    "name": "White Silk",
+                    "code": "jerinski_xl_combat_shirt_white_silk_c_white"
+                }
+            ]
+        },
+        {
+            "label": "Combat Shirt, Emissive",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black and Pink, Pink lights",
+                    "code": "jerinski_xl_combat_shirt_em_black_pink_c_pink_e_pink"
+                },
+                {
+                    "name": "Black and Purple, Yellow lights",
+                    "code": "jerinski_xl_combat_shirt_em_black_purple_c_blackshiny_e_yellow"
+                },
+                {
+                    "name": "Black and Yellow, Red lights",
+                    "code": "jerinski_xl_combat_shirt_em_black_yellow_c_black_e_red"
+                },
+                {
+                    "name": "Black Coral, Blue lights",
+                    "code": "jerinski_xl_combat_shirt_em_black_coral_c_black_e_blue"
+                },
+                {
+                    "name": "Grey and Red, Red lights",
+                    "code": "jerinski_xl_combat_shirt_em_grey_red_c_grey_e_red"
+                },
+                {
+                    "name": "Maxtac Matte Black, Blue Lights",
+                    "code": "jerinski_xl_combat_shirt_em_maxtac_c_blackmatte_e_blue"
+                },
+                {
+                    "name": "Olive, Yellow lights",
+                    "code": "jerinski_xl_combat_shirt_em_olive_clean_c_olive_e_yellow"
+                },
+                {
+                    "name": "Orange and Black, Red lights",
+                    "code": "jerinski_xl_combat_shirt_em_orange_c_black_e_red"
+                },
+                {
+                    "name": "Purple and Rose, Green Lights",
+                    "code": "jerinski_xl_combat_shirt_em_purple_rose_c_black_e_green"
+                },
+                {
+                    "name": "Shiny Black, Yellow lights",
+                    "code": "jerinski_xl_combat_shirt_em_black_c_blackshiny_e_yellow"
+                },
+                {
+                    "name": "Shiny Black and Gold, Yellow lights",
+                    "code": "jerinski_xl_combat_shirt_em_black_gold_c_blackshiny_e_yellow"
+                },
+                {
+                    "name": "White Silk, Green lights",
+                    "code": "jerinski_xl_combat_shirt_em_white_silk_c_white_e_green"
+                }
+            ]
+        },
+        {
+            "label": "Holstered Shirt",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "jerinski_xl_holster_shirt_black"
+                },
+                {
+                    "name": "Black Coral",
+                    "code": "jerinski_xl_holster_shirt_black_coral"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "jerinski_xl_holster_shirt_black_gold"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "jerinski_xl_holster_shirt_black_pink"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "jerinski_xl_holster_shirt_black_silver"
+                },
+                {
+                    "name": "Black Teal",
+                    "code": "jerinski_xl_holster_shirt_black_teal"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "jerinski_xl_holster_shirt_black_yellow"
+                },
+                {
+                    "name": "Hot Metal",
+                    "code": "jerinski_xl_holster_shirt_hot_metal"
+                },
+                {
+                    "name": "Lumberjack",
+                    "code": "jerinski_xl_holster_shirt_lumberjack"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jerinski_xl_holster_shirt_orange"
+                },
+                {
+                    "name": "Purple Navy",
+                    "code": "jerinski_xl_holster_shirt_purple_navy"
+                },
+                {
+                    "name": "White Silk",
+                    "code": "jerinski_xl_holster_shirt_white_silk"
+                }
+            ]
+        },
+        {
+            "label": "Neotac Pants",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "jerinski_xl_neotac_pants_black"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "jerinski_xl_neotac_pants_black_gold"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "jerinski_xl_neotac_pants_black_green"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "jerinski_xl_neotac_pants_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "jerinski_xl_neotac_pants_black_purple"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "jerinski_xl_neotac_pants_black_yellow"
+                },
+                {
+                    "name": "Grey Red",
+                    "code": "jerinski_xl_neotac_pants_grey_red"
+                },
+                {
+                    "name": "Maxtac",
+                    "code": "jerinski_xl_neotac_pants_maxtac"
+                },
+                {
+                    "name": "Olive",
+                    "code": "jerinski_xl_neotac_pants_olive"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jerinski_xl_neotac_pants_orange"
+                },
+                {
+                    "name": "White Silk",
+                    "code": "jerinski_xl_neotac_pants_white_silk"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "jerinski_xl_neotac_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Riding Pants",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "jerinski_xl_riding_pants_black"
+                },
+                {
+                    "name": "Black Coral",
+                    "code": "jerinski_xl_riding_pants_black_coral"
+                },
+                {
+                    "name": "Black Teal",
+                    "code": "jerinski_xl_riding_pants_black_teal"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "jerinski_xl_riding_pants_black_yellow"
+                },
+                {
+                    "name": "Denim",
+                    "code": "jerinski_xl_riding_pants_denim"
+                },
+                {
+                    "name": "Denim Dark",
+                    "code": "jerinski_xl_riding_pants_denim_dark"
+                },
+                {
+                    "name": "Denim Light",
+                    "code": "jerinski_xl_riding_pants_denim_light"
+                },
+                {
+                    "name": "Denim Silver",
+                    "code": "jerinski_xl_riding_pants_denim_silver"
+                },
+                {
+                    "name": "Hot Metal",
+                    "code": "jerinski_xl_riding_pants_hot_metal"
+                },
+                {
+                    "name": "Netrunner",
+                    "code": "jerinski_xl_riding_pants_netrunner"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jerinski_xl_riding_pants_orange"
+                },
+                {
+                    "name": "Violet",
+                    "code": "jerinski_xl_riding_pants_violet"
+                }
+            ]
+        }
+    ]
 }

@@ -1,49 +1,55 @@
 {
-  "mod": "Spy Long Coat",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/13342",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11171",
-  "authors": [
-    "PinkyDude"
-  ],
-  "tags": [
-    "Torso",
-    "FullBody",
-    "Coat",
-    "Clothing",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Default",
-      "code": "PinkyDude_SpyLongCoat_Default"
-    },
-    {
-      "name": "Green",
-      "code": "PinkyDude_SpyLongCoat_Green"
-    },
-    {
-      "name": "Arasaka",
-      "code": "PinkyDude_SpyLongCoat_Arasaka"
-    },
-    {
-      "name": "Brown",
-      "code": "PinkyDude_SpyLongCoat_Brown"
-    },
-    {
-      "name": "Camo",
-      "code": "PinkyDude_SpyLongCoat_Camo"
-    },
-    {
-      "name": "Elegant Red",
-      "code": "PinkyDude_SpyLongCoat_ElegantRed"
-    },
-    {
-      "name": "Elegant Crimson",
-      "code": "PinkyDude_SpyLongCoat_ElegantCrimson"
-    },
-    {
-      "name": "Elegant Orange",
-      "code": "PinkyDude_SpyLongCoat_ElegantOrange"
-    }
-  ]
+    "mod": "Spy Long Coat",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/13342",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11171",
+    "authors": [
+        "PinkyDude"
+    ],
+    "tags": [
+        "Clothing",
+        "Coat",
+        "FemV",
+        "FullBody",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Arasaka",
+                    "code": "PinkyDude_SpyLongCoat_Arasaka"
+                },
+                {
+                    "name": "Brown",
+                    "code": "PinkyDude_SpyLongCoat_Brown"
+                },
+                {
+                    "name": "Camo",
+                    "code": "PinkyDude_SpyLongCoat_Camo"
+                },
+                {
+                    "name": "Default",
+                    "code": "PinkyDude_SpyLongCoat_Default"
+                },
+                {
+                    "name": "Elegant Crimson",
+                    "code": "PinkyDude_SpyLongCoat_ElegantCrimson"
+                },
+                {
+                    "name": "Elegant Orange",
+                    "code": "PinkyDude_SpyLongCoat_ElegantOrange"
+                },
+                {
+                    "name": "Elegant Red",
+                    "code": "PinkyDude_SpyLongCoat_ElegantRed"
+                },
+                {
+                    "name": "Green",
+                    "code": "PinkyDude_SpyLongCoat_Green"
+                }
+            ]
+        }
+    ]
 }

@@ -1,35 +1,40 @@
 {
-  "mod": "Catsuit",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/4917",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Clothing",
-    "Body",
-    "Waist",
-    "Neck",
-    "Jewelery",
-    "Outfit",
-    "Accessories",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "FemV"
-  ],
-  "comments": "The belt and choker are great to use independently of the catsuit.",
-  "items": [
-    {
-      "name": "Cat Suit",
-      "code": "cat_top"
-    },
-    {
-      "name": "Cat Collar",
-      "code": "ccol_ccat"
-    },
-    {
-      "name": "Cat Belt",
-      "code": "cbelt_cbcx"
-    }
-  ]
+    "mod": "Catsuit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4917",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "Accessories",
+        "Body",
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Jewelery",
+        "Neck",
+        "Outfit",
+        "Waist"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Cat Belt",
+                    "code": "cbelt_cbcx"
+                },
+                {
+                    "name": "Cat Collar",
+                    "code": "ccol_ccat"
+                },
+                {
+                    "name": "Cat Suit",
+                    "code": "cat_top"
+                }
+            ]
+        }
+    ]
 }

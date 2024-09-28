@@ -1,35 +1,43 @@
 {
-  "mod": "Deus Ex Outfit",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/4601",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
-  "authors": ["Alvarix"],
-  "tags": [
-    "FemV",
-    "Body",
-    "Clothing",
-    "Feet",
-    "Arms",
-    "Legs",
-    "Outfit",
-    "Accessories",
-    "Body-Vanilla"
-  ],
-  "items": [
-    {
-      "name": "Vest",
-      "code": "deusx_vest"
-    },
-    {
-      "name": "Shorts",
-      "code": "deusx_shorts"
-    },
-    {
-      "name": "Boots",
-      "code": "deusx_boots"
-    },
-    {
-      "name": "Specs",
-      "code": "deusx_specs"
-    }
-  ]
+    "mod": "Deus Ex Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4601",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "Alvarix"
+    ],
+    "tags": [
+        "Accessories",
+        "Arms",
+        "Body",
+        "Body-Vanilla",
+        "Clothing",
+        "Feet",
+        "FemV",
+        "Legs",
+        "Outfit"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Boots",
+                    "code": "deusx_boots"
+                },
+                {
+                    "name": "Shorts",
+                    "code": "deusx_shorts"
+                },
+                {
+                    "name": "Specs",
+                    "code": "deusx_specs"
+                },
+                {
+                    "name": "Vest",
+                    "code": "deusx_vest"
+                }
+            ]
+        }
+    ]
 }

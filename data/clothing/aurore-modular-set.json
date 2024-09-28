@@ -1,436 +1,381 @@
 {
-  "mod": "Aurore Modular Set",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/12099",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
-  "authors": [
-    "MONSTERaider"
-  ],
-  "tags": [
-    "Torso",
-    "Legs",
-    "Waist",
-    "Accessories",
-    "Clothing",
-    "Emissive",
-    "Physics",
-    "Modular",
-    "FemV"
-  ],
-  "comments": "Very modular indeed, up to the optional back plugs and glowy lines on the jacket and pants.",
-  "items": [
-    {
-      "name": "Black",
-      "code": "raid_gzel_jaket_black",
-      "category": "Jacket"
-    },
-    {
-      "name": "White",
-      "code": "raid_gzel_jaket_white",
-      "category": "Jacket"
-    },
-    {
-      "name": "Silk",
-      "code": "raid_gzel_jaket_silk",
-      "category": "Jacket"
-    },
-    {
-      "name": "Cyan",
-      "code": "raid_gzel_jaket_cyan",
-      "category": "Jacket"
-    },
-    {
-      "name": "Navy",
-      "code": "raid_gzel_jaket_navy",
-      "category": "Jacket"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_gzel_jaket_silver",
-      "category": "Jacket"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_jaket_gold",
-      "category": "Jacket"
-    },
-    {
-      "name": "Yellow",
-      "code": "raid_gzel_jaket_yellow",
-      "category": "Jacket"
-    },
-    {
-      "name": "Burgundy",
-      "code": "raid_gzel_jaket_burgundy",
-      "category": "Jacket"
-    },
-    {
-      "name": "Green",
-      "code": "raid_gzel_jaket_green",
-      "category": "Jacket"
-    },
-
-
-    {
-      "name": "Black",
-      "code": "raid_gzel_pants_black",
-      "category": "Pants"
-    },
-    {
-      "name": "White",
-      "code": "raid_gzel_pants_white",
-      "category": "Pants"
-    },
-    {
-      "name": "Silk",
-      "code": "raid_gzel_pants_silk",
-      "category": "Pants"
-    },
-    {
-      "name": "Cyan",
-      "code": "raid_gzel_pants_cyan",
-      "category": "Pants"
-    },
-    {
-      "name": "Navy",
-      "code": "raid_gzel_pants_navy",
-      "category": "Pants"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_gzel_pants_silver",
-      "category": "Pants"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_pants_gold",
-      "category": "Pants"
-    },
-    {
-      "name": "Yellow",
-      "code": "raid_gzel_pants_yellow",
-      "category": "Pants"
-    },
-    {
-      "name": "Burgundy",
-      "code": "raid_gzel_pants_burgundy",
-      "category": "Pants"
-    },
-    {
-      "name": "Green",
-      "code": "raid_gzel_pants_green",
-      "category": "Pants"
-    },
-
-
-
-    {
-      "name": "Black",
-      "code": "raid_gzel_short_black",
-      "category": "Shorts"
-    },
-    {
-      "name": "White",
-      "code": "raid_gzel_short_white",
-      "category": "Shorts"
-    },
-    {
-      "name": "Silk",
-      "code": "raid_gzel_short_silk",
-      "category": "Shorts"
-    },
-    {
-      "name": "Cyan",
-      "code": "raid_gzel_short_cyan",
-      "category": "Shorts"
-    },
-    {
-      "name": "Navy",
-      "code": "raid_gzel_short_navy",
-      "category": "Shorts"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_gzel_short_silver",
-      "category": "Shorts"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_short_gold",
-      "category": "Shorts"
-    },
-    {
-      "name": "Yellow",
-      "code": "raid_gzel_short_yellow",
-      "category": "Shorts"
-    },
-    {
-      "name": "Burgundy",
-      "code": "raid_gzel_short_burgundy",
-      "category": "Shorts"
-    },
-    {
-      "name": "Green",
-      "code": "raid_gzel_short_green",
-      "category": "Shorts"
-    },
-
-
-
-    {
-      "name": "Black",
-      "code": "raid_gzel_beltl_black",
-      "category": "Belts"
-    },
-    {
-      "name": "White",
-      "code": "raid_gzel_beltl_white",
-      "category": "Belts"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_gzel_beltl_silver",
-      "category": "Belts"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_beltl_gold",
-      "category": "Belts"
-    },
-    {
-      "name": "Black",
-      "code": "raid_gzel_belts_black",
-      "category": "Belts"
-    },
-    {
-      "name": "White",
-      "code": "raid_gzel_belts_white",
-      "category": "Belts"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_gzel_belts_silver",
-      "category": "Belts"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_belts_gold",
-      "category": "Belts"
-    },
-
-
-
-
-    {
-      "name": "Black",
-      "code": "raid_gzel_plugs_black",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "White",
-      "code": "raid_gzel_plugs_white",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Silk",
-      "code": "raid_gzel_plugs_silk",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Cyan",
-      "code": "raid_gzel_plugs_cyan",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Navy",
-      "code": "raid_gzel_plugs_navy",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_gzel_plugs_silver",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_plugs_gold",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Yellow",
-      "code": "raid_gzel_plugs_yellow",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Burgundy",
-      "code": "raid_gzel_plugs_burgundy",
-      "category": "Jacket Back-Plugs"
-    },
-    {
-      "name": "Green",
-      "code": "raid_gzel_plugs_green",
-      "category": "Jacket Back-Plugs"
-    },
-
-
-
-
-    {
-      "name": "Silver",
-      "code": "raid_gzel_stich_j_silver",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_stich_j_gold",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Gold Emissive",
-      "code": "raid_gzel_stich_j_gold_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Teal Emissive",
-      "code": "raid_gzel_stich_j_teal_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "White Emissive",
-      "code": "raid_gzel_stich_j_white_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Green Emissive",
-      "code": "raid_gzel_stich_j_green_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Red Emissive",
-      "code": "raid_gzel_stich_j_red_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Yellow Emissive",
-      "code": "raid_gzel_stich_j_yellow_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Blue Emissive",
-      "code": "raid_gzel_stich_j_blue_emissive",
-      "category": "Jacket Lines"
-    },
-    {
-      "name": "Pink Glow",
-      "code": "raid_gzel_stich_j_pink_glow",
-      "category": "Jacket Lines"
-    },
-
-
-
-
-    {
-      "name": "Silver",
-      "code": "raid_gzel_stich_s_silver",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_stich_s_gold",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Gold Emissive",
-      "code": "raid_gzel_stich_s_gold_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Teal Emissive",
-      "code": "raid_gzel_stich_s_teal_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "White Emissive",
-      "code": "raid_gzel_stich_s_white_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Green Emissive",
-      "code": "raid_gzel_stich_s_green_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Red Emissive",
-      "code": "raid_gzel_stich_s_red_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Yellow Emissive",
-      "code": "raid_gzel_stich_s_yellow_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Blue Emissive",
-      "code": "raid_gzel_stich_s_blue_emissive",
-      "category": "Shorts Lines"
-    },
-    {
-      "name": "Pink Glow",
-      "code": "raid_gzel_stich_s_pink_glow",
-      "category": "Shorts Lines"
-    },
-
-
-
-
-    {
-      "name": "Silver",
-      "code": "raid_gzel_stich_p_silver",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_gzel_stich_p_gold",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Gold Emissive",
-      "code": "raid_gzel_stich_p_gold_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Teal Emissive",
-      "code": "raid_gzel_stich_p_teal_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "White Emissive",
-      "code": "raid_gzel_stich_p_white_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Green Emissive",
-      "code": "raid_gzel_stich_p_green_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Red Emissive",
-      "code": "raid_gzel_stich_p_red_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Yellow Emissive",
-      "code": "raid_gzel_stich_p_yellow_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Blue Emissive",
-      "code": "raid_gzel_stich_p_blue_emissive",
-      "category": "Pants Lines"
-    },
-    {
-      "name": "Pink Glow",
-      "code": "raid_gzel_stich_p_pink_glow",
-      "category": "Pants Lines"
-    }
-  ]
+    "mod": "Aurore Modular Set",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12099",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "authors": [
+        "MONSTERaider"
+    ],
+    "tags": [
+        "Accessories",
+        "Clothing",
+        "Emissive",
+        "FemV",
+        "Legs",
+        "Modular",
+        "Physics",
+        "Torso",
+        "Waist"
+    ],
+    "itemCategories": [
+        {
+            "label": "Belts",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_beltl_black"
+                },
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_belts_black"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_beltl_gold"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_belts_gold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_beltl_silver"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_belts_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_beltl_white"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_belts_white"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_jaket_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "raid_gzel_jaket_burgundy"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "raid_gzel_jaket_cyan"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_jaket_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_gzel_jaket_green"
+                },
+                {
+                    "name": "Navy",
+                    "code": "raid_gzel_jaket_navy"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_gzel_jaket_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_jaket_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_jaket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_gzel_jaket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Jacket Back-Plugs",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_plugs_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "raid_gzel_plugs_burgundy"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "raid_gzel_plugs_cyan"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_plugs_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_gzel_plugs_green"
+                },
+                {
+                    "name": "Navy",
+                    "code": "raid_gzel_plugs_navy"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_gzel_plugs_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_plugs_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_plugs_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_gzel_plugs_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Jacket Lines",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Blue Emissive",
+                    "code": "raid_gzel_stich_j_blue_emissive"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_stich_j_gold"
+                },
+                {
+                    "name": "Gold Emissive",
+                    "code": "raid_gzel_stich_j_gold_emissive"
+                },
+                {
+                    "name": "Green Emissive",
+                    "code": "raid_gzel_stich_j_green_emissive"
+                },
+                {
+                    "name": "Pink Glow",
+                    "code": "raid_gzel_stich_j_pink_glow"
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_gzel_stich_j_red_emissive"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_stich_j_silver"
+                },
+                {
+                    "name": "Teal Emissive",
+                    "code": "raid_gzel_stich_j_teal_emissive"
+                },
+                {
+                    "name": "White Emissive",
+                    "code": "raid_gzel_stich_j_white_emissive"
+                },
+                {
+                    "name": "Yellow Emissive",
+                    "code": "raid_gzel_stich_j_yellow_emissive"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_pants_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "raid_gzel_pants_burgundy"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "raid_gzel_pants_cyan"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_pants_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_gzel_pants_green"
+                },
+                {
+                    "name": "Navy",
+                    "code": "raid_gzel_pants_navy"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_gzel_pants_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_pants_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_pants_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_gzel_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants Lines",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Blue Emissive",
+                    "code": "raid_gzel_stich_p_blue_emissive"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_stich_p_gold"
+                },
+                {
+                    "name": "Gold Emissive",
+                    "code": "raid_gzel_stich_p_gold_emissive"
+                },
+                {
+                    "name": "Green Emissive",
+                    "code": "raid_gzel_stich_p_green_emissive"
+                },
+                {
+                    "name": "Pink Glow",
+                    "code": "raid_gzel_stich_p_pink_glow"
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_gzel_stich_p_red_emissive"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_stich_p_silver"
+                },
+                {
+                    "name": "Teal Emissive",
+                    "code": "raid_gzel_stich_p_teal_emissive"
+                },
+                {
+                    "name": "White Emissive",
+                    "code": "raid_gzel_stich_p_white_emissive"
+                },
+                {
+                    "name": "Yellow Emissive",
+                    "code": "raid_gzel_stich_p_yellow_emissive"
+                }
+            ]
+        },
+        {
+            "label": "Shorts",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_short_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "raid_gzel_short_burgundy"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "raid_gzel_short_cyan"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_short_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_gzel_short_green"
+                },
+                {
+                    "name": "Navy",
+                    "code": "raid_gzel_short_navy"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_gzel_short_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_short_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_short_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_gzel_short_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shorts Lines",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Blue Emissive",
+                    "code": "raid_gzel_stich_s_blue_emissive"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_stich_s_gold"
+                },
+                {
+                    "name": "Gold Emissive",
+                    "code": "raid_gzel_stich_s_gold_emissive"
+                },
+                {
+                    "name": "Green Emissive",
+                    "code": "raid_gzel_stich_s_green_emissive"
+                },
+                {
+                    "name": "Pink Glow",
+                    "code": "raid_gzel_stich_s_pink_glow"
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_gzel_stich_s_red_emissive"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_stich_s_silver"
+                },
+                {
+                    "name": "Teal Emissive",
+                    "code": "raid_gzel_stich_s_teal_emissive"
+                },
+                {
+                    "name": "White Emissive",
+                    "code": "raid_gzel_stich_s_white_emissive"
+                },
+                {
+                    "name": "Yellow Emissive",
+                    "code": "raid_gzel_stich_s_yellow_emissive"
+                }
+            ]
+        }
+    ]
 }

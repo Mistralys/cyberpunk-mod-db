@@ -1,92 +1,98 @@
 {
-  "mod": "Liquid Heart Earrings",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/14190",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
-  "authors": [
-    "cyb3rsn4k34li3n"
-  ],
-  "tags": [
-    "Accessories",
-    "Jewelry",
-    "Ears",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Silver",
-      "code": "cyb3rsn4k3_liquidheart_earrings_silver"
-    },
-    {
-      "name": "Gold",
-      "code": "cyb3rsn4k3_liquidheart_earrings_gold"
-    },
-    {
-      "name": "Rose Gold",
-      "code": "cyb3rsn4k3_liquidheart_earrings_rosegold"
-    },
-    {
-      "name": "Pink",
-      "code": "cyb3rsn4k3_liquidheart_earrings_pink"
-    },
-    {
-      "name": "Purple",
-      "code": "cyb3rsn4k3_liquidheart_earrings_purple"
-    },
-    {
-      "name": "Baby Blue",
-      "code": "cyb3rsn4k3_liquidheart_earrings_babyblue"
-    },
-    {
-      "name": "Blue",
-      "code": "cyb3rsn4k3_liquidheart_earrings_blue"
-    },
-    {
-      "name": "Green",
-      "code": "cyb3rsn4k3_liquidheart_earrings_green"
-    },
-    {
-      "name": "Yellow",
-      "code": "cyb3rsn4k3_liquidheart_earrings_yellow"
-    },
-    {
-      "name": "Orange",
-      "code": "cyb3rsn4k3_liquidheart_earrings_orange"
-    },
-    {
-      "name": "Red",
-      "code": "cyb3rsn4k3_liquidheart_earrings_red"
-    },
-    {
-      "name": "Witch",
-      "code": "cyb3rsn4k3_liquidheart_earrings_witch"
-    },
-    {
-      "name": "Vamp",
-      "code": "cyb3rsn4k3_liquidheart_earrings_vamp"
-    },
-    {
-      "name": "Barghest",
-      "code": "cyb3rsn4k3_liquidheart_earrings_barghest"
-    },
-    {
-      "name": "Valentino",
-      "code": "cyb3rsn4k3_liquidheart_earrings_valentino"
-    },
-    {
-      "name": "Circ",
-      "code": "cyb3rsn4k3_liquidheart_earrings_circ"
-    },
-    {
-      "name": "Lina",
-      "code": "cyb3rsn4k3_liquidheart_earrings_lina"
-    },
-    {
-      "name": "McBling",
-      "code": "cyb3rsn4k3_liquidheart_earrings_mcbling"
-    },
-    {
-      "name": "Mox",
-      "code": "cyb3rsn4k3_liquidheart_earrings_mox"
-    }
-  ]
+    "mod": "Liquid Heart Earrings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14190",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
+    "authors": [
+        "cyb3rsn4k34li3n"
+    ],
+    "tags": [
+        "Accessories",
+        "Ears",
+        "FemV",
+        "Jewelry"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_babyblue"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_barghest"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_blue"
+                },
+                {
+                    "name": "Circ",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_circ"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_green"
+                },
+                {
+                    "name": "Lina",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_lina"
+                },
+                {
+                    "name": "McBling",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_mcbling"
+                },
+                {
+                    "name": "Mox",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_mox"
+                },
+                {
+                    "name": "Orange",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_red"
+                },
+                {
+                    "name": "Rose Gold",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_rosegold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_silver"
+                },
+                {
+                    "name": "Valentino",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_valentino"
+                },
+                {
+                    "name": "Vamp",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_vamp"
+                },
+                {
+                    "name": "Witch",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_witch"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "cyb3rsn4k3_liquidheart_earrings_yellow"
+                }
+            ]
+        }
+    ]
 }

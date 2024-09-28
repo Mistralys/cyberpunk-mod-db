@@ -1,47 +1,55 @@
 {
-  "mod": "J'adore Moon & Star Hoop Earrings",
-  "authors": ["Kwek"],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7105",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
-  "tags": [
-    "Earrings",
-    "Jewelry",
-    "Holo",
-    "Physics",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Gold",
-      "code": "earrings_08_basic_01_kwek"
-    },
-    {
-      "name": "Silver",
-      "code": "earrings_08_basic_02_kwek"
-    },
-    {
-      "name": "Glowy Pink",
-      "code": "earrings_08_basic_03_kwek"
-    },
-    {
-      "name": "Orange",
-      "code": "earrings_08_basic_04_kwek"
-    },
-    {
-      "name": "Holo",
-      "code": "earrings_08_old_01_kwek"
-    },
-    {
-      "name": "Purple",
-      "code": "earrings_08_old_02_kwek"
-    },
-    {
-      "name": "PinkPinkSh1t",
-      "code": "earrings_08_old_03_kwek"
-    },
-    {
-      "name": "Red",
-      "code": "earrings_08_rich_01_kwek "
-    }
-  ]
+    "mod": "J'adore Moon & Star Hoop Earrings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7105",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "authors": [
+        "Kwek"
+    ],
+    "tags": [
+        "Earrings",
+        "FemV",
+        "Holo",
+        "Jewelry",
+        "Physics"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Glowy Pink",
+                    "code": "earrings_08_basic_03_kwek"
+                },
+                {
+                    "name": "Gold",
+                    "code": "earrings_08_basic_01_kwek"
+                },
+                {
+                    "name": "Holo",
+                    "code": "earrings_08_old_01_kwek"
+                },
+                {
+                    "name": "Orange",
+                    "code": "earrings_08_basic_04_kwek"
+                },
+                {
+                    "name": "PinkPinkSh1t",
+                    "code": "earrings_08_old_03_kwek"
+                },
+                {
+                    "name": "Purple",
+                    "code": "earrings_08_old_02_kwek"
+                },
+                {
+                    "name": "Red",
+                    "code": "earrings_08_rich_01_kwek "
+                },
+                {
+                    "name": "Silver",
+                    "code": "earrings_08_basic_02_kwek"
+                }
+            ]
+        }
+    ]
 }

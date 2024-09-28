@@ -1,214 +1,201 @@
 {
-  "mod": "Erotic Lace Lingerie",
-  "authors": ["xBaebsae"],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/9317",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/9318",
-  "tags": [
-    "EQEX",
-    "AXL",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Clothing",
-    "Torso",
-    "Skimpy",
-    "Legs"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Black",
-      "category": "Bra"
-    },
-    {
-      "name": "Beige",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Beige",
-      "category": "Bra"
-    },
-    {
-      "name": "Blue",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Blue",
-      "category": "Bra"
-    },
-    {
-      "name": "Burgundy",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Burgundy",
-      "category": "Bra"
-    },
-    {
-      "name": "Purple",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Purple",
-      "category": "Bra"
-    },
-    {
-      "name": "Red",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Red",
-      "category": "Bra"
-    },
-    {
-      "name": "RedBlack",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_RedBlack",
-      "category": "Bra"
-    },
-    {
-      "name": "Turquoise",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Turquoise",
-      "category": "Bra"
-    },
-    {
-      "name": "White",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_White",
-      "category": "Bra"
-    },
-    {
-      "name": "Samurai",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Samurai",
-      "category": "Bra"
-    },
-    {
-      "name": "Black",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Black",
-      "category": "Panty"
-    },
-    {
-      "name": "Beige",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Beige",
-      "category": "Panty"
-    },
-    {
-      "name": "Blue",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Blue",
-      "category": "Panty"
-    },
-    {
-      "name": "Burgundy",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Burgundy",
-      "category": "Panty"
-    },
-    {
-      "name": "Purple",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Purple",
-      "category": "Panty"
-    },
-    {
-      "name": "Red",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Red",
-      "category": "Panty"
-    },
-    {
-      "name": "Turquoise",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Turquoise",
-      "category": "Panty"
-    },
-    {
-      "name": "White",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_White",
-      "category": "Panty"
-    },
-    {
-      "name": "Samurai",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Samurai",
-      "category": "Panty"
-    },
-    {
-      "name": "Black",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Black",
-      "category": "Full"
-    },
-    {
-      "name": "Beige",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Beige",
-      "category": "Full"
-    },
-    {
-      "name": "Blue",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Blue",
-      "category": "Full"
-    },
-    {
-      "name": "Burgundy",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Burgundy",
-      "category": "Full"
-    },
-    {
-      "name": "Purple",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Purple",
-      "category": "Full"
-    },
-    {
-      "name": "Red",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Red",
-      "category": "Full"
-    },
-    {
-      "name": "RedBlack",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_RedBlack",
-      "category": "Full"
-    },
-    {
-      "name": "Turquoise",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Turquoise",
-      "category": "Full"
-    },
-    {
-      "name": "White",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_White",
-      "category": "Full"
-    },
-    {
-      "name": "Samurai",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Samurai",
-      "category": "Full"
-    },
-    {
-      "name": "Black",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Black",
-      "category": "Bustier"
-    },
-    {
-      "name": "Beige",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Beige",
-      "category": "Bustier"
-    },
-    {
-      "name": "Blue",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Blue",
-      "category": "Bustier"
-    },
-    {
-      "name": "Burgundy",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Burgundy",
-      "category": "Bustier"
-    },
-    {
-      "name": "Purple",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Purple",
-      "category": "Bustier"
-    },
-    {
-      "name": "Red",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Red",
-      "category": "Bustier"
-    },
-    {
-      "name": "RedBlack",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_RedBlack",
-      "category": "Bustier"
-    },
-    {
-      "name": "Turquoise",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Turquoise",
-      "category": "Bustier"
-    },
-    {
-      "name": "White",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_White",
-      "category": "Bustier"
-    },
-    {
-      "name": "Samurai",
-      "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Samurai",
-      "category": "Bustier"
-    }
-  ]
+    "mod": "Erotic Lace Lingerie",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/9317",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/9318",
+    "authors": [
+        "xBaebsae"
+    ],
+    "tags": [
+        "AXL",
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "EQEX",
+        "FemV",
+        "Legs",
+        "Skimpy",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Bra",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Burgundy"
+                },
+                {
+                    "name": "Purple",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Red"
+                },
+                {
+                    "name": "RedBlack",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_RedBlack"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Samurai"
+                },
+                {
+                    "name": "Turquoise",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_Turquoise"
+                },
+                {
+                    "name": "White",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bra_White"
+                }
+            ]
+        },
+        {
+            "label": "Bustier",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Burgundy"
+                },
+                {
+                    "name": "Purple",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Red"
+                },
+                {
+                    "name": "RedBlack",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_RedBlack"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Samurai"
+                },
+                {
+                    "name": "Turquoise",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_Turquoise"
+                },
+                {
+                    "name": "White",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Bustier_White"
+                }
+            ]
+        },
+        {
+            "label": "Full",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Burgundy"
+                },
+                {
+                    "name": "Purple",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Red"
+                },
+                {
+                    "name": "RedBlack",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_RedBlack"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Samurai"
+                },
+                {
+                    "name": "Turquoise",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_Turquoise"
+                },
+                {
+                    "name": "White",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Full_White"
+                }
+            ]
+        },
+        {
+            "label": "Panty",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Burgundy"
+                },
+                {
+                    "name": "Purple",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Red"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Samurai"
+                },
+                {
+                    "name": "Turquoise",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_Turquoise"
+                },
+                {
+                    "name": "White",
+                    "code": "HystxAngy_Erotic_Lingerie_Suit_Panty_White"
+                }
+            ]
+        }
+    ]
 }

@@ -1,34 +1,40 @@
 {
-  "mod": "Arasaka Corpo Shirt",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/5027",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Torso",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Black Matte",
-      "code": "corposh_a"
-    },
-    {
-      "name": "Black Latex",
-      "code": "corposh_b"
-    },
-    {
-      "name": "Red Checkered",
-      "code": "corposh_c"
-    },
-    {
-      "name": "Red Black Checkered",
-      "code": "corposh_d"
-    },
-    {
-      "name": "Black Red Patterned",
-      "code": "corposh_e"
-    }
-  ]
+    "mod": "Arasaka Corpo Shirt",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5027",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "FemV",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Latex",
+                    "code": "corposh_b"
+                },
+                {
+                    "name": "Black Matte",
+                    "code": "corposh_a"
+                },
+                {
+                    "name": "Black Red Patterned",
+                    "code": "corposh_e"
+                },
+                {
+                    "name": "Red Black Checkered",
+                    "code": "corposh_d"
+                },
+                {
+                    "name": "Red Checkered",
+                    "code": "corposh_c"
+                }
+            ]
+        }
+    ]
 }

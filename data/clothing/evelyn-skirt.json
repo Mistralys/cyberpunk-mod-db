@@ -1,42 +1,48 @@
 {
-  "mod": "Evelyn Skirt",
-  "authors": [
-    "PeachuHime"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8024",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
-  "tags": [
-    "Legs",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBB-RB"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "peachu_evelyn_black"
-    },
-    {
-      "name": "Blue",
-      "code": "peachu_evelyn_blue"
-    },
-    {
-      "name": "Green",
-      "code": "peachu_evelyn_green"
-    },
-    {
-      "name": "Pink",
-      "code": "peachu_evelyn_pink"
-    },
-    {
-      "name": "Red",
-      "code": "peachu_evelyn_red"
-    },
-    {
-      "name": "White",
-      "code": "peachu_evelyn_white"
-    }
-  ]
+    "mod": "Evelyn Skirt",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8024",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+    "authors": [
+        "PeachuHime"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBB-RB",
+        "Body-Vanilla",
+        "FemV",
+        "Legs"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "peachu_evelyn_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "peachu_evelyn_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "peachu_evelyn_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "peachu_evelyn_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "peachu_evelyn_red"
+                },
+                {
+                    "name": "White",
+                    "code": "peachu_evelyn_white"
+                }
+            ]
+        }
+    ]
 }

@@ -1,115 +1,125 @@
 {
-  "mod": "Ziva Navel Chains",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/15181",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Waist",
-    "Jewelry",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Stars and Hearts",
-      "code": "navchain_a",
-      "category": "Silver"
-    },
-    {
-      "name": "Knots",
-      "code": "navchain_b",
-      "category": "Silver"
-    },
-    {
-      "name": "Double Circles and Pendants",
-      "code": "navchain_c",
-      "category": "Silver"
-    },
-    {
-      "name": "Circled Hearts",
-      "code": "navchain_d",
-      "category": "Silver"
-    },
-    {
-      "name": "Stars and Hearts",
-      "code": "navchain_e",
-      "category": "Gold"
-    },
-    {
-      "name": "Knots",
-      "code": "navchain_f",
-      "category": "Gold"
-    },
-    {
-      "name": "Double Circles and Pendants",
-      "code": "navchain_g",
-      "category": "Gold"
-    },
-    {
-      "name": "Circled Hearts",
-      "code": "navchain_h",
-      "category": "Gold"
-    },
-    {
-      "name": "Stars and Hearts",
-      "code": "navchain_i",
-      "category": "White"
-    },
-    {
-      "name": "Knots",
-      "code": "navchain_j",
-      "category": "White"
-    },
-    {
-      "name": "Double Circles and Pendants",
-      "code": "navchain_k",
-      "category": "White"
-    },
-    {
-      "name": "Circled Hearts",
-      "code": "navchain_l",
-      "category": "White"
-    },
-    {
-      "name": "Stars and Hearts",
-      "code": "navchain_m",
-      "category": "Red"
-    },
-    {
-      "name": "Knots",
-      "code": "navchain_n",
-      "category": "Red"
-    },
-    {
-      "name": "Double Circles and Pendants",
-      "code": "navchain_o",
-      "category": "Red"
-    },
-    {
-      "name": "Circled Hearts",
-      "code": "navchain_p",
-      "category": "Red"
-    },
-    {
-      "name": "Stars and Hearts",
-      "code": "navchain_q",
-      "category": "Green"
-    },
-    {
-      "name": "Knots",
-      "code": "navchain_r",
-      "category": "Green"
-    },
-    {
-      "name": "Double Circles and Pendants",
-      "code": "navchain_s",
-      "category": "Green"
-    },
-    {
-      "name": "Circled Hearts",
-      "code": "navchain_t",
-      "category": "Green"
-    }
-  ]
+    "mod": "Ziva Navel Chains",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15181",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "FemV",
+        "Jewelry",
+        "Waist"
+    ],
+    "itemCategories": [
+        {
+            "label": "Gold",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Circled Hearts",
+                    "code": "navchain_h"
+                },
+                {
+                    "name": "Double Circles and Pendants",
+                    "code": "navchain_g"
+                },
+                {
+                    "name": "Knots",
+                    "code": "navchain_f"
+                },
+                {
+                    "name": "Stars and Hearts",
+                    "code": "navchain_e"
+                }
+            ]
+        },
+        {
+            "label": "Green",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Circled Hearts",
+                    "code": "navchain_t"
+                },
+                {
+                    "name": "Double Circles and Pendants",
+                    "code": "navchain_s"
+                },
+                {
+                    "name": "Knots",
+                    "code": "navchain_r"
+                },
+                {
+                    "name": "Stars and Hearts",
+                    "code": "navchain_q"
+                }
+            ]
+        },
+        {
+            "label": "Red",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Circled Hearts",
+                    "code": "navchain_p"
+                },
+                {
+                    "name": "Double Circles and Pendants",
+                    "code": "navchain_o"
+                },
+                {
+                    "name": "Knots",
+                    "code": "navchain_n"
+                },
+                {
+                    "name": "Stars and Hearts",
+                    "code": "navchain_m"
+                }
+            ]
+        },
+        {
+            "label": "Silver",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Circled Hearts",
+                    "code": "navchain_d"
+                },
+                {
+                    "name": "Double Circles and Pendants",
+                    "code": "navchain_c"
+                },
+                {
+                    "name": "Knots",
+                    "code": "navchain_b"
+                },
+                {
+                    "name": "Stars and Hearts",
+                    "code": "navchain_a"
+                }
+            ]
+        },
+        {
+            "label": "White",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Circled Hearts",
+                    "code": "navchain_l"
+                },
+                {
+                    "name": "Double Circles and Pendants",
+                    "code": "navchain_k"
+                },
+                {
+                    "name": "Knots",
+                    "code": "navchain_j"
+                },
+                {
+                    "name": "Stars and Hearts",
+                    "code": "navchain_i"
+                }
+            ]
+        }
+    ]
 }

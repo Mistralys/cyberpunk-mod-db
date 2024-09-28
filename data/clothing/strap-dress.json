@@ -1,67 +1,71 @@
 {
-  "mod": "Strap Dress",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7270",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
-  "authors": ["MONSTERaider"],
-  "tags": [
-    "Clothing",
-    "Accessories",
-    "Body",
-    "Arms",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Spawn0"
-  ],
-  "items": [
-    {
-      "name": "Gold",
-      "code": "raid_strap_full_gold",
-      "category": "Full Straps"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_strap_full_silver",
-      "category": "Full Straps"
-    },
-    {
-      "name": "Black",
-      "code": "raid_strap_full_black",
-      "category": "Full Straps"
-    },
-    {
-      "name": "Emissive Gold",
-      "code": "raid_strap_full_emissive_gold",
-      "category": "Full Straps"
-    },
-    {
-      "name": "Metallic Black",
-      "code": "raid_strap_full_metallic_black",
-      "category": "Full Straps"
-    },
-    {
-      "name": "Gold",
-      "code": "raid_strapdress_gold",
-      "category": "Revealing Straps"
-    },
-    {
-      "name": "Silver",
-      "code": "raid_strapdress_silver",
-      "category": "Revealing Straps"
-    },
-    {
-      "name": "Black",
-      "code": "raid_strapdress_black",
-      "category": "Revealing Straps"
-    },
-    {
-      "name": "Emissive Gold",
-      "code": "raid_strapdress_emissive_gold",
-      "category": "Revealing Straps"
-    },
-    {
-      "name": "Metallic Black",
-      "code": "raid_strapdress_metallic_black",
-      "category": "Revealing Straps"
-    }
-  ]
+    "mod": "Strap Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7270",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "authors": [
+        "MONSTERaider"
+    ],
+    "tags": [
+        "Accessories",
+        "Arms",
+        "Body",
+        "Body-Spawn0",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Full Straps",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_strap_full_black"
+                },
+                {
+                    "name": "Emissive Gold",
+                    "code": "raid_strap_full_emissive_gold"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_strap_full_gold"
+                },
+                {
+                    "name": "Metallic Black",
+                    "code": "raid_strap_full_metallic_black"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_strap_full_silver"
+                }
+            ]
+        },
+        {
+            "label": "Revealing Straps",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_strapdress_black"
+                },
+                {
+                    "name": "Emissive Gold",
+                    "code": "raid_strapdress_emissive_gold"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_strapdress_gold"
+                },
+                {
+                    "name": "Metallic Black",
+                    "code": "raid_strapdress_metallic_black"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_strapdress_silver"
+                }
+            ]
+        }
+    ]
 }

@@ -1,235 +1,202 @@
 {
-  "mod": "Michiko Dress with Fur",
-  "authors": [
-    "Nola Dreamer"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6885",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
-  "tags": [
-    "Arms",
-    "Body",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Body-Lush"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "nd_michiko_dress_black",
-      "category": "Dress"
-    },
-    {
-      "name": "Blue",
-      "code": "nd_michiko_dress_blue",
-      "category": "Dress"
-    },
-    {
-      "name": "Burgundy",
-      "code": "nd_michiko_dress_burgundy",
-      "category": "Dress"
-    },
-    {
-      "name": "Green",
-      "code": "nd_michiko_dress_green",
-      "category": "Dress"
-    },
-    {
-      "name": "Pink",
-      "code": "nd_michiko_dress_pink",
-      "category": "Dress"
-    },
-    {
-      "name": "Red",
-      "code": "nd_michiko_dress_red",
-      "category": "Dress"
-    },
-    {
-      "name": "Teal",
-      "code": "nd_michiko_dress_teal",
-      "category": "Dress"
-    },
-    {
-      "name": "Violet",
-      "code": "nd_michiko_dress_violet",
-      "category": "Dress"
-    },
-    {
-      "name": "White",
-      "code": "nd_michiko_dress_white",
-      "category": "Dress"
-    },
-    {
-      "name": "Yellow",
-      "code": "nd_michiko_dress_yellow",
-      "category": "Dress"
-    },
-
-
-    {
-      "name": "Midnight Blue",
-      "code": "nd_michiko_fur_midnight_blue",
-      "category": "Fur"
-    },
-    {
-      "name": "Blonde Platinum",
-      "code": "nd_michiko_fur_blonde_platinum",
-      "category": "Fur"
-    },
-    {
-      "name": "Red Merlot",
-      "code": "nd_michiko_fur_red_merlot",
-      "category": "Fur"
-    },
-    {
-      "name": "Golden Yellow",
-      "code": "nd_michiko_fur_golden_yellow",
-      "category": "Fur"
-    },
-    {
-      "name": "Purple Beige Peach",
-      "code": "nd_michiko_fur_purple_beige_peach",
-      "category": "Fur"
-    },
-    {
-      "name": "Blue Sapphire",
-      "code": "nd_michiko_fur_blue_sapphire",
-      "category": "Fur"
-    },
-    {
-      "name": "Brown Ombre",
-      "code": "nd_michiko_fur_brown_ombre",
-      "category": "Fur"
-    },
-    {
-      "name": "Liliac",
-      "code": "nd_michiko_fur_liliac",
-      "category": "Fur"
-    },
-    {
-      "name": "Red Apple",
-      "code": "nd_michiko_fur_red_apple",
-      "category": "Fur"
-    },
-    {
-      "name": "Teal Fluorescent",
-      "code": "nd_michiko_fur_teal_fluorescent",
-      "category": "Fur"
-    },
-    {
-      "name": "Ginger Copper",
-      "code": "nd_michiko_fur_ginger_copper",
-      "category": "Fur"
-    },
-    {
-      "name": "Teal Ombre",
-      "code": "nd_michiko_fur_teal_ombre",
-      "category": "Fur"
-    },
-    {
-      "name": "River Custom",
-      "code": "nd_michiko_fur_river_custom",
-      "category": "Fur"
-    },
-    {
-      "name": "Red Golden",
-      "code": "nd_michiko_fur_red_golden",
-      "category": "Fur"
-    },
-    {
-      "name": "Gray Gunmetal",
-      "code": "nd_michiko_fur_gray_gunmetal",
-      "category": "Fur"
-    },
-    {
-      "name": "Custom Hyena",
-      "code": "nd_michiko_fur_custom_hyena",
-      "category": "Fur"
-    },
-    {
-      "name": "Brown Liquorice",
-      "code": "nd_michiko_fur_brown_liquorice",
-      "category": "Fur"
-    },
-    {
-      "name": "Ginger Strawberry",
-      "code": "nd_michiko_fur_ginger_strawberry",
-      "category": "Fur"
-    },
-    {
-      "name": "Hyena Teal",
-      "code": "nd_michiko_fur_hyena_teal",
-      "category": "Fur"
-    },
-    {
-      "name": "Pink Magenta",
-      "code": "nd_michiko_fur_pink_magenta",
-      "category": "Fur"
-    },
-    {
-      "name": "Black Yellow",
-      "code": "nd_michiko_fur_black_yellow",
-      "category": "Fur"
-    },
-    {
-      "name": "Teal Ash",
-      "code": "nd_michiko_fur_teal_ash",
-      "category": "Fur"
-    },
-    {
-      "name": "Black Carbon",
-      "code": "nd_michiko_fur_black_carbon",
-      "category": "Fur"
-    },
-    {
-      "name": "Black Red",
-      "code": "nd_michiko_fur_black_red",
-      "category": "Fur"
-    },
-    {
-      "name": "Cold White",
-      "code": "nd_michiko_fur_cold_white",
-      "category": "Fur"
-    },
-    {
-      "name": "Hyena",
-      "code": "nd_michiko_fur_hyena",
-      "category": "Fur"
-    },
-    {
-      "name": "Purple Ombre",
-      "code": "nd_michiko_fur_purple_ombre",
-      "category": "Fur"
-    },
-    {
-      "name": "Blonde Golden",
-      "code": "nd_michiko_fur_blonde_golden",
-      "category": "Fur"
-    },
-    {
-      "name": "Pink Rose",
-      "code": "nd_michiko_fur_pink_rose",
-      "category": "Fur"
-    },
-    {
-      "name": "Blonde Dishwater",
-      "code": "nd_michiko_fur_blonde_dishwater",
-      "category": "Fur"
-    },
-    {
-      "name": "Black Blue",
-      "code": "nd_michiko_fur_black_blue",
-      "category": "Fur"
-    },
-    {
-      "name": "Blue Steel",
-      "code": "nd_michiko_fur_blue_steel",
-      "category": "Fur"
-    },
-    {
-      "name": "Orange Fluorescent",
-      "code": "nd_michiko_fur_orange_fluorescent",
-      "category": "Fur"
-    }
-  ]
+    "mod": "Michiko Dress with Fur",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6885",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "authors": [
+        "Nola Dreamer"
+    ],
+    "tags": [
+        "Arms",
+        "Body",
+        "Body-Hyst",
+        "Body-Lush",
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Dress",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_michiko_dress_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_michiko_dress_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_michiko_dress_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_michiko_dress_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_michiko_dress_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_michiko_dress_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nd_michiko_dress_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nd_michiko_dress_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_michiko_dress_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nd_michiko_dress_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Fur",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Blue",
+                    "code": "nd_michiko_fur_black_blue"
+                },
+                {
+                    "name": "Black Carbon",
+                    "code": "nd_michiko_fur_black_carbon"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "nd_michiko_fur_black_red"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "nd_michiko_fur_black_yellow"
+                },
+                {
+                    "name": "Blonde Dishwater",
+                    "code": "nd_michiko_fur_blonde_dishwater"
+                },
+                {
+                    "name": "Blonde Golden",
+                    "code": "nd_michiko_fur_blonde_golden"
+                },
+                {
+                    "name": "Blonde Platinum",
+                    "code": "nd_michiko_fur_blonde_platinum"
+                },
+                {
+                    "name": "Blue Sapphire",
+                    "code": "nd_michiko_fur_blue_sapphire"
+                },
+                {
+                    "name": "Blue Steel",
+                    "code": "nd_michiko_fur_blue_steel"
+                },
+                {
+                    "name": "Brown Liquorice",
+                    "code": "nd_michiko_fur_brown_liquorice"
+                },
+                {
+                    "name": "Brown Ombre",
+                    "code": "nd_michiko_fur_brown_ombre"
+                },
+                {
+                    "name": "Cold White",
+                    "code": "nd_michiko_fur_cold_white"
+                },
+                {
+                    "name": "Custom Hyena",
+                    "code": "nd_michiko_fur_custom_hyena"
+                },
+                {
+                    "name": "Ginger Copper",
+                    "code": "nd_michiko_fur_ginger_copper"
+                },
+                {
+                    "name": "Ginger Strawberry",
+                    "code": "nd_michiko_fur_ginger_strawberry"
+                },
+                {
+                    "name": "Golden Yellow",
+                    "code": "nd_michiko_fur_golden_yellow"
+                },
+                {
+                    "name": "Gray Gunmetal",
+                    "code": "nd_michiko_fur_gray_gunmetal"
+                },
+                {
+                    "name": "Hyena",
+                    "code": "nd_michiko_fur_hyena"
+                },
+                {
+                    "name": "Hyena Teal",
+                    "code": "nd_michiko_fur_hyena_teal"
+                },
+                {
+                    "name": "Liliac",
+                    "code": "nd_michiko_fur_liliac"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "nd_michiko_fur_midnight_blue"
+                },
+                {
+                    "name": "Orange Fluorescent",
+                    "code": "nd_michiko_fur_orange_fluorescent"
+                },
+                {
+                    "name": "Pink Magenta",
+                    "code": "nd_michiko_fur_pink_magenta"
+                },
+                {
+                    "name": "Pink Rose",
+                    "code": "nd_michiko_fur_pink_rose"
+                },
+                {
+                    "name": "Purple Beige Peach",
+                    "code": "nd_michiko_fur_purple_beige_peach"
+                },
+                {
+                    "name": "Purple Ombre",
+                    "code": "nd_michiko_fur_purple_ombre"
+                },
+                {
+                    "name": "Red Apple",
+                    "code": "nd_michiko_fur_red_apple"
+                },
+                {
+                    "name": "Red Golden",
+                    "code": "nd_michiko_fur_red_golden"
+                },
+                {
+                    "name": "Red Merlot",
+                    "code": "nd_michiko_fur_red_merlot"
+                },
+                {
+                    "name": "River Custom",
+                    "code": "nd_michiko_fur_river_custom"
+                },
+                {
+                    "name": "Teal Ash",
+                    "code": "nd_michiko_fur_teal_ash"
+                },
+                {
+                    "name": "Teal Fluorescent",
+                    "code": "nd_michiko_fur_teal_fluorescent"
+                },
+                {
+                    "name": "Teal Ombre",
+                    "code": "nd_michiko_fur_teal_ombre"
+                }
+            ]
+        }
+    ]
 }

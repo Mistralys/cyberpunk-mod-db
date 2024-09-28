@@ -1,93 +1,91 @@
 {
-  "mod": "Ziva Cross Cut Dress",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/16620",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Torso",
-    "FullBody",
-    "Legs",
-    "Clothing",
-    "Body-Angel",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBBRB",
-    "Body-Hyst-EBBP",
-    "Body-Hyst-EBBPRB",
-    "Body-Hyst-RB",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Black Stripes",
-      "code": "zivacc_a",
-      "category": "Dress"
-    },
-    {
-      "name": "White Stripes",
-      "code": "zivacc_b",
-      "category": "Dress"
-    },
-    {
-      "name": "Burgundy Stripes",
-      "code": "zivacc_c",
-      "category": "Dress"
-    },
-    {
-      "name": "Green Stripes",
-      "code": "zivacc_d",
-      "category": "Dress"
-    },
-    {
-      "name": "Blue Stripes",
-      "code": "zivacc_e",
-      "category": "Dress"
-    },
-    {
-      "name": "Red Stripes",
-      "code": "zivacc_f",
-      "category": "Dress"
-    },
-    {
-      "name": "Black Plain",
-      "code": "zivacc_g",
-      "category": "Dress"
-    },
-    {
-      "name": "White Plain",
-      "code": "zivacc_h",
-      "category": "Dress"
-    },
-    {
-      "name": "Burgundy Plain",
-      "code": "zivacc_i",
-      "category": "Dress"
-    },
-    {
-      "name": "Green Plain",
-      "code": "zivacc_j",
-      "category": "Dress"
-    },
-    {
-      "name": "Blue Plain",
-      "code": "zivacc_k",
-      "category": "Dress"
-    },
-    {
-      "name": "Red Plain",
-      "code": "zivacc_l",
-      "category": "Dress"
-    },
-    {
-      "name": "Dress Straps, Black",
-      "code": "zivaccstraps_a",
-      "category": "Straps"
-    },
-    {
-      "name": "Dress Straps, Gold",
-      "code": "zivaccstraps_b",
-      "category": "Straps"
-    }
-  ]
+    "mod": "Ziva Cross Cut Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16620",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "Body-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Clothing",
+        "FemV",
+        "FullBody",
+        "Legs",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Dress",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Plain",
+                    "code": "zivacc_g"
+                },
+                {
+                    "name": "Black Stripes",
+                    "code": "zivacc_a"
+                },
+                {
+                    "name": "Blue Plain",
+                    "code": "zivacc_k"
+                },
+                {
+                    "name": "Blue Stripes",
+                    "code": "zivacc_e"
+                },
+                {
+                    "name": "Burgundy Plain",
+                    "code": "zivacc_i"
+                },
+                {
+                    "name": "Burgundy Stripes",
+                    "code": "zivacc_c"
+                },
+                {
+                    "name": "Green Plain",
+                    "code": "zivacc_j"
+                },
+                {
+                    "name": "Green Stripes",
+                    "code": "zivacc_d"
+                },
+                {
+                    "name": "Red Plain",
+                    "code": "zivacc_l"
+                },
+                {
+                    "name": "Red Stripes",
+                    "code": "zivacc_f"
+                },
+                {
+                    "name": "White Plain",
+                    "code": "zivacc_h"
+                },
+                {
+                    "name": "White Stripes",
+                    "code": "zivacc_b"
+                }
+            ]
+        },
+        {
+            "label": "Straps",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Dress Straps, Black",
+                    "code": "zivaccstraps_a"
+                },
+                {
+                    "name": "Dress Straps, Gold",
+                    "code": "zivaccstraps_b"
+                }
+            ]
+        }
+    ]
 }

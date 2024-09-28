@@ -1,35 +1,41 @@
 {
-  "mod": "Hanako Dress",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6034",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Torso",
-    "Legs",
-    "FullBody",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBBRB"
-  ],
-  "items": [
-    {
-      "name": "Black Jacket",
-      "code": "hanj_a"
-    },
-    {
-      "name": "White Jacket",
-      "code": "hanj_b"
-    },
-    {
-      "name": "Black Dress",
-      "code": "hand_a"
-    },
-    {
-      "name": "White Dress",
-      "code": "hand_b"
-    }
-  ]
+    "mod": "Hanako Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6034",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Vanilla",
+        "FemV",
+        "FullBody",
+        "Legs",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Dress",
+                    "code": "hand_a"
+                },
+                {
+                    "name": "Black Jacket",
+                    "code": "hanj_a"
+                },
+                {
+                    "name": "White Dress",
+                    "code": "hand_b"
+                },
+                {
+                    "name": "White Jacket",
+                    "code": "hanj_b"
+                }
+            ]
+        }
+    ]
 }

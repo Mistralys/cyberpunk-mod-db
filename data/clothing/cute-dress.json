@@ -1,52 +1,58 @@
 {
-  "mod": "Cute Dress",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6193",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Torso",
-    "Legs",
-    "FullBody",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Black Gold",
-      "code": "cuti_a"
-    },
-    {
-      "name": "Black Silver",
-      "code": "cuti_b"
-    },
-    {
-      "name": "Blue Silver",
-      "code": "cuti_c"
-    },
-    {
-      "name": "Green Silver",
-      "code": "cuti_d"
-    },
-    {
-      "name": "Gray Silver",
-      "code": "cuti_e"
-    },
-    {
-      "name": "Red Silver",
-      "code": "cuti_f"
-    },
-    {
-      "name": "Purple Silver",
-      "code": "cuti_g"
-    },
-    {
-      "name": "White Gold",
-      "code": "cuti_h"
-    },
-    {
-      "name": "White Silver",
-      "code": "cuti_i"
-    }
-  ]
+    "mod": "Cute Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6193",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "FemV",
+        "FullBody",
+        "Legs",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Gold",
+                    "code": "cuti_a"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "cuti_b"
+                },
+                {
+                    "name": "Blue Silver",
+                    "code": "cuti_c"
+                },
+                {
+                    "name": "Gray Silver",
+                    "code": "cuti_e"
+                },
+                {
+                    "name": "Green Silver",
+                    "code": "cuti_d"
+                },
+                {
+                    "name": "Purple Silver",
+                    "code": "cuti_g"
+                },
+                {
+                    "name": "Red Silver",
+                    "code": "cuti_f"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "cuti_h"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "cuti_i"
+                }
+            ]
+        }
+    ]
 }
