@@ -1,29 +1,37 @@
 {
-  "mod": "XRX Leather Jacket",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7661",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Clothing",
-    "Torso",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst"
-  ],
-  "items": [
-    {
-      "name": "Variant A - Matte Black, Black Sleeves",
-      "code": "clja_a"
-    },
-    {
-      "name": "Variant B - Matte Black, Dark Grey Sleeves",
-      "code": "clja_b"
-    },
-    {
-      "name": "Variant C - Shiny Black",
-      "code": "clja_c"
-    }
-  ]
+    "mod": "XRX Leather Jacket",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7661",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Variant A - Matte Black, Black Sleeves",
+                    "code": "clja_a"
+                },
+                {
+                    "name": "Variant B - Matte Black, Dark Grey Sleeves",
+                    "code": "clja_b"
+                },
+                {
+                    "name": "Variant C - Shiny Black",
+                    "code": "clja_c"
+                }
+            ]
+        }
+    ]
 }

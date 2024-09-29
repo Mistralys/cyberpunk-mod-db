@@ -1,71 +1,86 @@
 {
-  "mod": "Salander's Earplugs",
-  "authors": ["Kwek"],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7600",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
-  "tags": [
-    "FemV",
-    "MaleV",
-    "Earrings",
-    "Jewelry",
-    "Holo"
-  ],
-  "items": [
-    {
-      "name": "Default",
-      "code": "kwek_earplugs_01_default"
-    },
-    {
-      "name": "Gold",
-      "code": "kwek_earplugs_01_gold"
-    },
-    {
-      "name": "Silver",
-      "code": "kwek_earplugs_01_silver"
-    },
-    {
-      "name": "Pink Metal",
-      "code": "kwek_earplugs_01_pink_metal"
-    },
-    {
-      "name": "Plastic Red",
-      "code": "kwek_earplugs_01_plastic_red"
-    },
-    {
-      "name": "Plastic Cyan",
-      "code": "kwek_earplugs_01_plastic_cyan"
-    },
-    {
-      "name": "Special Hologram",
-      "code": "kwek_earplugs_01_special_hologram"
-    },
-    {
-      "name": "Pink Hologram",
-      "code": "kwek_earplugs_01_pink_hologram"
-    },
-    {
-      "name": "Blue",
-      "code": "kwek_earplugs_01_blue"
-    },
-    {
-      "name": "White",
-      "code": "kwek_earplugs_01_white"
-    },
-    {
-      "name": "Gold Textured",
-      "code": "kwek_earplugs_01_gold_textured"
-    },
-    {
-      "name": "Silver Textured",
-      "code": "kwek_earplugs_01_silver_textured"
-    },
-    {
-      "name": "Purple Kitsch",
-      "code": "kwek_earplugs_01_purple_kitsch"
-    },
-    {
-      "name": "Black",
-      "code": "kwek_earplugs_01_black"
-    }
-  ]
+    "mod": "Salander's Earplugs",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7600",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "authors": [
+        "Kwek"
+    ],
+    "tags": [
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Earring",
+                "Jewelry",
+                "Physics"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "kwek_earplugs_01_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "kwek_earplugs_01_blue"
+                },
+                {
+                    "name": "Default",
+                    "code": "kwek_earplugs_01_default"
+                },
+                {
+                    "name": "Gold",
+                    "code": "kwek_earplugs_01_gold"
+                },
+                {
+                    "name": "Gold Textured",
+                    "code": "kwek_earplugs_01_gold_textured"
+                },
+                {
+                    "name": "Pink Hologram",
+                    "code": "kwek_earplugs_01_pink_hologram",
+                    "tag": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Pink Metal",
+                    "code": "kwek_earplugs_01_pink_metal"
+                },
+                {
+                    "name": "Plastic Cyan",
+                    "code": "kwek_earplugs_01_plastic_cyan"
+                },
+                {
+                    "name": "Plastic Red",
+                    "code": "kwek_earplugs_01_plastic_red"
+                },
+                {
+                    "name": "Purple Kitsch",
+                    "code": "kwek_earplugs_01_purple_kitsch"
+                },
+                {
+                    "name": "Silver",
+                    "code": "kwek_earplugs_01_silver"
+                },
+                {
+                    "name": "Silver Textured",
+                    "code": "kwek_earplugs_01_silver_textured"
+                },
+                {
+                    "name": "Special Hologram",
+                    "code": "kwek_earplugs_01_special_hologram",
+                    "tag": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "White",
+                    "code": "kwek_earplugs_01_white"
+                }
+            ]
+        }
+    ]
 }

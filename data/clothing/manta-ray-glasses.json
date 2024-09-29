@@ -1,1159 +1,989 @@
 {
-  "mod": "Manta Ray Glasses",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/16130",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12223",
-  "authors": [
-    "beaniebby"
-  ],
-  "tags": [
-    "Head",
-    "Glasses",
-    "Jewellery",
-    "Clothing",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_face_lighttint_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_face_mediumtint_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_face_darktint_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_face_clear_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_face_sepia_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_face_darkred_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_face_bluemirrored_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_face_pinkmirrored_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_face_blackmirrored_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_face_greenmirrored_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_face_redmirrored_gold",
-      "category": "Golden Frames"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_face_purplemirrored_gold",
-      "category": "Golden Frames"
-    },
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_face_lighttint_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_face_mediumtint_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_face_darktint_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_face_clear_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_face_sepia_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_face_darkred_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_face_bluemirrored_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_face_pinkmirrored_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_face_blackmirrored_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_face_greenmirrored_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_face_redmirrored_silver",
-      "category": "Silver Frames"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_face_purplemirrored_silver",
-      "category": "Silver Frames"
-    },
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_face_lighttint_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_face_mediumtint_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_face_darktint_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_face_clear_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_face_sepia_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_face_darkred_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_face_bluemirrored_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_face_pinkmirrored_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_face_blackmirrored_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_face_greenmirrored_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_face_redmirrored_red",
-      "category": "Red Frames"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_face_purplemirrored_red",
-      "category": "Red Frames"
-    },
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_face_lighttint_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_face_mediumtint_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_face_darktint_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_face_clear_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_face_sepia_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_face_darkred_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_face_bluemirrored_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_face_pinkmirrored_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_face_blackmirrored_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_face_greenmirrored_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_face_redmirrored_pink",
-      "category": "Pink Frames"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_face_purplemirrored_pink",
-      "category": "Pink Frames"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_face_lighttint_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_face_mediumtint_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_face_darktint_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_face_clear_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_face_sepia_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_face_darkred_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_face_bluemirrored_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_face_pinkmirrored_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_face_blackmirrored_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_face_greenmirrored_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_face_redmirrored_white",
-      "category": "White Frames"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_face_purplemirrored_white",
-      "category": "White Frames"
-    },
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_face_lighttint_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_face_mediumtint_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_face_darktint_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_face_clear_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_face_sepia_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_face_darkred_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_face_bluemirrored_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_face_pinkmirrored_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_face_blackmirrored_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_face_greenmirrored_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_face_redmirrored_black",
-      "category": "Black Frames"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_face_purplemirrored_black",
-      "category": "Black Frames"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_pulled_lighttint_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_pulled_mediumtint_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_pulled_darktint_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_pulled_clear_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_pulled_sepia_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_pulled_darkred_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_pulled_bluemirrored_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_pulled_pinkmirrored_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_pulled_blackmirrored_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_pulled_greenmirrored_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_pulled_redmirrored_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_pulled_purplemirrored_gold",
-      "category": "Gold Frames (Pulled down)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_pulled_lighttint_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_pulled_mediumtint_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_pulled_darktint_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_pulled_clear_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_pulled_sepia_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_pulled_darkred_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_pulled_bluemirrored_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_pulled_pinkmirrored_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_pulled_blackmirrored_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_pulled_greenmirrored_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_pulled_redmirrored_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_pulled_purplemirrored_silver",
-      "category": "Silver Frames (Pulled down)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_pulled_lighttint_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_pulled_mediumtint_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_pulled_darktint_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_pulled_clear_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_pulled_sepia_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_pulled_darkred_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_pulled_bluemirrored_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_pulled_pinkmirrored_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_pulled_blackmirrored_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_pulled_greenmirrored_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_pulled_redmirrored_red",
-      "category": "Red Frames (Pulled down)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_pulled_purplemirrored_red",
-      "category": "Red Frames (Pulled down)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_pulled_lighttint_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_pulled_mediumtint_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_pulled_darktint_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_pulled_clear_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_pulled_sepia_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_pulled_darkred_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_pulled_bluemirrored_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_pulled_pinkmirrored_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_pulled_blackmirrored_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_pulled_greenmirrored_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_pulled_redmirrored_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_pulled_purplemirrored_pink",
-      "category": "Pink Frames (Pulled down)"
-    },
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_pulled_lighttint_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_pulled_mediumtint_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_pulled_darktint_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_pulled_clear_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_pulled_sepia_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_pulled_darkred_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_pulled_bluemirrored_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_pulled_pinkmirrored_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_pulled_blackmirrored_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_pulled_greenmirrored_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_pulled_redmirrored_white",
-      "category": "White Frames (Pulled down)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_pulled_purplemirrored_white",
-      "category": "White Frames (Pulled down)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_pulled_lighttint_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_pulled_mediumtint_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_pulled_darktint_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_pulled_clear_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_pulled_sepia_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_pulled_darkred_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_pulled_bluemirrored_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_pulled_pinkmirrored_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_pulled_blackmirrored_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_pulled_greenmirrored_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_pulled_redmirrored_black",
-      "category": "Black Frames (Pulled down)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_pulled_purplemirrored_black",
-      "category": "Black Frames (Pulled down)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_head_lighttint_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_head_mediumtint_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_head_darktint_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_head_clear_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_head_sepia_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_head_darkred_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_head_bluemirrored_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_head_pinkmirrored_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_head_blackmirrored_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_head_greenmirrored_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_head_redmirrored_gold",
-      "category": "Gold Frames (On Head)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_head_purplemirrored_gold",
-      "category": "Gold Frames (On Head)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_head_lighttint_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_head_mediumtint_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_head_darktint_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_head_clear_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_head_sepia_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_head_darkred_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_head_bluemirrored_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_head_pinkmirrored_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_head_blackmirrored_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_head_greenmirrored_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_head_redmirrored_silver",
-      "category": "Silver Frames (On Head)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_head_purplemirrored_silver",
-      "category": "Silver Frames (On Head)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_head_lighttint_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_head_mediumtint_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_head_darktint_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_head_clear_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_head_sepia_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_head_darkred_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_head_bluemirrored_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_head_pinkmirrored_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_head_blackmirrored_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_head_greenmirrored_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_head_redmirrored_red",
-      "category": "Red Frames (On Head)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_head_purplemirrored_red",
-      "category": "Red Frames (On Head)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_head_lighttint_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_head_mediumtint_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_head_darktint_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_head_clear_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_head_sepia_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_head_darkred_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_head_bluemirrored_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_head_pinkmirrored_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_head_blackmirrored_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_head_greenmirrored_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_head_redmirrored_pink",
-      "category": "Pink Frames (On Head)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_head_purplemirrored_pink",
-      "category": "Pink Frames (On Head)"
-    },
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_head_lighttint_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_head_mediumtint_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_head_darktint_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_head_clear_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_head_sepia_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_head_darkred_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_head_bluemirrored_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_head_pinkmirrored_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_head_blackmirrored_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_head_greenmirrored_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_head_redmirrored_white",
-      "category": "White Frames (On Head)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_head_purplemirrored_white",
-      "category": "White Frames (On Head)"
-    },
-
-
-
-
-    {
-      "name": "Light Tint",
-      "code": "manta_ray_glasses_head_lighttint_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Medium Tint",
-      "code": "manta_ray_glasses_head_mediumtint_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Dark Tint",
-      "code": "manta_ray_glasses_head_darktint_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Clear",
-      "code": "manta_ray_glasses_head_clear_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Sepia",
-      "code": "manta_ray_glasses_head_sepia_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Dark Red",
-      "code": "manta_ray_glasses_head_darkred_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Blue Mirrored",
-      "code": "manta_ray_glasses_head_bluemirrored_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Pink Mirrored",
-      "code": "manta_ray_glasses_head_pinkmirrored_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Black Mirrored",
-      "code": "manta_ray_glasses_head_blackmirrored_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Green Mirrored",
-      "code": "manta_ray_glasses_head_greenmirrored_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Red Mirrored",
-      "code": "manta_ray_glasses_head_redmirrored_black",
-      "category": "Black Frames (On Head)"
-    },
-    {
-      "name": "Purple Mirrored",
-      "code": "manta_ray_glasses_head_purplemirrored_black",
-      "category": "Black Frames (On Head)"
-    }
-  ]
+    "mod": "Manta Ray Glasses",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16130",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12223",
+    "authors": [
+        "beaniebby"
+    ],
+    "tags": [
+        "Clothing",
+        "FemV",
+        "Glasses",
+        "Head",
+        "Jewelry"
+    ],
+    "itemCategories": [
+        {
+            "label": "Black Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_face_blackmirrored_black"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_face_bluemirrored_black"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_face_clear_black"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_face_darkred_black"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_face_darktint_black"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_face_greenmirrored_black"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_face_lighttint_black"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_face_mediumtint_black"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_face_pinkmirrored_black"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_face_purplemirrored_black"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_face_redmirrored_black"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_face_sepia_black"
+                }
+            ]
+        },
+        {
+            "label": "Black Frames (On Head)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_head_blackmirrored_black"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_head_bluemirrored_black"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_head_clear_black"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_head_darkred_black"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_head_darktint_black"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_head_greenmirrored_black"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_head_lighttint_black"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_head_mediumtint_black"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_head_pinkmirrored_black"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_head_purplemirrored_black"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_head_redmirrored_black"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_head_sepia_black"
+                }
+            ]
+        },
+        {
+            "label": "Black Frames (Pulled down)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_pulled_blackmirrored_black"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_pulled_bluemirrored_black"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_pulled_clear_black"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_pulled_darkred_black"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_pulled_darktint_black"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_pulled_greenmirrored_black"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_pulled_lighttint_black"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_pulled_mediumtint_black"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_pulled_pinkmirrored_black"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_pulled_purplemirrored_black"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_pulled_redmirrored_black"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_pulled_sepia_black"
+                }
+            ]
+        },
+        {
+            "label": "Golden Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_face_blackmirrored_gold"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_face_bluemirrored_gold"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_face_clear_gold"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_face_darkred_gold"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_face_darktint_gold"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_face_greenmirrored_gold"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_face_lighttint_gold"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_face_mediumtint_gold"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_face_pinkmirrored_gold"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_face_purplemirrored_gold"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_face_redmirrored_gold"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_face_sepia_gold"
+                }
+            ]
+        },
+        {
+            "label": "Gold Frames (On Head)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_head_blackmirrored_gold"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_head_bluemirrored_gold"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_head_clear_gold"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_head_darkred_gold"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_head_darktint_gold"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_head_greenmirrored_gold"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_head_lighttint_gold"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_head_mediumtint_gold"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_head_pinkmirrored_gold"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_head_purplemirrored_gold"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_head_redmirrored_gold"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_head_sepia_gold"
+                }
+            ]
+        },
+        {
+            "label": "Gold Frames (Pulled down)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_pulled_blackmirrored_gold"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_pulled_bluemirrored_gold"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_pulled_clear_gold"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_pulled_darkred_gold"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_pulled_darktint_gold"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_pulled_greenmirrored_gold"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_pulled_lighttint_gold"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_pulled_mediumtint_gold"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_pulled_pinkmirrored_gold"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_pulled_purplemirrored_gold"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_pulled_redmirrored_gold"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_pulled_sepia_gold"
+                }
+            ]
+        },
+        {
+            "label": "Pink Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_face_blackmirrored_pink"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_face_bluemirrored_pink"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_face_clear_pink"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_face_darkred_pink"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_face_darktint_pink"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_face_greenmirrored_pink"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_face_lighttint_pink"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_face_mediumtint_pink"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_face_pinkmirrored_pink"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_face_purplemirrored_pink"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_face_redmirrored_pink"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_face_sepia_pink"
+                }
+            ]
+        },
+        {
+            "label": "Pink Frames (On Head)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_head_blackmirrored_pink"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_head_bluemirrored_pink"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_head_clear_pink"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_head_darkred_pink"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_head_darktint_pink"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_head_greenmirrored_pink"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_head_lighttint_pink"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_head_mediumtint_pink"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_head_pinkmirrored_pink"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_head_purplemirrored_pink"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_head_redmirrored_pink"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_head_sepia_pink"
+                }
+            ]
+        },
+        {
+            "label": "Pink Frames (Pulled down)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_pulled_blackmirrored_pink"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_pulled_bluemirrored_pink"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_pulled_clear_pink"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_pulled_darkred_pink"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_pulled_darktint_pink"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_pulled_greenmirrored_pink"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_pulled_lighttint_pink"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_pulled_mediumtint_pink"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_pulled_pinkmirrored_pink"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_pulled_purplemirrored_pink"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_pulled_redmirrored_pink"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_pulled_sepia_pink"
+                }
+            ]
+        },
+        {
+            "label": "Red Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_face_blackmirrored_red"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_face_bluemirrored_red"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_face_clear_red"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_face_darkred_red"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_face_darktint_red"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_face_greenmirrored_red"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_face_lighttint_red"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_face_mediumtint_red"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_face_pinkmirrored_red"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_face_purplemirrored_red"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_face_redmirrored_red"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_face_sepia_red"
+                }
+            ]
+        },
+        {
+            "label": "Red Frames (On Head)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_head_blackmirrored_red"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_head_bluemirrored_red"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_head_clear_red"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_head_darkred_red"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_head_darktint_red"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_head_greenmirrored_red"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_head_lighttint_red"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_head_mediumtint_red"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_head_pinkmirrored_red"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_head_purplemirrored_red"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_head_redmirrored_red"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_head_sepia_red"
+                }
+            ]
+        },
+        {
+            "label": "Red Frames (Pulled down)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_pulled_blackmirrored_red"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_pulled_bluemirrored_red"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_pulled_clear_red"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_pulled_darkred_red"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_pulled_darktint_red"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_pulled_greenmirrored_red"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_pulled_lighttint_red"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_pulled_mediumtint_red"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_pulled_pinkmirrored_red"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_pulled_purplemirrored_red"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_pulled_redmirrored_red"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_pulled_sepia_red"
+                }
+            ]
+        },
+        {
+            "label": "Silver Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_face_blackmirrored_silver"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_face_bluemirrored_silver"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_face_clear_silver"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_face_darkred_silver"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_face_darktint_silver"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_face_greenmirrored_silver"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_face_lighttint_silver"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_face_mediumtint_silver"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_face_pinkmirrored_silver"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_face_purplemirrored_silver"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_face_redmirrored_silver"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_face_sepia_silver"
+                }
+            ]
+        },
+        {
+            "label": "Silver Frames (On Head)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_head_blackmirrored_silver"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_head_bluemirrored_silver"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_head_clear_silver"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_head_darkred_silver"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_head_darktint_silver"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_head_greenmirrored_silver"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_head_lighttint_silver"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_head_mediumtint_silver"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_head_pinkmirrored_silver"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_head_purplemirrored_silver"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_head_redmirrored_silver"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_head_sepia_silver"
+                }
+            ]
+        },
+        {
+            "label": "Silver Frames (Pulled down)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_pulled_blackmirrored_silver"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_pulled_bluemirrored_silver"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_pulled_clear_silver"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_pulled_darkred_silver"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_pulled_darktint_silver"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_pulled_greenmirrored_silver"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_pulled_lighttint_silver"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_pulled_mediumtint_silver"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_pulled_pinkmirrored_silver"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_pulled_purplemirrored_silver"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_pulled_redmirrored_silver"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_pulled_sepia_silver"
+                }
+            ]
+        },
+        {
+            "label": "White Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_face_blackmirrored_white"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_face_bluemirrored_white"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_face_clear_white"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_face_darkred_white"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_face_darktint_white"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_face_greenmirrored_white"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_face_lighttint_white"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_face_mediumtint_white"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_face_pinkmirrored_white"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_face_purplemirrored_white"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_face_redmirrored_white"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_face_sepia_white"
+                }
+            ]
+        },
+        {
+            "label": "White Frames (On Head)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_head_blackmirrored_white"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_head_bluemirrored_white"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_head_clear_white"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_head_darkred_white"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_head_darktint_white"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_head_greenmirrored_white"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_head_lighttint_white"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_head_mediumtint_white"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_head_pinkmirrored_white"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_head_purplemirrored_white"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_head_redmirrored_white"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_head_sepia_white"
+                }
+            ]
+        },
+        {
+            "label": "White Frames (Pulled down)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Mirrored",
+                    "code": "manta_ray_glasses_pulled_blackmirrored_white"
+                },
+                {
+                    "name": "Blue Mirrored",
+                    "code": "manta_ray_glasses_pulled_bluemirrored_white"
+                },
+                {
+                    "name": "Clear",
+                    "code": "manta_ray_glasses_pulled_clear_white"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "manta_ray_glasses_pulled_darkred_white"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "manta_ray_glasses_pulled_darktint_white"
+                },
+                {
+                    "name": "Green Mirrored",
+                    "code": "manta_ray_glasses_pulled_greenmirrored_white"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "manta_ray_glasses_pulled_lighttint_white"
+                },
+                {
+                    "name": "Medium Tint",
+                    "code": "manta_ray_glasses_pulled_mediumtint_white"
+                },
+                {
+                    "name": "Pink Mirrored",
+                    "code": "manta_ray_glasses_pulled_pinkmirrored_white"
+                },
+                {
+                    "name": "Purple Mirrored",
+                    "code": "manta_ray_glasses_pulled_purplemirrored_white"
+                },
+                {
+                    "name": "Red Mirrored",
+                    "code": "manta_ray_glasses_pulled_redmirrored_white"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "manta_ray_glasses_pulled_sepia_white"
+                }
+            ]
+        }
+    ]
 }

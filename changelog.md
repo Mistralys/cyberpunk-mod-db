@@ -1,3 +1,9 @@
+## v2.0.0 - Structure update
+- Data: Changed items structure to use categories.
+- Data: Items can now have their own tags.
+- Mods: Updated all mods to use the new structure.
+- Data: Added a normalization script.
+
 ## v1.0.1 - Added mods
 - Mods: Added "Mirror's Edge - Faith Outfit" by Apzurv.
 - Mods: Added "Aurore Modular Set" by MONSTERaider.

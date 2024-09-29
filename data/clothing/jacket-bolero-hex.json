@@ -1,47 +1,53 @@
 {
-  "mod": "Jacket Bolero Hex",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/16378",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "authors": [
-    "Apzurv"
-  ],
-  "tags": [
-    "Torso",
-    "Jacket",
-    "FemV"
-  ],
-  "items": [
-    {
-      "name": "Rubber Black Black",
-      "code": "jackbhex_a"
-    },
-    {
-      "name": "Rubber Black Blue",
-      "code": "jackbhex_b"
-    },
-    {
-      "name": "Rubber Black Green",
-      "code": "jackbhex_c"
-    },
-    {
-      "name": "Rubber Black Orange",
-      "code": "jackbhex_d"
-    },
-    {
-      "name": "Rubber Black Red",
-      "code": "jackbhex_e"
-    },
-    {
-      "name": "Rubber Black White",
-      "code": "jackbhex_f"
-    },
-    {
-      "name": "Rubber Red Black",
-      "code": "jackbhex_g"
-    },
-    {
-      "name": "Rubber White Black",
-      "code": "jackbhex_h"
-    }
-  ]
+    "mod": "Jacket Bolero Hex",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16378",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "FemV",
+        "Jacket",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Rubber Black Black",
+                    "code": "jackbhex_a"
+                },
+                {
+                    "name": "Rubber Black Blue",
+                    "code": "jackbhex_b"
+                },
+                {
+                    "name": "Rubber Black Green",
+                    "code": "jackbhex_c"
+                },
+                {
+                    "name": "Rubber Black Orange",
+                    "code": "jackbhex_d"
+                },
+                {
+                    "name": "Rubber Black Red",
+                    "code": "jackbhex_e"
+                },
+                {
+                    "name": "Rubber Black White",
+                    "code": "jackbhex_f"
+                },
+                {
+                    "name": "Rubber Red Black",
+                    "code": "jackbhex_g"
+                },
+                {
+                    "name": "Rubber White Black",
+                    "code": "jackbhex_h"
+                }
+            ]
+        }
+    ]
 }

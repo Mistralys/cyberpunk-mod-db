@@ -1,86 +1,91 @@
 {
-  "mod": "Short Tank Top",
-  "authors": ["LxRHyst"],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/6601",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6015",
-  "tags": [
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Clothing",
-    "Torso",
-    "Skimpy"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "hyst_short_tank_black",
-      "category": "Regular"
-    },
-    {
-      "name": "Red",
-      "code": "hyst_short_tank_red",
-      "category": "Regular"
-    },
-    {
-      "name": "Blue",
-      "code": "hyst_short_tank_blue",
-      "category": "Regular"
-    },
-    {
-      "name": "Pink Pastel",
-      "code": "hyst_short_tank_pinkpastel",
-      "category": "Regular"
-    },
-    {
-      "name": "White",
-      "code": "hyst_short_tank_white",
-      "category": "Regular"
-    },
-    {
-      "name": "Green",
-      "code": "hyst_short_tank_green",
-      "category": "Regular"
-    },
-    {
-      "name": "Pink",
-      "code": "hyst_short_tank_pink",
-      "category": "Regular"
-    },
-    {
-      "name": "Black",
-      "code": "hyst_short_tank_ub_black",
-      "category": "Underboob"
-    },
-    {
-      "name": "Red",
-      "code": "hyst_short_tank_ub_red",
-      "category": "Underboob"
-    },
-    {
-      "name": "Blue",
-      "code": "hyst_short_tank_ub_blue",
-      "category": "Underboob"
-    },
-    {
-      "name": "Pink Pastel",
-      "code": "hyst_short_tank_ub_pinkpastel",
-      "category": "Underboob"
-    },
-    {
-      "name": "White",
-      "code": "hyst_short_tank_ub_white",
-      "category": "Underboob"
-    },
-    {
-      "name": "Green",
-      "code": "hyst_short_tank_ub_green",
-      "category": "Underboob"
-    },
-    {
-      "name": "Pink",
-      "code": "hyst_short_tank_ub_pink",
-      "category": "Underboob"
-    }
-  ]
+    "mod": "Short Tank Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6601",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6015",
+    "authors": [
+        "LxRHyst"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Regular",
+            "tags": [
+                "Bra",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "hyst_short_tank_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "hyst_short_tank_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "hyst_short_tank_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "hyst_short_tank_pink"
+                },
+                {
+                    "name": "Pink Pastel",
+                    "code": "hyst_short_tank_pinkpastel"
+                },
+                {
+                    "name": "Red",
+                    "code": "hyst_short_tank_red"
+                },
+                {
+                    "name": "White",
+                    "code": "hyst_short_tank_white"
+                }
+            ]
+        },
+        {
+            "label": "Slim",
+            "tags": [
+                "Bra",
+                "Skimpy",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "hyst_short_tank_ub_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "hyst_short_tank_ub_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "hyst_short_tank_ub_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "hyst_short_tank_ub_pink"
+                },
+                {
+                    "name": "Pink Pastel",
+                    "code": "hyst_short_tank_ub_pinkpastel"
+                },
+                {
+                    "name": "Red",
+                    "code": "hyst_short_tank_ub_red"
+                },
+                {
+                    "name": "White",
+                    "code": "hyst_short_tank_ub_white"
+                }
+            ]
+        }
+    ]
 }

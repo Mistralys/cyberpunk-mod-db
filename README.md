@@ -33,7 +33,10 @@ The JSON format is quite simple:
   "mod": "Mod Name",
   "url": "https://www.nexusmods.com/cyberpunk2077/mods/1234",
   "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/1234",
-  "authors": ["Author 1", "Author 2"],
+  "authors": [
+    "Author 1", 
+    "Author 2"
+  ],
   "comments": "Optional comments about the mod.",
   "tags": [
     "AXL", 
@@ -43,11 +46,21 @@ The JSON format is quite simple:
     "ATL", 
     "R4EX"
   ],
-  "items": [
+  "itemCategories": [
     {
-      "name": "Item name",
-      "code": "item_code",
-      "category": "(Optional category)"
+      "label": "Category name",
+      "tags": [
+        "Clothing" 
+      ],
+      "items": [
+        {
+          "name": "Item name",
+          "code": "item_code",
+          "tags": [
+            "Emissive"
+          ]
+        }
+      ]
     }
   ]
 }
@@ -59,16 +72,49 @@ The JSON format is quite simple:
 - `authors`: A list of authors of the mod.
 - `tags`: A list of tags identifying dependencies to other mods and the kind of items. See [Tags Legend](#tags-legend) for a list.
 - `comments`: Optional comments about the mod.
-- `items`: A list of items the mod adds to the game.
+- `itemCategories`: Categories for each type of item added by the mod.
+  - `label`: The name of the category.
+  - `tags`: Optional list of tags for the category. Inherited by all items.
+  - `items`: A list of items in this category.
     - `name`: The name of the item.
     - `code`: The item's code (either in the mod description, or in the mod's `yaml` file).
-    - `category`: Optional category for the item (useful to categorize many items). Omit if not needed.
+    - `tags`: Optional tags for the item.
 
 > NOTE: Browse the existing JSON files to see how the data is structured.
 
-## Tags Legend
+## Tagging
 
-### Dependencies to other mods
+### Tag inheritance
+
+Tags are meant to be inherited in two directions: 
+
+1. From the mod to the items it adds.
+2. From the items to the mod.
+
+This means that the mod inherits all the tags of the items and item categories it adds, 
+and the items inherit all the tags of the mod and their categories. This allows items
+to have their own tags.
+
+This makes it possible to refine searches by tag up to identifying individual items with 
+specific tags. 
+
+#### Example
+
+A mod contains jewelry, shoes, and a dress. One of the shoes is holographic. 
+
+The mod is tagged with:
+
+- `Jewelry`, 
+- `Feet`, 
+- `FullBody` 
+- `Holo` 
+
+Searching for mods with the `Holo` tag will return this mod, even if only a single item 
+is holographic. Searching for holographic items will return only the holographic shoe.
+
+### Available Tags
+
+#### Dependencies to other mods
 
 - `AXL`: [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - `EQEX`: [Equipment EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
@@ -77,7 +123,7 @@ The JSON format is quite simple:
 - `ATL`: [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 - `R4EX`: [RED4Ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 
-### Types of items
+#### Types of items
 
 - `Clothing`
 - `Head`
@@ -93,12 +139,12 @@ The JSON format is quite simple:
 - `Emissive` - _Items that emit light_
 - `Holo` - _Holographic items_
 
-### Gender support
+#### Gender support
 
 - `FemV` - _Only for FemV characters_
 - `MaleV` - _Only for MaleV characters_
 
-### Body mod support
+#### Body mod support
 
 - `Body-Vanilla` - _Standard game body_
 - `Body-Hyst` - _[Enhanced Big Breasts Body](https://www.nexusmods.com/cyberpunk2077/mods/4654) aka EBB Body_

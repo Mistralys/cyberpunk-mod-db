@@ -1,42 +1,50 @@
 {
-  "mod": "Quipao Dress",
-  "authors": [
-    "PeachuHime"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8823",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
-  "tags": [
-    "Torso",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBB-BB"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "peachu_qipao_black"
-    },
-    {
-      "name": "Red",
-      "code": "peachu_qipao_red"
-    },
-    {
-      "name": "Blue",
-      "code": "peachu_qipao_blue"
-    },
-    {
-      "name": "Orange",
-      "code": "peachu_qipao_orange"
-    },
-    {
-      "name": "Pink",
-      "code": "peachu_qipao_pink"
-    },
-    {
-      "name": "White",
-      "code": "peachu_qipao_white"
-    }
-  ]
+    "mod": "Quipao Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8823",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+    "authors": [
+        "PeachuHime"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "peachu_qipao_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "peachu_qipao_blue"
+                },
+                {
+                    "name": "Orange",
+                    "code": "peachu_qipao_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "peachu_qipao_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "peachu_qipao_red"
+                },
+                {
+                    "name": "White",
+                    "code": "peachu_qipao_white"
+                }
+            ]
+        }
+    ]
 }

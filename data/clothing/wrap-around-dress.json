@@ -1,115 +1,126 @@
 {
-  "mod": "Wrap Around Dress",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8894",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
-  "authors": ["Alvarix"],
-  "tags": [
-    "Clothing",
-    "Body",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst"
-  ],
-  "items": [
-    {
-      "name": "Beige Lace",
-      "code": "wrap_dress_beige_lace"
-    },
-    {
-      "name": "Black",
-      "code": "wrap_dress_black"
-    },
-    {
-      "name": "Black Fishnet",
-      "code": "wrap_dress_black_fishnet"
-    },
-    {
-      "name": "Summer",
-      "code": "wrap_dress_summer"
-    },
-    {
-      "name": "Black Latex",
-      "code": "wrap_dress_black_latex"
-    },
-    {
-      "name": "Black Sequin",
-      "code": "wrap_dress_black_sequin"
-    },
-    {
-      "name": "Blue",
-      "code": "wrap_dress_blue"
-    },
-    {
-      "name": "Blue Sky",
-      "code": "wrap_dress_blue_sky"
-    },
-    {
-      "name": "Blue Purple",
-      "code": "wrap_dress_blue_purple"
-    },
-    {
-      "name": "Blue Sequin",
-      "code": "wrap_dress_blue_sequin"
-    },
-    {
-      "name": "New York",
-      "code": "wrap_dress_new_york"
-    },
-    {
-      "name": "Rose",
-      "code": "wrap_dress_rose"
-    },
-    {
-      "name": "Pink Lace",
-      "code": "wrap_dress_pink_lace"
-    },
-    {
-      "name": "Pastel Pink",
-      "code": "wrap_dress_pastel_pink"
-    },
-    {
-      "name": "Purple",
-      "code": "wrap_dress_purple"
-    },
-    {
-      "name": "Red",
-      "code": "wrap_dress_red"
-    },
-    {
-      "name": "Red Fishnet",
-      "code": "wrap_dress_red_fishnet"
-    },
-    {
-      "name": "Red Latex",
-      "code": "wrap_dress_red_latex"
-    },
-    {
-      "name": "Red Sequin",
-      "code": "wrap_dress_red_sequin"
-    },
-    {
-      "name": "Spring",
-      "code": "wrap_dress_spring"
-    },
-    {
-      "name": "Violet",
-      "code": "wrap_dress_violet"
-    },
-    {
-      "name": "White",
-      "code": "wrap_dress_white"
-    },
-    {
-      "name": "White Fishnet",
-      "code": "wrap_dress_white_fishnet"
-    },
-    {
-      "name": "Silver",
-      "code": "wrap_dress_silver"
-    },
-    {
-      "name": "Gold",
-      "code": "wrap_dress_gold"
-    }
-  ]
+    "mod": "Wrap Around Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8894",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "Alvarix"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "FullBody"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Beige Lace",
+                    "code": "wrap_dress_beige_lace"
+                },
+                {
+                    "name": "Black",
+                    "code": "wrap_dress_black"
+                },
+                {
+                    "name": "Black Fishnet",
+                    "code": "wrap_dress_black_fishnet"
+                },
+                {
+                    "name": "Black Latex",
+                    "code": "wrap_dress_black_latex"
+                },
+                {
+                    "name": "Black Sequin",
+                    "code": "wrap_dress_black_sequin"
+                },
+                {
+                    "name": "Blue",
+                    "code": "wrap_dress_blue"
+                },
+                {
+                    "name": "Blue Purple",
+                    "code": "wrap_dress_blue_purple"
+                },
+                {
+                    "name": "Blue Sequin",
+                    "code": "wrap_dress_blue_sequin"
+                },
+                {
+                    "name": "Blue Sky",
+                    "code": "wrap_dress_blue_sky"
+                },
+                {
+                    "name": "Gold",
+                    "code": "wrap_dress_gold"
+                },
+                {
+                    "name": "New York",
+                    "code": "wrap_dress_new_york"
+                },
+                {
+                    "name": "Pastel Pink",
+                    "code": "wrap_dress_pastel_pink"
+                },
+                {
+                    "name": "Pink Lace",
+                    "code": "wrap_dress_pink_lace"
+                },
+                {
+                    "name": "Purple",
+                    "code": "wrap_dress_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "wrap_dress_red"
+                },
+                {
+                    "name": "Red Fishnet",
+                    "code": "wrap_dress_red_fishnet"
+                },
+                {
+                    "name": "Red Latex",
+                    "code": "wrap_dress_red_latex"
+                },
+                {
+                    "name": "Red Sequin",
+                    "code": "wrap_dress_red_sequin"
+                },
+                {
+                    "name": "Rose",
+                    "code": "wrap_dress_rose"
+                },
+                {
+                    "name": "Silver",
+                    "code": "wrap_dress_silver"
+                },
+                {
+                    "name": "Spring",
+                    "code": "wrap_dress_spring"
+                },
+                {
+                    "name": "Summer",
+                    "code": "wrap_dress_summer"
+                },
+                {
+                    "name": "Violet",
+                    "code": "wrap_dress_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "wrap_dress_white"
+                },
+                {
+                    "name": "White Fishnet",
+                    "code": "wrap_dress_white_fishnet"
+                }
+            ]
+        }
+    ]
 }

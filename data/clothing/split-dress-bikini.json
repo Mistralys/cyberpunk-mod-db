@@ -1,159 +1,164 @@
 {
-  "mod": "Split Dress and Bikini",
-  "authors": [
-    "AlvarixPT"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8999",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
-  "tags": [
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Clothing",
-    "Torso",
-    "Skimpy",
-    "Legs"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "split_dress_black",
-      "category": "Dress"
-    },
-    {
-      "name": "Gray",
-      "code": "split_dress_gray",
-      "category": "Dress"
-    },
-    {
-      "name": "Red",
-      "code": "split_dress_red",
-      "category": "Dress"
-    },
-    {
-      "name": "Brown",
-      "code": "split_dress_brown",
-      "category": "Dress"
-    },
-    {
-      "name": "Gold",
-      "code": "split_dress_gold",
-      "category": "Dress"
-    },
-    {
-      "name": "Silver",
-      "code": "split_dress_silver",
-      "category": "Dress"
-    },
-    {
-      "name": "White",
-      "code": "split_dress_white",
-      "category": "Dress"
-    },
-    {
-      "name": "Black",
-      "code": "split_bikini_black",
-      "category": "Bikini"
-    },
-    {
-      "name": "Gray",
-      "code": "split_bikini_gray",
-      "category": "Bikini"
-    },
-    {
-      "name": "Red",
-      "code": "split_bikini_red",
-      "category": "Bikini"
-    },
-    {
-      "name": "Brown",
-      "code": "split_bikini_brown",
-      "category": "Bikini"
-    },
-    {
-      "name": "Gold",
-      "code": "split_bikini_gold",
-      "category": "Bikini"
-    },
-    {
-      "name": "Silver",
-      "code": "split_bikini_silver",
-      "category": "Bikini"
-    },
-    {
-      "name": "White",
-      "code": "split_bikini_white",
-      "category": "Bikini"
-    },
-    {
-      "name": "Black",
-      "code": "split_top_black",
-      "category": "Top"
-    },
-    {
-      "name": "Gray",
-      "code": "split_top_gray",
-      "category": "Top"
-    },
-    {
-      "name": "Red",
-      "code": "split_top_red",
-      "category": "Top"
-    },
-    {
-      "name": "Brown",
-      "code": "split_top_brown",
-      "category": "Top"
-    },
-    {
-      "name": "Gold",
-      "code": "split_top_gold",
-      "category": "Top"
-    },
-    {
-      "name": "Silver",
-      "code": "split_top_silver",
-      "category": "Top"
-    },
-    {
-      "name": "White",
-      "code": "split_top_white",
-      "category": "Top"
-    },
-    {
-      "name": "Black",
-      "code": "split_panties_black",
-      "category": "Panties"
-    },
-    {
-      "name": "Gray",
-      "code": "split_panties_gray",
-      "category": "Panties"
-    },
-    {
-      "name": "Red",
-      "code": "split_panties_red",
-      "category": "Panties"
-    },
-    {
-      "name": "Brown",
-      "code": "split_panties_brown",
-      "category": "Panties"
-    },
-    {
-      "name": "Gold",
-      "code": "split_panties_gold",
-      "category": "Panties"
-    },
-    {
-      "name": "Silver",
-      "code": "split_panties_silver",
-      "category": "Panties"
-    },
-    {
-      "name": "White",
-      "code": "split_panties_white",
-      "category": "Panties"
-    }
-  ]
+    "mod": "Split Dress and Bikini",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8999",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "AlvarixPT"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Bikini",
+            "tags": [
+                "Skimpy",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "split_bikini_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "split_bikini_brown"
+                },
+                {
+                    "name": "Gold",
+                    "code": "split_bikini_gold"
+                },
+                {
+                    "name": "Gray",
+                    "code": "split_bikini_gray"
+                },
+                {
+                    "name": "Red",
+                    "code": "split_bikini_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "split_bikini_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "split_bikini_white"
+                }
+            ]
+        },
+        {
+            "label": "Dress",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "split_dress_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "split_dress_brown"
+                },
+                {
+                    "name": "Gold",
+                    "code": "split_dress_gold"
+                },
+                {
+                    "name": "Gray",
+                    "code": "split_dress_gray"
+                },
+                {
+                    "name": "Red",
+                    "code": "split_dress_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "split_dress_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "split_dress_white"
+                }
+            ]
+        },
+        {
+            "label": "Panties",
+            "tags": [
+                "Legs",
+                "Panties"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "split_panties_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "split_panties_brown"
+                },
+                {
+                    "name": "Gold",
+                    "code": "split_panties_gold"
+                },
+                {
+                    "name": "Gray",
+                    "code": "split_panties_gray"
+                },
+                {
+                    "name": "Red",
+                    "code": "split_panties_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "split_panties_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "split_panties_white"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "split_top_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "split_top_brown"
+                },
+                {
+                    "name": "Gold",
+                    "code": "split_top_gold"
+                },
+                {
+                    "name": "Gray",
+                    "code": "split_top_gray"
+                },
+                {
+                    "name": "Red",
+                    "code": "split_top_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "split_top_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "split_top_white"
+                }
+            ]
+        }
+    ]
 }

@@ -1,60 +1,68 @@
 {
-  "mod": "Basic Tees",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/11309",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6572",
-  "authors": [
-    "halkuonn"
-  ],
-  "tags": [
-    "Torso",
-    "Clothing",
-    "Body-Solo",
-    "Body-Hyst-EBB",
-    "Body-Adonis",
-    "Body-Gymfiend",
-    "FemV",
-    "MaleV"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "Halk_Tees_Black"
-    },
-    {
-      "name": "Blue",
-      "code": "Halk_Tees_Blue"
-    },
-    {
-      "name": "Emerald",
-      "code": "Halk_Tees_Emerald"
-    },
-    {
-      "name": "Magenta",
-      "code": "Halk_Tees_Magenta"
-    },
-    {
-      "name": "Orange",
-      "code": "Halk_Tees_Orange"
-    },
-    {
-      "name": "Pink",
-      "code": "Halk_Tees_Pink"
-    },
-    {
-      "name": "Red",
-      "code": "Halk_Tees_Red"
-    },
-    {
-      "name": "Tan",
-      "code": "Halk_Tees_Tan"
-    },
-    {
-      "name": "White",
-      "code": "Halk_Tees_White"
-    },
-    {
-      "name": "Yellow",
-      "code": "Halk_Tees_Yellow"
-    }
-  ]
+    "mod": "Basic Tees",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11309",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6572",
+    "authors": [
+        "halkuonn"
+    ],
+    "tags": [
+        "Body-Adonis",
+        "Body-Gymfiend",
+        "Body-Hyst-EBB",
+        "Body-Solo",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Halk_Tees_Black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "Halk_Tees_Blue"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "Halk_Tees_Emerald"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "Halk_Tees_Magenta"
+                },
+                {
+                    "name": "Orange",
+                    "code": "Halk_Tees_Orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "Halk_Tees_Pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "Halk_Tees_Red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Halk_Tees_Tan"
+                },
+                {
+                    "name": "White",
+                    "code": "Halk_Tees_White"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "Halk_Tees_Yellow"
+                }
+            ]
+        }
+    ]
 }

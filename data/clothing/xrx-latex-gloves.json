@@ -1,20 +1,27 @@
 {
-  "mod": "XRX Latex Gloves",
-  "authors": [
-    "Apzurv"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/7662",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
-  "tags": [
-    "Hands",
-    "Gloves",
-    "FemV",
-    "Body-Vanilla"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "xglo_a"
-    }
-  ]
+    "mod": "XRX Latex Gloves",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7662",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "xglo_a"
+                }
+            ]
+        }
+    ]
 }

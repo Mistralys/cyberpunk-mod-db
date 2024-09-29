@@ -1,142 +1,156 @@
 {
-  "mod": "Full Body Fashionware",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/5039",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
-  "authors": ["Alvarix"],
-  "tags": [
-    "Clothing",
-    "FemV",
-    "Body",
-    "Emissive",
-    "Holo",
-    "Body-Vanilla",
-    "Body-Hyst"
-  ],
-  "items": [
-    {
-      "name": "Silver",
-      "code": "body_fashionware_silver",
-      "category": "Regular"
-    },
-    {
-      "name": "Hologram",
-      "code": "body_fashionware_hologram",
-      "category": "Regular"
-    },
-    {
-      "name": "Red Yellow",
-      "code": "body_fashionware_pulse_red_yellow",
-      "category": "Pulse"
-    },
-    {
-      "name": "Blue Red",
-      "code": "body_fashionware_pulse_blue_red",
-      "category": "Pulse"
-    },
-    {
-      "name": "Blue",
-      "code": "body_fashionware_pulse_blue",
-      "category": "Pulse"
-    },
-    {
-      "name": "Red",
-      "code": "body_fashionware_pulse_red",
-      "category": "Pulse"
-    },
-    {
-      "name": "Green",
-      "code": "body_fashionware_pulse_green",
-      "category": "Pulse"
-    },
-    {
-      "name": "White",
-      "code": "body_fashionware_emissive_white",
-      "category": "Emissive"
-    },
-    {
-      "name": "Blue",
-      "code": "body_fashionware_emissive_blue",
-      "category": "Emissive"
-    },
-    {
-      "name": "Yellow",
-      "code": "body_fashionware_emissive_yellow",
-      "category": "Emissive"
-    },
-    {
-      "name": "Green",
-      "code": "body_fashionware_emissive_green",
-      "category": "Emissive"
-    },
-    {
-      "name": "Pink",
-      "code": "body_fashionware_emissive_pink",
-      "category": "Emissive"
-    },
-    {
-      "name": "Gold",
-      "code": "body_fashionware_gold",
-      "category": "Regular"
-    },
-    {
-      "name": "Red",
-      "code": "body_fashionware_emissive_red",
-      "category": "Emissive"
-    },
-    {
-      "name": "Blue Green",
-      "code": "body_fashionware_pulse_blue_green",
-      "category": "Pulse"
-    },
-    {
-      "name": "Orange",
-      "code": "body_fashionware_pulse_orange",
-      "category": "Pulse"
-    },
-    {
-      "name": "Yellow Light",
-      "code": "body_fashionware_emissive_yellow_light",
-      "category": "Emissive"
-    },
-    {
-      "name": "Red Light",
-      "code": "body_fashionware_emissive_red_light",
-      "category": "Emissive"
-    },
-    {
-      "name": "Blue Red Light",
-      "code": "body_fashionware_pulse_blue_red_light",
-      "category": "Pulse"
-    },
-    {
-      "name": "Red Yellow Light",
-      "code": "body_fashionware_pulse_red_yellow_light",
-      "category": "Pulse"
-    },
-    {
-      "name": "Blue Green Light",
-      "code": "body_fashionware_pulse_blue_green_light",
-      "category": "Pulse"
-    },
-    {
-      "name": "Green Light",
-      "code": "body_fashionware_emissive_green_light",
-      "category": "Emissive"
-    },
-    {
-      "name": "Pink Light",
-      "code": "body_fashionware_emissive_pink_light",
-      "category": "Emissive"
-    },
-    {
-      "name": "Teal",
-      "code": "body_fashionware_moving_emissive_teal",
-      "category": "Moving"
-    },
-    {
-      "name": "Pink",
-      "code": "body_fashionware_moving_emissive_pink",
-      "category": "Moving"
-    }
-  ]
+    "mod": "Full Body Fashionware",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5039",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "Alvarix"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Emissive",
+            "tags": [
+                "Emissive",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "body_fashionware_emissive_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "body_fashionware_emissive_green"
+                },
+                {
+                    "name": "Green Light",
+                    "code": "body_fashionware_emissive_green_light"
+                },
+                {
+                    "name": "Pink",
+                    "code": "body_fashionware_emissive_pink"
+                },
+                {
+                    "name": "Pink Light",
+                    "code": "body_fashionware_emissive_pink_light"
+                },
+                {
+                    "name": "Red",
+                    "code": "body_fashionware_emissive_red"
+                },
+                {
+                    "name": "Red Light",
+                    "code": "body_fashionware_emissive_red_light"
+                },
+                {
+                    "name": "White",
+                    "code": "body_fashionware_emissive_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "body_fashionware_emissive_yellow"
+                },
+                {
+                    "name": "Yellow Light",
+                    "code": "body_fashionware_emissive_yellow_light"
+                }
+            ]
+        },
+        {
+            "label": "Moving",
+            "tags": [
+                "Animated",
+                "Emissive",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Pink",
+                    "code": "body_fashionware_moving_emissive_pink"
+                },
+                {
+                    "name": "Teal",
+                    "code": "body_fashionware_moving_emissive_teal"
+                }
+            ]
+        },
+        {
+            "label": "Pulse",
+            "tags": [
+                "Animated",
+                "Emissive",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "body_fashionware_pulse_blue"
+                },
+                {
+                    "name": "Blue Green",
+                    "code": "body_fashionware_pulse_blue_green"
+                },
+                {
+                    "name": "Blue Green Light",
+                    "code": "body_fashionware_pulse_blue_green_light"
+                },
+                {
+                    "name": "Blue Red",
+                    "code": "body_fashionware_pulse_blue_red"
+                },
+                {
+                    "name": "Blue Red Light",
+                    "code": "body_fashionware_pulse_blue_red_light"
+                },
+                {
+                    "name": "Green",
+                    "code": "body_fashionware_pulse_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "body_fashionware_pulse_orange"
+                },
+                {
+                    "name": "Red",
+                    "code": "body_fashionware_pulse_red"
+                },
+                {
+                    "name": "Red Yellow",
+                    "code": "body_fashionware_pulse_red_yellow"
+                },
+                {
+                    "name": "Red Yellow Light",
+                    "code": "body_fashionware_pulse_red_yellow_light"
+                }
+            ]
+        },
+        {
+            "label": "Regular",
+            "tags": [
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "body_fashionware_gold"
+                },
+                {
+                    "name": "Hologram",
+                    "code": "body_fashionware_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Silver",
+                    "code": "body_fashionware_silver"
+                }
+            ]
+        }
+    ]
 }

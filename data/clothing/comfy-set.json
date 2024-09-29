@@ -1,82 +1,84 @@
 {
-  "mod": "Comfy Set",
-  "authors": [
-    "PeachuHime"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/12041",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
-  "tags": [
-    "Torso",
-    "Legs",
-    "FemV",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBBP",
-    "Body-Hyst-RB"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "peachu_comfytop_black",
-      "category": "Top"
-    },
-    {
-      "name": "Purple",
-      "code": "peachu_comfytop_purple",
-      "category": "Top"
-    },
-    {
-      "name": "Red",
-      "code": "peachu_comfytop_red",
-      "category": "Top"
-    },
-    {
-      "name": "Blue",
-      "code": "peachu_comfytop_blue",
-      "category": "Top"
-    },
-    {
-      "name": "Pink",
-      "code": "peachu_comfytop_pink",
-      "category": "Top"
-    },
-    {
-      "name": "White",
-      "code": "peachu_comfytop_white",
-      "category": "Top"
-    },
-
-
-    {
-      "name": "Black",
-      "code": "peachu_comfyshorts_black",
-      "category": "Shorts"
-    },
-    {
-      "name": "Purple",
-      "code": "peachu_comfyshorts_purple",
-      "category": "Shorts"
-    },
-    {
-      "name": "Red",
-      "code": "peachu_comfyshorts_red",
-      "category": "Shorts"
-    },
-    {
-      "name": "Blue",
-      "code": "peachu_comfyshorts_blue",
-      "category": "Shorts"
-    },
-    {
-      "name": "Pink",
-      "code": "peachu_comfyshorts_pink",
-      "category": "Shorts"
-    },
-    {
-      "name": "White",
-      "code": "peachu_comfyshorts_white",
-      "category": "Shorts"
-    }
-  ]
+    "mod": "Comfy Set",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12041",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+    "authors": [
+        "PeachuHime"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "peachu_comfyshorts_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "peachu_comfyshorts_blue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "peachu_comfyshorts_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "peachu_comfyshorts_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "peachu_comfyshorts_red"
+                },
+                {
+                    "name": "White",
+                    "code": "peachu_comfyshorts_white"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "peachu_comfytop_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "peachu_comfytop_blue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "peachu_comfytop_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "peachu_comfytop_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "peachu_comfytop_red"
+                },
+                {
+                    "name": "White",
+                    "code": "peachu_comfytop_white"
+                }
+            ]
+        }
+    ]
 }

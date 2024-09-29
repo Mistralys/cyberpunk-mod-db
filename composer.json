@@ -9,5 +9,8 @@
       "name": "Sebastian Mordziol",
       "email": "s.mordziol@mistralys.eu"
     }
-  ]
+  ],
+  "require": {
+    "mistralys/application-utils": ">=3.0.5"
+  }
 }

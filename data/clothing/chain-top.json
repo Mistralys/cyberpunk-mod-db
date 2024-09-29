@@ -1,95 +1,105 @@
 {
-  "mod": "Chain Top",
-  "authors": ["Veegee"],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8327",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8183",
-  "tags": [
-    "Body-Vanilla",
-    "Body-VTK",
-    "Clothing",
-    "FemV",
-    "Torso"
-  ],
-  "items": [
-    {
-      "name": "Black",
-      "code": "chain_top_1"
-    },
-    {
-      "name": "Black Silver",
-      "code": "chain_top_2"
-    },
-    {
-      "name": "Black Gold",
-      "code": "chain_top_3"
-    },
-    {
-      "name": "White Brass",
-      "code": "chain_top_4"
-    },
-    {
-      "name": "White Silver",
-      "code": "chain_top_5"
-    },
-    {
-      "name": "White Gold",
-      "code": "chain_top_6"
-    },
-    {
-      "name": "Dark Red Brass",
-      "code": "chain_top_7"
-    },
-    {
-      "name": "Dark Red Silver",
-      "code": "chain_top_8"
-    },
-    {
-      "name": "Dark Red Gold",
-      "code": "chain_top_9"
-    },
-    {
-      "name": "Dark Green Brass",
-      "code": "chain_top_10"
-    },
-    {
-      "name": "Dark Green Silver",
-      "code": "chain_top_11"
-    },
-    {
-      "name": "Dark Green Gold",
-      "code": "chain_top_12"
-    },
-    {
-      "name": "Dark Blue Brass",
-      "code": "chain_top_13"
-    },
-    {
-      "name": "Dark Blue Silver",
-      "code": "chain_top_14"
-    },
-    {
-      "name": "Dark Blue Gold",
-      "code": "chain_top_15"
-    },
-    {
-      "name": "Dark Purple Brass",
-      "code": "chain_top_16"
-    },
-    {
-      "name": "Dark Purple Silver",
-      "code": "chain_top_17"
-    },
-    {
-      "name": "Dark Purple Gold",
-      "code": "chain_top_18"
-    },
-    {
-      "name": "Dark White Pink",
-      "code": "chain_top_19"
-    },
-    {
-      "name": "Dark Black Pink",
-      "code": "chain_top_20"
-    }
-  ]
+    "mod": "Chain Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8327",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8183",
+    "authors": [
+        "Veegee"
+    ],
+    "tags": [
+        "Body-VTK",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "chain_top_1"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "chain_top_3"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "chain_top_2"
+                },
+                {
+                    "name": "Dark Black Pink",
+                    "code": "chain_top_20"
+                },
+                {
+                    "name": "Dark Blue Brass",
+                    "code": "chain_top_13"
+                },
+                {
+                    "name": "Dark Blue Gold",
+                    "code": "chain_top_15"
+                },
+                {
+                    "name": "Dark Blue Silver",
+                    "code": "chain_top_14"
+                },
+                {
+                    "name": "Dark Green Brass",
+                    "code": "chain_top_10"
+                },
+                {
+                    "name": "Dark Green Gold",
+                    "code": "chain_top_12"
+                },
+                {
+                    "name": "Dark Green Silver",
+                    "code": "chain_top_11"
+                },
+                {
+                    "name": "Dark Purple Brass",
+                    "code": "chain_top_16"
+                },
+                {
+                    "name": "Dark Purple Gold",
+                    "code": "chain_top_18"
+                },
+                {
+                    "name": "Dark Purple Silver",
+                    "code": "chain_top_17"
+                },
+                {
+                    "name": "Dark Red Brass",
+                    "code": "chain_top_7"
+                },
+                {
+                    "name": "Dark Red Gold",
+                    "code": "chain_top_9"
+                },
+                {
+                    "name": "Dark Red Silver",
+                    "code": "chain_top_8"
+                },
+                {
+                    "name": "Dark White Pink",
+                    "code": "chain_top_19"
+                },
+                {
+                    "name": "White Brass",
+                    "code": "chain_top_4"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "chain_top_6"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "chain_top_5"
+                }
+            ]
+        }
+    ]
 }

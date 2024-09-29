@@ -1,35 +1,59 @@
 {
-  "mod": "Deus Ex Outfit",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/4601",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
-  "authors": ["Alvarix"],
-  "tags": [
-    "FemV",
-    "Body",
-    "Clothing",
-    "Feet",
-    "Arms",
-    "Legs",
-    "Outfit",
-    "Accessories",
-    "Body-Vanilla"
-  ],
-  "items": [
-    {
-      "name": "Vest",
-      "code": "deusx_vest"
-    },
-    {
-      "name": "Shorts",
-      "code": "deusx_shorts"
-    },
-    {
-      "name": "Boots",
-      "code": "deusx_boots"
-    },
-    {
-      "name": "Specs",
-      "code": "deusx_specs"
-    }
-  ]
+    "mod": "Deus Ex Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4601",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "Alvarix"
+    ],
+    "tags": [
+        "Accessories",
+        "Arms",
+        "Body-Vanilla",
+        "Clothing",
+        "Feet",
+        "FemV",
+        "FullBody",
+        "Legs",
+        "Outfit"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Boots",
+                    "code": "deusx_boots",
+                    "tags": [
+                        "Boots",
+                        "Feet"
+                    ]
+                },
+                {
+                    "name": "Shorts",
+                    "code": "deusx_shorts",
+                    "tags": [
+                        "Legs",
+                        "Shorts"
+                    ]
+                },
+                {
+                    "name": "Specs",
+                    "code": "deusx_specs",
+                    "tags": [
+                        "Accessories",
+                        "Waist"
+                    ]
+                },
+                {
+                    "name": "Vest",
+                    "code": "deusx_vest",
+                    "tags": [
+                        "Jacket",
+                        "Torso"
+                    ]
+                }
+            ]
+        }
+    ]
 }

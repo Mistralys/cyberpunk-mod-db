@@ -1,336 +1,339 @@
 {
-  "mod": "Cyberdeck Collection",
-  "authors": [
-    "Adshield"
-  ],
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/11093",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
-  "tags": [
-    "Accessories",
-    "Waist",
-    "Body-Vanilla",
-    "Body-Hyst",
-    "Body-Hyst-EBB",
-    "Body-Hyst-EBBP",
-    "Body-Hyst-RB",
-    "Body-Hyst-Angel"
-  ],
-  "comments": "NOTE: I have left out the items marked DIY, as they require editing in WolvenKit.",
-  "items": [
-    {
-      "name": "Basic",
-      "code": "Adshield_Cyberdeck_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Strap",
-      "code": "Adshield_Cyberdeck_Strap_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Large",
-      "code": "Adshield_Cyberdeck_Large_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Large Strap",
-      "code": "Adshield_Cyberdeck_Large_Strap_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Small",
-      "code": "Adshield_Cyberdeck_Small_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Small Strap",
-      "code": "Adshield_Cyberdeck_Small_Strap_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Cable",
-      "code": "Adshield_Cyberdeck_Cable_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Strap Cable",
-      "code": "Adshield_Cyberdeck_Strap_Cable_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Large Cable",
-      "code": "Adshield_Cyberdeck_Large_Cable_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Large Strap Cable",
-      "code": "Adshield_Cyberdeck_Large_Strap_Cable_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Small Cable",
-      "code": "Adshield_Cyberdeck_Small_Cable_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Small Strap Cable",
-      "code": "Adshield_Cyberdeck_Small_Strap_Cable_SB_Default",
-      "category": "SongBird - Default"
-    },
-    {
-      "name": "Basic",
-      "code": "Adshield_Cyberdeck_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Strap",
-      "code": "Adshield_Cyberdeck_Strap_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Large",
-      "code": "Adshield_Cyberdeck_Large_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Large Strap",
-      "code": "Adshield_Cyberdeck_Large_Strap_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Small",
-      "code": "Adshield_Cyberdeck_Small_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Small Strap",
-      "code": "Adshield_Cyberdeck_Small_Strap_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Cable",
-      "code": "Adshield_Cyberdeck_Cable_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Strap Cable",
-      "code": "Adshield_Cyberdeck_Strap_Cable_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Large Cable",
-      "code": "Adshield_Cyberdeck_Large_Cable_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Large Strap Cable",
-      "code": "Adshield_Cyberdeck_Large_Strap_Cable_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Small Cable",
-      "code": "Adshield_Cyberdeck_Small_Cable_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Small Strap Cable",
-      "code": "Adshield_Cyberdeck_Small_Strap_Cable_SB_Black",
-      "category": "SongBird - Black"
-    },
-    {
-      "name": "Basic",
-      "code": "Adshield_Cyberdeck_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Strap",
-      "code": "Adshield_Cyberdeck_Strap_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Large",
-      "code": "Adshield_Cyberdeck_Large_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Large Strap",
-      "code": "Adshield_Cyberdeck_Large_Strap_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Small",
-      "code": "Adshield_Cyberdeck_Small_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Small Strap",
-      "code": "Adshield_Cyberdeck_Small_Strap_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Cable",
-      "code": "Adshield_Cyberdeck_Cable_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Strap Cable",
-      "code": "Adshield_Cyberdeck_Strap_Cable_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Large Cable",
-      "code": "Adshield_Cyberdeck_Large_Cable_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Large Strap Cable",
-      "code": "Adshield_Cyberdeck_Large_Strap_Cable_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Small Cable",
-      "code": "Adshield_Cyberdeck_Small_Cable_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Small Strap Cable",
-      "code": "Adshield_Cyberdeck_Small_Strap_Cable_SB_Orange",
-      "category": "SongBird - Orange"
-    },
-    {
-      "name": "Basic",
-      "code": "Adshield_Cyberdeck_Alt_Default",
-      "category": "Alt - Default"
-    },
-    {
-      "name": "Strap",
-      "code": "Adshield_Cyberdeck_Strap_Alt_Default",
-      "category": "Alt - Default"
-    },
-    {
-      "name": "Large",
-      "code": "Adshield_Cyberdeck_Large_Alt_Default",
-      "category": "Alt - Default"
-    },
-    {
-      "name": "Large Strap",
-      "code": "Adshield_Cyberdeck_Large_Strap_Alt_Default",
-      "category": "Alt - Default"
-    },
-    {
-      "name": "Small",
-      "code": "Adshield_Cyberdeck_Small_Alt_Default",
-      "category": "Alt - Default"
-    },
-    {
-      "name": "Small Strap",
-      "code": "Adshield_Cyberdeck_Small_Strap_Alt_Default",
-      "category": "Alt - Default"
-    },
-    {
-      "name": "Basic",
-      "code": "Adshield_Cyberdeck_Alt_Black",
-      "category": "Alt - Black"
-    },
-    {
-      "name": "Strap",
-      "code": "Adshield_Cyberdeck_Strap_Alt_Black",
-      "category": "Alt - Black"
-    },
-    {
-      "name": "Large",
-      "code": "Adshield_Cyberdeck_Large_Alt_Black",
-      "category": "Alt - Black"
-    },
-    {
-      "name": "Large Strap",
-      "code": "Adshield_Cyberdeck_Large_Strap_Alt_Black",
-      "category": "Alt - Black"
-    },
-    {
-      "name": "Small",
-      "code": "Adshield_Cyberdeck_Small_Alt_Black",
-      "category": "Alt - Black"
-    },
-    {
-      "name": "Small Strap",
-      "code": "Adshield_Cyberdeck_Small_Strap_Alt_Black",
-      "category": "Alt - Black"
-    },
-    {
-      "name": "Basic",
-      "code": "Adshield_Cyberdeck_Alt_Orange",
-      "category": "Alt - Orange"
-    },
-    {
-      "name": "Strap",
-      "code": "Adshield_Cyberdeck_Strap_Alt_Orange",
-      "category": "Alt - Orange"
-    },
-    {
-      "name": "Large",
-      "code": "Adshield_Cyberdeck_Large_Alt_Orange",
-      "category": "Alt - Orange"
-    },
-    {
-      "name": "Large Strap",
-      "code": "Adshield_Cyberdeck_Large_Strap_Alt_Orange",
-      "category": "Alt - Orange"
-    },
-    {
-      "name": "Small",
-      "code": "Adshield_Cyberdeck_Small_Alt_Orange",
-      "category": "Alt - Orange"
-    },
-    {
-      "name": "Small Strap",
-      "code": "Adshield_Cyberdeck_Small_Strap_Alt_Orange",
-      "category": "Alt - Orange"
-    },
-    {
-      "name": "Default",
-      "code": "Adshield_Cyberdeck_Arm_Default",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Default, Large",
-      "code": "Adshield_Cyberdeck_Large_Arm_Default",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Default, Small",
-      "code": "Adshield_Cyberdeck_Small_Arm_Default",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Black",
-      "code": "Adshield_Cyberdeck_Arm_Black",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Black, Large",
-      "code": "Adshield_Cyberdeck_Large_Arm_Black",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Black, Small",
-      "code": "Adshield_Cyberdeck_Small_Arm_Black",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Orange",
-      "code": "Adshield_Cyberdeck_Arm_Orange",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Orange, Large",
-      "code": "Adshield_Cyberdeck_Large_Arm_Orange",
-      "category": "Arm deck"
-    },
-    {
-      "name": "Orange, Small",
-      "code": "Adshield_Cyberdeck_Small_Arm_Orange",
-      "category": "Arm deck"
-    }
-  ]
+    "mod": "Cyberdeck Collection",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11093",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
+    "authors": [
+        "Adshield"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-RB",
+        "Body-Vanilla"
+    ],
+    "itemCategories": [
+        {
+            "label": "Alt - Black",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Basic",
+                    "code": "Adshield_Cyberdeck_Alt_Black"
+                },
+                {
+                    "name": "Large",
+                    "code": "Adshield_Cyberdeck_Large_Alt_Black"
+                },
+                {
+                    "name": "Large Strap",
+                    "code": "Adshield_Cyberdeck_Large_Strap_Alt_Black"
+                },
+                {
+                    "name": "Small",
+                    "code": "Adshield_Cyberdeck_Small_Alt_Black"
+                },
+                {
+                    "name": "Small Strap",
+                    "code": "Adshield_Cyberdeck_Small_Strap_Alt_Black"
+                },
+                {
+                    "name": "Strap",
+                    "code": "Adshield_Cyberdeck_Strap_Alt_Black"
+                }
+            ]
+        },
+        {
+            "label": "Alt - Default",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Basic",
+                    "code": "Adshield_Cyberdeck_Alt_Default"
+                },
+                {
+                    "name": "Large",
+                    "code": "Adshield_Cyberdeck_Large_Alt_Default"
+                },
+                {
+                    "name": "Large Strap",
+                    "code": "Adshield_Cyberdeck_Large_Strap_Alt_Default"
+                },
+                {
+                    "name": "Small",
+                    "code": "Adshield_Cyberdeck_Small_Alt_Default"
+                },
+                {
+                    "name": "Small Strap",
+                    "code": "Adshield_Cyberdeck_Small_Strap_Alt_Default"
+                },
+                {
+                    "name": "Strap",
+                    "code": "Adshield_Cyberdeck_Strap_Alt_Default"
+                }
+            ]
+        },
+        {
+            "label": "Alt - Orange",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Basic",
+                    "code": "Adshield_Cyberdeck_Alt_Orange"
+                },
+                {
+                    "name": "Large",
+                    "code": "Adshield_Cyberdeck_Large_Alt_Orange"
+                },
+                {
+                    "name": "Large Strap",
+                    "code": "Adshield_Cyberdeck_Large_Strap_Alt_Orange"
+                },
+                {
+                    "name": "Small",
+                    "code": "Adshield_Cyberdeck_Small_Alt_Orange"
+                },
+                {
+                    "name": "Small Strap",
+                    "code": "Adshield_Cyberdeck_Small_Strap_Alt_Orange"
+                },
+                {
+                    "name": "Strap",
+                    "code": "Adshield_Cyberdeck_Strap_Alt_Orange"
+                }
+            ]
+        },
+        {
+            "label": "Arm deck",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Adshield_Cyberdeck_Arm_Black"
+                },
+                {
+                    "name": "Black, Large",
+                    "code": "Adshield_Cyberdeck_Large_Arm_Black"
+                },
+                {
+                    "name": "Black, Small",
+                    "code": "Adshield_Cyberdeck_Small_Arm_Black"
+                },
+                {
+                    "name": "Default",
+                    "code": "Adshield_Cyberdeck_Arm_Default"
+                },
+                {
+                    "name": "Default, Large",
+                    "code": "Adshield_Cyberdeck_Large_Arm_Default"
+                },
+                {
+                    "name": "Default, Small",
+                    "code": "Adshield_Cyberdeck_Small_Arm_Default"
+                },
+                {
+                    "name": "Orange",
+                    "code": "Adshield_Cyberdeck_Arm_Orange"
+                },
+                {
+                    "name": "Orange, Large",
+                    "code": "Adshield_Cyberdeck_Large_Arm_Orange"
+                },
+                {
+                    "name": "Orange, Small",
+                    "code": "Adshield_Cyberdeck_Small_Arm_Orange"
+                }
+            ]
+        },
+        {
+            "label": "SongBird - Black",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Basic",
+                    "code": "Adshield_Cyberdeck_SB_Black"
+                },
+                {
+                    "name": "Cable",
+                    "code": "Adshield_Cyberdeck_Cable_SB_Black"
+                },
+                {
+                    "name": "Large",
+                    "code": "Adshield_Cyberdeck_Large_SB_Black"
+                },
+                {
+                    "name": "Large Cable",
+                    "code": "Adshield_Cyberdeck_Large_Cable_SB_Black"
+                },
+                {
+                    "name": "Large Strap",
+                    "code": "Adshield_Cyberdeck_Large_Strap_SB_Black"
+                },
+                {
+                    "name": "Large Strap Cable",
+                    "code": "Adshield_Cyberdeck_Large_Strap_Cable_SB_Black"
+                },
+                {
+                    "name": "Small",
+                    "code": "Adshield_Cyberdeck_Small_SB_Black"
+                },
+                {
+                    "name": "Small Cable",
+                    "code": "Adshield_Cyberdeck_Small_Cable_SB_Black"
+                },
+                {
+                    "name": "Small Strap",
+                    "code": "Adshield_Cyberdeck_Small_Strap_SB_Black"
+                },
+                {
+                    "name": "Small Strap Cable",
+                    "code": "Adshield_Cyberdeck_Small_Strap_Cable_SB_Black"
+                },
+                {
+                    "name": "Strap",
+                    "code": "Adshield_Cyberdeck_Strap_SB_Black"
+                },
+                {
+                    "name": "Strap Cable",
+                    "code": "Adshield_Cyberdeck_Strap_Cable_SB_Black"
+                }
+            ]
+        },
+        {
+            "label": "SongBird - Default",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Basic",
+                    "code": "Adshield_Cyberdeck_SB_Default"
+                },
+                {
+                    "name": "Cable",
+                    "code": "Adshield_Cyberdeck_Cable_SB_Default"
+                },
+                {
+                    "name": "Large",
+                    "code": "Adshield_Cyberdeck_Large_SB_Default"
+                },
+                {
+                    "name": "Large Cable",
+                    "code": "Adshield_Cyberdeck_Large_Cable_SB_Default"
+                },
+                {
+                    "name": "Large Strap",
+                    "code": "Adshield_Cyberdeck_Large_Strap_SB_Default"
+                },
+                {
+                    "name": "Large Strap Cable",
+                    "code": "Adshield_Cyberdeck_Large_Strap_Cable_SB_Default"
+                },
+                {
+                    "name": "Small",
+                    "code": "Adshield_Cyberdeck_Small_SB_Default"
+                },
+                {
+                    "name": "Small Cable",
+                    "code": "Adshield_Cyberdeck_Small_Cable_SB_Default"
+                },
+                {
+                    "name": "Small Strap",
+                    "code": "Adshield_Cyberdeck_Small_Strap_SB_Default"
+                },
+                {
+                    "name": "Small Strap Cable",
+                    "code": "Adshield_Cyberdeck_Small_Strap_Cable_SB_Default"
+                },
+                {
+                    "name": "Strap",
+                    "code": "Adshield_Cyberdeck_Strap_SB_Default"
+                },
+                {
+                    "name": "Strap Cable",
+                    "code": "Adshield_Cyberdeck_Strap_Cable_SB_Default"
+                }
+            ]
+        },
+        {
+            "label": "SongBird - Orange",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Basic",
+                    "code": "Adshield_Cyberdeck_SB_Orange"
+                },
+                {
+                    "name": "Cable",
+                    "code": "Adshield_Cyberdeck_Cable_SB_Orange"
+                },
+                {
+                    "name": "Large",
+                    "code": "Adshield_Cyberdeck_Large_SB_Orange"
+                },
+                {
+                    "name": "Large Cable",
+                    "code": "Adshield_Cyberdeck_Large_Cable_SB_Orange"
+                },
+                {
+                    "name": "Large Strap",
+                    "code": "Adshield_Cyberdeck_Large_Strap_SB_Orange"
+                },
+                {
+                    "name": "Large Strap Cable",
+                    "code": "Adshield_Cyberdeck_Large_Strap_Cable_SB_Orange"
+                },
+                {
+                    "name": "Small",
+                    "code": "Adshield_Cyberdeck_Small_SB_Orange"
+                },
+                {
+                    "name": "Small Cable",
+                    "code": "Adshield_Cyberdeck_Small_Cable_SB_Orange"
+                },
+                {
+                    "name": "Small Strap",
+                    "code": "Adshield_Cyberdeck_Small_Strap_SB_Orange"
+                },
+                {
+                    "name": "Small Strap Cable",
+                    "code": "Adshield_Cyberdeck_Small_Strap_Cable_SB_Orange"
+                },
+                {
+                    "name": "Strap",
+                    "code": "Adshield_Cyberdeck_Strap_SB_Orange"
+                },
+                {
+                    "name": "Strap Cable",
+                    "code": "Adshield_Cyberdeck_Strap_Cable_SB_Orange"
+                }
+            ]
+        }
+    ]
 }

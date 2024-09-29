@@ -1,60 +1,95 @@
 {
-  "mod": "BloodRayne Outfits and Hair",
-  "url": "https://www.nexusmods.com/cyberpunk2077/mods/8446",
-  "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
-  "authors": ["AlvarixPT"],
-  "tags": [
-    "Clothing",
-    "Body",
-    "Hair",
-    "Feet",
-    "Arms",
-    "Legs",
-    "Hands",
-    "Gloves",
-    "Jewelry",
-    "Neck",
-    "Choker",
-    "Outfit",
-    "FemV",
-    "Body-Vanilla"
-  ],
-  "items": [
-    {
-      "name": "Corset",
-      "code": "rayne_corset"
-    },
-    {
-      "name": "Pants",
-      "code": "rayne_pants"
-    },
-    {
-      "name": "Gloves",
-      "code": "rayne_gloves"
-    },
-    {
-      "name": "Necklace",
-      "code": "rayne_necklace"
-    },
-    {
-      "name": "Hair",
-      "code": "rayne_hair"
-    },
-    {
-      "name": "Dress Boots",
-      "code": "rayne_dress_boots"
-    },
-    {
-      "name": "Dress",
-      "code": "rayne_dress"
-    },
-    {
-      "name": "Dress Panties",
-      "code": "rayne_dress_panties"
-    },
-    {
-      "name": "Dress Gloves",
-      "code": "rayne_dress_gloves"
-    }
-  ]
+    "mod": "BloodRayne Outfits and Hair",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8446",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "AlvarixPT"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "FullBody",
+        "Outfit"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Corset",
+                    "code": "rayne_corset",
+                    "tags": [
+                        "Torso"
+                    ]
+                },
+                {
+                    "name": "Dress",
+                    "code": "rayne_dress",
+                    "tags": [
+                        "FullBody"
+                    ]
+                },
+                {
+                    "name": "Dress Boots",
+                    "code": "rayne_dress_boots",
+                    "tags": [
+                        "Boots",
+                        "Feet"
+                    ]
+                },
+                {
+                    "name": "Dress Gloves",
+                    "code": "rayne_dress_gloves",
+                    "tags": [
+                        "Arms",
+                        "Gloves",
+                        "Hands"
+                    ]
+                },
+                {
+                    "name": "Dress Panties",
+                    "code": "rayne_dress_panties",
+                    "tags": [
+                        "Legs",
+                        "Panties"
+                    ]
+                },
+                {
+                    "name": "Gloves",
+                    "code": "rayne_gloves",
+                    "tags": [
+                        "Arms",
+                        "Gloves",
+                        "Hands"
+                    ]
+                },
+                {
+                    "name": "Hair",
+                    "code": "rayne_hair",
+                    "tags": [
+                        "Hair",
+                        "Head"
+                    ]
+                },
+                {
+                    "name": "Necklace",
+                    "code": "rayne_necklace",
+                    "tags": [
+                        "Jewelry",
+                        "Neck"
+                    ]
+                },
+                {
+                    "name": "Pants",
+                    "code": "rayne_pants",
+                    "tags": [
+                        "Legs",
+                        "Pants"
+                    ]
+                }
+            ]
+        }
+    ]
 }
