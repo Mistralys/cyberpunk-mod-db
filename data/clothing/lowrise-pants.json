@@ -11,13 +11,15 @@
         "Body-Solo",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Legs"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Regular",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -79,7 +81,10 @@
         },
         {
             "label": "Silk",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",

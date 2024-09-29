@@ -9,16 +9,16 @@
         "Body-Solo",
         "Body-Vanilla",
         "Clothing",
-        "Emissive",
         "FemV",
-        "Legs",
-        "MaleV",
-        "Torso"
+        "MaleV"
     ],
     "itemCategories": [
         {
             "label": "Combat Shirt",
-            "tags": [],
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black, Shiny",
@@ -72,7 +72,11 @@
         },
         {
             "label": "Combat Shirt, Emissive",
-            "tags": [],
+            "tags": [
+                "Emissive",
+                "Shirt",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black and Pink, Pink lights",
@@ -126,7 +130,10 @@
         },
         {
             "label": "Holstered Shirt",
-            "tags": [],
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -180,7 +187,10 @@
         },
         {
             "label": "Neotac Pants",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -234,7 +244,10 @@
         },
         {
             "label": "Riding Pants",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",

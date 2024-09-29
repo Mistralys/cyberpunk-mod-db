@@ -6,19 +6,21 @@
         "Adshield"
     ],
     "tags": [
-        "Accessories",
         "Body-Hyst",
         "Body-Hyst-Angel",
         "Body-Hyst-EBB",
         "Body-Hyst-EBBP",
         "Body-Hyst-RB",
-        "Body-Vanilla",
-        "Waist"
+        "Body-Vanilla"
     ],
     "itemCategories": [
         {
             "label": "Alt - Black",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Basic",
@@ -48,7 +50,11 @@
         },
         {
             "label": "Alt - Default",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Basic",
@@ -78,7 +84,11 @@
         },
         {
             "label": "Alt - Orange",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Basic",
@@ -108,7 +118,10 @@
         },
         {
             "label": "Arm deck",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -150,7 +163,11 @@
         },
         {
             "label": "SongBird - Black",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Basic",
@@ -204,7 +221,11 @@
         },
         {
             "label": "SongBird - Default",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Basic",
@@ -258,7 +279,11 @@
         },
         {
             "label": "SongBird - Orange",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Basic",

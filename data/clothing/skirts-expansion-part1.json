@@ -11,15 +11,16 @@
         "Body-Spawn0",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Holo",
-        "Legs",
-        "Skimpy"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Regular and micro skirts",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Skimpy",
+                "Skirt"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -67,7 +68,10 @@
                 },
                 {
                     "name": "Transparent",
-                    "code": "raid_cyberskirt_transparent"
+                    "code": "raid_cyberskirt_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
                 },
                 {
                     "name": "Wool Beige",
@@ -77,7 +81,10 @@
         },
         {
             "label": "Short and mini skirts",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
             "items": [
                 {
                     "name": "Beige",
@@ -101,7 +108,10 @@
                 },
                 {
                     "name": "Holo",
-                    "code": "raid_cybersmini_holo"
+                    "code": "raid_cybersmini_holo",
+                    "tags": [
+                        "Holo"
+                    ]
                 },
                 {
                     "name": "Light Red",
@@ -129,7 +139,10 @@
                 },
                 {
                     "name": "Transparent",
-                    "code": "raid_cybersmini_transparent"
+                    "code": "raid_cybersmini_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
                 },
                 {
                     "name": "White",

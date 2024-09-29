@@ -6,22 +6,22 @@
         "Apzurv"
     ],
     "tags": [
-        "Body-Angel",
+        "Body-Hyst-Angel",
         "Body-Hyst-EBB",
         "Body-Hyst-EBBP",
         "Body-Hyst-EBBPRB",
         "Body-Hyst-EBBRB",
         "Body-Hyst-RB",
         "Clothing",
-        "FemV",
-        "FullBody",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Dress",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Black Plain",
@@ -75,7 +75,10 @@
         },
         {
             "label": "Straps",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
             "items": [
                 {
                     "name": "Dress Straps, Black",

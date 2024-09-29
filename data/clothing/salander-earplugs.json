@@ -6,16 +6,17 @@
         "Kwek"
     ],
     "tags": [
-        "Earrings",
         "FemV",
-        "Holo",
-        "Jewelry",
         "MaleV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Earring",
+                "Jewelry",
+                "Physics"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -39,7 +40,10 @@
                 },
                 {
                     "name": "Pink Hologram",
-                    "code": "kwek_earplugs_01_pink_hologram"
+                    "code": "kwek_earplugs_01_pink_hologram",
+                    "tag": [
+                        "Holo"
+                    ]
                 },
                 {
                     "name": "Pink Metal",
@@ -67,7 +71,10 @@
                 },
                 {
                     "name": "Special Hologram",
-                    "code": "kwek_earplugs_01_special_hologram"
+                    "code": "kwek_earplugs_01_special_hologram",
+                    "tag": [
+                        "Holo"
+                    ]
                 },
                 {
                     "name": "White",

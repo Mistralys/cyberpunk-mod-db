@@ -6,13 +6,15 @@
         "Apzurv"
     ],
     "tags": [
-        "FemV",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black Latex",

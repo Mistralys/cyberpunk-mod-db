@@ -9,13 +9,15 @@
         "Body-Hyst",
         "Body-Hyst-EBB",
         "Body-Vanilla",
-        "FemV",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Glossy Dark Grey, Samurai Logo",

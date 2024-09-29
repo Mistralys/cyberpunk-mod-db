@@ -6,16 +6,10 @@
         "Apzurv"
     ],
     "tags": [
-        "Accessories",
-        "Body",
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Jewelery",
-        "Neck",
-        "Outfit",
-        "Waist"
+        "FemV"
     ],
     "itemCategories": [
         {
@@ -24,15 +18,30 @@
             "items": [
                 {
                     "name": "Cat Belt",
-                    "code": "cbelt_cbcx"
+                    "code": "cbelt_cbcx",
+                    "tags": [
+                        "Accessories",
+                        "Belt",
+                        "Waist"
+                    ]
                 },
                 {
                     "name": "Cat Collar",
-                    "code": "ccol_ccat"
+                    "code": "ccol_ccat",
+                    "tags": [
+                        "Accessories",
+                        "Choker",
+                        "Choker",
+                        "Neck"
+                    ]
                 },
                 {
                     "name": "Cat Suit",
-                    "code": "cat_top"
+                    "code": "cat_top",
+                    "tags": [
+                        "Bodysuit",
+                        "FullBody"
+                    ]
                 }
             ]
         }

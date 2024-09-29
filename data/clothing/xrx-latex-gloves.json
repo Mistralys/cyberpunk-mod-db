@@ -7,14 +7,15 @@
     ],
     "tags": [
         "Body-Vanilla",
-        "FemV",
-        "Gloves",
-        "Hands"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
             "items": [
                 {
                     "name": "Black",

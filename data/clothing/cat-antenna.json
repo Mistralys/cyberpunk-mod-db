@@ -6,15 +6,10 @@
         "Apzurv"
     ],
     "tags": [
-        "AXL",
         "Accessories",
-        "CDW",
         "Clothing",
-        "EQEX",
         "FemV",
-        "Head",
-        "NC Fashion",
-        "TXL"
+        "Head"
     ],
     "itemCategories": [
         {
@@ -22,12 +17,12 @@
             "tags": [],
             "items": [
                 {
-                    "name": "Variant A (White)",
-                    "code": "sciears_a"
+                    "name": "Black",
+                    "code": "sciears_b"
                 },
                 {
-                    "name": "Variant B (Black)",
-                    "code": "sciears_b"
+                    "name": "White",
+                    "code": "sciears_a"
                 }
             ]
         }

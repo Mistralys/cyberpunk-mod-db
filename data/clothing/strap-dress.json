@@ -6,9 +6,6 @@
         "MONSTERaider"
     ],
     "tags": [
-        "Accessories",
-        "Arms",
-        "Body",
         "Body-Spawn0",
         "Body-Vanilla",
         "Clothing",
@@ -17,7 +14,11 @@
     "itemCategories": [
         {
             "label": "Full Straps",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "FullBody",
+                "Skimpy"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -25,7 +26,10 @@
                 },
                 {
                     "name": "Emissive Gold",
-                    "code": "raid_strap_full_emissive_gold"
+                    "code": "raid_strap_full_emissive_gold",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold",
@@ -43,7 +47,11 @@
         },
         {
             "label": "Revealing Straps",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "FullBody",
+                "Skimpy"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -51,7 +59,10 @@
                 },
                 {
                     "name": "Emissive Gold",
-                    "code": "raid_strapdress_emissive_gold"
+                    "code": "raid_strapdress_emissive_gold",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold",

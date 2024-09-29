@@ -7,13 +7,15 @@
     ],
     "tags": [
         "Clothing",
-        "FemV",
-        "Legs"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",

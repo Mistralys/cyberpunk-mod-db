@@ -9,14 +9,15 @@
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Skimpy",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Regular",
-            "tags": [],
+            "tags": [
+                "Bra",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -49,8 +50,12 @@
             ]
         },
         {
-            "label": "Underboob",
-            "tags": [],
+            "label": "Slim",
+            "tags": [
+                "Bra",
+                "Skimpy",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",

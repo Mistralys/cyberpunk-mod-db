@@ -6,19 +6,10 @@
         "AlvarixPT"
     ],
     "tags": [
-        "Arms",
-        "Body",
         "Body-Vanilla",
-        "Choker",
         "Clothing",
-        "Feet",
         "FemV",
-        "Gloves",
-        "Hair",
-        "Hands",
-        "Jewelry",
-        "Legs",
-        "Neck",
+        "FullBody",
         "Outfit"
     ],
     "itemCategories": [
@@ -28,39 +19,75 @@
             "items": [
                 {
                     "name": "Corset",
-                    "code": "rayne_corset"
+                    "code": "rayne_corset",
+                    "tags": [
+                        "Torso"
+                    ]
                 },
                 {
                     "name": "Dress",
-                    "code": "rayne_dress"
+                    "code": "rayne_dress",
+                    "tags": [
+                        "FullBody"
+                    ]
                 },
                 {
                     "name": "Dress Boots",
-                    "code": "rayne_dress_boots"
+                    "code": "rayne_dress_boots",
+                    "tags": [
+                        "Boots",
+                        "Feet"
+                    ]
                 },
                 {
                     "name": "Dress Gloves",
-                    "code": "rayne_dress_gloves"
+                    "code": "rayne_dress_gloves",
+                    "tags": [
+                        "Arms",
+                        "Gloves",
+                        "Hands"
+                    ]
                 },
                 {
                     "name": "Dress Panties",
-                    "code": "rayne_dress_panties"
+                    "code": "rayne_dress_panties",
+                    "tags": [
+                        "Legs",
+                        "Panties"
+                    ]
                 },
                 {
                     "name": "Gloves",
-                    "code": "rayne_gloves"
+                    "code": "rayne_gloves",
+                    "tags": [
+                        "Arms",
+                        "Gloves",
+                        "Hands"
+                    ]
                 },
                 {
                     "name": "Hair",
-                    "code": "rayne_hair"
+                    "code": "rayne_hair",
+                    "tags": [
+                        "Hair",
+                        "Head"
+                    ]
                 },
                 {
                     "name": "Necklace",
-                    "code": "rayne_necklace"
+                    "code": "rayne_necklace",
+                    "tags": [
+                        "Jewelry",
+                        "Neck"
+                    ]
                 },
                 {
                     "name": "Pants",
-                    "code": "rayne_pants"
+                    "code": "rayne_pants",
+                    "tags": [
+                        "Legs",
+                        "Pants"
+                    ]
                 }
             ]
         }

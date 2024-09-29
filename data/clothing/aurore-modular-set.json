@@ -6,20 +6,19 @@
         "MONSTERaider"
     ],
     "tags": [
-        "Accessories",
         "Clothing",
-        "Emissive",
         "FemV",
-        "Legs",
-        "Modular",
-        "Physics",
-        "Torso",
-        "Waist"
+        "Modular"
     ],
     "itemCategories": [
         {
             "label": "Belts",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Physics",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -57,7 +56,10 @@
         },
         {
             "label": "Jacket",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -103,7 +105,10 @@
         },
         {
             "label": "Jacket Back-Plugs",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -149,11 +154,17 @@
         },
         {
             "label": "Jacket Lines",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Blue Emissive",
-                    "code": "raid_gzel_stich_j_blue_emissive"
+                    "code": "raid_gzel_stich_j_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold",
@@ -161,19 +172,31 @@
                 },
                 {
                     "name": "Gold Emissive",
-                    "code": "raid_gzel_stich_j_gold_emissive"
+                    "code": "raid_gzel_stich_j_gold_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Green Emissive",
-                    "code": "raid_gzel_stich_j_green_emissive"
+                    "code": "raid_gzel_stich_j_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Pink Glow",
-                    "code": "raid_gzel_stich_j_pink_glow"
+                    "code": "raid_gzel_stich_j_pink_glow",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Red Emissive",
-                    "code": "raid_gzel_stich_j_red_emissive"
+                    "code": "raid_gzel_stich_j_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver",
@@ -181,21 +204,33 @@
                 },
                 {
                     "name": "Teal Emissive",
-                    "code": "raid_gzel_stich_j_teal_emissive"
+                    "code": "raid_gzel_stich_j_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "White Emissive",
-                    "code": "raid_gzel_stich_j_white_emissive"
+                    "code": "raid_gzel_stich_j_white_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Yellow Emissive",
-                    "code": "raid_gzel_stich_j_yellow_emissive"
+                    "code": "raid_gzel_stich_j_yellow_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 }
             ]
         },
         {
             "label": "Pants",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -241,11 +276,17 @@
         },
         {
             "label": "Pants Lines",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
             "items": [
                 {
                     "name": "Blue Emissive",
-                    "code": "raid_gzel_stich_p_blue_emissive"
+                    "code": "raid_gzel_stich_p_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold",
@@ -253,19 +294,31 @@
                 },
                 {
                     "name": "Gold Emissive",
-                    "code": "raid_gzel_stich_p_gold_emissive"
+                    "code": "raid_gzel_stich_p_gold_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Green Emissive",
-                    "code": "raid_gzel_stich_p_green_emissive"
+                    "code": "raid_gzel_stich_p_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Pink Glow",
-                    "code": "raid_gzel_stich_p_pink_glow"
+                    "code": "raid_gzel_stich_p_pink_glow",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Red Emissive",
-                    "code": "raid_gzel_stich_p_red_emissive"
+                    "code": "raid_gzel_stich_p_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver",
@@ -273,21 +326,33 @@
                 },
                 {
                     "name": "Teal Emissive",
-                    "code": "raid_gzel_stich_p_teal_emissive"
+                    "code": "raid_gzel_stich_p_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "White Emissive",
-                    "code": "raid_gzel_stich_p_white_emissive"
+                    "code": "raid_gzel_stich_p_white_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Yellow Emissive",
-                    "code": "raid_gzel_stich_p_yellow_emissive"
+                    "code": "raid_gzel_stich_p_yellow_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 }
             ]
         },
         {
             "label": "Shorts",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -333,11 +398,17 @@
         },
         {
             "label": "Shorts Lines",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
             "items": [
                 {
                     "name": "Blue Emissive",
-                    "code": "raid_gzel_stich_s_blue_emissive"
+                    "code": "raid_gzel_stich_s_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold",
@@ -345,19 +416,31 @@
                 },
                 {
                     "name": "Gold Emissive",
-                    "code": "raid_gzel_stich_s_gold_emissive"
+                    "code": "raid_gzel_stich_s_gold_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Green Emissive",
-                    "code": "raid_gzel_stich_s_green_emissive"
+                    "code": "raid_gzel_stich_s_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Pink Glow",
-                    "code": "raid_gzel_stich_s_pink_glow"
+                    "code": "raid_gzel_stich_s_pink_glow",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Red Emissive",
-                    "code": "raid_gzel_stich_s_red_emissive"
+                    "code": "raid_gzel_stich_s_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver",
@@ -365,15 +448,24 @@
                 },
                 {
                     "name": "Teal Emissive",
-                    "code": "raid_gzel_stich_s_teal_emissive"
+                    "code": "raid_gzel_stich_s_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "White Emissive",
-                    "code": "raid_gzel_stich_s_white_emissive"
+                    "code": "raid_gzel_stich_s_white_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Yellow Emissive",
-                    "code": "raid_gzel_stich_s_yellow_emissive"
+                    "code": "raid_gzel_stich_s_yellow_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 }
             ]
         }

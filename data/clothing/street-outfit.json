@@ -11,14 +11,15 @@
         "Body-Lush",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Street Jacket",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -56,7 +57,10 @@
         },
         {
             "label": "Street Jeans",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -102,7 +106,10 @@
         },
         {
             "label": "Street Top",
-            "tags": [],
+            "tags": [
+                "Top",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",

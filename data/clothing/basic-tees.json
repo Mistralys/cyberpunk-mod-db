@@ -12,13 +12,15 @@
         "Body-Solo",
         "Clothing",
         "FemV",
-        "MaleV",
-        "Torso"
+        "MaleV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",

@@ -10,13 +10,15 @@
         "Body-Hyst-RB",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Legs"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Leggings",
+                "Legs"
+            ],
             "items": [
                 {
                     "name": "Arasaka Gold",

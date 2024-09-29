@@ -6,15 +6,15 @@
         "Apzurv"
     ],
     "tags": [
-        "Accessories",
-        "Belt",
-        "FemV",
-        "Waist"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Simple",
-            "tags": [],
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -32,7 +32,11 @@
         },
         {
             "label": "With Accessories",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Black",

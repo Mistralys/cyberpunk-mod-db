@@ -6,16 +6,16 @@
         "kwek"
     ],
     "tags": [
-        "Accessories",
-        "Ears",
-        "FemV",
-        "Jewelry",
-        "Physics"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Earring",
+                "Jewelry",
+                "Physics"
+            ],
             "items": [
                 {
                     "name": "Glowy Pink",
@@ -27,7 +27,10 @@
                 },
                 {
                     "name": "Holo",
-                    "code": "earrings_05_old_01_kwek"
+                    "code": "earrings_05_old_01_kwek",
+                    "tags": [
+                        "Holo"
+                    ]
                 },
                 {
                     "name": "Orange",

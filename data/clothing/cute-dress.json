@@ -6,15 +6,14 @@
         "Apzurv"
     ],
     "tags": [
-        "FemV",
-        "FullBody",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Black Gold",

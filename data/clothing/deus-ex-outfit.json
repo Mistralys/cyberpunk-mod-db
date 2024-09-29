@@ -8,11 +8,11 @@
     "tags": [
         "Accessories",
         "Arms",
-        "Body",
         "Body-Vanilla",
         "Clothing",
         "Feet",
         "FemV",
+        "FullBody",
         "Legs",
         "Outfit"
     ],
@@ -23,19 +23,35 @@
             "items": [
                 {
                     "name": "Boots",
-                    "code": "deusx_boots"
+                    "code": "deusx_boots",
+                    "tags": [
+                        "Boots",
+                        "Feet"
+                    ]
                 },
                 {
                     "name": "Shorts",
-                    "code": "deusx_shorts"
+                    "code": "deusx_shorts",
+                    "tags": [
+                        "Legs",
+                        "Shorts"
+                    ]
                 },
                 {
                     "name": "Specs",
-                    "code": "deusx_specs"
+                    "code": "deusx_specs",
+                    "tags": [
+                        "Accessories",
+                        "Waist"
+                    ]
                 },
                 {
                     "name": "Vest",
-                    "code": "deusx_vest"
+                    "code": "deusx_vest",
+                    "tags": [
+                        "Jacket",
+                        "Torso"
+                    ]
                 }
             ]
         }

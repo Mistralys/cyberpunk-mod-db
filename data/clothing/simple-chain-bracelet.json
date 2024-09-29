@@ -6,18 +6,18 @@
         "kwek"
     ],
     "tags": [
-        "Accessories",
-        "Arms",
         "FemV",
-        "Holo",
-        "Jewelry",
-        "MaleV",
-        "Physics"
+        "MaleV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Arms",
+                "Jewelry",
+                "Physics"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -29,11 +29,17 @@
                 },
                 {
                     "name": "Glow Pink",
-                    "code": "kwek_bracelet_02_glow_pink"
+                    "code": "kwek_bracelet_02_glow_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Holo",
-                    "code": "kwek_bracelet_02_holo"
+                    "code": "kwek_bracelet_02_holo",
+                    "tags": [
+                        "Holo"
+                    ]
                 },
                 {
                     "name": "Orange",

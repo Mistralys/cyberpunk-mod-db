@@ -10,15 +10,15 @@
         "Body-Hyst-EBBRB",
         "Body-Hyst-RB",
         "Clothing",
-        "FemV",
-        "FullBody",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Black and Gold Slashes",

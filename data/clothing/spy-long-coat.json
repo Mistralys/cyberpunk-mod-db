@@ -7,15 +7,15 @@
     ],
     "tags": [
         "Clothing",
-        "Coat",
-        "FemV",
-        "FullBody",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Coat",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Arasaka",

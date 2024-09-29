@@ -9,10 +9,7 @@
         "Body-Hyst-EBB",
         "Body-Hyst-EBBRB",
         "Body-Vanilla",
-        "FemV",
-        "FullBody",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
@@ -21,19 +18,35 @@
             "items": [
                 {
                     "name": "Black Dress",
-                    "code": "hand_a"
+                    "code": "hand_a",
+                    "tags": [
+                        "Dress",
+                        "FullBody"
+                    ]
                 },
                 {
                     "name": "Black Jacket",
-                    "code": "hanj_a"
+                    "code": "hanj_a",
+                    "tags": [
+                        "Jacket",
+                        "Torso"
+                    ]
                 },
                 {
                     "name": "White Dress",
-                    "code": "hand_b"
+                    "code": "hand_b",
+                    "tags": [
+                        "Dress",
+                        "FullBody"
+                    ]
                 },
                 {
                     "name": "White Jacket",
-                    "code": "hanj_b"
+                    "code": "hanj_b",
+                    "tags": [
+                        "Jacket",
+                        "Torso"
+                    ]
                 }
             ]
         }

@@ -6,14 +6,15 @@
         "Apzurv"
     ],
     "tags": [
-        "FemV",
-        "Jewelry",
-        "Waist"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Gold",
-            "tags": [],
+            "tags": [
+                "FullBody",
+                "Jewelry"
+            ],
             "items": [
                 {
                     "name": "Circled Hearts",

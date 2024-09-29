@@ -8,15 +8,17 @@
     "tags": [
         "Body-Hyst",
         "Body-Hyst-EBB",
-        "Body-Hyst-EBB-BB",
+        "Body-Hyst-EBBRB",
         "Body-Vanilla",
-        "FemV",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Black",

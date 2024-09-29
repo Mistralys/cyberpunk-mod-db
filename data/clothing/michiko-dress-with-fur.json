@@ -7,16 +7,19 @@
     ],
     "tags": [
         "Arms",
-        "Body",
         "Body-Hyst",
         "Body-Lush",
         "Body-Vanilla",
-        "FemV"
+        "FemV",
+        "FullBody"
     ],
     "itemCategories": [
         {
             "label": "Dress",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -62,7 +65,10 @@
         },
         {
             "label": "Fur",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
             "items": [
                 {
                     "name": "Black Blue",

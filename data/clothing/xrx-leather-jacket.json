@@ -9,13 +9,15 @@
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Variant A - Matte Black, Black Sleeves",

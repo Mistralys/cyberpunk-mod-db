@@ -7,15 +7,14 @@
     ],
     "tags": [
         "Clothing",
-        "FemV",
-        "FullBody",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Gold",

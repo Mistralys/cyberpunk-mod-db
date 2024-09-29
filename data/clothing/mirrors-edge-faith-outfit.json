@@ -7,13 +7,15 @@
     ],
     "tags": [
         "Clothing",
-        "FemV",
-        "Outfit"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "FullBody",
+                "Outfit"
+            ],
             "items": [
                 {
                     "name": "Outfit",

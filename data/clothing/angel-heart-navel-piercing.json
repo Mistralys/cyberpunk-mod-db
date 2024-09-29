@@ -6,14 +6,16 @@
         "cyb3rsn4k34li3n"
     ],
     "tags": [
-        "Accessories",
-        "FemV",
-        "Jewelry"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Jewelry",
+                "Navel"
+            ],
             "items": [
                 {
                     "name": "Baby Blue",

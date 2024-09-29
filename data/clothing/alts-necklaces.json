@@ -7,14 +7,15 @@
     ],
     "tags": [
         "Clothing",
-        "FemV",
-        "Jewelry",
-        "Neck"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Jewelry",
+                "Neck"
+            ],
             "items": [
                 {
                     "name": "Bullet Only",

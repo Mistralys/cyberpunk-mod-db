@@ -10,13 +10,15 @@
         "Body-Hyst-Angel",
         "Body-Hyst-RB",
         "Body-Vanilla",
-        "FemV",
-        "Legs"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Leggings",
+                "Legs"
+            ],
             "items": [
                 {
                     "name": "Black",

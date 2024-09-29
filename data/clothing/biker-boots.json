@@ -11,15 +11,17 @@
         "Body-Solo",
         "Body-Spawn0",
         "Body-Vanilla",
-        "Boots",
-        "Feet",
         "FemV",
         "MaleV"
     ],
     "itemCategories": [
         {
             "label": "Long Boots",
-            "tags": [],
+            "tags": [
+                "Boots",
+                "Emissive",
+                "Feet"
+            ],
             "items": [
                 {
                     "name": "Black, Green Emissive",
@@ -69,7 +71,11 @@
         },
         {
             "label": "Short Boots",
-            "tags": [],
+            "tags": [
+                "Boots",
+                "Emissive",
+                "Feet"
+            ],
             "items": [
                 {
                     "name": "Black, Green Emissive",

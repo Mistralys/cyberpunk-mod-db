@@ -14,14 +14,15 @@
         "Body-Solo",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Jacket Set 1",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -63,7 +64,10 @@
         },
         {
             "label": "Jacket Set 2",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -105,7 +109,10 @@
         },
         {
             "label": "Pants Set 1",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -151,7 +158,10 @@
         },
         {
             "label": "Pants Set 2",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",

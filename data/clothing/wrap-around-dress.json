@@ -6,16 +6,19 @@
         "Alvarix"
     ],
     "tags": [
-        "Body",
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
-        "FemV"
+        "FemV",
+        "FullBody"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Beige Lace",

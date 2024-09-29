@@ -6,23 +6,21 @@
         "MONSTERaider"
     ],
     "tags": [
-        "Accessories",
-        "Body",
         "Body-Hyst",
         "Body-Lush",
         "Body-Solo",
         "Body-Spawn0",
         "Body-Vanilla",
         "Clothing",
-        "Emissive",
-        "FemV",
-        "Legs",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
-            "label": "Celebrity Bras",
-            "tags": [],
+            "label": "Bras",
+            "tags": [
+                "Bra",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Blue Metal",
@@ -30,7 +28,10 @@
                 },
                 {
                     "name": "Blue Metal Emissive Blue",
-                    "code": "raid_cyberceleb_bra_bluemetal_emissive_blue"
+                    "code": "raid_cyberceleb_bra_bluemetal_emissive_blue",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold",
@@ -38,11 +39,17 @@
                 },
                 {
                     "name": "Gold Emissive White",
-                    "code": "raid_cyberceleb_bra_gold_emissive_white"
+                    "code": "raid_cyberceleb_bra_gold_emissive_white",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Gold Emissive Yellow",
-                    "code": "raid_cyberceleb_bra_gold_emissive_yellow"
+                    "code": "raid_cyberceleb_bra_gold_emissive_yellow",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Pink Metal",
@@ -50,7 +57,10 @@
                 },
                 {
                     "name": "Pink Metal Emissive Red",
-                    "code": "raid_cyberceleb_bra_pinkmetal_emissive_red"
+                    "code": "raid_cyberceleb_bra_pinkmetal_emissive_red",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver",
@@ -58,69 +68,40 @@
                 },
                 {
                     "name": "Silver Emissive Gold",
-                    "code": "raid_cyberceleb_bra_silver_emissive_gold"
+                    "code": "raid_cyberceleb_bra_silver_emissive_gold",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver Emissive Green",
-                    "code": "raid_cyberceleb_bra_silver_emissive_green"
+                    "code": "raid_cyberceleb_bra_silver_emissive_green",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver Emissive Teal",
-                    "code": "raid_cyberceleb_bra_silver_emissive_teal"
+                    "code": "raid_cyberceleb_bra_silver_emissive_teal",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Silver Glow Pink",
-                    "code": "raid_cyberceleb_bra_silver_glow_pink"
-                }
-            ]
-        },
-        {
-            "label": "Celebrity Rings - Left",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Blue Metal",
-                    "code": "raid_cyberceleb_rings_left_bluemetal"
-                },
-                {
-                    "name": "Gold",
-                    "code": "raid_cyberceleb_rings_left_gold"
-                },
-                {
-                    "name": "Pink Metal",
-                    "code": "raid_cyberceleb_rings_left_pinkmetal"
-                },
-                {
-                    "name": "Silver",
-                    "code": "raid_cyberceleb_rings_left_silver"
-                }
-            ]
-        },
-        {
-            "label": "Celebrity Rings - Right",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Blue Metal",
-                    "code": "raid_cyberceleb_rings_right_bluemetal"
-                },
-                {
-                    "name": "Gold",
-                    "code": "raid_cyberceleb_rings_right_gold"
-                },
-                {
-                    "name": "Pink Metal",
-                    "code": "raid_cyberceleb_rings_right_pinkmetal"
-                },
-                {
-                    "name": "Silver",
-                    "code": "raid_cyberceleb_rings_right_silver"
+                    "code": "raid_cyberceleb_bra_silver_glow_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
                 }
             ]
         },
         {
             "label": "Full Dresses",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Blue Metal White",
@@ -157,8 +138,63 @@
             ]
         },
         {
+            "label": "Rings - Left",
+            "tags": [
+                "Hands",
+                "Jewelry",
+                "Ring"
+            ],
+            "items": [
+                {
+                    "name": "Blue Metal",
+                    "code": "raid_cyberceleb_rings_left_bluemetal"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_cyberceleb_rings_left_gold"
+                },
+                {
+                    "name": "Pink Metal",
+                    "code": "raid_cyberceleb_rings_left_pinkmetal"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cyberceleb_rings_left_silver"
+                }
+            ]
+        },
+        {
+            "label": "Rings - Right",
+            "tags": [
+                "Hands",
+                "Jewelry",
+                "Ring"
+            ],
+            "items": [
+                {
+                    "name": "Blue Metal",
+                    "code": "raid_cyberceleb_rings_right_bluemetal"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_cyberceleb_rings_right_gold"
+                },
+                {
+                    "name": "Pink Metal",
+                    "code": "raid_cyberceleb_rings_right_pinkmetal"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cyberceleb_rings_right_silver"
+                }
+            ]
+        },
+        {
             "label": "Skirts",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
             "items": [
                 {
                     "name": "Black",

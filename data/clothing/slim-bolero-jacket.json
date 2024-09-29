@@ -6,13 +6,16 @@
         "MONSTERaider"
     ],
     "tags": [
-        "FemV",
-        "Torso"
+        "Clothing",
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",

@@ -23,7 +23,11 @@
     "itemCategories": [
         {
             "label": "Bag",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -69,7 +73,11 @@
         },
         {
             "label": "Belt",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -115,7 +123,10 @@
         },
         {
             "label": "Mask",
-            "tags": [],
+            "tags": [
+                "Head",
+                "Mask"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -161,7 +172,10 @@
         },
         {
             "label": "Pants",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -207,7 +221,9 @@
         },
         {
             "label": "Sleeve",
-            "tags": [],
+            "tags": [
+                "Arms"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -253,7 +269,10 @@
         },
         {
             "label": "Top",
-            "tags": [],
+            "tags": [
+                "Top",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",

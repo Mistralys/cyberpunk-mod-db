@@ -9,15 +9,15 @@
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
-        "FemV",
-        "Legs",
-        "Skimpy",
-        "Torso"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "Bikini",
-            "tags": [],
+            "tags": [
+                "Skimpy",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -51,7 +51,10 @@
         },
         {
             "label": "Dress",
-            "tags": [],
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -85,7 +88,10 @@
         },
         {
             "label": "Panties",
-            "tags": [],
+            "tags": [
+                "Legs",
+                "Panties"
+            ],
             "items": [
                 {
                     "name": "Black",
@@ -119,7 +125,10 @@
         },
         {
             "label": "Top",
-            "tags": [],
+            "tags": [
+                "Top",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Black",

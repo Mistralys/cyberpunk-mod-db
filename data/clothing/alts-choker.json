@@ -6,15 +6,17 @@
         "mistshield"
     ],
     "tags": [
-        "Choker",
         "Clothing",
-        "FemV",
-        "Neck"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Accessories",
+                "Choker",
+                "Neck"
+            ],
             "items": [
                 {
                     "name": "Beige",
