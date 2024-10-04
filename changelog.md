@@ -1,3 +1,6 @@
+## v2.0.1 - Small fix
+- Mods: "Moon and Star earrings": Fixed a misplaced space in an item code.
+ 
 ## v2.0.0 - Structure update
 - Data: Changed items structure to use categories.
 - Data: Items can now have their own tags.
