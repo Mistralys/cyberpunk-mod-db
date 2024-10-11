@@ -1,15 +1,17 @@
-## v2.0.2 - Added mods
-- Mods: Added "Tactical Crop Top" by Adshield.
-- Mods: Added "Harness Top" by Adshield.
+## v2.0.3 - Added mods
 - Mods: Added "Bad Cop Outfit" by Alvarix.
 - Mods: Added "Beaded Choker" by mistshield.
 - Mods: Added "Cute Zipper Top" by cubfan82.
 - Mods: Added "Summer Outfit" by NolaDreamer.
 - Mods: Added "Bootcut Pants" by NotMayoSan.
 - Mods: Fixed misnamed "tags" key in the Salander Earplugs mod.
-- Tags: Added the `DIY` and `NSFW` tags.
 - Tools: The `bin/cpmdb.php` script now centralizes all commands.
 - Tools: Added a script to create a new mod skeleton JSON file.
+
+## v2.0.2 - Added mods
+- Mods: Added "Tactical Crop Top" by Adshield.
+- Mods: Added "Harness Top" by Adshield.
+- Tags: Added the `DIY` and `NSFW` tags.
 
 ## v2.0.1 - Small fix
 - Mods: "Moon and Star earrings": Fixed a misplaced space in an item code.
