@@ -14,10 +14,9 @@
  * @package CPMDB
  */
 
-use AppUtils\FileHelper;
-use AppUtils\FileHelper\JSONFile;
+require_once __DIR__.'/prepend.php';
 
-require_once __DIR__ . '/../vendor/autoload.php';
+use AppUtils\FileHelper\JSONFile;
 
 function normalizeFile(JSONFile $file) : void
 {
@@ -225,22 +224,6 @@ function normalizeTags(array $tags) : array
     return $normalized;
 }
 
-function logInfo(string $message, ...$args) : void
-{
-    echo sprintf($message, ...$args).PHP_EOL;
-}
-
-function logError(string $message, ...$args) : void
-{
-    echo '...! '.sprintf($message, ...$args).PHP_EOL;
-}
-
-$files = FileHelper::createFileFinder(__DIR__.'/../data/clothing')
-    ->includeExtension('json')
-    ->getFileInfos();
-
-foreach($files as $file) {
-    if ($file instanceof JSONFile) {
-        normalizeFile($file);
-    }
+foreach(getFiles() as $file) {
+    normalizeFile($file);
 }
