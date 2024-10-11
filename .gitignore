@@ -3,3 +3,4 @@ composer.phar
 *.psd
 /.idea
 modslist.md
+/data/clothing/normalized
