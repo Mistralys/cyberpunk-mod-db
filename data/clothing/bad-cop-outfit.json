@@ -1,0 +1,64 @@
+{
+    "mod": "Bad Cop Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/9515",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "AlvarixPT"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Outfit"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Body",
+                    "code": "bad_cop_body",
+                    "tags": [
+                        "Choker",
+                        "FullBody",
+                        "Neck",
+                        "Skimpy"
+                    ]
+                },
+                {
+                    "name": "Gloves",
+                    "code": "bad_cop_gloves",
+                    "tags": [
+                        "Gloves",
+                        "Hands"
+                    ]
+                },
+                {
+                    "name": "Hat",
+                    "code": "bad_cop_hat",
+                    "tags": [
+                        "Hat",
+                        "Head"
+                    ]
+                },
+                {
+                    "name": "Holster",
+                    "code": "bad_cop_holster",
+                    "tags": [
+                        "Accessories",
+                        "Legs"
+                    ]
+                },
+                {
+                    "name": "Shoes",
+                    "code": "bad_cop_shoes",
+                    "tags": [
+                        "Feet",
+                        "Shoes"
+                    ]
+                }
+            ]
+        }
+    ]
+}
