@@ -36,3 +36,9 @@ if(isset($commands['modslist'])) {
     generateModsList();
     exit;
 }
+
+if(isset($commands['create'])) {
+    require_once __DIR__ . '/assets/create-new.php';
+    createNew($commands);
+    exit;
+}
