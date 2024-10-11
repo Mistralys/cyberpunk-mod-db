@@ -1,0 +1,50 @@
+{
+    "mod": "Beaded Choker",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6978",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+    "authors": [
+        "mistshield"
+    ],
+    "tags": [
+        "Choker",
+        "Clothing",
+        "FemV",
+        "Jewelry",
+        "Neck"
+    ],
+    "itemCategories": [
+        {
+        "label": "",
+        "tags": [],
+        "items": [
+            {
+                "name": "Cyber",
+                "code": "bead_choker_cyber",
+                "tags": [
+                    "Animated",
+                    "Holo"
+                ]
+            },
+            {
+                "name": "Default",
+                "code": "bead_choker_default"
+            },
+            {
+                "name": "Gold",
+                "code": "bead_choker_gold"
+            },
+            {
+                "name": "Red Holo",
+                "code": "bead_choker_holo",
+                "tags": [
+                    "Holo"
+                ]
+            },
+            {
+                "name": "Silver",
+                "code": "bead_choker_silver"
+            }
+        ]
+    }
+    ]
+}
