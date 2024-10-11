@@ -2,3 +2,4 @@ composer.phar
 /vendor/
 *.psd
 /.idea
+modslist.md
