@@ -41,4 +41,6 @@ function generateModsList() : void
         '## Mods List' . PHP_EOL . PHP_EOL .
         implode(PHP_EOL, $lines) . PHP_EOL
     );
+
+    logInfo('Mods list generated successfully.');
 }
