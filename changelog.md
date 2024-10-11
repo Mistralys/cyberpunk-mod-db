@@ -5,6 +5,7 @@
 - Mods: Added "Beaded Choker" by mistshield.
 - Mods: Added "Cute Zipper Top" by cubfan82.
 - Mods: Added "Summer Outfit" by NolaDreamer.
+- Mods: Added "Bootcut Pants" by NotMayoSan.
 - Mods: Fixed misnamed "tags" key in the Salander Earplugs mod.
 - Tags: Added the `DIY` and `NSFW` tags.
 
