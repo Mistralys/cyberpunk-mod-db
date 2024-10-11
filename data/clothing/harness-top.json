@@ -1,0 +1,66 @@
+{
+    "mod": "Harness Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11753",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
+    "authors": [
+        "Adshield"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Lush",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "items": [
+                {
+                    "name": "Arasaka Academy",
+                    "code": "Adshield_Harness_Top_Arasaka"
+                },
+                {
+                    "name": "Bloody Hands",
+                    "code": "Adshield_Harness_Top_Hands"
+                },
+                {
+                    "name": "Burn Corpo Shit",
+                    "code": "Adshield_Harness_Top_Burn"
+                },
+                {
+                    "name": "Cream",
+                    "code": "Adshield_Harness_Top_Cream"
+                },
+                {
+                    "name": "Entropy",
+                    "code": "Adshield_Harness_Top_Entropy"
+                },
+                {
+                    "name": "Fuck Death",
+                    "code": "Adshield_Harness_Top_Death"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "Adshield_Harness_Top_Samurai"
+                },
+                {
+                    "name": "The Hammer",
+                    "code": "Adshield_Harness_Top_Hammer"
+                },
+                {
+                    "name": "The Mox Till Death",
+                    "code": "Adshield_Harness_Top_Mox"
+                },
+                {
+                    "name": "Where's Johnny?",
+                    "code": "Adshield_Harness_Top_Johnny"
+                }
+            ],
+            "tags": []
+        }
+    ]
+}
