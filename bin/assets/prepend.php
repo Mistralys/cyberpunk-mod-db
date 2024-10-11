@@ -5,7 +5,7 @@ use AppUtils\FileHelper;
 use AppUtils\FileHelper\JSONFile;
 use AppUtils\FileHelper_Exception;
 
-require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../../vendor/autoload.php';
 
 /**
  * @return JSONFile[]
@@ -13,7 +13,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
  */
 function getFiles() : array
 {
-    $files = FileHelper::createFileFinder(__DIR__.'/../data/clothing')
+    $files = FileHelper::createFileFinder(__DIR__.'/../../data/clothing')
         ->includeExtension('json')
         ->getFileInfos();
 
@@ -43,9 +43,11 @@ function getCLICommands() : array
     global $argv;
 
     $commands = array();
+    $first = true;
     foreach($argv as $arg)
     {
-        if(strpos($arg, __FILE__)) {
+        if($first === true) {
+            $first = false;
             continue;
         }
 

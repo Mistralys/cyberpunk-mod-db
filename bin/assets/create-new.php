@@ -17,7 +17,7 @@ if(isset($commands['help']) || isset($commands['h'])) {
     showUsage();
 }
 
-$id = $commands['id'] ?? '';
+$id = $commands['add-mod'] ?? '';
 $name = $commands['name'] ?? '';
 
 if(empty($id)) {
@@ -43,7 +43,7 @@ $data = array(
             'tags' => array(),
             'items' => array(
                 array(
-                    'label' => 'ItemName',
+                    'name' => 'ItemName',
                     'code' => 'item_code',
                     'tags' => array()
                 )
@@ -57,8 +57,3 @@ JSONFile::factory(__DIR__.'/../data/clothing/'.$id.'.json')
 
 logInfo('Mod [%s] created successfully.'.PHP_EOL, $id);
 
-function showUsage() : void
-{
-    logInfo('Usage: php create-new.php id=mod_id name="Mod name"');
-    exit;
-}

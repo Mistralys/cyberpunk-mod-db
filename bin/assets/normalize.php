@@ -55,17 +55,23 @@ function normalizeFile(JSONFile $file) : void
 
         $category['tags'] = normalizeTags($category['tags']);
 
+        foreach($category['items'] as $idx => $item) {
+            $normalizedItem = array(
+                'name' => $item['label'] ?? $item['name'] ?? '',
+                'code' => $item['code'] ?? ''
+            );
+
+            if(!empty($item['tags'])) {
+                $normalizedItem['tags'] = normalizeTags($item['tags']);
+            }
+
+            $category['items'][$idx] = $normalizedItem;
+        }
+
         // Sort items by name
         usort($category['items'], function(array $a, array$b) : int {
             return strnatcasecmp($a['name'], $b['name']);
         });
-
-        // Sort the item tags
-        foreach($category['items'] as $idx => $item) {
-            if(isset($item['tags'])) {
-                $category['items'][$idx]['tags'] = normalizeTags($item['tags']);
-            }
-        }
 
         $keep[] = $category;
     }
@@ -115,6 +121,7 @@ const TAGS_NORMALIZED = array(
     'bras' => 'Bra',
     'navel' => 'Navel',
     'waist' => 'Waist',
+    'hat' => 'Hat',
     'neck' => 'Neck',
     'necklace' => 'Necklace',
     'necklaces' => 'Necklace',
@@ -224,6 +231,9 @@ function normalizeTags(array $tags) : array
     return $normalized;
 }
 
-foreach(getFiles() as $file) {
-    normalizeFile($file);
+function normalizeAll() : void
+{
+    foreach(getFiles() as $file) {
+        normalizeFile($file);
+    }
 }
