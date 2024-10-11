@@ -1,0 +1,293 @@
+{
+    "mod": "Tactical Crop Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8406",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
+    "authors": [
+        "Adshield"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Lush",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "BDSM",
+            "tags": [
+                "Skimpy",
+                "NSFW"
+            ],
+            "items": [
+                {
+                    "name": "BBCorps",
+                    "code": "Adshield_Tac_Crop_Top_BBCorps_LL_BDSM"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_Le_BDSM"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_LL_BDSM"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "Adshield_Tac_Crop_Top_BlackBlue_FL_BDSM"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "Adshield_Tac_Crop_Top_BlackGold_FL_BDSM"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "Adshield_Tac_Crop_Top_BlackGreen_FL_BDSM"
+                },
+                {
+                    "name": "Black Grey",
+                    "code": "Adshield_Tac_Crop_Top_BlackGrey_FL_BDSM"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "Adshield_Tac_Crop_Top_BlackPink_FL_BDSM"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "Adshield_Tac_Crop_Top_BlackRed_FL_BDSM"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "Adshield_Tac_Crop_Top_BlackYellow_FL_BDSM"
+                },
+                {
+                    "name": "DIY",
+                    "code": "Adshield_Tac_Crop_Top_DIY_BDSM",
+                    "tags": [
+                        "DIY"
+                    ]
+                },
+                {
+                    "name": "Militech",
+                    "code": "Adshield_Tac_Crop_Top_Militech_FF_BDSM"
+                },
+                {
+                    "name": "Olive",
+                    "code": "Adshield_Tac_Crop_Top_Olive_FF_BDSM"
+                },
+                {
+                    "name": "Orange Black",
+                    "code": "Adshield_Tac_Crop_Top_OrangeBlack_FL_BDSM"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "Adshield_Tac_Crop_Top_PinkBlack_FL_BDSM"
+                },
+                {
+                    "name": "Red",
+                    "code": "Adshield_Tac_Crop_Top_Red_LL_BDSM"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "Adshield_Tac_Crop_Top_RedBlack_FL_BDSM"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Adshield_Tac_Crop_Top_Tan_FF_BDSM"
+                },
+                {
+                    "name": "White",
+                    "code": "Adshield_Tac_Crop_Top_White_LL_BDSM"
+                },
+                {
+                    "name": "Yellow Black",
+                    "code": "Adshield_Tac_Crop_Top_YellowBlack_FL_BDSM"
+                }
+            ]
+        },
+        {
+            "label": "NSFW",
+            "tags": [
+                "Skimpy",
+                "NSFW"
+            ],
+            "items": [
+                {
+                    "name": "BBCorps",
+                    "code": "Adshield_Tac_Crop_Top_BBCorps_LL_NSFW"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_Le_NSFW"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_LL_NSFW"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "Adshield_Tac_Crop_Top_BlackBlue_FL_NSFW"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "Adshield_Tac_Crop_Top_BlackGold_FL_NSFW"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "Adshield_Tac_Crop_Top_BlackGreen_FL_NSFW"
+                },
+                {
+                    "name": "Black Grey",
+                    "code": "Adshield_Tac_Crop_Top_BlackGrey_FL_NSFW"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "Adshield_Tac_Crop_Top_BlackPink_FL_NSFW"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "Adshield_Tac_Crop_Top_BlackRed_FL_NSFW"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "Adshield_Tac_Crop_Top_BlackYellow_FL_NSFW"
+                },
+                {
+                    "name": "DIY",
+                    "code": "Adshield_Tac_Crop_Top_DIY_NSFW",
+                    "tags": [
+                        "DIY"
+                    ]
+                },
+                {
+                    "name": "Militech",
+                    "code": "Adshield_Tac_Crop_Top_Militech_FF_NSFW"
+                },
+                {
+                    "name": "Olive",
+                    "code": "Adshield_Tac_Crop_Top_Olive_FF_NSFW"
+                },
+                {
+                    "name": "Orange Black",
+                    "code": "Adshield_Tac_Crop_Top_OrangeBlack_FL_NSFW"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "Adshield_Tac_Crop_Top_PinkBlack_FL_NSFW"
+                },
+                {
+                    "name": "Red",
+                    "code": "Adshield_Tac_Crop_Top_Red_LL_NSFW"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "Adshield_Tac_Crop_Top_RedBlack_FL_NSFW"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Adshield_Tac_Crop_Top_Tan_FF_NSFW"
+                },
+                {
+                    "name": "White",
+                    "code": "Adshield_Tac_Crop_Top_White_LL_NSFW"
+                },
+                {
+                    "name": "Yellow Black",
+                    "code": "Adshield_Tac_Crop_Top_YellowBlack_FL_NSFW"
+                }
+            ]
+        },
+        {
+            "label": "Standard",
+            "tags": [],
+            "items": [
+                {
+                    "name": "BBCorps",
+                    "code": "Adshield_Tac_Crop_Top_BBCorps_LL"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_Le"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_LL"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "Adshield_Tac_Crop_Top_BlackBlue_FL"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "Adshield_Tac_Crop_Top_BlackGold_FL"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "Adshield_Tac_Crop_Top_BlackGreen_FL"
+                },
+                {
+                    "name": "Black Grey",
+                    "code": "Adshield_Tac_Crop_Top_BlackGrey_FL"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "Adshield_Tac_Crop_Top_BlackPink_FL"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "Adshield_Tac_Crop_Top_BlackRed_FL"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "Adshield_Tac_Crop_Top_BlackYellow_FL"
+                },
+                {
+                    "name": "DIY",
+                    "code": "Adshield_Tac_Crop_Top_DIY",
+                    "tags": [
+                        "DIY"
+                    ]
+                },
+                {
+                    "name": "Militech",
+                    "code": "Adshield_Tac_Crop_Top_Militech_FF"
+                },
+                {
+                    "name": "Olive",
+                    "code": "Adshield_Tac_Crop_Top_Olive_FF"
+                },
+                {
+                    "name": "Orange Black",
+                    "code": "Adshield_Tac_Crop_Top_OrangeBlack_FL"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "Adshield_Tac_Crop_Top_PinkBlack_FL"
+                },
+                {
+                    "name": "Red",
+                    "code": "Adshield_Tac_Crop_Top_Red_LL"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "Adshield_Tac_Crop_Top_RedBlack_FL"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Adshield_Tac_Crop_Top_Tan_FF"
+                },
+                {
+                    "name": "White",
+                    "code": "Adshield_Tac_Crop_Top_White_LL"
+                },
+                {
+                    "name": "Yellow Black",
+                    "code": "Adshield_Tac_Crop_Top_YellowBlack_FL"
+                }
+            ]
+        }
+    ]
+}
