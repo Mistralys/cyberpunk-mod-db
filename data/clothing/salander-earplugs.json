@@ -41,7 +41,7 @@
                 {
                     "name": "Pink Hologram",
                     "code": "kwek_earplugs_01_pink_hologram",
-                    "tag": [
+                    "tags": [
                         "Holo"
                     ]
                 },
@@ -72,7 +72,7 @@
                 {
                     "name": "Special Hologram",
                     "code": "kwek_earplugs_01_special_hologram",
-                    "tag": [
+                    "tags": [
                         "Holo"
                     ]
                 },
