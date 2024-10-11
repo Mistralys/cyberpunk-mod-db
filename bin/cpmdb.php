@@ -31,7 +31,7 @@ if(isset($commands['normalize'])) {
     exit;
 }
 
-if(isset($commands['modslist'])) {
+if(isset($commands['modslist']) || isset($commands['modlist'])) {
     require_once __DIR__.'/assets/generate-mods-list.php';
     generateModsList();
     exit;
