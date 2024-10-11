@@ -1,0 +1,80 @@
+{
+    "mod": "Cut Zipper Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7097",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6949",
+    "authors": [
+        "cubfan82"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_zipper_black"
+                },
+                {
+                    "name": "Black and White",
+                    "code": "cubfan82_zipper_blackwhite"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_zipper_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_zipper_brown"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cubfan82_zipper_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_zipper_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_zipper_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_zipper_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_zipper_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cubfan82_zipper_silver"
+                },
+                {
+                    "name": "Skulls",
+                    "code": "cubfan82_zipper_skulls"
+                },
+                {
+                    "name": "Stars",
+                    "code": "cubfan82_zipper_stars"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_zipper_white"
+                },
+                {
+                    "name": "White and Black",
+                    "code": "cubfan82_zipper_whiteblack"
+                }
+            ]
+        }
+    ]
+}
