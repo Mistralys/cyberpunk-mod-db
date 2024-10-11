@@ -1,3 +1,7 @@
+## v2.0.4 - New mods and fixes
+- Mods: Fixed the leg rings in the "Celebrity Dress" tagged as Hands & Jewelry.
+- Mods: Fixed the "Manta Ray Glasses" tagged as Jewelry.
+
 ## v2.0.3 - Added mods
 - Mods: Added "Bad Cop Outfit" by Alvarix.
 - Mods: Added "Beaded Choker" by mistshield.
