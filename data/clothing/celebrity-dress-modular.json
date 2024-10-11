@@ -140,9 +140,8 @@
         {
             "label": "Rings - Left",
             "tags": [
-                "Hands",
-                "Jewelry",
-                "Ring"
+                "Legs",
+                "Accessories"
             ],
             "items": [
                 {
@@ -166,9 +165,8 @@
         {
             "label": "Rings - Right",
             "tags": [
-                "Hands",
-                "Jewelry",
-                "Ring"
+                "Legs",
+                "Accessories"
             ],
             "items": [
                 {
