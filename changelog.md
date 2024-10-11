@@ -1,3 +1,8 @@
+## v2.0.2 - Added mods
+- Mods: Added "Tactical Crop Top" by Adshield.
+- Mods: Added "Harness Top" by Adshield.
+- Tags: Added the `DIY` and `NSFW` tags.
+
 ## v2.0.1 - Small fix
 - Mods: "Moon and Star earrings": Fixed a misplaced space in an item code.
  
