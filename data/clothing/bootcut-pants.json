@@ -1,0 +1,137 @@
+{
+    "mod": "Bootcut Pants",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16249",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12939",
+    "authors": [
+        "NotMayoSan"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "Pants"
+    ],
+    "itemCategories": [
+        {
+            "label": "Fabric",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_bootcut_pants_fabric_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "mayo_bootcut_pants_fabric_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "mayo_bootcut_pants_fabric_green"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "mayo_bootcut_pants_fabric_mblue"
+                },
+                {
+                    "name": "Orange",
+                    "code": "mayo_bootcut_pants_fabric_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "mayo_bootcut_pants_fabric_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "mayo_bootcut_pants_fabric_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_bootcut_pants_fabric_red"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_bootcut_pants_fabric_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "mayo_bootcut_pants_fabric_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Latex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_bootcut_pants_latex_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "mayo_bootcut_pants_latex_burgundy"
+                },
+                {
+                    "name": "Hot Pink",
+                    "code": "mayo_bootcut_pants_latex_hotpink"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_bootcut_pants_latex_red"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_bootcut_pants_latex_white"
+                }
+            ]
+        },
+        {
+            "label": "Leather",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_bootcut_pants_leather_black"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "mayo_bootcut_pants_leather_cyan"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_bootcut_pants_leather_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "mayo_bootcut_pants_leather_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_bootcut_pants_leather_white"
+                }
+            ]
+        },
+        {
+            "label": "Special",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "mayo_bootcut_pants_gold"
+                },
+                {
+                    "name": "Gold Rose",
+                    "code": "mayo_bootcut_pants_gold_rose"
+                },
+                {
+                    "name": "Gold Silver",
+                    "code": "mayo_bootcut_pants_gold_silver"
+                }
+            ]
+        }
+    ]
+}
