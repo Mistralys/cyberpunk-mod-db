@@ -17,9 +17,12 @@ and with custom screenshots for each mod.
 * [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027) by Apzurv
 * [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886) by jerinski
 * [Aurore Modular Set](https://www.nexusmods.com/cyberpunk2077/mods/12099) by MONSTERaider
+* [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515) by AlvarixPT
 * [Basic Tees](https://www.nexusmods.com/cyberpunk2077/mods/11309) by halkuonn
+* [Beaded Choker](https://www.nexusmods.com/cyberpunk2077/mods/6978) by mistshield
 * [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
 * [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446) by AlvarixPT
+* [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by NotMayoSan
 * [Cat Antenna](https://www.nexusmods.com/cyberpunk2077/mods/8794) by Apzurv
 * [Catsuit](https://www.nexusmods.com/cyberpunk2077/mods/4917) by Apzurv
 * [Celebrity Dress (Modular)](https://www.nexusmods.com/cyberpunk2077/mods/8299) by MONSTERaider
@@ -28,6 +31,7 @@ and with custom screenshots for each mod.
 * [Clothes for FemV (Pack 2) - Judy's Platform Shoes](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
 * [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041) by PeachuHime
 * [Cute Dress](https://www.nexusmods.com/cyberpunk2077/mods/6193) by Apzurv
+* [Cut Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by cubfan82
 * [Cyberdeck Collection](https://www.nexusmods.com/cyberpunk2077/mods/11093) by Adshield
 * [Deus Ex Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4601) by Alvarix
 * [Elizabeth Peralez Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7048) by kwek
@@ -56,6 +60,7 @@ and with custom screenshots for each mod.
 * [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342) by PinkyDude
 * [Strap Dress](https://www.nexusmods.com/cyberpunk2077/mods/7270) by MONSTERaider
 * [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and Nola Dreamer
+* [Summer Outfit](https://www.nexusmods.com/cyberpunk2077/mods/12331) by NolaDreamer
 * [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548) by Apzurv
 * [Tactical Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/8406) by Adshield
 * [Tight Shiny Pants](https://www.nexusmods.com/cyberpunk2077/mods/10546) by PinkyDude
