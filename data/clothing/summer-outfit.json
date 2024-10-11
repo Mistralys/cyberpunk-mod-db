@@ -1,0 +1,58 @@
+{
+    "mod": "Summer Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12331",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8704",
+    "authors": [
+        "NolaDreamer"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Outfit"
+    ],
+    "itemCategories": [
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_aquelyras_summer_top_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_aquelyras_summer_top_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_aquelyras_summer_top_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_aquelyras_summer_top_green"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "nd_aquelyras_summer_top_mustard"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_aquelyras_summer_top_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "nd_aquelyras_summer_top_purple"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_aquelyras_summer_top_white"
+                }
+            ]
+
+        }
+    ]
+}
