@@ -38,6 +38,9 @@ function logError(string $message, ...$args) : void
     echo '...! '.sprintf($message, ...$args).PHP_EOL;
 }
 
+/**
+ * @return array<string,string>
+ */
 function getCLICommands() : array
 {
     global $argv;
@@ -64,4 +67,26 @@ function getCLICommands() : array
     }
 
     return $commands;
+}
+
+function getModFile(string $id) : JSONFile
+{
+    return JSONFile::factory(__DIR__.'/../../data/clothing/'.$id.'.json')
+        ->setEscapeSlashes(false)
+        ->setTrailingNewline(true);
+}
+
+function getCategorySkeleton(?string $label=null) : array
+{
+    return array(
+        'label' => $label ?? '',
+        'tags' => array(),
+        'items' => array(
+            array(
+                'name' => 'ItemName',
+                'code' => 'item_code',
+                'tags' => array()
+            )
+        )
+    );
 }

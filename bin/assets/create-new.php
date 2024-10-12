@@ -7,13 +7,18 @@
 
 declare(strict_types=1);
 
-use AppUtils\FileHelper\JSONFile;
+use AppUtils\FileHelper_Exception;
 
 require_once __DIR__.'/prepend.php';
 
-function createNew(array $commands) : void
+/**
+ * @param string $modID
+ * @param array<string,string> $commands
+ * @return void
+ * @throws FileHelper_Exception
+ */
+function createNew(string $modID, array $commands) : void
 {
-    $id = $commands['create'] ?? '';
     $name = $commands['name'] ?? '';
 
     if (empty($id)) {
@@ -34,22 +39,11 @@ function createNew(array $commands) : void
         ),
         'comments' => 'OptionalComments',
         'itemCategories' => array(
-            array(
-                'label' => '',
-                'tags' => array(),
-                'items' => array(
-                    array(
-                        'name' => 'ItemName',
-                        'code' => 'item_code',
-                        'tags' => array()
-                    )
-                )
-            )
+            getCategorySkeleton()
         )
     );
 
-    JSONFile::factory(__DIR__ . '/../../data/clothing/' . $id . '.json')
-        ->putData($data, true);
+    getModFile($id)->putData($data, true);
 
     logInfo('Mod [%s] created successfully.' . PHP_EOL, $id);
 }
