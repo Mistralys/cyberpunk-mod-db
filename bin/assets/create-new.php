@@ -21,7 +21,7 @@ function createNew(string $modID, array $commands) : void
 {
     $name = $commands['name'] ?? '';
 
-    if (empty($id)) {
+    if (empty($modID)) {
         logError('Mod ID not specified.');
         showUsage();
         exit;
@@ -43,7 +43,7 @@ function createNew(string $modID, array $commands) : void
         )
     );
 
-    getModFile($id)->putData($data, true);
+    getModFile($modID)->putData($data, true);
 
-    logInfo('Mod [%s] created successfully.' . PHP_EOL, $id);
+    logInfo('Mod [%s] created successfully.' . PHP_EOL, $modID);
 }
