@@ -1,0 +1,279 @@
+{
+    "mod": "Psycho Cyber-Tubes",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7860",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7448",
+    "authors": [
+        "MONSTERaider"
+    ],
+    "tags": [
+        "Accessories",
+        "Arms",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Both Arms (Combined Version)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_cybertubes_black"
+                },
+                {
+                    "name": "Cyberspace",
+                    "code": "raid_cybertubes_cyberspace",
+                    "tags": [
+                        "Animated"
+                    ]
+                },
+                {
+                    "name": "Emissive",
+                    "code": "raid_cybertubes_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Glow Pink",
+                    "code": "raid_cybertubes_glow_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_cybertubes_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_cybertubes_green"
+                },
+                {
+                    "name": "Green Emissive",
+                    "code": "raid_cybertubes_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Hologram",
+                    "code": "raid_cybertubes_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Orange",
+                    "code": "raid_cybertubes_orange"
+                },
+                {
+                    "name": "Red",
+                    "code": "raid_cybertubes_red"
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_cybertubes_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Rust",
+                    "code": "raid_cybertubes_rust"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cybertubes_silver"
+                },
+                {
+                    "name": "Teal Emissive",
+                    "code": "raid_cybertubes_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_cybertubes_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Left Arm (Separated Version)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_cybertubes_left_black"
+                },
+                {
+                    "name": "Cyberspace",
+                    "code": "raid_cybertubes_left_cyberspace",
+                    "tags": [
+                        "Animated"
+                    ]
+                },
+                {
+                    "name": "Emissive",
+                    "code": "raid_cybertubes_left_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Glow Pink",
+                    "code": "raid_cybertubes_left_glow_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_cybertubes_left_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_cybertubes_left_green"
+                },
+                {
+                    "name": "Green Emissive",
+                    "code": "raid_cybertubes_left_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Hologram",
+                    "code": "raid_cybertubes_left_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Orange",
+                    "code": "raid_cybertubes_left_orange"
+                },
+                {
+                    "name": "Red",
+                    "code": "raid_cybertubes_left_red"
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_cybertubes_left_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Rust",
+                    "code": "raid_cybertubes_left_rust"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cybertubes_left_silver"
+                },
+                {
+                    "name": "Teal Emissive",
+                    "code": "raid_cybertubes_left_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_cybertubes_left_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Right Arm (Separated Version)",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_cybertubes_right_black"
+                },
+                {
+                    "name": "Cyberspace",
+                    "code": "raid_cybertubes_right_cyberspace",
+                    "tags": [
+                        "Animated"
+                    ]
+                },
+                {
+                    "name": "Emissive",
+                    "code": "raid_cybertubes_right_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Glow Pink",
+                    "code": "raid_cybertubes_right_glow_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_cybertubes_right_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_cybertubes_right_green"
+                },
+                {
+                    "name": "Green Emissive",
+                    "code": "raid_cybertubes_right_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Hologram",
+                    "code": "raid_cybertubes_right_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Orange",
+                    "code": "raid_cybertubes_right_orange"
+                },
+                {
+                    "name": "Red",
+                    "code": "raid_cybertubes_right_red"
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_cybertubes_right_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Rust",
+                    "code": "raid_cybertubes_right_rust"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cybertubes_right_silver"
+                },
+                {
+                    "name": "Teal Emissive",
+                    "code": "raid_cybertubes_right_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_cybertubes_right_yellow"
+                }
+            ]
+        }
+    ]
+}
