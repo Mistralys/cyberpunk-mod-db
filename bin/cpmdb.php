@@ -28,8 +28,16 @@ if(empty($commands) || isset($commands['help']) || isset($commands['h'])) {
     exit;
 }
 
-if(isset($commands['normalize'])) {
+if(isset($commands['normalize']))
+{
     require_once __DIR__.'/assets/normalize.php';
+
+    if(!empty($commands['normalize'])) {
+        $modID = $commands['normalize'];
+        normalizeFile(getModFile($modID));
+        exit;
+    }
+
     normalizeAll();
     exit;
 }
