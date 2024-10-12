@@ -159,6 +159,7 @@ const TAGS_NORMALIZED = array(
     'tshirt' => 'Shirt',
     'tshirts' => 'Shirt',
     'emissive' => 'Emissive',
+    'glow' => 'Emissive',
     'shorts' => 'Shorts',
     'pants' => 'Pants',
     'body' => 'FullBody',
