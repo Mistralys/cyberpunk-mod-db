@@ -78,13 +78,10 @@ function normalizeFile(JSONFile $file) : void
 
     $converted['itemCategories'] = $keep;
 
-    $newFile = JSONFile::factory($file->getFolderPath().'/normalized/'. $file->getName())->putData($converted, true);
-
-    $json = file_get_contents((string)$newFile);
-    $json = str_replace('\/', '/', $json);
-    $json .= PHP_EOL;
-
-    file_put_contents((string)$newFile, $json);
+    JSONFile::factory($file->getFolderPath().'/normalized/'. $file->getName())
+        ->setEscapeSlashes(false)
+        ->setTrailingNewline(true)
+        ->putData($converted, true);
 }
 
 const KEYS_ORDER = array(
