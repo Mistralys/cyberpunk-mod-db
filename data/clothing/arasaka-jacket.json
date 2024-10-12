@@ -1,0 +1,63 @@
+{
+    "mod": "Arasaka Jacket",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7896",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Jacket",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black and Red",
+                    "code": "fjac_a"
+                },
+                {
+                    "name": "Black Patterned",
+                    "code": "fjac_d"
+                },
+                {
+                    "name": "Black with Gold Trim",
+                    "code": "fjac_h"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "fjac_f"
+                },
+                {
+                    "name": "Green",
+                    "code": "fjac_g"
+                },
+                {
+                    "name": "Grey Checkered",
+                    "code": "fjac_b"
+                },
+                {
+                    "name": "Orange",
+                    "code": "fjac_i"
+                },
+                {
+                    "name": "Sand",
+                    "code": "fjac_c"
+                },
+                {
+                    "name": "White Patterned",
+                    "code": "fjac_e"
+                }
+            ]
+        }
+    ]
+}
