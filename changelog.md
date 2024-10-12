@@ -1,4 +1,7 @@
 ## v2.0.4 - New mods and fixes
+- Mods: Added "Zipped Suit" by MONSTERaider.
+- Mods: Added "Psycho Cyber Tubes" by MONSTERaider.
+- Mods: Added "Arasaka Jacket" by Apzurv.
 - Mods: Fixed the leg rings in the "Celebrity Dress" tagged as Hands & Jewelry.
 - Mods: Fixed the "Manta Ray Glasses" tagged as Jewelry.
 
