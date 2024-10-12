@@ -6,230 +6,106 @@
         "MONSTERaider"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
-        "Body-Spawn0",
-        "Body-Solo",
         "Body-Hyst",
+        "Body-Solo",
+        "Body-Spawn0",
+        "Body-Vanilla",
+        "Clothing",
         "FemV",
         "Modular"
     ],
-    "seeAlso": [
-        {
-            "mod": "biker-boots"
-        },
-        {
-            "label": "Netwatch Legs",
-            "url": "https://www.nexusmods.com/cyberpunk2077/mods/8148"
-        }
-    ],
     "itemCategories": [
         {
-            "label": "Zipper Suits",
+            "label": "Decals",
             "tags": [
-                "FullBody"
+                "Accessories"
             ],
             "items": [
                 {
-                    "name": "Standard",
-                    "code": "raid_zippedsuit_standard"
+                    "name": "666th Street",
+                    "code": "raid_zipped_dec_6thstreet"
                 },
                 {
-                    "name": "Pink Glow",
-                    "code": "raid_zippedsuit_pink_glow",
-                    "tags": [
-                        "Glow",
-                        "Emissive"
-                    ]
+                    "name": "Aldecados",
+                    "code": "raid_zipped_dec_aldecados"
                 },
                 {
-                    "name": "Red Emissive",
-                    "code": "raid_zippedsuit_red_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
+                    "name": "Tyger Claws",
+                    "code": "raid_zipped_dec_tyger"
                 },
                 {
-                    "name": "Cyan Blue Emissive",
-                    "code": "raid_zippedsuit_cyan_blue_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
+                    "name": "Valentinos",
+                    "code": "raid_zipped_dec_valentinos"
                 },
                 {
-                    "name": "Bronze Yellow Emissive",
-                    "code": "raid_zippedsuit_bronze_yellow_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Leather Green Emissive",
-                    "code": "raid_zippedsuit_leather_green_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Latex White Emissive",
-                    "code": "raid_zippedsuit_latex_white_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "White Gold Emissive",
-                    "code": "raid_zippedsuit_white_gold_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Silver1 Blue Emissive",
-                    "code": "raid_zippedsuit_silver1_blue_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Silver2 Teal Emissive",
-                    "code": "raid_zippedsuit_silver2_teal_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Gold Teal Emissive",
-                    "code": "raid_zippedsuit_gold_teal_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Gray Red Emissive",
-                    "code": "raid_zippedsuit_gray_red_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Hologram",
-                    "code": "raid_zippedsuit_hologram",
-                    "tags": [
-                        "Hologram"
-                    ]
-                },
-                {
-                    "name": "Transparent",
-                    "code": "raid_zippedsuit_transparent",
-                    "tags": [
-                        "Transparent"
-                    ]
+                    "name": "Wraiths",
+                    "code": "raid_zipped_dec_wraiths"
                 }
             ]
         },
         {
-            "label": "Zipper Tops",
+            "label": "Sleeves",
             "tags": [
-                "Torso",
-                "Top"
+                "Arms"
             ],
             "items": [
                 {
-                    "name": "Standard",
-                    "code": "raid_zipped_top_standard"
+                    "name": "Bronze",
+                    "code": "raid_zipped_slv_bronze"
                 },
                 {
-                    "name": "Pink Glow",
-                    "code": "raid_zipped_top_pink_glow",
-                    "tags": [
-                        "Glow",
-                        "Emissive"
-                    ]
+                    "name": "Cyan",
+                    "code": "raid_zipped_slv_cyan"
                 },
                 {
-                    "name": "Red Emissive",
-                    "code": "raid_zipped_top_red_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
+                    "name": "Gold",
+                    "code": "raid_zipped_slv_gold"
                 },
                 {
-                    "name": "Cyan Blue Emissive",
-                    "code": "raid_zipped_top_cyan_blue_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Bronze Yellow Emissive",
-                    "code": "raid_zipped_top_bronze_yellow_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Leather Green Emissive",
-                    "code": "raid_zipped_top_leather_green_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Latex White Emissive",
-                    "code": "raid_zipped_top_latex_white_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "White Gold Emissive",
-                    "code": "raid_zipped_top_white_gold_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Silver1 Blue Emissive",
-                    "code": "raid_zipped_top_silver1_blue_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Silver2 Teal Emissive",
-                    "code": "raid_zipped_top_silver2_teal_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Gold Teal Emissive",
-                    "code": "raid_zipped_top_gold_teal_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Gray Red Emissive",
-                    "code": "raid_zipped_top_gray_red_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
+                    "name": "Gray",
+                    "code": "raid_zipped_slv_gray"
                 },
                 {
                     "name": "Hologram",
-                    "code": "raid_zipped_top_hologram",
+                    "code": "raid_zipped_slv_hologram",
                     "tags": [
-                        "Hologram"
+                        "Holo"
                     ]
                 },
                 {
+                    "name": "Latex",
+                    "code": "raid_zipped_slv_latex"
+                },
+                {
+                    "name": "Leather",
+                    "code": "raid_zipped_slv_leather"
+                },
+                {
+                    "name": "Pink",
+                    "code": "raid_zipped_slv_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "raid_zipped_slv_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_zipped_slv_silver"
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_zipped_slv_standard"
+                },
+                {
                     "name": "Transparent",
-                    "code": "raid_zipped_top_transparent",
+                    "code": "raid_zipped_slv_transparent",
                     "tags": [
                         "Transparent"
                     ]
+                },
+                {
+                    "name": "White",
+                    "code": "raid_zipped_slv_white"
                 }
             ]
         },
@@ -241,32 +117,6 @@
             ],
             "items": [
                 {
-                    "name": "Standard",
-                    "code": "raid_zipped_bot_standard"
-                },
-                {
-                    "name": "Pink Glow",
-                    "code": "raid_zipped_bot_pink_glow",
-                    "tags": [
-                        "Glow",
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Red Emissive",
-                    "code": "raid_zipped_bot_red_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Cyan Blue Emissive",
-                    "code": "raid_zipped_bot_cyan_blue_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
                     "name": "Bronze Yellow Emissive",
                     "code": "raid_zipped_bot_bronze_yellow_emissive",
                     "tags": [
@@ -274,36 +124,8 @@
                     ]
                 },
                 {
-                    "name": "Leather Green Emissive",
-                    "code": "raid_zipped_bot_leather_green_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Latex White Emissive",
-                    "code": "raid_zipped_bot_latex_white_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "White Gold Emissive",
-                    "code": "raid_zipped_bot_white_gold_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Silver1 Blue Emissive",
-                    "code": "raid_zipped_bot_silver1_blue_emissive",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "Silver2 Teal Emissive",
-                    "code": "raid_zipped_bot_silver2_teal_emissive",
+                    "name": "Cyan Blue Emissive",
+                    "code": "raid_zipped_bot_cyan_blue_emissive",
                     "tags": [
                         "Emissive"
                     ]
@@ -326,8 +148,55 @@
                     "name": "Hologram",
                     "code": "raid_zipped_bot_hologram",
                     "tags": [
-                        "Hologram"
+                        "Holo"
                     ]
+                },
+                {
+                    "name": "Latex White Emissive",
+                    "code": "raid_zipped_bot_latex_white_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Leather Green Emissive",
+                    "code": "raid_zipped_bot_leather_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Pink Glow",
+                    "code": "raid_zipped_bot_pink_glow",
+                    "tags": [
+                        "Emissive",
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_zipped_bot_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Silver1 Blue Emissive",
+                    "code": "raid_zipped_bot_silver1_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Silver2 Teal Emissive",
+                    "code": "raid_zipped_bot_silver2_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_zipped_bot_standard"
                 },
                 {
                     "name": "Transparent",
@@ -335,100 +204,222 @@
                     "tags": [
                         "Transparent"
                     ]
+                },
+                {
+                    "name": "White Gold Emissive",
+                    "code": "raid_zipped_bot_white_gold_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 }
             ]
         },
         {
-            "label": "Sleeves",
+            "label": "Zipper Suits",
             "tags": [
-                "Arms"
+                "FullBody"
             ],
             "items": [
                 {
-                    "name": "Standard",
-                    "code": "raid_zipped_slv_standard"
+                    "name": "Bronze Yellow Emissive",
+                    "code": "raid_zippedsuit_bronze_yellow_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "Pink",
-                    "code": "raid_zipped_slv_pink"
+                    "name": "Cyan Blue Emissive",
+                    "code": "raid_zippedsuit_cyan_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "Red",
-                    "code": "raid_zipped_slv_red"
+                    "name": "Gold Teal Emissive",
+                    "code": "raid_zippedsuit_gold_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "Cyan",
-                    "code": "raid_zipped_slv_cyan"
-                },
-                {
-                    "name": "Bronze",
-                    "code": "raid_zipped_slv_bronze"
-                },
-                {
-                    "name": "Leather",
-                    "code": "raid_zipped_slv_leather"
-                },
-                {
-                    "name": "Latex",
-                    "code": "raid_zipped_slv_latex"
-                },
-                {
-                    "name": "White",
-                    "code": "raid_zipped_slv_white"
-                },
-                {
-                    "name": "Silver",
-                    "code": "raid_zipped_slv_silver"
-                },
-                {
-                    "name": "Gold",
-                    "code": "raid_zipped_slv_gold"
-                },
-                {
-                    "name": "Gray",
-                    "code": "raid_zipped_slv_gray"
+                    "name": "Gray Red Emissive",
+                    "code": "raid_zippedsuit_gray_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
                     "name": "Hologram",
-                    "code": "raid_zipped_slv_hologram",
+                    "code": "raid_zippedsuit_hologram",
                     "tags": [
-                        "Hologram"
+                        "Holo"
                     ]
                 },
                 {
+                    "name": "Latex White Emissive",
+                    "code": "raid_zippedsuit_latex_white_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Leather Green Emissive",
+                    "code": "raid_zippedsuit_leather_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Pink Glow",
+                    "code": "raid_zippedsuit_pink_glow",
+                    "tags": [
+                        "Emissive",
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_zippedsuit_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Silver1 Blue Emissive",
+                    "code": "raid_zippedsuit_silver1_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Silver2 Teal Emissive",
+                    "code": "raid_zippedsuit_silver2_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_zippedsuit_standard"
+                },
+                {
                     "name": "Transparent",
-                    "code": "raid_zipped_slv_transparent",
+                    "code": "raid_zippedsuit_transparent",
                     "tags": [
                         "Transparent"
+                    ]
+                },
+                {
+                    "name": "White Gold Emissive",
+                    "code": "raid_zippedsuit_white_gold_emissive",
+                    "tags": [
+                        "Emissive"
                     ]
                 }
             ]
         },
         {
-            "label": "Decals",
+            "label": "Zipper Tops",
             "tags": [
-                "Accessories"
+                "Top",
+                "Torso"
             ],
             "items": [
                 {
-                    "name": "Tyger Claws",
-                    "code": "raid_zipped_dec_tyger"
+                    "name": "Bronze Yellow Emissive",
+                    "code": "raid_zipped_top_bronze_yellow_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "Valentinos",
-                    "code": "raid_zipped_dec_valentinos"
+                    "name": "Cyan Blue Emissive",
+                    "code": "raid_zipped_top_cyan_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "Aldecados",
-                    "code": "raid_zipped_dec_aldecados"
+                    "name": "Gold Teal Emissive",
+                    "code": "raid_zipped_top_gold_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "666th Street",
-                    "code": "raid_zipped_dec_6thstreet"
+                    "name": "Gray Red Emissive",
+                    "code": "raid_zipped_top_gray_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 },
                 {
-                    "name": "Wraiths",
-                    "code": "raid_zipped_dec_wraiths"
+                    "name": "Hologram",
+                    "code": "raid_zipped_top_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Latex White Emissive",
+                    "code": "raid_zipped_top_latex_white_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Leather Green Emissive",
+                    "code": "raid_zipped_top_leather_green_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Pink Glow",
+                    "code": "raid_zipped_top_pink_glow",
+                    "tags": [
+                        "Emissive",
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Red Emissive",
+                    "code": "raid_zipped_top_red_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Silver1 Blue Emissive",
+                    "code": "raid_zipped_top_silver1_blue_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Silver2 Teal Emissive",
+                    "code": "raid_zipped_top_silver2_teal_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_zipped_top_standard"
+                },
+                {
+                    "name": "Transparent",
+                    "code": "raid_zipped_top_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White Gold Emissive",
+                    "code": "raid_zipped_top_white_gold_emissive",
+                    "tags": [
+                        "Emissive"
+                    ]
                 }
             ]
         }
