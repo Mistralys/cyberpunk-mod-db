@@ -1,0 +1,413 @@
+{
+    "mod": "Casual Style Outfit - Part II",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14133",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "authors": [
+        "Veegee"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_style_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_style_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_style_jacket_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_style_jacket_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_style_jacket_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_style_jacket_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_style_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_style_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_style_jacket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_style_jacket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_pants_full_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_pants_full_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_pants_full_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_pants_full_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_pants_full_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_pants_full_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_pants_full_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_pants_full_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_pants_full_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_pants_full_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants Belt",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shoes (Glossy)",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "veegeexdave_casual_p2_shoes_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_shoes_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_shoes_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_shoes_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_shoes_green"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_shoes_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_shoes_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegeexdave_casual_p2_shoes_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_shoes_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_shoes_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoes (Matte)",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "veegeexdave_casual_p2_shoes_beige_matte"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_shoes_black_matte"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_shoes_blue_matte"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_shoes_brown_matte"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_shoes_green_matte"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_shoes_og_matte"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_shoes_pink_matte"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegeexdave_casual_p2_shoes_purple_matte"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_shoes_red_matte"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_shoes_white_matte"
+                }
+            ]
+        },
+        {
+            "label": "Shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_pants_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_pants_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_pants_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_pants_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_pants_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_pants_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_pants_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_pants_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shorts Belt",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_pants_belt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_pants_belt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_pants_belt_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_pants_belt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_pants_belt_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_pants_belt_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_pants_belt_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_pants_belt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_pants_belt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_pants_belt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_top_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_top_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_top_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_top_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_top_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_top_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_top_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_top_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_top_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_top_yellow"
+                }
+            ]
+        }
+    ]
+}
