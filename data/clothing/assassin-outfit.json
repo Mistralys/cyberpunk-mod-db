@@ -1,0 +1,262 @@
+{
+    "mod": "Assassin Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/13996",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "authors": [
+        "Veegee"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Top",
+            "tags": [
+                "Torso",
+                "Bra"
+            ],
+            "items": [
+                {
+                    "name": "Air",
+                    "code": "veegee_dave_assassin_top_air"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_top_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_top_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_top_red"
+                },
+                {
+                    "name": "Red and Black",
+                    "code": "veegee_dave_assassin_top_redblack"
+                }
+            ]
+        },
+        {
+            "label": "Sleeves",
+            "tags": [
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Air",
+                    "code": "veegee_dave_assassin_coat_air"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_coat_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_coat_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_coat_red"
+                },
+                {
+                    "name": "Red and Black",
+                    "code": "veegee_dave_assassin_coat_redblack"
+                }
+            ]
+        },
+        {
+            "label": "Blades",
+            "tags": [
+                "Arms",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "veegee_dave_assassin_gloves_blue"
+                },
+                {
+                    "name": "Dark",
+                    "code": "veegee_dave_assassin_gloves_dark"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_dave_assassin_gloves_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_dave_assassin_gloves_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_gloves_red"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_pants_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_pants_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_dave_assassin_pants_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_pants_red"
+                },
+                {
+                    "name": "Red and Black",
+                    "code": "veegee_dave_assassin_pants_redblack"
+                }
+            ]
+        },
+        {
+            "label": "Shoes: Single Collar",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_shoes_black"
+                },
+                {
+                    "name": "Black and Gold",
+                    "code": "veegee_dave_assassin_shoes_blackgold"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_dave_assassin_shoes_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_shoes_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_shoes_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_dave_assassin_shoes_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoes: Single Collar and Heel Straps",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_shoes1_black"
+                },
+                {
+                    "name": "Black and Gold",
+                    "code": "veegee_dave_assassin_shoes1_blackgold"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_dave_assassin_shoes1_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_shoes1_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_shoes1_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_dave_assassin_shoes1_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoes: Three Collars",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_shoes2_black"
+                },
+                {
+                    "name": "Black and Gold",
+                    "code": "veegee_dave_assassin_shoes2_blackgold"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_dave_assassin_shoes2_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_shoes2_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_shoes2_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_dave_assassin_shoes2_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoes: Three Collars and Heel Straps",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_shoes3_black"
+                },
+                {
+                    "name": "Black and Gold",
+                    "code": "veegee_dave_assassin_shoes3_blackgold"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_dave_assassin_shoes3_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_shoes3_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_shoes3_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_dave_assassin_shoes3_white"
+                }
+            ]
+        }
+    ]
+}
