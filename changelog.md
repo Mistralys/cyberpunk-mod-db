@@ -2,6 +2,8 @@
 - Mods: Added "Zipped Suit" by MONSTERaider.
 - Mods: Added "Psycho Cyber Tubes" by MONSTERaider.
 - Mods: Added "Arasaka Jacket" by Apzurv.
+- Mods: Added "Assassin Outfit Part II" by Veegee.
+- Mods: Added "Assassin Outfit" by Veegee.
 - Mods: Fixed the leg rings in the "Celebrity Dress" tagged as Hands & Jewelry.
 - Mods: Fixed the "Manta Ray Glasses" tagged as Jewelry.
 
