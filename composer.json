@@ -11,6 +11,7 @@
     }
   ],
   "require": {
-    "mistralys/application-utils": ">=3.0.5"
+    "mistralys/application-utils": ">=3.0.5",
+    "mistralys/application-utils-core": ">=2.3.0"
   }
 }
