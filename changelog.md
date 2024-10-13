@@ -1,3 +1,8 @@
+## v2.0.5 - New mods and fixes
+- Mods: Added "Casual Style Outfit - Part 2" by Veegee.
+- Mods: Fixed missing tags in "Casual Style Outfit Part 4".
+- Mods: Fixed missing tags in "Casual Style Outfit - Part 8".
+
 ## v2.0.4 - New mods and fixes
 - Mods: Added "Zipped Suit" by MONSTERaider.
 - Mods: Added "Psycho Cyber Tubes" by MONSTERaider.
