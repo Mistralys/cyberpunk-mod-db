@@ -4,8 +4,11 @@
 - Mods: Added "Arasaka Jacket" by Apzurv.
 - Mods: Added "Assassin Outfit Part II" by Veegee.
 - Mods: Added "Assassin Outfit" by Veegee.
+- Mods: Added "Casual Style Outfit Part 4" by Veegee.
+- Mods: Added "Casual Style Outfit - Part 8" by Veegee.
 - Mods: Fixed the leg rings in the "Celebrity Dress" tagged as Hands & Jewelry.
 - Mods: Fixed the "Manta Ray Glasses" tagged as Jewelry.
+- Dependencies: Now requiring AppUtils core >=[2.3.0](https://github.com/Mistralys/application-utils-core/releases/tag/2.3.0) for FileHelper changes.
 
 ## v2.0.3 - Added mods
 - Mods: Added "Bad Cop Outfit" by Alvarix.
