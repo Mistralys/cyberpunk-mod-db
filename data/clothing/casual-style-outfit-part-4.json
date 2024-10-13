@@ -6,21 +6,21 @@
         "Veegee"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
         "Body-Hyst-EBB",
         "Body-Hyst-EBBP",
         "Body-Hyst-EBBPRB",
         "Body-Hyst-EBBRB",
         "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
     "itemCategories": [
         {
             "label": "Gloves",
             "tags": [
-                "Hands",
-                "Gloves"
+                "Gloves",
+                "Hands"
             ],
             "items": [
                 {
@@ -66,108 +66,10 @@
             ]
         },
         {
-            "label": "Knife Holster",
-            "tags": [
-                "Legs",
-                "Accessories"
-            ],
-            "items": [
-                {
-                    "name": "Army Green",
-                    "code": "veegee_casual_pt4_leg_belt_amygreen"
-                },
-                {
-                    "name": "Beige",
-                    "code": "veegee_casual_pt4_leg_belt_beige"
-                },
-                {
-                    "name": "Black",
-                    "code": "veegee_casual_pt4_leg_belt_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "veegee_casual_pt4_leg_belt_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegee_casual_pt4_leg_belt_brown"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegee_casual_pt4_leg_belt_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "veegee_casual_pt4_leg_belt_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_casual_pt4_leg_belt_red"
-                },
-                {
-                    "name": "White",
-                    "code": "veegee_casual_pt4_leg_belt_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "veegee_casual_pt4_leg_belt_yellow"
-                }
-            ]
-        },
-        {
-            "label": "Shoes",
-            "tags": [
-                "Feet",
-                "Shoes"
-            ],
-            "items": [
-                {
-                    "name": "Army Green",
-                    "code": "veegee_casual_pt4_shoes_amygreen"
-                },
-                {
-                    "name": "Beige",
-                    "code": "veegee_casual_pt4_shoes_beige"
-                },
-                {
-                    "name": "Black",
-                    "code": "veegee_casual_pt4_shoes_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "veegee_casual_pt4_shoes_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegee_casual_pt4_shoes_brown"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegee_casual_pt4_shoes_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "veegee_casual_pt4_shoes_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_casual_pt4_shoes_red"
-                },
-                {
-                    "name": "White",
-                    "code": "veegee_casual_pt4_shoes_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "veegee_casual_pt4_shoes_yellow"
-                }
-            ]
-        },
-        {
             "label": "Jacket",
             "tags": [
-                "Torso",
-                "Jacket"
+                "Jacket",
+                "Torso"
             ],
             "items": [
                 {
@@ -215,8 +117,8 @@
         {
             "label": "Jacket (Short Variant)",
             "tags": [
-                "Torso",
-                "Jacket"
+                "Jacket",
+                "Torso"
             ],
             "items": [
                 {
@@ -258,6 +160,55 @@
                 {
                     "name": "Yellow",
                     "code": "veegee_casual_pt4_jacket1_yellow_leather"
+                }
+            ]
+        },
+        {
+            "label": "Knife Holster",
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "veegee_casual_pt4_leg_belt_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "veegee_casual_pt4_leg_belt_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt4_leg_belt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt4_leg_belt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt4_leg_belt_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt4_leg_belt_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_casual_pt4_leg_belt_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt4_leg_belt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt4_leg_belt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt4_leg_belt_yellow"
                 }
             ]
         },
@@ -311,10 +262,84 @@
             ]
         },
         {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "veegee_casual_pt4_shoes_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "veegee_casual_pt4_shoes_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt4_shoes_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt4_shoes_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt4_shoes_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt4_shoes_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_casual_pt4_shoes_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt4_shoes_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt4_shoes_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt4_shoes_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Stockings",
+            "tags": [
+                "Legs",
+                "Stockings"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt4_stockings_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt4_stockings_brown"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_casual_pt4_stockings_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt4_stockings_white"
+                }
+            ]
+        },
+        {
             "label": "Top",
             "tags": [
-                "Torso",
-                "Top"
+                "Top",
+                "Torso"
             ],
             "items": [
                 {
@@ -356,31 +381,6 @@
                 {
                     "name": "Yellow",
                     "code": "veegee_casual_pt4_top_yellow_leather"
-                }
-            ]
-        },
-        {
-            "label": "Stockings",
-            "tags": [
-                "Legs",
-                "Stockings"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "veegee_casual_pt4_stockings_black"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegee_casual_pt4_stockings_brown"
-                },
-                {
-                    "name": "Tan",
-                    "code": "veegee_casual_pt4_stockings_tan"
-                },
-                {
-                    "name": "White",
-                    "code": "veegee_casual_pt4_stockings_white"
                 }
             ]
         }
