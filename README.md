@@ -15,6 +15,9 @@ and with custom screenshots for each mod.
 * [Alt Jacket and Pants](https://www.nexusmods.com/cyberpunk2077/mods/7701) by NolaDreamer
 * [Angel Heart Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14411) by cyb3rsn4k34li3n
 * [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027) by Apzurv
+* [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896) by Apzurv
+* [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996) by Veegee
+* [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453) by Veegee
 * [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886) by jerinski
 * [Aurore Modular Set](https://www.nexusmods.com/cyberpunk2077/mods/12099) by MONSTERaider
 * [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515) by AlvarixPT
@@ -23,6 +26,8 @@ and with custom screenshots for each mod.
 * [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
 * [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446) by AlvarixPT
 * [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by NotMayoSan
+* [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504) by Veegee
+* [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345) by Veegee
 * [Cat Antenna](https://www.nexusmods.com/cyberpunk2077/mods/8794) by Apzurv
 * [Catsuit](https://www.nexusmods.com/cyberpunk2077/mods/4917) by Apzurv
 * [Celebrity Dress (Modular)](https://www.nexusmods.com/cyberpunk2077/mods/8299) by MONSTERaider
@@ -50,6 +55,7 @@ and with custom screenshots for each mod.
 * [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130) by beaniebby
 * [Michiko Dress with Fur](https://www.nexusmods.com/cyberpunk2077/mods/6885) by Nola Dreamer
 * [Mirror's Edge - Faith Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4599) by Apzurv
+* [Psycho Cyber-Tubes](https://www.nexusmods.com/cyberpunk2077/mods/7860) by MONSTERaider
 * [Quipao Dress](https://www.nexusmods.com/cyberpunk2077/mods/8823) by PeachuHime
 * [Salander's Earplugs](https://www.nexusmods.com/cyberpunk2077/mods/7600) by Kwek
 * [Short Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/6601) by LxRHyst
@@ -69,6 +75,7 @@ and with custom screenshots for each mod.
 * [XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661) by Apzurv
 * [XRX Leggings](https://www.nexusmods.com/cyberpunk2077/mods/15635) by Apzurv
 * [XRX RME Jacket](https://www.nexusmods.com/cyberpunk2077/mods/10902) by Apzurv
+* [Zipped Suit](https://www.nexusmods.com/cyberpunk2077/mods/8484) by MONSTERaider
 * [Ziva Cross Cut Dress](https://www.nexusmods.com/cyberpunk2077/mods/16620) by Apzurv
 * [Ziva Dress](https://www.nexusmods.com/cyberpunk2077/mods/8256) by Apzurv
 * [Ziva Navel Chains](https://www.nexusmods.com/cyberpunk2077/mods/15181) by Apzurv
