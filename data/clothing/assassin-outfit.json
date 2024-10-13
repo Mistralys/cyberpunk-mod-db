@@ -6,73 +6,16 @@
         "Veegee"
     ],
     "tags": [
-        "Clothing",
         "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
     "itemCategories": [
         {
-            "label": "Top",
-            "tags": [
-                "Torso",
-                "Bra"
-            ],
-            "items": [
-                {
-                    "name": "Air",
-                    "code": "veegee_dave_assassin_top_air"
-                },
-                {
-                    "name": "Black",
-                    "code": "veegee_dave_assassin_top_black"
-                },
-                {
-                    "name": "Grey",
-                    "code": "veegee_dave_assassin_top_grey"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_dave_assassin_top_red"
-                },
-                {
-                    "name": "Red and Black",
-                    "code": "veegee_dave_assassin_top_redblack"
-                }
-            ]
-        },
-        {
-            "label": "Sleeves",
-            "tags": [
-                "Arms"
-            ],
-            "items": [
-                {
-                    "name": "Air",
-                    "code": "veegee_dave_assassin_coat_air"
-                },
-                {
-                    "name": "Black",
-                    "code": "veegee_dave_assassin_coat_black"
-                },
-                {
-                    "name": "Grey",
-                    "code": "veegee_dave_assassin_coat_grey"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_dave_assassin_coat_red"
-                },
-                {
-                    "name": "Red and Black",
-                    "code": "veegee_dave_assassin_coat_redblack"
-                }
-            ]
-        },
-        {
             "label": "Blades",
             "tags": [
-                "Arms",
-                "Accessories"
+                "Accessories",
+                "Arms"
             ],
             "items": [
                 {
@@ -255,6 +198,63 @@
                 {
                     "name": "White",
                     "code": "veegee_dave_assassin_shoes3_white"
+                }
+            ]
+        },
+        {
+            "label": "Sleeves",
+            "tags": [
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Air",
+                    "code": "veegee_dave_assassin_coat_air"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_coat_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_coat_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_coat_red"
+                },
+                {
+                    "name": "Red and Black",
+                    "code": "veegee_dave_assassin_coat_redblack"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Bra",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Air",
+                    "code": "veegee_dave_assassin_top_air"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_dave_assassin_top_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_dave_assassin_top_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_dave_assassin_top_red"
+                },
+                {
+                    "name": "Red and Black",
+                    "code": "veegee_dave_assassin_top_redblack"
                 }
             ]
         }
