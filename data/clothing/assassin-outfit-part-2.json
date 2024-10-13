@@ -1,0 +1,818 @@
+{
+    "mod": "Assassin Outfit - Part II",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15453",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "authors": [
+        "Veegee"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Angel",
+        "Body-SoloArms",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Arm Rings (Left)",
+            "tags": [
+                "Arms",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_arm_belt_l_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Arm Rings (Right)",
+            "tags": [
+                "Arms",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_arm_belt_r_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Bras",
+            "tags": [
+                "Torso",
+                "Bras"
+            ],
+            "items": [
+                {
+                    "name": "Black (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_bra_black_ver1"
+                },
+                {
+                    "name": "Pink (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_bra_pink_ver1"
+                },
+                {
+                    "name": "White (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_bra_white_ver1"
+                },
+                {
+                    "name": "Black (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_bra_black_ver2"
+                },
+                {
+                    "name": "Pink (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_bra_pink_ver2"
+                },
+                {
+                    "name": "Red (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_bra_red_ver2"
+                },
+                {
+                    "name": "Skulls (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_bra_skulls_ver2"
+                },
+                {
+                    "name": "White (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_bra_white_ver2"
+                },
+                {
+                    "name": "Black (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_bra_black_ver3"
+                },
+                {
+                    "name": "Purple (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_bra_purple_ver3"
+                },
+                {
+                    "name": "Red (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_bra_red_ver3"
+                },
+                {
+                    "name": "Camouflage (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_camouflage_ver4"
+                },
+                {
+                    "name": "Green (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_green_ver4"
+                },
+                {
+                    "name": "Grey Skulls (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_grey_skulls_ver4"
+                },
+                {
+                    "name": "Pink (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_pink_ver4"
+                },
+                {
+                    "name": "Pink Camouflage (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_pink_camo_ver4"
+                },
+                {
+                    "name": "Pink Plaid (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_pink_plaid_ver4"
+                },
+                {
+                    "name": "Pink Skulls (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_pink_skulls_ver4"
+                },
+                {
+                    "name": "Punk (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_punk_ver4"
+                },
+                {
+                    "name": "Purple (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_purple_ver4"
+                },
+                {
+                    "name": "Yellow (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_yellow_ver4"
+                },
+                {
+                    "name": "Zebra (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_bra_zebra_ver4"
+                },
+                {
+                    "name": "Teacher (Variant 5)",
+                    "code": "davexveegee_assassin_pt2_bra_teach_ver5"
+                }
+            ]
+        },
+        {
+            "label": "Harness",
+            "tags": [
+                "Torso",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_chest_vest_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_chest_vest_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_chest_vest_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_chest_vest_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_chest_vest_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_chest_vest_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_chest_vest_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_chest_vest_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_chest_vest_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_chest_vest_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Elbow Sleeve (Left)",
+            "tags": [
+                "Arms",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_elbow_l_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_elbow_l_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_elbow_l_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_elbow_l_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_elbow_l_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_elbow_l_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_elbow_l_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_elbow_l_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_elbow_l_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_elbow_l_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Elbow Sleeve (Right)",
+            "tags": [
+                "Arms",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_elbow_r_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_elbow_r_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_elbow_r_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_elbow_r_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_elbow_r_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_elbow_r_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_elbow_r_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_elbow_r_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_elbow_r_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_elbow_r_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Gloves",
+            "tags": [
+                "Hands",
+                "Gloves"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_gloves_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_gloves_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_gloves_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_gloves_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_gloves_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_gloves_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_gloves_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_gloves_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_gloves_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_gloves_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_shoes_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_shoes_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_shoes_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_shoes_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_shoes_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_shoes_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_shoes_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_shoes_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_shoes_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_shoes_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Suit (Half Closed)",
+            "tags": [
+                "Full Body",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Black (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_suit2_black_ver1"
+                },
+                {
+                    "name": "Pink (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_suit2_pink_ver1"
+                },
+                {
+                    "name": "White (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_suit2_white_ver1"
+                },
+                {
+                    "name": "Black (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit2_black_ver2"
+                },
+                {
+                    "name": "Pink (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit2_pink_ver2"
+                },
+                {
+                    "name": "Red (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit2_red_ver2"
+                },
+                {
+                    "name": "Skulls (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit2_skulls_ver2"
+                },
+                {
+                    "name": "White (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit2_white_ver2"
+                },
+                {
+                    "name": "Black (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_suit2_black_ver3"
+                },
+                {
+                    "name": "Purple (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_suit2_purple_ver3"
+                },
+                {
+                    "name": "Red (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_suit2_red_ver3"
+                },
+                {
+                    "name": "Camouflage (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_camouflage_ver4"
+                },
+                {
+                    "name": "Green (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_green_ver4"
+                },
+                {
+                    "name": "Grey Skulls (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_grey_skulls_ver4"
+                },
+                {
+                    "name": "Pink (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_pink_ver4"
+                },
+                {
+                    "name": "Pink Camouflage (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_pink_camo_ver4"
+                },
+                {
+                    "name": "Pink Plaid (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_pink_plaid_ver4"
+                },
+                {
+                    "name": "Pink Skulls (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_pink_skulls_ver4"
+                },
+                {
+                    "name": "Punk (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_punk_ver4"
+                },
+                {
+                    "name": "Purple (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_purple_ver4"
+                },
+                {
+                    "name": "Yellow (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_yellow_ver4"
+                },
+                {
+                    "name": "Zebra (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit2_zebra_ver4"
+                },
+                {
+                    "name": "Teacher (Variant 5)",
+                    "code": "davexveegee_assassin_pt2_suit2_teach_ver5"
+                }
+            ]
+        },
+        {
+            "label": "Suit (Open)",
+            "tags": [
+                "Full Body",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Black (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_suit_black_ver1"
+                },
+                {
+                    "name": "Pink (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_suit_pink_ver1"
+                },
+                {
+                    "name": "White (Variant 1)",
+                    "code": "davexveegee_assassin_pt2_suit_white_ver1"
+                },
+                {
+                    "name": "Black (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit_black_ver2"
+                },
+                {
+                    "name": "Pink (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit_pink_ver2"
+                },
+                {
+                    "name": "Red (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit_red_ver2"
+                },
+                {
+                    "name": "Skulls (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit_skulls_ver2"
+                },
+                {
+                    "name": "White (Variant 2)",
+                    "code": "davexveegee_assassin_pt2_suit_white_ver2"
+                },
+                {
+                    "name": "Black (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_suit_black_ver3"
+                },
+                {
+                    "name": "Purple (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_suit_purple_ver3"
+                },
+                {
+                    "name": "Red (Variant 3)",
+                    "code": "davexveegee_assassin_pt2_suit_red_ver3"
+                },
+                {
+                    "name": "Camouflage (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_camouflage_ver4"
+                },
+                {
+                    "name": "Green (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_green_ver4"
+                },
+                {
+                    "name": "Grey Skulls (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_grey_skulls_ver4"
+                },
+                {
+                    "name": "Pink (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_pink_ver4"
+                },
+                {
+                    "name": "Pink Camouflage (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_pink_camo_ver4"
+                },
+                {
+                    "name": "Pink Plaid (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_pink_plaid_ver4"
+                },
+                {
+                    "name": "Pink Skulls (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_pink_skulls_ver4"
+                },
+                {
+                    "name": "Punk (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_punk_ver4"
+                },
+                {
+                    "name": "Purple (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_purple_ver4"
+                },
+                {
+                    "name": "Yellow (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_yellow_ver4"
+                },
+                {
+                    "name": "Zebra (Variant 4)",
+                    "code": "davexveegee_assassin_pt2_suit_zebra_ver4"
+                },
+                {
+                    "name": "Teacher (Variant 5)",
+                    "code": "davexveegee_assassin_pt2_suit_teach_ver5"
+                }
+            ]
+        },
+        {
+            "label": "Sword",
+            "tags": [
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Sword in back",
+                    "code": "davexveegee_assassin_pt2_sword_black"
+                }
+            ]
+        },
+        {
+            "label": "Vest",
+            "tags": [
+                "Torso",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_vest_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_vest_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_vest_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_vest_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_vest_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_vest_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_vest_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_vest_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_vest_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_vest_yellow"
+                },
+                {
+                    "name": "Army Green (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_amygreen1"
+                },
+                {
+                    "name": "Beige (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_beige1"
+                },
+                {
+                    "name": "Black (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_black1"
+                },
+                {
+                    "name": "Blue (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_blue1"
+                },
+                {
+                    "name": "Brown (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_brown1"
+                },
+                {
+                    "name": "Pink (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_pink1"
+                },
+                {
+                    "name": "Purple (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_purple1"
+                },
+                {
+                    "name": "Red (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_red1"
+                },
+                {
+                    "name": "White (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_white1"
+                },
+                {
+                    "name": "Yellow (Variant)",
+                    "code": "davexveegee_assassin_pt2_vest_yellow1"
+                }
+            ]
+        },
+        {
+            "label": "Waist Padding",
+            "tags": [
+                "Waist",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_waist_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_waist_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_waist_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_waist_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_waist_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_waist_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_waist_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_waist_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_waist_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_waist_yellow"
+                }
+            ]
+        }
+    ]
+}
