@@ -1,0 +1,275 @@
+{
+    "mod": "Casual Style Outfit - Part VIII",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16345",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "authors": [
+        "Veegee"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Gloves (Left)",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_l_black"
+                },
+                {
+                    "name": "Black (Variant)",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_l_black1"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_l_black_red"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_l_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_l_red"
+                }
+            ]
+        },
+        {
+            "label": "Gloves (Right)",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_r_black"
+                },
+                {
+                    "name": "Black (Variant)",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_r_black1"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_r_black_red"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_r_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_gloves_r_red"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "lostInacavexveegee_casual_style_pt8_jacket_blue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lostInacavexveegee_casual_style_pt8_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "lostInacavexveegee_casual_style_pt8_jacket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "lostInacavexveegee_casual_style_pt8_jacket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Mask",
+            "tags": [
+                "Head",
+                "Mask"
+            ],
+            "items": [
+                {
+                    "name": "Variant 1",
+                    "code": "lostInacavexveegee_casual_style_pt8_mask_color1"
+                },
+                {
+                    "name": "Variant 2",
+                    "code": "lostInacavexveegee_casual_style_pt8_mask_color2"
+                },
+                {
+                    "name": "Variant 3",
+                    "code": "lostInacavexveegee_casual_style_pt8_mask_color3"
+                },
+                {
+                    "name": "Variant 4",
+                    "code": "lostInacavexveegee_casual_style_pt8_mask_color4"
+                },
+                {
+                    "name": "Variant 5",
+                    "code": "lostInacavexveegee_casual_style_pt8_mask_color5"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "lostInacavexveegee_casual_style_pt8_pants_blue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lostInacavexveegee_casual_style_pt8_pants_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_pants_red"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "lostInacavexveegee_casual_style_pt8_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_shoes_color2"
+                },
+                {
+                    "name": "Brown",
+                    "code": "lostInacavexveegee_casual_style_pt8_shoes_color3"
+                },
+                {
+                    "name": "Dark Brown",
+                    "code": "lostInacavexveegee_casual_style_pt8_shoes_color1"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_shoes_color5"
+                },
+                {
+                    "name": "White",
+                    "code": "lostInacavexveegee_casual_style_pt8_shoes_color4"
+                }
+            ]
+        },
+        {
+            "label": "Sleeves (Left)",
+            "tags": [
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_l_black"
+                },
+                {
+                    "name": "Black (Variant)",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_l_black1"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_l_black_red"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_l_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_l_red"
+                }
+            ]
+        },
+        {
+            "label": "Sleeves (Right)",
+            "tags": [
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_r_black"
+                },
+                {
+                    "name": "Black (Variant)",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_r_black1"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_r_black_red"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_r_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_sleeve_r_red"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lostInacavexveegee_casual_style_pt8_top_black"
+                },
+                {
+                    "name": "Black (Variant)",
+                    "code": "lostInacavexveegee_casual_style_pt8_top_black1"
+                },
+                {
+                    "name": "Blue",
+                    "code": "lostInacavexveegee_casual_style_pt8_top_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "lostInacavexveegee_casual_style_pt8_top_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "lostInacavexveegee_casual_style_pt8_top_red"
+                }
+            ]
+        }
+    ]
+}
