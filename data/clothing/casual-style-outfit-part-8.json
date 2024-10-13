@@ -6,10 +6,16 @@
         "Veegee"
     ],
     "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
         "Body-Vanilla",
         "Clothing",
         "FemV",
-        "MaleV"
+        "MaleV",
+        "Modular"
     ],
     "itemCategories": [
         {
