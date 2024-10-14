@@ -1,0 +1,37 @@
+{
+    "mod": "Techtopia Gloves",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/9000",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7848",
+    "authors": [
+        "DBRV"
+    ],
+    "tags": [
+        "Body-EVB",
+        "Body-Gymfiend",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-VTK-VanillaHD",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "glovetech_a"
+                }
+            ]
+        }
+    ]
+}
