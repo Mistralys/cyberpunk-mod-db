@@ -1,0 +1,101 @@
+{
+    "mod": "Stellar Navel Piercing",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14553",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
+    "authors": [
+        "cyb3rsn4k3"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Jewelry",
+                "Navel",
+                "Piercing"
+            ],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "cyb3rsn4k3_stellar_navel_babyblue"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "cyb3rsn4k3_stellar_navel_barghest"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cyb3rsn4k3_stellar_navel_blue"
+                },
+                {
+                    "name": "Circuit",
+                    "code": "cyb3rsn4k3_stellar_navel_circ"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cyb3rsn4k3_stellar_navel_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cyb3rsn4k3_stellar_navel_green"
+                },
+                {
+                    "name": "Lina Malina",
+                    "code": "cyb3rsn4k3_stellar_navel_lina"
+                },
+                {
+                    "name": "Orange",
+                    "code": "cyb3rsn4k3_stellar_navel_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cyb3rsn4k3_stellar_navel_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cyb3rsn4k3_stellar_navel_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cyb3rsn4k3_stellar_navel_red"
+                },
+                {
+                    "name": "Rose Gold",
+                    "code": "cyb3rsn4k3_stellar_navel_rosegold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cyb3rsn4k3_stellar_navel_silver"
+                },
+                {
+                    "name": "The Mox",
+                    "code": "cyb3rsn4k3_stellar_navel_mox"
+                },
+                {
+                    "name": "Trashy McBling",
+                    "code": "cyb3rsn4k3_stellar_navel_mcbling"
+                },
+                {
+                    "name": "Valentino",
+                    "code": "cyb3rsn4k3_stellar_navel_valentino"
+                },
+                {
+                    "name": "Vamp",
+                    "code": "cyb3rsn4k3_stellar_navel_vamp"
+                },
+                {
+                    "name": "Witch",
+                    "code": "cyb3rsn4k3_stellar_navel_witch"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "cyb3rsn4k3_stellar_navel_yellow"
+                }
+            ]
+        }
+    ]
+}
