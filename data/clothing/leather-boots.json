@@ -1,0 +1,34 @@
+{
+    "mod": "Leather Boots",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15749",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "leatherwrk_b"
+                },
+                {
+                    "name": "Brown",
+                    "code": "leatherwrk_a"
+                }
+            ]
+        }
+    ]
+}
