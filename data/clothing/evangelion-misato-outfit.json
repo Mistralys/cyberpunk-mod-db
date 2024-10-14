@@ -1,0 +1,74 @@
+{
+    "mod": "Evangelion Misato Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14653",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Dress",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "evangd_a"
+                },
+                {
+                    "name": "Green",
+                    "code": "evangd_e"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "evangd_c"
+                },
+                {
+                    "name": "Red",
+                    "code": "evangd_d"
+                },
+                {
+                    "name": "White",
+                    "code": "evangd_b"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "evangj_b"
+                },
+                {
+                    "name": "Green",
+                    "code": "evangj_e"
+                },
+                {
+                    "name": "Orange",
+                    "code": "evangj_a"
+                },
+                {
+                    "name": "White",
+                    "code": "evangj_c"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "evangj_d"
+                }
+            ]
+        }
+    ]
+}
