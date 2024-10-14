@@ -3,19 +3,19 @@
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14190",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
     "authors": [
-        "cyb3rsn4k34li3n"
+        "cyb3rsn4k3"
     ],
     "tags": [
-        "Accessories",
-        "Earring",
-        "FemV",
-        "Head",
-        "Jewelry"
+        "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [],
+            "tags": [
+                "Earring",
+                "Head",
+                "Jewelry"
+            ],
             "items": [
                 {
                     "name": "Baby Blue",

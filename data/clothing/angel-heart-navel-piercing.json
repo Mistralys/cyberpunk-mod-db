@@ -3,18 +3,20 @@
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14411",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
     "authors": [
-        "cyb3rsn4k34li3n"
+        "cyb3rsn4k3"
     ],
     "tags": [
+        "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
             "tags": [
-                "Accessories",
                 "Jewelry",
-                "Navel"
+                "Navel",
+                "Piercing"
             ],
             "items": [
                 {
