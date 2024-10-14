@@ -1,5 +1,8 @@
 ## v2.0.5 - New mods and fixes
 - Mods: Added "Casual Style Outfit - Part 2" by Veegee.
+- Mods: Added "Stellar Navel Piercing" by cyb3ersn4k3.
+- Mods: Fixed some tag inconsistencies.
+- Mods: Fixed author inconsistencies, now including both uploader and author from Nexus.
 - Mods: Fixed missing tags in "Casual Style Outfit Part 4".
 - Mods: Fixed missing tags in "Casual Style Outfit - Part 8".
 
