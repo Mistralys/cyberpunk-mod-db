@@ -1,0 +1,57 @@
+{
+    "mod": "Evelyn Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6810",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6015",
+    "authors": [
+        "Hyst",
+        "LxRHyst"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "hyst_evelyn_dress_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "hyst_evelyn_dress_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "hyst_evelyn_dress_burgundy"
+                },
+                {
+                    "name": "Default",
+                    "code": "hyst_evelyn_dress_default"
+                },
+                {
+                    "name": "Gold",
+                    "code": "hyst_evelyn_dress_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "hyst_evelyn_dress_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "hyst_evelyn_dress_pink"
+                }
+            ]
+        }
+    ]
+}
