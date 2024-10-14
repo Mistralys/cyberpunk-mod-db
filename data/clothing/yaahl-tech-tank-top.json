@@ -1,0 +1,52 @@
+{
+    "mod": "Yaahl Tech Tank Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7847",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7848",
+    "authors": [
+        "DBRV"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yaahls_a"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yaahls_d"
+                },
+                {
+                    "name": "Green",
+                    "code": "yaahls_c"
+                },
+                {
+                    "name": "Orange",
+                    "code": "yaahls_f"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yaahls_e"
+                },
+                {
+                    "name": "Red",
+                    "code": "yaahls_b"
+                },
+                {
+                    "name": "White",
+                    "code": "yaahls_g"
+                }
+            ]
+        }
+    ]
+}
