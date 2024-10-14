@@ -1,0 +1,37 @@
+{
+    "mod": "Arasaka Sports Wear V2",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4890",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black Grey",
+                    "code": "saka_sports_blackgrey"
+                },
+                {
+                    "name": "Black White",
+                    "code": "saka_sports_blackwhite"
+                },
+                {
+                    "name": "White Grey",
+                    "code": "saka_sports_whitegrey"
+                }
+            ]
+        }
+    ]
+}
