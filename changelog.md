@@ -1,10 +1,18 @@
 ## v2.0.5 - New mods and fixes
 - Mods: Added "Casual Style Outfit - Part 2" by Veegee.
 - Mods: Added "Stellar Navel Piercing" by cyb3ersn4k3.
+- Mods: Added "Techtopia Gloves" by DBRV.
+- Mods: Added "Yaahl Tech Tank Top" by DBRV.
+- Mods: Added "Evelyn Dress" by Hyst.
+- Mods: Added "Arasaka Sports Wear" by Apzurv.
+- Mods: Added "Evangelion Misato Outfit" by Apzurv.
+- Mods: Added "Leather Boots" by Apzurv.
+- Mods: Added "Lucy Edgerunners Jacket" by Apzurv.
 - Mods: Fixed some tag inconsistencies.
 - Mods: Fixed author inconsistencies, now including both uploader and author from Nexus.
 - Mods: Fixed missing tags in "Casual Style Outfit Part 4".
 - Mods: Fixed missing tags in "Casual Style Outfit - Part 8".
+- Mods: Added the `linkedMods` property to connect related mods.
 
 ## v2.0.4 - New mods and fixes
 - Mods: Added "Zipped Suit" by MONSTERaider.
