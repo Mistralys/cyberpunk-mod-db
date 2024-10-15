@@ -50,6 +50,16 @@ The JSON format is quite simple:
     "ATL", 
     "R4EX"
   ],
+  "linkedMods": [
+    "mod-one-id",
+    "mod-two-id"
+  ],
+  "seeAlso": [
+    {
+      "url": "https://link-to-page",
+      "label": "Optional link label"
+    }
+  ],
   "itemCategories": [
     {
       "label": "Category name",
@@ -76,6 +86,10 @@ The JSON format is quite simple:
 - `authors`: A list of authors of the mod.
 - `tags`: A list of tags identifying dependencies to other mods and the kind of items. See [Tags Legend](#tags-legend) for a list.
 - `comments`: Optional comments about the mod.
+- `linkedMods`: Optional list of mod IDs that are related to this mod.
+- `seeAlso`: Optional list of links to related mods or pages.
+  - `url`: The URL to the related page.
+  - `label`: Optional label for the link.
 - `itemCategories`: Categories for each type of item added by the mod.
   - `label`: The name of the category.
   - `tags`: Optional list of tags for the category. Inherited by all items.
