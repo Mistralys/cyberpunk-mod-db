@@ -1,0 +1,64 @@
+{
+    "mod": "Fancy Striped Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8843",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+    "authors": [
+        "PinkyDude"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Aloe (Green and Orange)",
+                    "code": "PinkyDude_Fancy_StripedDress_Green"
+                },
+                {
+                    "name": "Brick (Red)",
+                    "code": "PinkyDude_Fancy_StripedDress_Red"
+                },
+                {
+                    "name": "Cement (Black and Orange)",
+                    "code": "PinkyDude_Fancy_StripedDress_Orange"
+                },
+                {
+                    "name": "Gold",
+                    "code": "PinkyDude_Fancy_StripedDress_Yellow"
+                },
+                {
+                    "name": "Grease (Black)",
+                    "code": "PinkyDude_Fancy_StripedDress_Black"
+                },
+                {
+                    "name": "Hibiscus (Pink)",
+                    "code": "PinkyDude_Fancy_StripedDress_Pink"
+                },
+                {
+                    "name": "Lavender (Purple)",
+                    "code": "PinkyDude_Fancy_StripedDress_Purple"
+                },
+                {
+                    "name": "Oil (Blue)",
+                    "code": "PinkyDude_Fancy_StripedDress_Blue"
+                },
+                {
+                    "name": "Petrol (Turquoise)",
+                    "code": "PinkyDude_Fancy_StripedDress_Turquoise"
+                },
+                {
+                    "name": "Smoke (White)",
+                    "code": "PinkyDude_Fancy_StripedDress_White"
+                }
+            ]
+        }
+    ]
+}
