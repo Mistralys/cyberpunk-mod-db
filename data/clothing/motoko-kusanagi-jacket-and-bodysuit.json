@@ -1,0 +1,38 @@
+{
+    "mod": "Motoko Kusanagi Jacket and Bodysuit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4853",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "Eziomaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Bodysuit",
+                    "code": "motoko_bodysuit_moto",
+                    "tags": [
+                        "FullBody",
+                        "Suit"
+                    ]
+                },
+                {
+                    "name": "Jacket",
+                    "code": "motoko_jack_motoj",
+                    "tags": [
+                        "Jacket",
+                        "Torso"
+                    ]
+                }
+            ]
+        }
+    ]
+}
