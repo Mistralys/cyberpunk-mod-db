@@ -9,76 +9,7 @@ and with custom screenshots for each mod.
 
 ## Mods List
 
-* [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
-* [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
-* [Alt Cunningham's Choker](https://www.nexusmods.com/cyberpunk2077/mods/6947) by mistshield
-* [Alt Jacket and Pants](https://www.nexusmods.com/cyberpunk2077/mods/7701) by NolaDreamer
-* [Angel Heart Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14411) by cyb3rsn4k34li3n
-* [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027) by Apzurv
-* [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896) by Apzurv
-* [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996) by Veegee
-* [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453) by Veegee
-* [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886) by jerinski
-* [Aurore Modular Set](https://www.nexusmods.com/cyberpunk2077/mods/12099) by MONSTERaider
-* [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515) by AlvarixPT
-* [Basic Tees](https://www.nexusmods.com/cyberpunk2077/mods/11309) by halkuonn
-* [Beaded Choker](https://www.nexusmods.com/cyberpunk2077/mods/6978) by mistshield
-* [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
-* [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446) by AlvarixPT
-* [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by NotMayoSan
-* [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504) by Veegee
-* [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345) by Veegee
-* [Cat Antenna](https://www.nexusmods.com/cyberpunk2077/mods/8794) by Apzurv
-* [Catsuit](https://www.nexusmods.com/cyberpunk2077/mods/4917) by Apzurv
-* [Celebrity Dress (Modular)](https://www.nexusmods.com/cyberpunk2077/mods/8299) by MONSTERaider
-* [Chain Top](https://www.nexusmods.com/cyberpunk2077/mods/8327) by Veegee
-* [Chromed Long Blouse](https://www.nexusmods.com/cyberpunk2077/mods/7609) by PinkyDude
-* [Clothes for FemV (Pack 2) - Judy's Platform Shoes](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
-* [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041) by PeachuHime
-* [Cute Dress](https://www.nexusmods.com/cyberpunk2077/mods/6193) by Apzurv
-* [Cut Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by cubfan82
-* [Cyberdeck Collection](https://www.nexusmods.com/cyberpunk2077/mods/11093) by Adshield
-* [Deus Ex Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4601) by Alvarix
-* [Elizabeth Peralez Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7048) by kwek
-* [Evelyn Skirt](https://www.nexusmods.com/cyberpunk2077/mods/8024) by PeachuHime
-* [Full Body Fashionware](https://www.nexusmods.com/cyberpunk2077/mods/5039) by Alvarix
-* [Glasses Pack](https://www.nexusmods.com/cyberpunk2077/mods/13095) by Veegee
-* [Hanako Dress](https://www.nexusmods.com/cyberpunk2077/mods/6034) by Apzurv
-* [Harness Top](https://www.nexusmods.com/cyberpunk2077/mods/11753) by Adshield
-* [J'adore Moon & Star Hoop Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7105) by Kwek
-* [Jacket Bolero Hex](https://www.nexusmods.com/cyberpunk2077/mods/16378) by Apzurv
-* [Johnny Silverhand's String Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/6912) by kwek
-* [Leggings Spandex - Custom Mats and HQ Masks](https://www.nexusmods.com/cyberpunk2077/mods/10385) by Apzurv
-* [Lethal Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15867) by Aquelyras, NolaDreamer and Veegee
-* [Liquid Heart Earrings](https://www.nexusmods.com/cyberpunk2077/mods/14190) by cyb3rsn4k34li3n
-* [Lowrise Pants](https://www.nexusmods.com/cyberpunk2077/mods/8456) by cubfan82
-* [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130) by beaniebby
-* [Michiko Dress with Fur](https://www.nexusmods.com/cyberpunk2077/mods/6885) by Nola Dreamer
-* [Mirror's Edge - Faith Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4599) by Apzurv
-* [Psycho Cyber-Tubes](https://www.nexusmods.com/cyberpunk2077/mods/7860) by MONSTERaider
-* [Quipao Dress](https://www.nexusmods.com/cyberpunk2077/mods/8823) by PeachuHime
-* [Salander's Earplugs](https://www.nexusmods.com/cyberpunk2077/mods/7600) by Kwek
-* [Short Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/6601) by LxRHyst
-* [Simple Chain Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/7500) by kwek
-* [Skirts Expansion Part 1](https://www.nexusmods.com/cyberpunk2077/mods/7387) by MONSTERaider
-* [Slim Bolero Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7278) by MONSTERaider
-* [Split Dress and Bikini](https://www.nexusmods.com/cyberpunk2077/mods/8999) by AlvarixPT
-* [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342) by PinkyDude
-* [Strap Dress](https://www.nexusmods.com/cyberpunk2077/mods/7270) by MONSTERaider
-* [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and Nola Dreamer
-* [Summer Outfit](https://www.nexusmods.com/cyberpunk2077/mods/12331) by NolaDreamer
-* [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548) by Apzurv
-* [Tactical Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/8406) by Adshield
-* [Tight Shiny Pants](https://www.nexusmods.com/cyberpunk2077/mods/10546) by PinkyDude
-* [Wrap Around Dress](https://www.nexusmods.com/cyberpunk2077/mods/8894) by Alvarix
-* [XRX Latex Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7662) by Apzurv
-* [XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661) by Apzurv
-* [XRX Leggings](https://www.nexusmods.com/cyberpunk2077/mods/15635) by Apzurv
-* [XRX RME Jacket](https://www.nexusmods.com/cyberpunk2077/mods/10902) by Apzurv
-* [Zipped Suit](https://www.nexusmods.com/cyberpunk2077/mods/8484) by MONSTERaider
-* [Ziva Cross Cut Dress](https://www.nexusmods.com/cyberpunk2077/mods/16620) by Apzurv
-* [Ziva Dress](https://www.nexusmods.com/cyberpunk2077/mods/8256) by Apzurv
-* [Ziva Navel Chains](https://www.nexusmods.com/cyberpunk2077/mods/15181) by Apzurv
+See the [full list of included mods](mods-list.md).  
 
 ## Accessing the Database
 
