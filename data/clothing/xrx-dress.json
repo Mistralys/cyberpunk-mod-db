@@ -1,0 +1,41 @@
+{
+    "mod": "XRX Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7444",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "fldd_a"
+                },
+                {
+                    "name": "Blue",
+                    "code": "fldd_b"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "fldd_d"
+                },
+                {
+                    "name": "Red",
+                    "code": "fldd_c"
+                }
+            ]
+        }
+    ]
+}
