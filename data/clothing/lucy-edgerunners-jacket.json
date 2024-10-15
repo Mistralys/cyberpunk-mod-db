@@ -1,0 +1,50 @@
+{
+    "mod": "Lucy Edgerunners Jacket",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5248",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black, Green Lights",
+                    "code": "lucyj_c",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Black and Silver Sleeves, Red Lights",
+                    "code": "lucyj_b",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Dark Blue, White Lights",
+                    "code": "lucyj_d",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "White",
+                    "code": "lucyj_a"
+                }
+            ]
+        }
+    ]
+}
