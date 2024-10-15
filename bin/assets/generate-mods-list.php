@@ -37,10 +37,12 @@ function generateModsList() : void
     }
 
     file_put_contents(
-        __DIR__ . '/../../modslist.md',
+        __DIR__ . '/../../mods-list.md',
         '## Mods List' . PHP_EOL . PHP_EOL .
+        'Total available mods: '. count($list) . PHP_EOL . PHP_EOL .
         implode(PHP_EOL, $lines) . PHP_EOL
     );
 
     logInfo('Mods list generated successfully.');
+    logInfo('There are %s total mods.', count($list));
 }
