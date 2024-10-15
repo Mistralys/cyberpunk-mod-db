@@ -1,0 +1,54 @@
+{
+    "mod": "Sasha Edgerunners Suit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5393",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sasj_c"
+                },
+                {
+                    "name": "Dark Blue",
+                    "code": "sasj_d"
+                },
+                {
+                    "name": "Dark Pink",
+                    "code": "sasj_b"
+                },
+                {
+                    "name": "Light Pink",
+                    "code": "sasj_a"
+                }
+            ]
+        },
+        {
+            "label": "Suit",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Suit",
+                    "code": "sass_a"
+                }
+            ]
+        }
+    ]
+}
