@@ -29,6 +29,29 @@ function normalizeFile(JSONFile $file) : void
         $converted[$key] = $data[$key] ?? $value;
     }
 
+    if(empty($converted['comments'])) {
+        unset($converted['comments']);
+    }
+
+    if(empty($converted['linkedMods'])) {
+        unset($converted['linkedMods']);
+    } else {
+        sort($converted['linkedMods']);
+    }
+
+    if(empty($converted['seeAlso'])) {
+        unset($converted['seeAlso']);
+    } else {
+        usort($converted['seeAlso'], function(array $a, array $b) : int {
+            $labelA = $a['label'] ?? '';
+            $urlA = $a['url'] ?? '';
+            $labelB = $b['label'] ?? '';
+            $urlB = $b['url'] ?? '';
+
+            return strnatcasecmp($labelA.$urlA, $labelB.$urlB);
+        });
+    }
+
     $converted['tags'] = normalizeTags($converted['tags']);
 
     sort($converted['authors']);
@@ -90,6 +113,9 @@ const KEYS_ORDER = array(
     'atelier' => '',
     'authors' => array(),
     'tags' => array(),
+    'linkedMods' => array(),
+    'seeAlso' => array(),
+    'comments' => '',
     'itemCategories' => array()
 );
 
