@@ -18,6 +18,9 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "assassin-outfit"
+    ],
     "itemCategories": [
         {
             "label": "Arm Rings (Left)",

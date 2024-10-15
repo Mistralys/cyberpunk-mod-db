@@ -17,6 +17,10 @@
         "FemV",
         "Modular"
     ],
+    "linkedMods": [
+        "casual-style-outfit-part-4",
+        "casual-style-outfit-part-8"
+    ],
     "itemCategories": [
         {
             "label": "Jacket",

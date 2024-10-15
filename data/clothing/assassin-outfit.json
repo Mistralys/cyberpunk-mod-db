@@ -11,6 +11,9 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "assassin-outfit-part-2"
+    ],
     "itemCategories": [
         {
             "label": "Blades",

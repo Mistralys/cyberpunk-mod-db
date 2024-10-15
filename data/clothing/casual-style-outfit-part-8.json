@@ -18,6 +18,10 @@
         "MaleV",
         "Modular"
     ],
+    "linkedMods": [
+        "casual-style-outfit-part-2",
+        "casual-style-outfit-part-4"
+    ],
     "itemCategories": [
         {
             "label": "Gloves (Left)",
