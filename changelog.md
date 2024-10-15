@@ -8,6 +8,16 @@
 - Mods: Added "Evangelion Misato Outfit" by Apzurv.
 - Mods: Added "Leather Boots" by Apzurv.
 - Mods: Added "Lucy Edgerunners Jacket" by Apzurv.
+- Mods: Added "Lucy Edgerunners Pants" by Apzurv.
+- Mods: Added "Lucy Edgerunners Suit" by Apzurv.
+- Mods: Added "Sasha Edgerunners Suit" by Apzurv.
+- Mods: Added "Motoko Kusanagi Outfit Reworked" by Apzurv.
+- Mods: Added "Motoko Kusanagi Jacket and Bodysuit" by Apzurv.
+- Mods: Added "Lace Lingerie" by xBaebsae.
+- Mods: Added "XRX Dress" by Apzurv.
+- Mods: Added "Peachu Top" by Peachu.
+- Mods: Added "Fancy Striped Dress" by PinkyDude.
+- Mods: Added "Combat Pants" by Veegee.
 - Mods: Fixed some tag inconsistencies.
 - Mods: Fixed author inconsistencies, now including both uploader and author from Nexus.
 - Mods: Fixed missing tags in "Casual Style Outfit Part 4".
