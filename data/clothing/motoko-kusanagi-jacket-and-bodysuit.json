@@ -11,6 +11,9 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "motoko-kusanagi-outfit-reworked"
+    ],
     "itemCategories": [
         {
             "label": "",

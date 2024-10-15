@@ -11,6 +11,10 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "lucy-edgerunners-pants",
+        "lucy-edgerunners-suit"
+    ],
     "itemCategories": [
         {
             "label": "",
