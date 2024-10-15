@@ -1,0 +1,60 @@
+{
+    "mod": "Combat Pants",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/9016",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8183",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "Body-Lush",
+        "Body-Hyst-EBB",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Pants",
+                "Legs"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_combat_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_combat_pants_blue"
+                },
+                {
+                    "name": "Cyber",
+                    "code": "veegee_combat_pants_cyber"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_combat_pants_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_combat_pants_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_combat_pants_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_combat_pants_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_combat_pants_white"
+                }
+            ]
+        }
+    ]
+}
