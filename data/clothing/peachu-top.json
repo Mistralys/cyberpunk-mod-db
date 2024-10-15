@@ -1,0 +1,52 @@
+{
+    "mod": "Peachu Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7603",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6943",
+    "authors": [
+        "Peachu",
+        "PeachuHime"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "Body-Hyst-EBB",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Top",
+                "Torso",
+                "Arms",
+                "Sleeves"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "peachu_topa_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "peachu_topa_blue"
+                },
+                {
+                    "name": "Orange",
+                    "code": "peachu_topa_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "peachu_topa_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "peachu_topa_red"
+                },
+                {
+                    "name": "White",
+                    "code": "peachu_topa_white"
+                }
+            ]
+        }
+    ]
+}
