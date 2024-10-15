@@ -23,6 +23,7 @@
 - Mods: Fixed missing tags in "Casual Style Outfit Part 4".
 - Mods: Fixed missing tags in "Casual Style Outfit - Part 8".
 - Mods: Added the `linkedMods` property to connect related mods.
+- Core: Moved the mods list to the separate `mods-list.md` file.
 
 ## v2.0.4 - New mods and fixes
 - Mods: Added "Zipped Suit" by MONSTERaider.
