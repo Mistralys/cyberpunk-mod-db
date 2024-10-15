@@ -1,0 +1,70 @@
+{
+    "mod": "Lace Lingerie",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7711",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6360/",
+    "authors": [
+        "xBaebsae"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Lace Panties",
+            "tags": [
+                "Legs",
+                "Panties",
+                "Skimpy"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "SE7EN_ClothingLingerie_LaceBtm_Black"
+                },
+                {
+                    "name": "Red",
+                    "code": "SE7EN_ClothingLingerie_LaceBtm_Red"
+                },
+                {
+                    "name": "White",
+                    "code": "SE7EN_ClothingLingerie_LaceBtm_White"
+                },
+                {
+                    "name": "White Variant",
+                    "code": "SE7EN_ClothingLingerie_LaceBtm_WhiteVar"
+                }
+            ]
+        },
+        {
+            "label": "Lace Top",
+            "tags": [
+                "Bra",
+                "Skimpy",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "SE7EN_ClothingLingerie_LaceTop_Black"
+                },
+                {
+                    "name": "Red",
+                    "code": "SE7EN_ClothingLingerie_LaceTop_Red"
+                },
+                {
+                    "name": "White",
+                    "code": "SE7EN_ClothingLingerie_LaceTop_White"
+                },
+                {
+                    "name": "White Variant",
+                    "code": "SE7EN_ClothingLingerie_LaceTop_WhiteVar"
+                }
+            ]
+        }
+    ]
+}
