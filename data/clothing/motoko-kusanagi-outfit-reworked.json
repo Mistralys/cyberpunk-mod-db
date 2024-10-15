@@ -1,0 +1,38 @@
+{
+    "mod": "Motoko Kusanagi Outfit Reworked",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7613",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "items": [
+                {
+                    "name": "Full Outfit",
+                    "code": "motofl_a",
+                    "tags": [
+                        "FullBody",
+                        "Suit"
+                    ]
+                },
+                {
+                    "name": "Top Only",
+                    "code": "mototp_a",
+                    "tags": [
+                        "Top",
+                        "Torso"
+                    ]
+                }
+            ],
+            "tags": []
+        }
+    ]
+}
