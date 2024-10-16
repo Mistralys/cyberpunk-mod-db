@@ -1,3 +1,10 @@
+## v2.0.6 - New mods
+- Mods: Added "Tied Crop" by cubfan82.
+- Mods: Added "Star Hairclips" by cyb3ersn4k3.
+- Mods: Added "Aviator Glasses" by Kwek.
+- Mods: Added "Parasol Oversized Heart Glasses" by Kwek.
+- Docs: Added documentation on the command-line tools.
+
 ## v2.0.5 - New mods and fixes
 - Mods: Added "Casual Style Outfit - Part 2" by Veegee.
 - Mods: Added "Stellar Navel Piercing" by cyb3ersn4k3.
