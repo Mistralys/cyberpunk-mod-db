@@ -1,0 +1,250 @@
+{
+    "mod": "Star Hairclips",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15195",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
+    "authors": [
+        "cyb3rsn4k3",
+        "cyb3rsn4k34li3n"
+    ],
+    "tags": [
+        "Clothing",
+        "FemV",
+        "Hair",
+        "Jewelry"
+    ],
+    "comments": "Can be tricky to find hair styles that work well with these, but they're worth the hassle.",
+    "itemCategories": [
+        {
+            "label": "3 Stars, Right",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aqua",
+                    "code": "cyb3rsn4k3_star_clips_2_aqua"
+                },
+                {
+                    "name": "Baby Blue",
+                    "code": "cyb3rsn4k3_star_clips_2_babyblue"
+                },
+                {
+                    "name": "Black",
+                    "code": "cyb3rsn4k3_star_clips_2_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cyb3rsn4k3_star_clips_2_blue"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cyb3rsn4k3_star_clips_2_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cyb3rsn4k3_star_clips_2_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "cyb3rsn4k3_star_clips_2_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cyb3rsn4k3_star_clips_2_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cyb3rsn4k3_star_clips_2_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cyb3rsn4k3_star_clips_2_red"
+                },
+                {
+                    "name": "Rose Gold",
+                    "code": "cyb3rsn4k3_star_clips_2_rosegold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cyb3rsn4k3_star_clips_2_silver"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "cyb3rsn4k3_star_clips_2_yellow"
+                }
+            ]
+        },
+        {
+            "label": "4 Stars, Left",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aqua",
+                    "code": "cyb3rsn4k3_star_clips_3_aqua"
+                },
+                {
+                    "name": "Baby Blue",
+                    "code": "cyb3rsn4k3_star_clips_3_babyblue"
+                },
+                {
+                    "name": "Black",
+                    "code": "cyb3rsn4k3_star_clips_3_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cyb3rsn4k3_star_clips_3_blue"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cyb3rsn4k3_star_clips_3_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cyb3rsn4k3_star_clips_3_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "cyb3rsn4k3_star_clips_3_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cyb3rsn4k3_star_clips_3_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cyb3rsn4k3_star_clips_3_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cyb3rsn4k3_star_clips_3_red"
+                },
+                {
+                    "name": "Rose Gold",
+                    "code": "cyb3rsn4k3_star_clips_3_rosegold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cyb3rsn4k3_star_clips_3_silver"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "cyb3rsn4k3_star_clips_3_yellow"
+                }
+            ]
+        },
+        {
+            "label": "5 Stars, Top",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aqua",
+                    "code": "cyb3rsn4k3_star_clips_4_aqua"
+                },
+                {
+                    "name": "Baby Blue",
+                    "code": "cyb3rsn4k3_star_clips_4_babyblue"
+                },
+                {
+                    "name": "Black",
+                    "code": "cyb3rsn4k3_star_clips_4_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cyb3rsn4k3_star_clips_4_blue"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cyb3rsn4k3_star_clips_4_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cyb3rsn4k3_star_clips_4_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "cyb3rsn4k3_star_clips_4_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cyb3rsn4k3_star_clips_4_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cyb3rsn4k3_star_clips_4_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cyb3rsn4k3_star_clips_4_red"
+                },
+                {
+                    "name": "Rose Gold",
+                    "code": "cyb3rsn4k3_star_clips_4_rosegold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cyb3rsn4k3_star_clips_4_silver"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "cyb3rsn4k3_star_clips_4_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Two Stars left and right",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aqua",
+                    "code": "cyb3rsn4k3_star_clips_1_aqua"
+                },
+                {
+                    "name": "Baby Blue",
+                    "code": "cyb3rsn4k3_star_clips_1_babyblue"
+                },
+                {
+                    "name": "Black",
+                    "code": "cyb3rsn4k3_star_clips_1_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cyb3rsn4k3_star_clips_1_blue"
+                },
+                {
+                    "name": "Gold",
+                    "code": "cyb3rsn4k3_star_clips_1_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "cyb3rsn4k3_star_clips_1_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "cyb3rsn4k3_star_clips_1_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cyb3rsn4k3_star_clips_1_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cyb3rsn4k3_star_clips_1_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cyb3rsn4k3_star_clips_1_red"
+                },
+                {
+                    "name": "Rose Gold",
+                    "code": "cyb3rsn4k3_star_clips_1_rosegold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "cyb3rsn4k3_star_clips_1_silver"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "cyb3rsn4k3_star_clips_1_yellow"
+                }
+            ]
+        }
+    ]
+}
