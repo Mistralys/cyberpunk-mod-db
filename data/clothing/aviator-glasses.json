@@ -1,0 +1,88 @@
+{
+    "mod": "Aviator Glasses",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7803",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6505",
+    "authors": [
+        "Kwek",
+        "kweknexuss"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Glasses",
+        "Head"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black and Blue",
+                    "code": "kwek_glasses_06_black_blue"
+                },
+                {
+                    "name": "Black and Red",
+                    "code": "kwek_glasses_06_black_red"
+                },
+                {
+                    "name": "Blue",
+                    "code": "kwek_glasses_06_blue"
+                },
+                {
+                    "name": "Chrome",
+                    "code": "kwek_glasses_06_chrome"
+                },
+                {
+                    "name": "Default",
+                    "code": "kwek_glasses_06_default"
+                },
+                {
+                    "name": "Fixer",
+                    "code": "kwek_glasses_06_fixer"
+                },
+                {
+                    "name": "Gold",
+                    "code": "kwek_glasses_06_gold"
+                },
+                {
+                    "name": "Gold and Brown",
+                    "code": "kwek_glasses_06_gold_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "kwek_glasses_06_green"
+                },
+                {
+                    "name": "Holo",
+                    "code": "kwek_glasses_06_holo"
+                },
+                {
+                    "name": "Orange",
+                    "code": "kwek_glasses_06_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "kwek_glasses_06_pink"
+                },
+                {
+                    "name": "Pink and Black",
+                    "code": "kwek_glasses_06_pink_black"
+                },
+                {
+                    "name": "Purple",
+                    "code": "kwek_glasses_06_purple"
+                },
+                {
+                    "name": "White Clear",
+                    "code": "kwek_glasses_06_white_clear"
+                },
+                {
+                    "name": "White Tinted",
+                    "code": "kwek_glasses_06_white_tinted"
+                }
+            ]
+        }
+    ]
+}
