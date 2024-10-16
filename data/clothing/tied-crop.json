@@ -1,0 +1,159 @@
+{
+    "mod": "Tied Crop",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8533",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6949",
+    "authors": [
+        "cubfan82"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Solo-Small",
+        "Body-Solo-Ultimate",
+        "Body-Valentine",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [
+                "Bra",
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Aqua Silk",
+                    "code": "cubfan82_tiedcrop_aquasilk"
+                },
+                {
+                    "name": "Black",
+                    "code": "cubfan82_tiedcrop_black"
+                },
+                {
+                    "name": "Black Silk",
+                    "code": "cubfan82_tiedcrop_blacksilk"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_tiedcrop_blue"
+                },
+                {
+                    "name": "Blue Grey",
+                    "code": "cubfan82_tiedcrop_bluegrey"
+                },
+                {
+                    "name": "Blue Silk",
+                    "code": "cubfan82_tiedcrop_bluesilk"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_tiedcrop_brown"
+                },
+                {
+                    "name": "Brown Silk",
+                    "code": "cubfan82_tiedcrop_brownsilk"
+                },
+                {
+                    "name": "Dogwoods",
+                    "code": "cubfan82_tiedcrop_dogwoods"
+                },
+                {
+                    "name": "Floral",
+                    "code": "cubfan82_tiedcrop_floral"
+                },
+                {
+                    "name": "Gingham",
+                    "code": "cubfan82_tiedcrop_gingham"
+                },
+                {
+                    "name": "Gold Silk",
+                    "code": "cubfan82_tiedcrop_goldsilk"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_tiedcrop_green"
+                },
+                {
+                    "name": "Green Silk",
+                    "code": "cubfan82_tiedcrop_greensilk"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_tiedcrop_grey"
+                },
+                {
+                    "name": "Grey Silk",
+                    "code": "cubfan82_tiedcrop_greysilk"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "cubfan82_tiedcrop_magenta"
+                },
+                {
+                    "name": "Magenta Silk",
+                    "code": "cubfan82_tiedcrop_magentasilk"
+                },
+                {
+                    "name": "Paint",
+                    "code": "cubfan82_tiedcrop_paint"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cubfan82_tiedcrop_pink"
+                },
+                {
+                    "name": "Pink Silk",
+                    "code": "cubfan82_tiedcrop_pinksilk"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_tiedcrop_purple"
+                },
+                {
+                    "name": "Purple Silk",
+                    "code": "cubfan82_tiedcrop_purplesilk"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_tiedcrop_red"
+                },
+                {
+                    "name": "Red Silk",
+                    "code": "cubfan82_tiedcrop_redsilk"
+                },
+                {
+                    "name": "Red Stars",
+                    "code": "cubfan82_tiedcrop_redstars"
+                },
+                {
+                    "name": "Skulls",
+                    "code": "cubfan82_tiedcrop_skulls"
+                },
+                {
+                    "name": "Skulls 2",
+                    "code": "cubfan82_tiedcrop_skulls2"
+                },
+                {
+                    "name": "Stripes",
+                    "code": "cubfan82_tiedcrop_stripes"
+                },
+                {
+                    "name": "Swirls",
+                    "code": "cubfan82_tiedcrop_swirls"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_tiedcrop_white"
+                },
+                {
+                    "name": "White Stars",
+                    "code": "cubfan82_tiedcrop_whitestars"
+                }
+            ]
+        }
+    ]
+}
