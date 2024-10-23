@@ -11,6 +11,9 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "evangelion-plugsuits"
+    ],
     "itemCategories": [
         {
             "label": "Dress",
