@@ -1,0 +1,201 @@
+{
+    "mod": "Skirts Expansion Part 2",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7402?tab=files",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "authors": [
+        "MONSTERaider"
+    ],
+    "tags": [
+        "Body-Hyst",
+        "Body-Solo",
+        "Body-Spawn0",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "Skirt"
+    ],
+    "linkedMods": [
+        "skirts-expansion-part1"
+    ],
+    "itemCategories": [
+        {
+            "label": "Micro Skirts",
+            "tags": [
+                "Skimpy"
+            ],
+            "items": [
+                {
+                    "name": "Beige Sequin",
+                    "code": "raid_cybermicro_beige_sequin"
+                },
+                {
+                    "name": "Black",
+                    "code": "raid_cybermicro_black"
+                },
+                {
+                    "name": "Black Cyber",
+                    "code": "raid_cybermicro_black_cyber"
+                },
+                {
+                    "name": "Black Transparent",
+                    "code": "raid_cybermicro_black_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Coral Gradient",
+                    "code": "raid_cybermicro_coral_gradient"
+                },
+                {
+                    "name": "Denim",
+                    "code": "raid_cybermicro_denim"
+                },
+                {
+                    "name": "Fixer",
+                    "code": "raid_cybermicro_fixer"
+                },
+                {
+                    "name": "Orange Gradient",
+                    "code": "raid_cybermicro_orange_grdient"
+                },
+                {
+                    "name": "Pink Sakura",
+                    "code": "raid_cybermicro_pink_sakura"
+                },
+                {
+                    "name": "Purple Dragon",
+                    "code": "raid_cybermicro_purple_dragon"
+                },
+                {
+                    "name": "Purple Gradient",
+                    "code": "raid_cybermicro_purple_grdient"
+                },
+                {
+                    "name": "Red Arasaka",
+                    "code": "raid_cybermicro_red_arasaka"
+                },
+                {
+                    "name": "Rich Gray",
+                    "code": "raid_cybermicro_rich_gray"
+                },
+                {
+                    "name": "Rich Roses",
+                    "code": "raid_cybermicro_rich_roses"
+                },
+                {
+                    "name": "Rich Sequin",
+                    "code": "raid_cybermicro_rich_sequin"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cybermicro_silver"
+                },
+                {
+                    "name": "Transparent",
+                    "code": "raid_cybermicro_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White Arasaka",
+                    "code": "raid_cybermicro_white_arasaka"
+                },
+                {
+                    "name": "White Sequin",
+                    "code": "raid_cybermicro_white_sequin"
+                }
+            ]
+        },
+        {
+            "label": "Regular Skirts",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Beige Sequin",
+                    "code": "raid_cyberangle_beige_sequin"
+                },
+                {
+                    "name": "Black",
+                    "code": "raid_cyberangle_black"
+                },
+                {
+                    "name": "Black Cyber",
+                    "code": "raid_cyberangle_black_cyber"
+                },
+                {
+                    "name": "Black Transparent",
+                    "code": "raid_cyberangle_black_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Coral Gradient",
+                    "code": "raid_cyberangle_coral_gradient"
+                },
+                {
+                    "name": "Denim",
+                    "code": "raid_cyberangle_denim"
+                },
+                {
+                    "name": "Fixer",
+                    "code": "raid_cyberangle_fixer"
+                },
+                {
+                    "name": "Orange Gradient",
+                    "code": "raid_cyberangle_orange_grdient"
+                },
+                {
+                    "name": "Pink Sakura",
+                    "code": "raid_cyberangle_pink_sakura"
+                },
+                {
+                    "name": "Purple Dragon",
+                    "code": "raid_cyberangle_purple_dragon"
+                },
+                {
+                    "name": "Purple Gradient",
+                    "code": "raid_cyberangle_purple_grdient"
+                },
+                {
+                    "name": "Red Arasaka",
+                    "code": "raid_cyberangle_red_arasaka"
+                },
+                {
+                    "name": "Rich Gray",
+                    "code": "raid_cyberangle_rich_gray"
+                },
+                {
+                    "name": "Rich Roses",
+                    "code": "raid_cyberangle_rich_roses"
+                },
+                {
+                    "name": "Rich Sequin",
+                    "code": "raid_cyberangle_rich_sequin"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_cyberangle_silver"
+                },
+                {
+                    "name": "Transparent",
+                    "code": "raid_cyberangle_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White Arasaka",
+                    "code": "raid_cyberangle_white_arasaka"
+                },
+                {
+                    "name": "White Sequin",
+                    "code": "raid_cyberangle_white_sequin"
+                }
+            ]
+        }
+    ]
+}
