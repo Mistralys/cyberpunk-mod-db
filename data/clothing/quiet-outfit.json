@@ -1,0 +1,81 @@
+{
+    "mod": "Quiet Outfit and Hair",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5194",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "AlvarixPT"
+    ],
+    "tags": [
+        "AutoScale",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "comments": "Gloves do not show in first person perspective.",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Boots",
+                    "code": "quiet_boots",
+                    "tags": [
+                        "Boots",
+                        "Feet"
+                    ]
+                },
+                {
+                    "name": "Gloves",
+                    "code": "quiet_gloves",
+                    "tags": [
+                        "Gloves",
+                        "Hands"
+                    ]
+                },
+                {
+                    "name": "Hair",
+                    "code": "quiet_hair",
+                    "tags": [
+                        "Hair",
+                        "Head"
+                    ]
+                },
+                {
+                    "name": "Holsters",
+                    "code": "quiet_holsters",
+                    "tags": [
+                        "Accessories",
+                        "Legs"
+                    ]
+                },
+                {
+                    "name": "Panties",
+                    "code": "quiet_panties",
+                    "tags": [
+                        "Legs",
+                        "Panties"
+                    ]
+                },
+                {
+                    "name": "Pants",
+                    "code": "quiet_pants",
+                    "tags": [
+                        "Legs",
+                        "Pants"
+                    ]
+                },
+                {
+                    "name": "Tank Top",
+                    "code": "quiet_tank",
+                    "tags": [
+                        "Bra",
+                        "Torso"
+                    ]
+                }
+            ]
+        }
+    ]
+}
