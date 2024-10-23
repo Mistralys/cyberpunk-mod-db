@@ -1,0 +1,75 @@
+{
+    "mod": "Evangelion Plugsuits",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11511",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "authors": [
+        "AlvarixPT"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo-Ultimate",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "linkedMods": [
+        "evangelion-misato-outfit"
+    ],
+    "itemCategories": [
+        {
+            "label": "Headbands",
+            "tags": [
+                "Accessories",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Asuka Headband",
+                    "code": "asuka_head_band"
+                },
+                {
+                    "name": "Asuka Headband (Metallic)",
+                    "code": "asuka_head_band_metallic"
+                },
+                {
+                    "name": "Rei Headband",
+                    "code": "rei_head_band"
+                },
+                {
+                    "name": "Rei Headband (Metallic)",
+                    "code": "rei_head_band_metallic"
+                }
+            ]
+        },
+        {
+            "label": "Suits",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Asuka Plugsuit",
+                    "code": "asuka_plugsuit"
+                },
+                {
+                    "name": "Asuka Plugsuit (Metallic)",
+                    "code": "asuka_plugsuit_metallic"
+                },
+                {
+                    "name": "Rei Plugsuit",
+                    "code": "rei_plugsuit"
+                },
+                {
+                    "name": "Rei Plugsuit (Metallic)",
+                    "code": "rei_plugsuit_metallic"
+                }
+            ]
+        }
+    ]
+}
