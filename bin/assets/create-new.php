@@ -19,7 +19,7 @@ require_once __DIR__.'/prepend.php';
  */
 function createNew(string $modID, array $commands) : void
 {
-    $name = $commands['name'] ?? '';
+    $name = $commands['create'] ?? $commands['name'] ?? '';
 
     if (empty($modID)) {
         logError('Mod ID not specified.');
@@ -38,6 +38,15 @@ function createNew(string $modID, array $commands) : void
             'FemV'
         ),
         'comments' => 'OptionalComments',
+        'linkedMods' => array(
+            'mod-id'
+        ),
+        'seeAlso' => array(
+            array(
+                'url' => 'https://example.com',
+                'label' => 'Link label'
+            )
+        ),
         'itemCategories' => array(
             getCategorySkeleton()
         )

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use AppUtils\ConvertHelper;
 use AppUtils\FileHelper;
 use AppUtils\FileHelper\JSONFile;
@@ -13,19 +15,41 @@ require_once __DIR__ . '/../../vendor/autoload.php';
  */
 function getFiles() : array
 {
-    $files = FileHelper::createFileFinder(__DIR__.'/../../data/clothing')
+    return FileHelper::createFileFinder(__DIR__.'/../../data/clothing')
         ->includeExtension('json')
-        ->getFileInfos();
+        ->getFiles()
+        ->typeJSON();
+}
 
-    $result =array();
+/**
+ * Ensures that the mod ID is in a valid format, without
+ * spaces or special characters.
+ *
+ * @param string $modID
+ * @return string
+ */
+function filterModID(string $modID) : string
+{
+    return ConvertHelper::transliterate($modID);
+}
 
-    foreach($files as $file) {
-        if ($file instanceof JSONFile) {
-            $result[] = $file;
-        }
-    }
+function logHeader(string $header, ...$args) : void
+{
+    logEmptyLine();
+    logSeparator();
+    logInfo($header, ...$args);
+    logSeparator();
+    logEmptyLine();
+}
 
-    return $result;
+function logSeparator() : void
+{
+    echo str_repeat('-', 70).PHP_EOL;
+}
+
+function logEmptyLine() : void
+{
+    echo PHP_EOL;
 }
 
 function logInfo(string $message, ...$args) : void

@@ -14,7 +14,7 @@ require_once __DIR__.'/prepend.php';
  */
 function addCategory(string $modID, array $commands) : void
 {
-    $label = $commands['label'] ?? null;
+    $label = $commands['add-category'] ?? $commands['label'] ?? null;
 
     $file = getModFile($modID);
     $data = $file->parse();
@@ -22,4 +22,9 @@ function addCategory(string $modID, array $commands) : void
     $data['itemCategories'][] = getCategorySkeleton($label);
 
     $file->putData($data, true);
+
+    logHeader('Mod [%s] - Add category', $modID);
+
+    logInfo('Category [%s] added successfully.', $label);
+    logEmptyLine();
 }

@@ -4,20 +4,24 @@ require_once __DIR__.'/assets/prepend.php';
 
 function showUsage() : void
 {
-    logInfo('Usage:');
-    logInfo('');
+    logHeader('CPMDB command line help');
+    logEmptyLine();
     logInfo('# Create a new mod file skeleton');
-    logInfo('php cpmdb.php create=mod_id name="Mod name"');
-    logInfo('');
+    logInfo('> php cpmdb.php mod="mod-id" create');
+    logInfo('> php cpmdb.php mod="mod-id" create="Mod name"');
+    logEmptyLine();
     logInfo('# Add a new category to a mod file');
-    logInfo('php cpmdb.php add-category=mod_id label="Category label"');
-    logInfo('');
-    logInfo('# Normalize all mod files');
-    logInfo('php cpmdb.php normalize');
-    logInfo('');
+    logInfo('> php cpmdb.php mod="mod-id" add-category="Category label"');
+    logEmptyLine();
+    logInfo('# Display CET item codes for a mod');
+    logInfo('> php cpmdb.php mod="mod-id" cet-codes');
+    logEmptyLine();
+    logInfo('# Normalize a mod file');
+    logInfo('> php cpmdb.php mod="mod-id" normalize');
+    logEmptyLine();
     logInfo('# Generate the mods list');
-    logInfo('php cpmdb.php modslist');
-    logInfo('');
+    logInfo('> php cpmdb.php modslist');
+    logEmptyLine();
     exit;
 }
 
@@ -28,38 +32,44 @@ if(empty($commands) || isset($commands['help']) || isset($commands['h'])) {
     exit;
 }
 
-if(isset($commands['normalize']))
-{
-    require_once __DIR__.'/assets/normalize.php';
+$modID = $commands['mod'] ?? $commands['m'] ?? null;
 
-    if(!empty($commands['normalize'])) {
-        $modID = $commands['normalize'];
+if(!empty($modID))
+{
+    $modID = filterModID($modID);
+
+    if(isset($commands['normalize']))
+    {
+        require_once __DIR__.'/assets/normalize.php';
         normalizeFile(getModFile($modID));
         exit;
     }
 
-    normalizeAll();
-    exit;
-}
+    if(isset($commands['create'])) {
+        require_once __DIR__ . '/assets/create-new.php';
+        createNew($modID, $commands);
+        exit;
+    }
 
-if(isset($commands['modslist']) || isset($commands['modlist'])) {
-    require_once __DIR__.'/assets/generate-mods-list.php';
-    generateModsList();
-    exit;
-}
+    if(isset($commands['add-category']) || isset($commands['addc'])) {
+        require_once __DIR__ . '/assets/add-category.php';
+        addCategory($modID, $commands);
+        exit;
+    }
 
-$createID = $commands['create'] ?? null;
-if(!empty($createID)) {
-    require_once __DIR__ . '/assets/create-new.php';
-    createNew($createID, $commands);
-    exit;
+    if(isset($commands['cet-codes']) || isset($commands['cet'])) {
+        require_once __DIR__ . '/assets/cet-codes.php';
+        \CPMDB\Assets\generateCETCodes($modID, $commands);
+        exit;
+    }
 }
-
-$addCategoryID = $commands['add-category'] ?? $commands['addc'] ?? null;
-if(!empty($addCategoryID)) {
-    require_once __DIR__ . '/assets/add-category.php';
-    addCategory($addCategoryID, $commands);
-    exit;
+else
+{
+    if (isset($commands['modslist']) || isset($commands['modlist'])) {
+        require_once __DIR__ . '/assets/generate-mods-list.php';
+        generateModsList();
+        exit;
+    }
 }
 
 showUsage();
