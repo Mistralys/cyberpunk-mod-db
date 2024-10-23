@@ -1,0 +1,155 @@
+{
+    "mod": "Formal Corpo Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8641",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "authors": [
+        "MONSTERaider"
+    ],
+    "tags": [
+        "Body-Solo",
+        "Body-Spawn0",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody"
+    ],
+    "itemCategories": [
+        {
+            "label": "Full Dress",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Arasaka",
+                    "code": "raid_corpodress_arasaka"
+                },
+                {
+                    "name": "Blue",
+                    "code": "raid_corpodress_blue"
+                },
+                {
+                    "name": "Bronze",
+                    "code": "raid_corpodress_bronze"
+                },
+                {
+                    "name": "Foil",
+                    "code": "raid_corpodress_foil"
+                },
+                {
+                    "name": "Gray",
+                    "code": "raid_corpodress_gray"
+                },
+                {
+                    "name": "Hologram",
+                    "code": "raid_corpodress_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Latex",
+                    "code": "raid_corpodress_latex"
+                },
+                {
+                    "name": "Pink",
+                    "code": "raid_corpodress_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "raid_corpodress_red"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_corpodress_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_corpodress_silver"
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_corpodress_standard"
+                },
+                {
+                    "name": "Transparent",
+                    "code": "raid_corpodress_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White",
+                    "code": "raid_corpodress_white"
+                }
+            ]
+        },
+        {
+            "label": "Mini Dress",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Arasaka",
+                    "code": "raid_corpo_mini_arasaka"
+                },
+                {
+                    "name": "Blue",
+                    "code": "raid_corpo_mini_blue"
+                },
+                {
+                    "name": "Bronze",
+                    "code": "raid_corpo_mini_bronze"
+                },
+                {
+                    "name": "Foil",
+                    "code": "raid_corpo_mini_foil"
+                },
+                {
+                    "name": "Gray",
+                    "code": "raid_corpo_mini_gray"
+                },
+                {
+                    "name": "Hologram",
+                    "code": "raid_corpo_mini_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Latex",
+                    "code": "raid_corpo_mini_latex"
+                },
+                {
+                    "name": "Pink",
+                    "code": "raid_corpo_mini_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "raid_corpo_mini_red"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_corpo_mini_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_corpo_mini_silver"
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_corpo_mini_standard"
+                },
+                {
+                    "name": "Transparent",
+                    "code": "raid_corpo_mini_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White",
+                    "code": "raid_corpo_mini_white"
+                }
+            ]
+        }
+    ]
+}
