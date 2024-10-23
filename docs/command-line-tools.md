@@ -31,15 +31,28 @@ The typical workflow for adding a new mod is:
 This will create an empty JSON skeleton file for a new mod.
 
 ```bash
-php bin/cpmdb.php create="mod-id"
+php bin/cpmdb.php mod="mod-id" create
 ```
+
+Optional: Setting the mod's name.
+
+```bash
+php bin/cpmdb.php mod="mod-id" create="Mod Name"
+```
+
 
 ### Adding an item category
 
 This will append a new item category to the target mod.
 
 ```bash
-php bin/cpmdb.php add-category="mod-id" label="Category name"
+php bin/cpmdb.php mod="mod-id" add-category
+```
+
+Optional: Setting the category label. 
+
+```bash
+php bin/cpmdb.php mod="mod-id" add-category="Category name"
 ```
 
 ### Normalizing a mod
@@ -50,7 +63,7 @@ to ensure that they are consistent, and to avoid bloating the
 version control history with unnecessary changes.
 
 ```bash
-php bin/cpmdb.php normalize="mod-id"
+php bin/cpmdb.php mod="mod-id" normalize
 ```
 
 The normalized file will be saved under:
@@ -58,6 +71,14 @@ The normalized file will be saved under:
 `data/clothing/normalized/mod-id.json`
 
 This way it can be reviewed before replacing the original file.
+
+### Showing the CET item codes
+
+This will display a list of all item codes for the CET.
+
+```bash
+php bin/cpmdb.php mod="mod-id" cet-codes
+````
 
 ### Adding a screenshot
 
