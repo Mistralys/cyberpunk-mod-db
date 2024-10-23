@@ -5,6 +5,8 @@
 - Mods: Added "Parasol Oversized Heart Glasses" by Kwek.
 - Mods: Added "Evangelion Plugsuits" by Alvarix.
 - Mods: Added "Quiet Outfit and Hair" by Alvarix.
+- Mods: Added "Formal Corpo Dress" by MONSTERaider.
+- Mods: Added "Skirts Expansion Part 2" by MONSTERaider.
 - Tags: Added `AutoScale` tag.
 - Commands: Added CET item commands generation.
 - Docs: Added documentation on the command-line tools.
