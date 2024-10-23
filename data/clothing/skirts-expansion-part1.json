@@ -11,15 +11,18 @@
         "Body-Spawn0",
         "Body-Vanilla",
         "Clothing",
-        "FemV"
+        "FemV",
+        "Legs",
+        "Skirt"
+    ],
+    "linkedMods": [
+        "skirts-expansion-part2"
     ],
     "itemCategories": [
         {
             "label": "Regular and micro skirts",
             "tags": [
-                "Legs",
-                "Skimpy",
-                "Skirt"
+                "Skimpy"
             ],
             "items": [
                 {
@@ -81,10 +84,7 @@
         },
         {
             "label": "Short and mini skirts",
-            "tags": [
-                "Legs",
-                "Skirt"
-            ],
+            "tags": [],
             "items": [
                 {
                     "name": "Beige",
