@@ -129,6 +129,7 @@ const TAGS_NORMALIZED = array(
     'animation' => 'Animated',
     'arm' => 'Arms',
     'arms' => 'Arms',
+    'autoscale' => 'AutoScale',
     'axl' => 'AXL',
     'belt' => 'Belt',
     'belts' => 'Belt',
