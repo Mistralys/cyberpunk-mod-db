@@ -3,6 +3,10 @@
 - Mods: Added "Star Hairclips" by cyb3ersn4k3.
 - Mods: Added "Aviator Glasses" by Kwek.
 - Mods: Added "Parasol Oversized Heart Glasses" by Kwek.
+- Mods: Added "Evangelion Plugsuits" by Alvarix.
+- Mods: Added "Quiet Outfit and Hair" by Alvarix.
+- Tags: Added `AutoScale` tag.
+- Commands: Added CET item commands generation.
 - Docs: Added documentation on the command-line tools.
 
 ## v2.0.5 - New mods and fixes
