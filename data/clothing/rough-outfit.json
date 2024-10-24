@@ -1,0 +1,303 @@
+{
+    "mod": "Rough Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15606",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11964",
+    "authors": [
+        "NolaDreamer",
+        "Veegee"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Lush",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_boots_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nolaxveegee_rough_boots_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nolaxveegee_rough_boots_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nolaxveegee_rough_boots_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nolaxveegee_rough_boots_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nolaxveegee_rough_boots_pink"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nolaxveegee_rough_boots_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nolaxveegee_rough_boots_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_boots_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nolaxveegee_rough_boots_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Holsters and Magazines",
+            "tags": [
+                "Accessories",
+                "Legs",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_mags_black"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_mags_white"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nolaxveegee_rough_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nolaxveegee_rough_jacket_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nolaxveegee_rough_jacket_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nolaxveegee_rough_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nolaxveegee_rough_jacket_pink"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nolaxveegee_rough_jacket_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nolaxveegee_rough_jacket_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_jacket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nolaxveegee_rough_jacket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Overalls",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_overalls_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nolaxveegee_rough_overalls_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nolaxveegee_rough_overalls_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nolaxveegee_rough_overalls_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nolaxveegee_rough_overalls_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nolaxveegee_rough_overalls_pink"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nolaxveegee_rough_overalls_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nolaxveegee_rough_overalls_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_overalls_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nolaxveegee_rough_overalls_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nolaxveegee_rough_pants_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nolaxveegee_rough_pants_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nolaxveegee_rough_pants_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nolaxveegee_rough_pants_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nolaxveegee_rough_pants_pink"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nolaxveegee_rough_pants_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nolaxveegee_rough_pants_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_pants_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nolaxveegee_rough_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shirt",
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_shirt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nolaxveegee_rough_shirt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nolaxveegee_rough_shirt_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nolaxveegee_rough_shirt_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "nolaxveegee_rough_shirt_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nolaxveegee_rough_shirt_pink"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nolaxveegee_rough_shirt_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nolaxveegee_rough_shirt_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_shirt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nolaxveegee_rough_shirt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Suspenders",
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nolaxveegee_rough_suspenders_black"
+                },
+                {
+                    "name": "White",
+                    "code": "nolaxveegee_rough_suspenders_white"
+                }
+            ]
+        }
+    ]
+}
