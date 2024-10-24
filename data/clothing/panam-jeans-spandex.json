@@ -1,0 +1,33 @@
+{
+    "mod": "Panam Jeans Spandex",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5119",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "Pants"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "panem_b"
+                },
+                {
+                    "name": "White",
+                    "code": "panem_w"
+                }
+            ]
+        }
+    ]
+}
