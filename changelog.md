@@ -1,3 +1,10 @@
+## v2.0.7 - New mods
+- Mods: Added "Rough Outfit" by Veegee and Nola Dreamer.
+- Mods: Added "Netrunner Combat Top" by Apzurv.
+- Mods: Added "Panam Jeans Spandex" by Apzurv.
+- Mods: Added "Sports Leggings" by Apzurv.
+- Mods: Added "XRX Puffer Jacket" by Apzurv.
+
 ## v2.0.6 - New mods
 - Mods: Added "Tied Crop" by cubfan82.
 - Mods: Added "Star Hairclips" by cyb3ersn4k3.
