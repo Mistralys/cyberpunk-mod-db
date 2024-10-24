@@ -1,0 +1,32 @@
+{
+    "mod": "Netrunner Combat Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4939",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "wi_black"
+                },
+                {
+                    "name": "White",
+                    "code": "wi_white"
+                }
+            ]
+        }
+    ]
+}
