@@ -1,0 +1,62 @@
+{
+    "mod": "Sports Leggings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4716",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Leggings",
+        "Legs"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Crimson",
+                    "code": "vleg_outfit_crimson"
+                },
+                {
+                    "name": "Gold",
+                    "code": "vleg_outfit_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "vleg_outfit_green"
+                },
+                {
+                    "name": "Konpeki",
+                    "code": "vleg_outfit_konpeki"
+                },
+                {
+                    "name": "Leo Light",
+                    "code": "vleg_outfit_leolight"
+                },
+                {
+                    "name": "Leo Orange",
+                    "code": "vleg_outfit_leoorange"
+                },
+                {
+                    "name": "Leo Roses",
+                    "code": "vleg_outfit_leoroses"
+                },
+                {
+                    "name": "Leo Silver",
+                    "code": "vleg_outfit_leosilver"
+                },
+                {
+                    "name": "Pink",
+                    "code": "vleg_outfit_pink"
+                }
+            ]
+        }
+    ]
+}
