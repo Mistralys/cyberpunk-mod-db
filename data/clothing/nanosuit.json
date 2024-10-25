@@ -1,0 +1,169 @@
+{
+    "mod": "Nanosuit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14677",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14747",
+    "authors": [
+        "Subleader"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Lingerie Bottom",
+            "tags": [
+                "Legs",
+                "Panties"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_nanosuit_lingerie_bottom_black"
+                },
+                {
+                    "name": "Black (Alternate)",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_nanosuit_lingerie_bottom_green"
+                },
+                {
+                    "name": "Green (Alternate)",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_green"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_nanosuit_lingerie_bottom_red"
+                },
+                {
+                    "name": "Red (Alternate)",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_nanosuit_lingerie_bottom_rose"
+                },
+                {
+                    "name": "Rose (Alternate)",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_rose"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_nanosuit_lingerie_bottom_tan"
+                },
+                {
+                    "name": "Tan (Alternate)",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "sub_nanosuit_lingerie_bottom_white"
+                },
+                {
+                    "name": "White (Alternate)",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_white"
+                }
+            ]
+        },
+        {
+            "label": "Lingerie Top",
+            "tags": [
+                "Bra",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_nanosuit_lingerie_top_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_nanosuit_lingerie_top_green"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_nanosuit_lingerie_top_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_nanosuit_lingerie_top_rose"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_nanosuit_lingerie_top_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "sub_nanosuit_lingerie_top_white"
+                }
+            ]
+        },
+        {
+            "label": "Suit",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Addition (Default)",
+                    "code": "sub_nanosuit_addition_default"
+                },
+                {
+                    "name": "Addition (Less Bright)",
+                    "code": "sub_nanosuit_addition_lessbright"
+                },
+                {
+                    "name": "Black",
+                    "code": "sub_nanosuit_black"
+                },
+                {
+                    "name": "Default",
+                    "code": "sub_nanosuit_default"
+                },
+                {
+                    "name": "Default (Transparent)",
+                    "code": "sub_nanosuit_default_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Default (Transparent Full)",
+                    "code": "sub_nanosuit_default_transparent_full",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White",
+                    "code": "sub_nanosuit_white"
+                },
+                {
+                    "name": "White (Transparent)",
+                    "code": "sub_nanosuit_white_transparent",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "White (Transparent Full)",
+                    "code": "sub_nanosuit_white_transparent_full",
+                    "tags": [
+                        "Transparent"
+                    ]
+                }
+            ]
+        }
+    ]
+}
