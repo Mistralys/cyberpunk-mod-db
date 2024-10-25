@@ -1,0 +1,89 @@
+{
+    "mod": "XRX Stockings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17278",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Leggings",
+        "Legs",
+        "Stockings"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Fishnet",
+                    "code": "xrxstock_b"
+                },
+                {
+                    "name": "Black Sheer",
+                    "code": "xrxstock_c"
+                },
+                {
+                    "name": "Black Spandex",
+                    "code": "xrxstock_a"
+                },
+                {
+                    "name": "Blue Fishnet",
+                    "code": "xrxstock_n"
+                },
+                {
+                    "name": "Blue Sheer",
+                    "code": "xrxstock_o"
+                },
+                {
+                    "name": "Blue Spandex",
+                    "code": "xrxstock_m"
+                },
+                {
+                    "name": "Green Fishnet",
+                    "code": "xrxstock_k"
+                },
+                {
+                    "name": "Green Sheer",
+                    "code": "xrxstock_l"
+                },
+                {
+                    "name": "Green Spandex",
+                    "code": "xrxstock_j"
+                },
+                {
+                    "name": "Grey Fishnet",
+                    "code": "xrxstock_e"
+                },
+                {
+                    "name": "Grey Sheer",
+                    "code": "xrxstock_f"
+                },
+                {
+                    "name": "Grey Spandex",
+                    "code": "xrxstock_d"
+                },
+                {
+                    "name": "Red Fishnet",
+                    "code": "xrxstock_h"
+                },
+                {
+                    "name": "Red Sheer",
+                    "code": "xrxstock_i"
+                },
+                {
+                    "name": "Red Spandex",
+                    "code": "xrxstock_g"
+                }
+            ]
+        }
+    ]
+}
