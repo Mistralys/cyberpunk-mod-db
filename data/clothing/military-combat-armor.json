@@ -1,0 +1,434 @@
+{
+    "mod": "Military Combat Armor",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/13212",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/10090",
+    "authors": [
+        "Gorefiend",
+        "ScorpionTank"
+    ],
+    "tags": [
+        "Body-Adonis",
+        "Body-Atlas",
+        "Body-EVB",
+        "Body-Gymfiend",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Solo-Lush",
+        "Body-VTK",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Chestplate",
+            "tags": [
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_combat_armor_chestplate_alpine_alpine"
+                },
+                {
+                    "name": "Arctic",
+                    "code": "scorpion_combat_armor_chestplate_arctic_arctic"
+                },
+                {
+                    "name": "Arid",
+                    "code": "scorpion_combat_armor_chestplate_arid_arid"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_combat_armor_chestplate_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_combat_armor_chestplate_black_black"
+                },
+                {
+                    "name": "Desert",
+                    "code": "scorpion_combat_armor_chestplate_desert_desert"
+                },
+                {
+                    "name": "Digital",
+                    "code": "scorpion_combat_armor_chestplate_digital_digital"
+                },
+                {
+                    "name": "Enforcer",
+                    "code": "scorpion_combat_armor_chestplate_enforcer_enforcer"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_combat_armor_chestplate_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_combat_armor_chestplate_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_combat_armor_chestplate_militech_militech"
+                },
+                {
+                    "name": "Nightops",
+                    "code": "scorpion_combat_armor_chestplate_nightops_nightops"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_combat_armor_chestplate_sand_sand"
+                },
+                {
+                    "name": "Specops",
+                    "code": "scorpion_combat_armor_chestplate_specops_specops"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_combat_armor_chestplate_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_combat_armor_chestplate_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_combat_armor_chestplate_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_combat_armor_chestplate_void_void"
+                },
+                {
+                    "name": "White",
+                    "code": "scorpion_combat_armor_chestplate_white_white"
+                },
+                {
+                    "name": "Zealot",
+                    "code": "scorpion_combat_armor_chestplate_zealot_zealot"
+                }
+            ]
+        },
+        {
+            "label": "Neck Cover",
+            "tags": [
+                "Accessories",
+                "Choker",
+                "Neck"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_combat_armor_neckcover_alpine_alpine"
+                },
+                {
+                    "name": "Arctic",
+                    "code": "scorpion_combat_armor_neckcover_arctic_arctic"
+                },
+                {
+                    "name": "Arid",
+                    "code": "scorpion_combat_armor_neckcover_arid_arid"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_combat_armor_neckcover_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_combat_armor_neckcover_black_black"
+                },
+                {
+                    "name": "Desert",
+                    "code": "scorpion_combat_armor_neckcover_desert_desert"
+                },
+                {
+                    "name": "Digital",
+                    "code": "scorpion_combat_armor_neckcover_digital_digital"
+                },
+                {
+                    "name": "Enforcer",
+                    "code": "scorpion_combat_armor_neckcover_enforcer_enforcer"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_combat_armor_neckcover_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_combat_armor_neckcover_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_combat_armor_neckcover_militech_militech"
+                },
+                {
+                    "name": "Nightops",
+                    "code": "scorpion_combat_armor_neckcover_nightops_nightops"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_combat_armor_neckcover_sand_sand"
+                },
+                {
+                    "name": "Specops",
+                    "code": "scorpion_combat_armor_neckcover_specops_specops"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_combat_armor_neckcover_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_combat_armor_neckcover_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_combat_armor_neckcover_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_combat_armor_neckcover_void_void"
+                },
+                {
+                    "name": "White",
+                    "code": "scorpion_combat_armor_neckcover_white_white"
+                },
+                {
+                    "name": "Zealot",
+                    "code": "scorpion_combat_armor_neckcover_zealot_zealot"
+                }
+            ]
+        },
+        {
+            "label": "Shoulder Strap A - Left",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_combat_armor_strap_a_l_alpine_alpine"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_combat_armor_strap_a_l_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_combat_armor_strap_a_l_black_black"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_combat_armor_strap_a_l_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_combat_armor_strap_a_l_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_combat_armor_strap_a_l_militech_militech"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_combat_armor_strap_a_l_sand_sand"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_combat_armor_strap_a_l_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_combat_armor_strap_a_l_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_combat_armor_strap_a_l_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_combat_armor_strap_a_l_void_void"
+                },
+                {
+                    "name": "White",
+                    "code": "scorpion_combat_armor_strap_a_l_white_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoulder Strap A - Right",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_combat_armor_strap_a_r_alpine_alpine"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_combat_armor_strap_a_r_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_combat_armor_strap_a_r_black_black"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_combat_armor_strap_a_r_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_combat_armor_strap_a_r_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_combat_armor_strap_a_r_militech_militech"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_combat_armor_strap_a_r_sand_sand"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_combat_armor_strap_a_r_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_combat_armor_strap_a_r_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_combat_armor_strap_a_r_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_combat_armor_strap_a_r_void_void"
+                },
+                {
+                    "name": "White",
+                    "code": "scorpion_combat_armor_strap_a_r_white_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoulder Strap B - Left",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_combat_armor_strap_b_l_alpine_alpine"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_combat_armor_strap_b_l_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_combat_armor_strap_b_l_black_black"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_combat_armor_strap_b_l_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_combat_armor_strap_b_l_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_combat_armor_strap_b_l_militech_militech"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_combat_armor_strap_b_l_sand_sand"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_combat_armor_strap_b_l_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_combat_armor_strap_b_l_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_combat_armor_strap_b_l_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_combat_armor_strap_b_l_void_void"
+                },
+                {
+                    "name": "White",
+                    "code": "scorpion_combat_armor_strap_b_l_white_white"
+                }
+            ]
+        },
+        {
+            "label": "Shoulder Strap B - Right",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_combat_armor_strap_b_r_alpine_alpine"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_combat_armor_strap_b_r_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_combat_armor_strap_b_r_black_black"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_combat_armor_strap_b_r_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_combat_armor_strap_b_r_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_combat_armor_strap_b_r_militech_militech"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_combat_armor_strap_b_r_sand_sand"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_combat_armor_strap_b_r_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_combat_armor_strap_b_r_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_combat_armor_strap_b_r_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_combat_armor_strap_b_r_void_void"
+                }
+            ]
+        }
+    ]
+}
