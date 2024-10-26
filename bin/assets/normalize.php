@@ -14,9 +14,27 @@
  * @package CPMDB
  */
 
+declare(strict_types=1);
+
+namespace CPMDB\Assets;
+
 require_once __DIR__.'/prepend.php';
 
 use AppUtils\FileHelper\JSONFile;
+
+/**
+ * @return string|null
+ */
+function getNormalizeArg() : ?string
+{
+    $commands = getCLICommands();
+
+    return
+        $commands['normalize'] ??
+        $commands['norm'] ??
+        $commands['nm'] ??
+        null;
+}
 
 function normalizeFile(JSONFile $file) : void
 {

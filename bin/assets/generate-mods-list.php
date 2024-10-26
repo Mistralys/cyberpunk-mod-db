@@ -5,9 +5,26 @@
  * @package CPMDB
  */
 
+declare(strict_types=1);
+
+namespace CPMDB\Assets;
+
 use AppUtils\ConvertHelper;
 
 require_once __DIR__ . '/prepend.php';
+
+function getModListArg() : ?string
+{
+    $commands = getCLICommands();
+
+    return
+        $commands['modlist'] ??
+        $commands['ml'] ??
+        $commands['modslist'] ??
+        $commands['mods-list'] ??
+        $commands['mod-list'] ??
+        null;
+}
 
 function generateModsList() : void
 {

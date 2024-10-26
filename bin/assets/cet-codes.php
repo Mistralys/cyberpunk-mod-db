@@ -5,11 +5,23 @@ declare(strict_types=1);
 namespace CPMDB\Assets;
 
 /**
+ * @return string|null
+ */
+function getCETCodesArg() : ?string
+{
+    $commands = getCLICommands();
+
+    return
+        $commands['cet-codes'] ??
+        $commands['cet'] ??
+        null;
+}
+
+/**
  * @param string $modID
- * @param array<string,string> $commands
  * @return void
  */
-function generateCETCodes(string $modID, array $commands) : void
+function generateCETCodes(string $modID) : void
 {
     $data = getModFile($modID)->getData();
     $result = array();
