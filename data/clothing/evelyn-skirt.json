@@ -13,6 +13,10 @@
         "Body-Vanilla",
         "FemV"
     ],
+    "linkedMods": [
+        "evelyn-coat-and-fur",
+        "evelyn-dress"
+    ],
     "itemCategories": [
         {
             "label": "",

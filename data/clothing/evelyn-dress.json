@@ -15,6 +15,10 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "evelyn-coat-and-fur",
+        "evelyn-skirt"
+    ],
     "itemCategories": [
         {
             "label": "",
