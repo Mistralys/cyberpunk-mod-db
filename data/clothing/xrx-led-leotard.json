@@ -1,0 +1,50 @@
+{
+    "mod": "XRX Led Leotard",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8367",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "EzioMaverick",
+        "Apzurv"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "ItemName",
+                    "code": "xrxleo_a",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "ItemName",
+                    "code": "xrxleo_b",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "ItemName",
+                    "code": "xrxleo_c",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "ItemName",
+                    "code": "xrxleo_d",
+                    "tags": [
+                        "Emissive"
+                    ]
+                }
+            ]
+        }
+    ]
+}
