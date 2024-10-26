@@ -1,0 +1,284 @@
+{
+    "mod": "Camisole Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17113",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/15621",
+    "authors": [
+        "Cubfan82"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Small",
+        "Body-Solo",
+        "Body-Solo-Ultimate",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "comments": "Regarding clipping: This is a ported model. As such, clipping is inevitable in some poses.",
+    "itemCategories": [
+        {
+            "label": "Patterns",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aliens",
+                    "code": "cubfan82_cami_aliens"
+                },
+                {
+                    "name": "Argyle",
+                    "code": "cubfan82_cami_argyle"
+                },
+                {
+                    "name": "Argyle 2",
+                    "code": "cubfan82_cami_argyle2"
+                },
+                {
+                    "name": "Argyle 3",
+                    "code": "cubfan82_cami_argyle3"
+                },
+                {
+                    "name": "Argyle 4",
+                    "code": "cubfan82_cami_argyle4"
+                },
+                {
+                    "name": "Blue Splatter",
+                    "code": "cubfan82_cami_bluesplatter"
+                },
+                {
+                    "name": "Buttercup Splatter",
+                    "code": "cubfan82_cami_buttercupsplatter"
+                },
+                {
+                    "name": "Butterflies",
+                    "code": "cubfan82_cami_butterflies"
+                },
+                {
+                    "name": "Gold Hypnotic",
+                    "code": "cubfan82_cami_goldhypnotic"
+                },
+                {
+                    "name": "Green Plaid",
+                    "code": "cubfan82_cami_greenplaid"
+                },
+                {
+                    "name": "Lime Splatter",
+                    "code": "cubfan82_cami_limesplatter"
+                },
+                {
+                    "name": "Pink Plaid",
+                    "code": "cubfan82_cami_pinkplaid"
+                },
+                {
+                    "name": "Pink Splatter",
+                    "code": "cubfan82_cami_pinksplatter"
+                },
+                {
+                    "name": "Pink Stars",
+                    "code": "cubfan82_cami_pinkstars"
+                },
+                {
+                    "name": "Purple Flower",
+                    "code": "cubfan82_cami_purpleflower"
+                },
+                {
+                    "name": "Purple Hypnotic",
+                    "code": "cubfan82_cami_purplehypnotic"
+                },
+                {
+                    "name": "Purple Splatter",
+                    "code": "cubfan82_cami_purplesplatter"
+                },
+                {
+                    "name": "Red Hypnotic",
+                    "code": "cubfan82_cami_redhypnotic"
+                },
+                {
+                    "name": "Red Plaid",
+                    "code": "cubfan82_cami_redplaid"
+                },
+                {
+                    "name": "Red Skulls",
+                    "code": "cubfan82_cami_redskulls"
+                },
+                {
+                    "name": "Red Splatter",
+                    "code": "cubfan82_cami_redsplatter"
+                },
+                {
+                    "name": "Roses",
+                    "code": "cubfan82_cami_roses"
+                },
+                {
+                    "name": "Silver Hypnotic",
+                    "code": "cubfan82_cami_silverhypnotic"
+                },
+                {
+                    "name": "White Splatter",
+                    "code": "cubfan82_cami_whitesplatter"
+                },
+                {
+                    "name": "White Stars",
+                    "code": "cubfan82_cami_whitestars"
+                }
+            ]
+        },
+        {
+            "label": "Polyester",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_cami_blackpoly"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_cami_bluepoly"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_cami_brownpoly"
+                },
+                {
+                    "name": "Bubblegum",
+                    "code": "cubfan82_cami_bubblegumpoly"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "cubfan82_cami_burgundypoly"
+                },
+                {
+                    "name": "Buttercup",
+                    "code": "cubfan82_cami_buttercuppoly"
+                },
+                {
+                    "name": "Dark Purple",
+                    "code": "cubfan82_cami_darkpurplepoly"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "cubfan82_cami_darkredpoly"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "cubfan82_cami_emeraldpoly"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_cami_greenpoly"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_cami_greypoly"
+                },
+                {
+                    "name": "Lime",
+                    "code": "cubfan82_cami_limepoly"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "cubfan82_cami_midnightbluepoly"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cubfan82_cami_pinkpoly"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_cami_purplepoly"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_cami_redpoly"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_cami_whitepoly"
+                }
+            ]
+        },
+        {
+            "label": "Velvet",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_cami_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_cami_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_cami_brown"
+                },
+                {
+                    "name": "Bubblegum",
+                    "code": "cubfan82_cami_bubblegum"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "cubfan82_cami_burgundy"
+                },
+                {
+                    "name": "Buttercup",
+                    "code": "cubfan82_cami_buttercup"
+                },
+                {
+                    "name": "Dark Purple",
+                    "code": "cubfan82_cami_darkpurple"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "cubfan82_cami_darkred"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "cubfan82_cami_emerald"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_cami_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_cami_grey"
+                },
+                {
+                    "name": "Lime",
+                    "code": "cubfan82_cami_lime"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "cubfan82_cami_midnightblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cubfan82_cami_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_cami_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_cami_red"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_cami_white"
+                }
+            ]
+        }
+    ]
+}
