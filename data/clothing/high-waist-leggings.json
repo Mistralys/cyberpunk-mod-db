@@ -1,0 +1,159 @@
+{
+    "mod": "High Waist Leggings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17045",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12939",
+    "authors": [
+        "Mayo"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Leggings",
+        "Legs"
+    ],
+    "itemCategories": [
+        {
+            "label": "Fabric",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_simple_leggings_v2_fabric_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "mayo_simple_leggings_v2_fabric_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "mayo_simple_leggings_v2_fabric_green"
+                },
+                {
+                    "name": "MBlue",
+                    "code": "mayo_simple_leggings_v2_fabric_mblue"
+                },
+                {
+                    "name": "Orange",
+                    "code": "mayo_simple_leggings_v2_fabric_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "mayo_simple_leggings_v2_fabric_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "mayo_simple_leggings_v2_fabric_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_simple_leggings_v2_fabric_red"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_simple_leggings_v2_fabric_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "mayo_simple_leggings_v2_fabric_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Latex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_simple_leggings_v2_latex_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "mayo_simple_leggings_v2_latex_burgundy"
+                },
+                {
+                    "name": "Hotpink",
+                    "code": "mayo_simple_leggings_v2_latex_hotpink"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_simple_leggings_v2_latex_red"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_simple_leggings_v2_latex_white"
+                }
+            ]
+        },
+        {
+            "label": "Leather",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_simple_leggings_v2_leather_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "mayo_simple_leggings_v2_leather_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "mayo_simple_leggings_v2_leather_green"
+                },
+                {
+                    "name": "MBlue",
+                    "code": "mayo_simple_leggings_v2_leather_mblue"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_simple_leggings_v2_leather_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "mayo_simple_leggings_v2_leather_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_simple_leggings_v2_leather_white"
+                }
+            ]
+        },
+        {
+            "label": "Metallic",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "mayo_simple_leggings_v2_gold"
+                },
+                {
+                    "name": "Gold Rose",
+                    "code": "mayo_simple_leggings_v2_gold_rose"
+                },
+                {
+                    "name": "Gold Silver",
+                    "code": "mayo_simple_leggings_v2_gold_silver"
+                }
+            ]
+        },
+        {
+            "label": "Special",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Camo",
+                    "code": "mayo_simple_leggings_v2_camo_black"
+                },
+                {
+                    "name": "Leopard",
+                    "code": "mayo_simple_leggings_v2_leopard"
+                },
+                {
+                    "name": "Snakeskin",
+                    "code": "mayo_simple_leggings_v2_snakeskin"
+                }
+            ]
+        }
+    ]
+}
