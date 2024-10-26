@@ -4,6 +4,15 @@
 - Mods: Added "Panam Jeans Spandex" by Apzurv.
 - Mods: Added "Sports Leggings" by Apzurv.
 - Mods: Added "XRX Puffer Jacket" by Apzurv.
+- Mods: Added "XRX Stockings" by Apzurv.
+- Mods: Added "Military Combat Armor" by Scorpion Tank.
+- Mods: Added "Nanosuit" by Subleader.
+- Mods: Added "Armor Pads Pack" by ScorpionTank.
+- Mods: Added "Bullet Necklace" by e256.
+- Mods: Added "High Waist Leggings" by Mayo.
+- Mods: Added "Camisole Top" by Cubfan82.
+- Mods: Added "Evelyn Coat and Fur" by NolaDreamer.
+- Mods: Added "XRX Led Leotard" by Apzurv.
 
 ## v2.0.6 - New mods
 - Mods: Added "Tied Crop" by cubfan82.
