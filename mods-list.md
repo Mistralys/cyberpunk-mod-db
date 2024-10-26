@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 97
+Total available mods: 111
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -10,6 +10,7 @@ Total available mods: 97
 * [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027) by Apzurv and EzioMaverick
 * [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896) by Apzurv and EzioMaverick
 * [Arasaka Sports Wear V2](https://www.nexusmods.com/cyberpunk2077/mods/4890) by Apzurv and EzioMaverick
+* [Armor Pads Pack](https://www.nexusmods.com/cyberpunk2077/mods/12044) by ScorpionTank
 * [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996) by Veegee and VeegeeAlvarez
 * [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453) by Veegee and VeegeeAlvarez
 * [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886) by jerinski
@@ -21,6 +22,8 @@ Total available mods: 97
 * [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
 * [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446) by AlvarixPT
 * [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by Mayo and NotMayoSan
+* [Bullet Necklace](https://www.nexusmods.com/cyberpunk2077/mods/5077) by DJ_Kovrik and e256
+* [Camisole Top](https://www.nexusmods.com/cyberpunk2077/mods/17113) by Cubfan82
 * [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133) by Veegee and VeegeeAlvarez
 * [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504) by Veegee and VeegeeAlvarez
 * [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345) by Veegee and VeegeeAlvarez
@@ -38,6 +41,7 @@ Total available mods: 97
 * [Elizabeth Peralez Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7048) by Kwek and kweknexuss
 * [Evangelion Misato Outfit](https://www.nexusmods.com/cyberpunk2077/mods/14653) by Apzurv and EzioMaverick
 * [Evangelion Plugsuits](https://www.nexusmods.com/cyberpunk2077/mods/11511) by AlvarixPT
+* [Evelyn Coat and Fur](https://www.nexusmods.com/cyberpunk2077/mods/8319) by NolaDreamer
 * [Evelyn Dress](https://www.nexusmods.com/cyberpunk2077/mods/6810) by Hyst and LxRHyst
 * [Evelyn Skirt](https://www.nexusmods.com/cyberpunk2077/mods/8024) by Peachu and PeachuHime
 * [Fancy Striped Dress](https://www.nexusmods.com/cyberpunk2077/mods/8843) by PinkyDude
@@ -46,6 +50,7 @@ Total available mods: 97
 * [Glasses Pack](https://www.nexusmods.com/cyberpunk2077/mods/13095) by Veegee and VeegeeAlvarez
 * [Hanako Dress](https://www.nexusmods.com/cyberpunk2077/mods/6034) by Apzurv and EzioMaverick
 * [Harness Top](https://www.nexusmods.com/cyberpunk2077/mods/11753) by Adshield
+* [High Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/17045) by Mayo
 * [J'adore Moon & Star Hoop Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7105) by Kwek and kweknexuss
 * [Jacket Bolero Hex](https://www.nexusmods.com/cyberpunk2077/mods/16378) by Apzurv and EzioMaverick
 * [Johnny Silverhand's String Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/6912) by Kwek and kweknexuss
@@ -61,14 +66,19 @@ Total available mods: 97
 * [Lucy Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5273) by Apzurv and EzioMaverick
 * [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130) by beanie and beaniebby
 * [Michiko Dress with Fur](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
+* [Military Combat Armor](https://www.nexusmods.com/cyberpunk2077/mods/13212) by Gorefiend and ScorpionTank
 * [Mirror's Edge - Faith Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4599) by Apzurv and EzioMaverick
 * [Motoko Kusanagi Jacket and Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/4853) by Apzurv and Eziomaverick
 * [Motoko Kusanagi Outfit Reworked](https://www.nexusmods.com/cyberpunk2077/mods/7613) by Apzurv and EzioMaverick
+* [Nanosuit](https://www.nexusmods.com/cyberpunk2077/mods/14677) by Subleader
+* [Netrunner Combat Top](https://www.nexusmods.com/cyberpunk2077/mods/4939) by Apzurv and EzioMaverick
+* [Panam Jeans Spandex](https://www.nexusmods.com/cyberpunk2077/mods/5119) by Apzurv and EzioMaverick
 * [Parasol Oversized Heart Glasses](https://www.nexusmods.com/cyberpunk2077/mods/6990) by Kwek and kweknexuss
 * [Peachu Top](https://www.nexusmods.com/cyberpunk2077/mods/7603) by Peachu and PeachuHime
 * [Psycho Cyber-Tubes](https://www.nexusmods.com/cyberpunk2077/mods/7860) by MONSTERaider
 * [Quiet Outfit and Hair](https://www.nexusmods.com/cyberpunk2077/mods/5194) by AlvarixPT
 * [Quipao Dress](https://www.nexusmods.com/cyberpunk2077/mods/8823) by Peachu and PeachuHime
+* [Rough Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15606) by NolaDreamer and Veegee
 * [Salander's Earplugs](https://www.nexusmods.com/cyberpunk2077/mods/7600) by Kwek and kewknexuss
 * [Sasha Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5393) by Apzurv and EzioMaverick
 * [Short Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/6601) by Hyst and LxRHyst
@@ -77,6 +87,7 @@ Total available mods: 97
 * [Skirts Expansion Part 2](https://www.nexusmods.com/cyberpunk2077/mods/7402?tab=files) by MONSTERaider
 * [Slim Bolero Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7278) by MONSTERaider
 * [Split Dress and Bikini](https://www.nexusmods.com/cyberpunk2077/mods/8999) by AlvarixPT
+* [Sports Leggings](https://www.nexusmods.com/cyberpunk2077/mods/4716) by Apzurv and EzioMaverick
 * [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342) by PinkyDude
 * [Star Hairclips](https://www.nexusmods.com/cyberpunk2077/mods/15195) by cyb3rsn4k3 and cyb3rsn4k34li3n
 * [Stellar Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14553) by cyb3rsn4k3
@@ -92,8 +103,11 @@ Total available mods: 97
 * [XRX Dress](https://www.nexusmods.com/cyberpunk2077/mods/7444) by Apzurv and EzioMaverick
 * [XRX Latex Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7662) by Apzurv and EzioMaverick
 * [XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661) by Apzurv and EzioMaverick
+* [XRX Led Leotard](https://www.nexusmods.com/cyberpunk2077/mods/8367) by Apzurv and EzioMaverick
 * [XRX Leggings](https://www.nexusmods.com/cyberpunk2077/mods/15635) by Apzurv and EzioMaverick
+* [XRX Puffer Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7722) by EzioMaverick and Apzurv
 * [XRX RME Jacket](https://www.nexusmods.com/cyberpunk2077/mods/10902) by Apzurv and EzioMaverick
+* [XRX Stockings](https://www.nexusmods.com/cyberpunk2077/mods/17278) by Apzurv and EzioMaverick
 * [Yaahl Tech Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/7847) by DBRV
 * [Zipped Suit](https://www.nexusmods.com/cyberpunk2077/mods/8484) by MONSTERaider
 * [Ziva Cross Cut Dress](https://www.nexusmods.com/cyberpunk2077/mods/16620) by Apzurv and EzioMaverick
