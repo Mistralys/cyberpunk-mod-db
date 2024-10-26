@@ -13,6 +13,8 @@
 - Mods: Added "Camisole Top" by Cubfan82.
 - Mods: Added "Evelyn Coat and Fur" by NolaDreamer.
 - Mods: Added "XRX Led Leotard" by Apzurv.
+- Commands: Added the screenshot checker.
+- Commands: Simplified the internal handling.
 
 ## v2.0.6 - New mods
 - Mods: Added "Tied Crop" by cubfan82.
