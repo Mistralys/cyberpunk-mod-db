@@ -1,0 +1,29 @@
+{
+    "mod": "Bullet Necklace",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5077",
+    "atelier": "",
+    "authors": [
+        "DJ_Kovrik",
+        "e256"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Jewelry",
+        "Necklace"
+    ],
+    "comments": "No atelier. Misty will give you the handmade bullet necklace once you finish the prologue. If you have finished prologue quests already, the bullet necklace will automatically be added to V's inventory.",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Necklace",
+                    "code": "e256_bullet_necklace"
+                }
+            ]
+        }
+    ]
+}
