@@ -1,0 +1,387 @@
+{
+    "mod": "Evelyn Coat and Fur",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8319",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "authors": [
+        "NolaDreamer"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Lush",
+        "Body-Lush-Large",
+        "Body-Solo",
+        "Body-VTK-VanillaHD",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "linkedMods": [
+        "evelyn-dress",
+        "evelyn-skirt"
+    ],
+    "itemCategories": [
+        {
+            "label": "Cropped Coat",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_evelyn_crop_coat_black"
+                },
+                {
+                    "name": "Blue Grid",
+                    "code": "nd_evelyn_crop_coat_bluegrid"
+                },
+                {
+                    "name": "Camo",
+                    "code": "nd_evelyn_crop_coat_camo"
+                },
+                {
+                    "name": "Gold Pattern",
+                    "code": "nd_evelyn_crop_coat_goldpat"
+                },
+                {
+                    "name": "Green Cloud",
+                    "code": "nd_evelyn_crop_coat_greenclo"
+                },
+                {
+                    "name": "Pink Heart",
+                    "code": "nd_evelyn_crop_coat_pinkheart"
+                },
+                {
+                    "name": "Red Plaid",
+                    "code": "nd_evelyn_crop_coat_redplaid"
+                },
+                {
+                    "name": "Silver Sequins",
+                    "code": "nd_evelyn_crop_coat_silverseq"
+                },
+                {
+                    "name": "Transparent Black",
+                    "code": "nd_evelyn_crop_coat_transpblack",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Blue",
+                    "code": "nd_evelyn_crop_coat_transpblue",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Gray",
+                    "code": "nd_evelyn_crop_coat_transpgray",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Green",
+                    "code": "nd_evelyn_crop_coat_transpgreen",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Pink",
+                    "code": "nd_evelyn_crop_coat_transppink",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Purple",
+                    "code": "nd_evelyn_crop_coat_transppurple",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Red",
+                    "code": "nd_evelyn_crop_coat_transpred",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Teal",
+                    "code": "nd_evelyn_crop_coat_transpteal",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent White",
+                    "code": "nd_evelyn_crop_coat_transpwhite",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Yellow",
+                    "code": "nd_evelyn_crop_coat_transpyellow",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Violet Rose",
+                    "code": "nd_evelyn_crop_coat_violetrose"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_evelyn_crop_coat_white"
+                }
+            ]
+        },
+        {
+            "label": "Fur",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Black Carbon",
+                    "code": "nd_evelyn_fur_black_carbon"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "nd_evelyn_fur_black_red"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "nd_evelyn_fur_black_yellow"
+                },
+                {
+                    "name": "Blonde Dishwater",
+                    "code": "nd_evelyn_fur_blonde_dishwater"
+                },
+                {
+                    "name": "Blonde Platinum",
+                    "code": "nd_evelyn_fur_blonde_platinum"
+                },
+                {
+                    "name": "Blue Sapphire",
+                    "code": "nd_evelyn_fur_blue_sapphire"
+                },
+                {
+                    "name": "Brown Liquorice",
+                    "code": "nd_evelyn_fur_brown_liquorice"
+                },
+                {
+                    "name": "Cold White",
+                    "code": "nd_evelyn_fur_cold_white"
+                },
+                {
+                    "name": "Ginger Copper",
+                    "code": "nd_evelyn_fur_ginger_copper"
+                },
+                {
+                    "name": "Ginger Strawberry",
+                    "code": "nd_evelyn_fur_ginger_strawberry"
+                },
+                {
+                    "name": "Golden Yellow",
+                    "code": "nd_evelyn_fur_golden_yellow"
+                },
+                {
+                    "name": "Gray Gunmetal",
+                    "code": "nd_evelyn_fur_gray_gunmetal"
+                },
+                {
+                    "name": "Hyena",
+                    "code": "nd_evelyn_fur_hyena"
+                },
+                {
+                    "name": "Hyena Teal",
+                    "code": "nd_evelyn_fur_hyena_teal"
+                },
+                {
+                    "name": "Liliac",
+                    "code": "nd_evelyn_fur_liliac"
+                },
+                {
+                    "name": "Liliac Blue",
+                    "code": "nd_evelyn_fur_liliac_blue"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "nd_evelyn_fur_midnight_blue"
+                },
+                {
+                    "name": "Orange Fluorescent",
+                    "code": "nd_evelyn_fur_orange_fluorescent"
+                },
+                {
+                    "name": "Pink Magenta",
+                    "code": "nd_evelyn_fur_pink_magenta"
+                },
+                {
+                    "name": "Pink Rose",
+                    "code": "nd_evelyn_fur_pink_rose"
+                },
+                {
+                    "name": "Purple Beige Peach",
+                    "code": "nd_evelyn_fur_purple_beige_peach"
+                },
+                {
+                    "name": "Purple Blue",
+                    "code": "nd_evelyn_fur_purple_blue"
+                },
+                {
+                    "name": "Purple Ombre",
+                    "code": "nd_evelyn_fur_purple_ombre"
+                },
+                {
+                    "name": "Red Apple",
+                    "code": "nd_evelyn_fur_red_apple"
+                },
+                {
+                    "name": "Red Golden",
+                    "code": "nd_evelyn_fur_red_golden"
+                },
+                {
+                    "name": "Red Merlot",
+                    "code": "nd_evelyn_fur_red_merlot"
+                },
+                {
+                    "name": "Teal Ash",
+                    "code": "nd_evelyn_fur_teal_ash"
+                },
+                {
+                    "name": "Teal Fluorescent",
+                    "code": "nd_evelyn_fur_teal_fluorescent"
+                }
+            ]
+        },
+        {
+            "label": "Long Coat",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_evelyn_long_coat_black"
+                },
+                {
+                    "name": "Blue Grid",
+                    "code": "nd_evelyn_long_coat_bluegrid"
+                },
+                {
+                    "name": "Camo",
+                    "code": "nd_evelyn_long_coat_camo"
+                },
+                {
+                    "name": "Gold Pattern",
+                    "code": "nd_evelyn_long_coat_goldpat"
+                },
+                {
+                    "name": "Green Cloud",
+                    "code": "nd_evelyn_long_coat_greenclo"
+                },
+                {
+                    "name": "Pink Heart",
+                    "code": "nd_evelyn_long_coat_pinkheart"
+                },
+                {
+                    "name": "Red Plaid",
+                    "code": "nd_evelyn_long_coat_redplaid"
+                },
+                {
+                    "name": "Silver Sequins",
+                    "code": "nd_evelyn_long_coat_silverseq"
+                },
+                {
+                    "name": "Transparent Black",
+                    "code": "nd_evelyn_long_coat_transpblack",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Blue",
+                    "code": "nd_evelyn_long_coat_transpblue",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Gray",
+                    "code": "nd_evelyn_long_coat_transpgray",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Green",
+                    "code": "nd_evelyn_long_coat_transpgreen",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Pink",
+                    "code": "nd_evelyn_long_coat_transppink",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Purple",
+                    "code": "nd_evelyn_long_coat_transppurple",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Red",
+                    "code": "nd_evelyn_long_coat_transpred",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Teal",
+                    "code": "nd_evelyn_long_coat_transpteal",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent White",
+                    "code": "nd_evelyn_long_coat_transpwhite",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Transparent Yellow",
+                    "code": "nd_evelyn_long_coat_transpyellow",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Violet Rose",
+                    "code": "nd_evelyn_long_coat_violetrose"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_evelyn_long_coat_white"
+                }
+            ]
+        }
+    ]
+}
