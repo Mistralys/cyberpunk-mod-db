@@ -3,11 +3,13 @@
 declare(strict_types=1);
 
 use function CPMDB\Assets\addCategory;
+use function CPMDB\Assets\checkScreenshots;
 use function CPMDB\Assets\createNew;
 use function CPMDB\Assets\generateCETCodes;
 use function CPMDB\Assets\generateModsList;
 use function CPMDB\Assets\getAddCategoryArg;
 use function CPMDB\Assets\getCETCodesArg;
+use function CPMDB\Assets\getCheckScreenshotsArg;
 use function CPMDB\Assets\getCLICommands;
 use function CPMDB\Assets\getCreateArg;
 use function CPMDB\Assets\getHelpArg;
@@ -24,6 +26,7 @@ require_once __DIR__ . '/assets/create-new.php';
 require_once __DIR__ . '/assets/add-category.php';
 require_once __DIR__ . '/assets/cet-codes.php';
 require_once __DIR__ . '/assets/normalize.php';
+require_once __DIR__ . '/assets/check-screenshots.php';
 require_once __DIR__ . '/assets/generate-mods-list.php';
 
 $commands = getCLICommands();
@@ -62,6 +65,11 @@ if(!empty($modID))
 }
 else
 {
+    if(getCheckScreenshotsArg() !== null) {
+        checkScreenshots();
+        exit;
+    }
+
     if (getModListArg() !== null) {
         generateModsList();
         exit;
