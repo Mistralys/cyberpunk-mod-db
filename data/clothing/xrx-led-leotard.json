@@ -3,12 +3,15 @@
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8367",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
     "authors": [
-        "EzioMaverick",
-        "Apzurv"
+        "Apzurv",
+        "EzioMaverick"
     ],
     "tags": [
-        "Clothing",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
         "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
     "itemCategories": [
@@ -17,29 +20,29 @@
             "tags": [],
             "items": [
                 {
-                    "name": "ItemName",
-                    "code": "xrxleo_a",
-                    "tags": [
-                        "Emissive"
-                    ]
-                },
-                {
-                    "name": "ItemName",
+                    "name": "Black, Green Light",
                     "code": "xrxleo_b",
                     "tags": [
                         "Emissive"
                     ]
                 },
                 {
-                    "name": "ItemName",
-                    "code": "xrxleo_c",
+                    "name": "Black, Red Light",
+                    "code": "xrxleo_a",
                     "tags": [
                         "Emissive"
                     ]
                 },
                 {
-                    "name": "ItemName",
+                    "name": "Grey, Teal Light",
                     "code": "xrxleo_d",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "White, Pink Light",
+                    "code": "xrxleo_c",
                     "tags": [
                         "Emissive"
                     ]
