@@ -27,6 +27,15 @@
         "MaleV",
         "Modular"
     ],
+    "linkedMods": [
+        "armor-pads-pack"
+    ],
+    "seeAlso": [
+        {
+            "url": "https://next.nexusmods.com/profile/ScorpionTank/mods",
+            "label": "All related Mods"
+        }
+    ],
     "itemCategories": [
         {
             "label": "Chestplate",
