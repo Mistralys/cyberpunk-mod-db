@@ -1,3 +1,9 @@
+## v2.0.8 - Documentation
+- Docs: Added a guide on contributing mods.
+- Docs: Moved the tagging reference to its own file.
+- DB: Added possibility to describe screenshots with JSON sidecar files.
+- Mods: Switched the daytime and nighttime screenshots for "xrx-led-leotard".
+
 ## v2.0.7 - New mods
 - Mods: Added "Rough Outfit" by Veegee and Nola Dreamer.
 - Mods: Added "Netrunner Combat Top" by Apzurv.
