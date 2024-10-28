@@ -24,7 +24,7 @@ use the separate project [Cyberpunk 2077 Clothing Mods Database PHP][].
 pull requests are very welcome. Alternatively, you can email me the details at
 [eve@aeonoftime.com](mailto:eve@aeonoftime.com).
 
-**Adding new mods**: See the [contribution guide](docs/contributing-mods) for details 
+**Adding new mods**: See the [contribution guide](docs/contributing-mods.md) for details 
 on how to submit new mods to the database.
 
 
