@@ -1,0 +1,579 @@
+{
+    "AXL": {
+        "description": "The ArchiveXL mod",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4198"
+            }
+        ]
+    },
+    "Accessories": {
+        "description": "",
+        "aliases": [
+            "accessory"
+        ]
+    },
+    "Animated": {
+        "description": "Animated clothing parts.",
+        "aliases": [
+            "animation"
+        ]
+    },
+    "Arms": {
+        "description": "Clothing slot: Arms",
+        "aliases": [
+            "arm"
+        ]
+    },
+    "AutoScale": {
+        "description": "Clothing that automatically scales to the player's level."
+    },
+    "Belt": {
+        "description": "Clothing item: Belt.",
+        "aliases": [
+            "belts"
+        ]
+    },
+    "Body-Adonis": {
+        "description": "Body Mod for MaleV: Muscular body.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4968"
+            }
+        ]
+    },
+    "Body-Atlas": {
+        "description": "Body mod for MaleV.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/8766"
+            }
+        ]
+    },
+    "Body-EVB": {
+        "description": "Body mod for FemV: Enhanced Vanilla Body",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/11489"
+            }
+        ]
+    },
+    "Body-Gymfiend": {
+        "description": "Body Mod for MaleV.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/6423"
+            }
+        ]
+    },
+    "Body-Hyst": {
+        "description": "Body mod for FemV: Enhanced Big Breasts, Realistic Butt, and more.",
+        "relatedTags": [
+            "Body-Hyst-EBB",
+            "Body-Hyst-RB",
+            "Body-Hyst-EBBP",
+            "Body-Hyst-EBBPRB",
+            "Body-Hyst-EBBRB",
+            "Body-Hyst-Angel"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://next.nexusmods.com/profile/LxRHyst/mods?gameId=3333"
+            }
+        ]
+    },
+    "Body-Hyst-Angel": {
+        "description": "Body mod for FemV: New improved version of the other body mods.",
+        "relatedTags": [
+            "Body-Hyst-EBB",
+            "Body-Hyst-RB",
+            "Body-Hyst-EBBP"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/14896"
+            }
+        ],
+        "aliases": [
+            "body-angel"
+        ]
+    },
+    "Body-Hyst-EBB": {
+        "description": "Body Mod for FemV: Enhanced Big Breasts",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4654"
+            }
+        ],
+        "aliases": [
+            "body-ebb"
+        ]
+    },
+    "Body-Hyst-EBBP": {
+        "description": "Body mod for FemV: Enhanced Big Breasts, Push-Up ",
+        "relatedTags": [
+            "Body-Hyst-EBB"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/9083"
+            }
+        ],
+        "aliases": [
+            "body-ebbp"
+        ]
+    },
+    "Body-Hyst-EBBPRB": {
+        "description": "Body mod for FemV: Enhanced Big Breasts, Push-Up, Realistic Butt",
+        "relatedTags": [
+            "Body-Hyst-EBBP",
+            "Body-Hyst-RB"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/9083"
+            }
+        ],
+        "aliases": [
+            "body-ebbprb"
+        ]
+    },
+    "Body-Hyst-EBBRB": {
+        "description": "Body mod for FemV: Enhanced Big Breasts, Realistic Butt",
+        "relatedTags": [
+            "Body-Hyst-EBB",
+            "Body-Hyst-RB"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4654"
+            }
+        ],
+        "aliases": [
+            "body-ebbrb",
+            "body-hyst-ebb-bb",
+            "body-hyst-ebb-rb"
+        ]
+    },
+    "Body-Hyst-RB": {
+        "description": "Body Mod for FemV: More Realistic Butt",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4420"
+            }
+        ],
+        "aliases": [
+            "body-rb"
+        ]
+    },
+    "Body-Lush": {
+        "description": "Body mod for FemV: Voluptuous large breast.",
+        "relatedTags": [
+            "Body-SoLush"
+        ],
+        "aliases": [
+            "body-lush-large"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4901"
+            }
+        ]
+    },
+    "Body-SoLush": {
+        "description": "Body mod for FemV: Lush body with muscles.",
+        "relatedTags": [
+            "Body-Lush"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/8392"
+            }
+        ]
+    },
+    "Body-Solo": {
+        "description": ""
+    },
+    "Body-Solo-Arms": {
+        "description": "Body mod for FemV: Athletic arms.",
+        "relatedTags": [
+            "Body-Solo",
+            "Body-Solo-Small",
+            "Body-Solo-Ultimate"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7148"
+            }
+        ],
+        "aliases": [
+            "body-soloarms"
+        ]
+    },
+    "Body-Solo-Small": {
+        "description": "Body mod for FemV: Small breasts.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/6213"
+            }
+        ],
+        "aliases": [
+            "body-small",
+            "body-solo-small-breast"
+        ]
+    },
+    "Body-Solo-Ultimate": {
+        "description": "Body mod for FemV: Ultimate body with bigger breasts and butt.",
+        "relatedTags": [
+            "Body-Solo",
+            "Body-Solo-Small"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/6944"
+            }
+        ]
+    },
+    "Body-Spawn0": {
+        "description": "Body mod for FemV: Big choice of sizes with CET in-game body swap.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/1424"
+            }
+        ]
+    },
+    "Body-Valentine": {
+        "description": "Body mod for FemV: Improved proportions.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4256"
+            }
+        ]
+    },
+    "Body-Vanilla": {
+        "description": "The vanilla body for FemV and MaleV."
+    },
+    "Body-VTK-Big": {
+        "description": "Body mod for FemV: Vanilla body with bigger breasts.",
+        "relatedTags": [
+            "Body-VTK-Small",
+            "Body-VTK-VanillaHD"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7482"
+            }
+        ],
+        "aliases": [
+            "body-vanillahd-big",
+            "body-vanilla-vtk-big"
+        ]
+    },
+    "Body-VTK-Small": {
+        "description": "Body mod for FemV: Vanilla HD with small breasts.",
+        "relatedTags": [
+            "Body-VTK-Big",
+            "Body-VTK-VanillaHD"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7482"
+            }
+        ],
+        "aliases": [
+            "body-vanillahd-small",
+            "body-vanilla-vtk-small"
+        ]
+    },
+    "Body-VTK-VanillaHD": {
+        "description": "Body mod for FemV: Vanilla HD body.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7054"
+            }
+        ],
+        "aliases": [
+            "body-vtk",
+            "body-vanillahd",
+            "body-vtk-hd",
+            "body-vtk-vanilla-hd"
+        ]
+    },
+    "Bodysuit": {
+        "description": "",
+        "aliases": [
+            "body-suit",
+            "bodysuits"
+        ]
+    },
+    "Boots": {
+        "description": "",
+        "aliases": [
+            "boot"
+        ]
+    },
+    "Bra": {
+        "description": "",
+        "aliases": [
+            "bras"
+        ]
+    },
+    "CDW": {
+        "description": "Mod: Codeware, modder resource.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7780"
+            }
+        ]
+    },
+    "Choker": {
+        "description": "",
+        "aliases": [
+            "chokers",
+            "collar"
+        ]
+    },
+    "Clothing": {
+        "description": "Clothing items."
+    },
+    "Coat": {
+        "description": "",
+        "aliases": [
+            "coats"
+        ]
+    },
+    "DIY": {
+        "description": "Do it yourself clothing items.",
+        "aliases": [
+            "doityourself",
+            "do-it-yourself"
+        ]
+    },
+    "Dress": {
+        "description": "",
+        "aliases": [
+            "dresses"
+        ]
+    },
+    "Earring": {
+        "description": "",
+        "aliases": [
+            "earrings"
+        ]
+    },
+    "EQEX": {
+        "description": "Mod: Equipment-EX",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/6945"
+            }
+        ]
+    },
+    "Emissive": {
+        "description": "",
+        "aliases": [
+            "glow"
+        ]
+    },
+    "Feet": {
+        "description": "",
+        "aliases": [
+            "foot"
+        ]
+    },
+    "FemV": {
+        "description": "Items restricted to female V characters."
+    },
+    "Glasses": {
+        "description": "Clothing item: Glasses"
+    },
+    "Gloves": {
+        "description": "Clothing item: Gloves",
+        "aliases": [
+            "glove"
+        ]
+    },
+    "Hair": {
+        "description": "Clothing slot: Hair"
+    },
+    "Hands": {
+        "description": "Clothing slot: Hands",
+        "aliases": [
+            "hand"
+        ]
+    },
+    "Hat": {
+        "description": "Clothing item: Hat"
+    },
+    "Holo": {
+        "description": "Holographic items.",
+        "aliases": [
+            "hologram",
+            "holograms",
+            "holographic"
+        ]
+    },
+    "Jacket": {
+        "description": "",
+        "aliases": [
+            "jackets"
+        ]
+    },
+    "Jewelry": {
+        "description": "",
+        "aliases": [
+            "jewellery"
+        ]
+    },
+    "Leggings": {
+        "description": ""
+    },
+    "Legs": {
+        "description": "",
+        "aliases": [
+            "leg"
+        ]
+    },
+    "MaleV": {
+        "description": ""
+    },
+    "Mask": {
+        "description": "",
+        "aliases": [
+            "masks"
+        ]
+    },
+    "Modular": {
+        "description": ""
+    },
+    "Navel": {
+        "description": "Clothing slot: Navel"
+    },
+    "Neck": {
+        "description": "Clothing slot: Neck"
+    },
+    "Necklace": {
+        "description": "Clothing item: Necklace",
+        "aliases": [
+            "necklaces"
+        ]
+    },
+    "Outfit": {
+        "description": "Set of clothing items for a full themed outfit.",
+        "aliases": [
+            "outfits"
+        ]
+    },
+    "Panties": {
+        "description": "Clothing item: Panties",
+        "aliases": [
+            "panty"
+        ]
+    },
+    "Pants": {
+        "description": "Clothing item: Pants"
+    },
+    "Physics": {
+        "description": "Items with working physics."
+    },
+    "Piercing": {
+        "description": "",
+        "aliases": [
+            "piercings"
+        ]
+    },
+    "Ring": {
+        "description": "",
+        "aliases": [
+            "rings"
+        ]
+    },
+    "Shirt": {
+        "description": "",
+        "aliases": [
+            "shirts",
+            "t-shirt",
+            "t-shirts",
+            "tshirt",
+            "tshirts"
+        ]
+    },
+    "Shoes": {
+        "description": "",
+        "aliases": [
+            "shoe"
+        ]
+    },
+    "Shorts": {
+        "description": ""
+    },
+    "Skimpy": {
+        "description": "",
+        "aliases": [
+            "sexy",
+            "nude",
+            "nudity",
+            "nsfw"
+        ]
+    },
+    "Skirt": {
+        "description": "",
+        "aliases": [
+            "skirts"
+        ]
+    },
+    "Sleeves": {
+        "description": ""
+    },
+    "Stockings": {
+        "description": ""
+    },
+    "Suit": {
+        "description": "",
+        "aliases": [
+            "suits"
+        ]
+    },
+    "TXL": {
+        "description": ""
+    },
+    "Top": {
+        "description": "Clothing item: Top",
+        "aliases": [
+            "tops"
+        ]
+    },
+    "Torso": {
+        "description": "Clothing slot: Torso"
+    },
+    "Transparent": {
+        "description": "Items with transparency."
+    },
+    "Waist": {
+        "description": "Clothing slot: Waist"
+    }
+}
