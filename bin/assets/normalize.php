@@ -19,9 +19,9 @@ declare(strict_types=1);
 namespace CPMDB\Assets;
 
 require_once __DIR__.'/prepend.php';
-require_once __DIR__.'/normalize-tags.php';
 
 use AppUtils\FileHelper\JSONFile;
+use AppUtils\FileHelper_Exception;
 
 /**
  * @return string|null
@@ -141,19 +141,25 @@ const KEYS_ORDER = array(
     'itemCategories' => array()
 );
 
+/**
+ * @param string[] $tags
+ * @return string[]
+ * @throws FileHelper_Exception
+ */
 function normalizeTags(array $tags) : array
 {
     $normalized = array();
+    $tagAliases = getTagAliases();
 
     foreach($tags as $tag)
     {
         $tag = strtolower($tag);
-        if(!isset(TAGS_NORMALIZED[$tag])) {
+        if(!isset($tagAliases[$tag])) {
             logError('Unknown tag: '.$tag);
             continue;
         }
 
-        $normalized[] = TAGS_NORMALIZED[$tag];
+        $normalized[] = $tagAliases[$tag];
     }
 
     sort($normalized);
@@ -166,4 +172,49 @@ function normalizeAll() : void
     foreach(getFiles() as $file) {
         normalizeFile($file);
     }
+}
+
+/**
+ * Loads all tags from the JSON file.
+ *
+ * @return array<string,array{description:string,links:array<int,array{url:string,label:string}>|NULL,aliases:array<int,string>|NULL}>
+ * @throws FileHelper_Exception
+ */
+function getTags() : array
+{
+    static $tags = null;
+
+    if(!isset($tags)) {
+        $tags = JSONFile::factory(__DIR__.'/../../data/tags.json')->getData();
+        ksort($tags);
+    }
+
+    return $tags;
+}
+
+/**
+ * @return array<string,string>
+ * @throws FileHelper_Exception
+ */
+function getTagAliases() : array
+{
+    static $aliases = null;
+
+    if(isset($aliases)) {
+        return $aliases;
+    }
+
+    $result = array();
+
+    foreach(getTags() as $tagName => $tagDef) {
+        $aliases = $tagDef['aliases'] ?? array();
+        $aliases[] = strtolower($tagName);
+        foreach($aliases as $alias) {
+            $result[$alias] = $tagName;
+        }
+    }
+
+    ksort($result);
+
+    return $result;
 }
