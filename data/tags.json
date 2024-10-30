@@ -1,6 +1,6 @@
 {
     "AXL": {
-        "description": "The ArchiveXL mod",
+        "description": "Mod: ArchiveXL, modder resource.",
         "links": [
             {
                 "label": "Nexus",
@@ -9,7 +9,7 @@
         ]
     },
     "Accessories": {
-        "description": "",
+        "description": "Clothing accessories.",
         "aliases": [
             "accessory"
         ]
@@ -206,7 +206,18 @@
         ]
     },
     "Body-Solo": {
-        "description": ""
+        "description": "Body mod for FemV.",
+        "relatedTags": [
+            "Body-Solo-Arms",
+            "Body-Solo-Small",
+            "Body-Solo-Ultimate"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4813"
+            }
+        ]
     },
     "Body-Solo-Arms": {
         "description": "Body mod for FemV: Athletic arms.",
@@ -322,20 +333,20 @@
         ]
     },
     "Bodysuit": {
-        "description": "",
+        "description": "Clothing item: Bodysuit.",
         "aliases": [
             "body-suit",
             "bodysuits"
         ]
     },
     "Boots": {
-        "description": "",
+        "description": "Clothing item: Boots",
         "aliases": [
             "boot"
         ]
     },
     "Bra": {
-        "description": "",
+        "description": "Clothing item: Bra or bra-like.",
         "aliases": [
             "bras"
         ]
@@ -385,7 +396,7 @@
         ]
     },
     "EQEX": {
-        "description": "Mod: Equipment-EX",
+        "description": "Mod: Equipment-EX, layering of clothing items.",
         "links": [
             {
                 "label": "Nexus",
@@ -394,13 +405,13 @@
         ]
     },
     "Emissive": {
-        "description": "",
+        "description": "Clothing items that glow or emit light in some way.",
         "aliases": [
             "glow"
         ]
     },
     "Feet": {
-        "description": "",
+        "description": "Clothing slot: Feet",
         "aliases": [
             "foot"
         ]
@@ -438,37 +449,39 @@
         ]
     },
     "Jacket": {
-        "description": "",
+        "description": "Clothing item: Jacket",
         "aliases": [
             "jackets"
         ]
     },
     "Jewelry": {
-        "description": "",
+        "description": "Clothing item: Jewelry",
         "aliases": [
-            "jewellery"
+            "jewellery",
+            "jewlery",
+            "jewelery"
         ]
     },
     "Leggings": {
-        "description": ""
+        "description": "Clothing item: Leggings"
     },
     "Legs": {
-        "description": "",
+        "description": "Clothing slot: Legs",
         "aliases": [
             "leg"
         ]
     },
     "MaleV": {
-        "description": ""
+        "description": "Items restricted to male V characters."
     },
     "Mask": {
-        "description": "",
+        "description": "Clothing item: Mask",
         "aliases": [
             "masks"
         ]
     },
     "Modular": {
-        "description": ""
+        "description": "Modular clothing items that can be combined in different ways."
     },
     "Navel": {
         "description": "Clothing slot: Navel"
@@ -501,19 +514,19 @@
         "description": "Items with working physics."
     },
     "Piercing": {
-        "description": "",
+        "description": "Clothing item: Piercing",
         "aliases": [
             "piercings"
         ]
     },
     "Ring": {
-        "description": "",
+        "description": "Clothing item: Ring",
         "aliases": [
             "rings"
         ]
     },
     "Shirt": {
-        "description": "",
+        "description": "Clothing item: Shirt",
         "aliases": [
             "shirts",
             "t-shirt",
@@ -523,16 +536,22 @@
         ]
     },
     "Shoes": {
-        "description": "",
+        "description": "Clothing item: Shoes",
+        "relatedTags": [
+            "Feet"
+        ],
         "aliases": [
             "shoe"
         ]
     },
     "Shorts": {
-        "description": ""
+        "description": "Clothing item: Shorts",
+        "relatedTags": [
+            "Legs"
+        ]
     },
     "Skimpy": {
-        "description": "",
+        "description": "Clothing items that are revealing.",
         "aliases": [
             "sexy",
             "nude",
@@ -541,28 +560,49 @@
         ]
     },
     "Skirt": {
-        "description": "",
+        "description": "Clothing item: Skirt",
+        "relatedTags": [
+            "Legs"
+        ],
         "aliases": [
             "skirts"
         ]
     },
     "Sleeves": {
-        "description": ""
+        "description": "Clothing item: Sleeves",
+        "relatedTags": [
+            "Arms"
+        ]
     },
     "Stockings": {
-        "description": ""
+        "description": "Clothing item: Stockings",
+        "relatedTags": [
+            "Legs"
+        ]
     },
     "Suit": {
-        "description": "",
+        "description": "Clothing item: Suit",
+        "relatedTags": [
+            "FullBody"
+        ],
         "aliases": [
             "suits"
         ]
     },
     "TXL": {
-        "description": ""
+        "description": "Mod: Tweak XL, modder resource.",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4197"
+            }
+        ]
     },
     "Top": {
         "description": "Clothing item: Top",
+        "relatedTags": [
+            "Torso"
+        ],
         "aliases": [
             "tops"
         ]
