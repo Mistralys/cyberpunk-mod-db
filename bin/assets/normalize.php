@@ -218,3 +218,17 @@ function getTagAliases() : array
 
     return $result;
 }
+
+function getTagsCategorized() : array
+{
+    $categorized = array();
+
+    foreach(getTags() as $tagName => $tagDef) {
+        $category = $tagDef['category'] ?? 'Miscellaneous';
+        $categorized[$category][$tagName] = $tagDef;
+    }
+
+    uksort($categorized, 'strnatcasecmp');
+
+    return $categorized;
+}
