@@ -1,0 +1,78 @@
+{
+    "mod": "One-Shoulder Shirt",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7267",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "authors": [
+        "NolaDreamer"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_one_shoulder_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_one_shoulder_blue"
+                },
+                {
+                    "name": "Crimson",
+                    "code": "nd_one_shoulder_crimson"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "nd_one_shoulder_cyan"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_one_shoulder_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "nd_one_shoulder_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_one_shoulder_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_one_shoulder_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nd_one_shoulder_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nd_one_shoulder_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_one_shoulder_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nd_one_shoulder_yellow"
+                }
+            ]
+        }
+    ]
+}
