@@ -1,0 +1,56 @@
+{
+    "mod": "Rockergirl Pants Laces",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/9040",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7848",
+    "authors": [
+        "DBRV"
+    ],
+    "tags": [
+        "Body-EVB",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-VTK-VanillaHD",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "Pants"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "l1_toxvisl_a"
+                },
+                {
+                    "name": "Cartel Red",
+                    "code": "l1_toxvisl_d"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "l1_toxvisl_b"
+                },
+                {
+                    "name": "Leopard",
+                    "code": "l1_toxvisl_f"
+                },
+                {
+                    "name": "Reptile",
+                    "code": "l1_toxvisl_e"
+                },
+                {
+                    "name": "Shiny Black",
+                    "code": "l1_toxvisl_c"
+                }
+            ]
+        }
+    ]
+}
