@@ -10,6 +10,7 @@ declare(strict_types=1);
 namespace CPMDB\Assets;
 
 use AppUtils\ConvertHelper;
+use AppUtils\FileHelper\FileInfo;
 
 require_once __DIR__ . '/prepend.php';
 
@@ -62,4 +63,19 @@ function generateModsList() : void
 
     logInfo('Mods list generated successfully.');
     logInfo('There are %s total mods.', count($list));
+
+    updateReadmeModCount(count($list));
+}
+
+function updateReadmeModCount(int $count) : void
+{
+    $readmeFile = FileInfo::factory(__DIR__ . '/../../README.md');
+
+    $readmeFile->putContents(preg_replace(
+        '/Total available mods: \d+/',
+        'Total available mods: ' . $count,
+        $readmeFile->getContents()
+    ));
+
+    logInfo('Updated the mod count in the readme.');
 }
