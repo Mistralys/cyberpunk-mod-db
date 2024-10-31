@@ -14,20 +14,23 @@ function showUsage() : void
     logHeader('CPMDB command line help');
     logEmptyLine();
     logInfo('# Create a new mod file skeleton');
-    logInfo('> php cpmdb.php mod="mod-id" create');
-    logInfo('> php cpmdb.php mod="mod-id" create="Mod name"');
+    logInfo('mod="mod-id" create');
+    logInfo('mod="mod-id" create="Mod name"');
     logEmptyLine();
     logInfo('# Add a new category to a mod file');
-    logInfo('> php cpmdb.php mod="mod-id" add-category="Category label"');
+    logInfo('mod="mod-id" add-category="Category label"');
     logEmptyLine();
     logInfo('# Display CET item codes for a mod');
-    logInfo('> php cpmdb.php mod="mod-id" cet-codes');
+    logInfo('mod="mod-id" cet-codes');
     logEmptyLine();
     logInfo('# Normalize a mod file');
-    logInfo('> php cpmdb.php mod="mod-id" normalize');
+    logInfo('mod="mod-id" normalize');
     logEmptyLine();
     logInfo('# Generate the mods list');
-    logInfo('> php cpmdb.php modslist');
+    logInfo('modslist');
+    logEmptyLine();
+    logInfo('# Generate the tags reference');
+    logInfo('tagsref');
     logEmptyLine();
 }
 
