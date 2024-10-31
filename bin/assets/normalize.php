@@ -155,7 +155,7 @@ function normalizeTags(array $tags) : array
     {
         $tag = strtolower($tag);
         if(!isset($tagAliases[$tag])) {
-            logError('Unknown tag: '.$tag);
+            logError('Unknown tag ['.$tag.']');
             continue;
         }
 
@@ -182,12 +182,8 @@ function normalizeAll() : void
  */
 function getTags() : array
 {
-    static $tags = null;
-
-    if(!isset($tags)) {
-        $tags = JSONFile::factory(__DIR__.'/../../data/tags.json')->getData();
-        ksort($tags);
-    }
+    $tags = JSONFile::factory(__DIR__.'/../../data/tags.json')->getData();
+    ksort($tags);
 
     return $tags;
 }
@@ -198,12 +194,6 @@ function getTags() : array
  */
 function getTagAliases() : array
 {
-    static $aliases = null;
-
-    if(isset($aliases)) {
-        return $aliases;
-    }
-
     $result = array();
 
     foreach(getTags() as $tagName => $tagDef) {
