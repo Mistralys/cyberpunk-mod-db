@@ -1,8 +1,12 @@
-## v2.0.8 - Documentation
+## v2.0.8 - Tags and screenshot updates
+- Mods: Added "Military Boots" by ScorpionTank.
+- Mods: Switched the daytime and nighttime screenshots for "xrx-led-leotard".
+- DB: Added possibility to describe screenshots with JSON sidecar files.
+- DB: Added the `tags.json` data file with detailed tag descriptions.
 - Docs: Added a guide on contributing mods.
 - Docs: Moved the tagging reference to its own file.
-- DB: Added possibility to describe screenshots with JSON sidecar files.
-- Mods: Switched the daytime and nighttime screenshots for "xrx-led-leotard".
+- Commands: Added a build command.
+- Commands: Now generating the tags reference from the tags.json file.
 
 ## v2.0.7 - New mods
 - Mods: Added "Rough Outfit" by Veegee and Nola Dreamer.
