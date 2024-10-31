@@ -368,6 +368,7 @@
         ],
         "aliases": [
             "body-vtk",
+            "body-vanilla-hd",
             "body-vanillahd",
             "body-vtk-hd",
             "body-vtk-vanilla-hd"
@@ -682,6 +683,9 @@
         "category": "Clothing items",
         "relatedTags": [
             "Legs"
+        ],
+        "aliases": [
+            "jeans"
         ]
     },
     "Physics": {
