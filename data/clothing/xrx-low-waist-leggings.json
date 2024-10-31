@@ -1,0 +1,57 @@
+{
+    "mod": "Low Waist Leggings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8627",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Leggings",
+        "Legs"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black and Purple",
+                    "code": "xleg_e"
+                },
+                {
+                    "name": "Black and Silver",
+                    "code": "xleg_b"
+                },
+                {
+                    "name": "Black and White",
+                    "code": "xleg_g"
+                },
+                {
+                    "name": "Camo",
+                    "code": "xleg_f"
+                },
+                {
+                    "name": "Green",
+                    "code": "xleg_d"
+                },
+                {
+                    "name": "Grey",
+                    "code": "xleg_a"
+                },
+                {
+                    "name": "Red",
+                    "code": "xleg_c"
+                },
+                {
+                    "name": "Shiny Black",
+                    "code": "xleg_h"
+                }
+            ]
+        }
+    ]
+}
