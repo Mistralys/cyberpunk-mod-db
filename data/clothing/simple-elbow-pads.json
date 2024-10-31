@@ -1,0 +1,84 @@
+{
+    "mod": "Simple Elbow Pads",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7681",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6779",
+    "authors": [
+        "Kwek"
+    ],
+    "tags": [
+        "Accessories",
+        "Arms",
+        "Body-Solo-Arms",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "6th",
+                    "code": "kwek_elbowpads_01_6th"
+                },
+                {
+                    "name": "Black",
+                    "code": "kwek_elbowpads_01_black"
+                },
+                {
+                    "name": "Black PVC",
+                    "code": "kwek_elbowpads_01_black_pvc"
+                },
+                {
+                    "name": "Blue",
+                    "code": "kwek_elbowpads_01_blue"
+                },
+                {
+                    "name": "Chrome",
+                    "code": "kwek_elbowpads_01_chrome"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "kwek_elbowpads_01_cyan"
+                },
+                {
+                    "name": "Default",
+                    "code": "kwek_elbowpads_01_default"
+                },
+                {
+                    "name": "Green",
+                    "code": "kwek_elbowpads_01_green"
+                },
+                {
+                    "name": "Holo",
+                    "code": "kwek_elbowpads_01_holo",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Red",
+                    "code": "kwek_elbowpads_01_red"
+                },
+                {
+                    "name": "Red2",
+                    "code": "kwek_elbowpads_01_red2"
+                },
+                {
+                    "name": "Red Carbon Fiber",
+                    "code": "kwek_elbowpads_01_red_carbon_fiber"
+                },
+                {
+                    "name": "Red PVC",
+                    "code": "kwek_elbowpads_01_red_pvc"
+                },
+                {
+                    "name": "White PVC",
+                    "code": "kwek_elbowpads_01_white_pvc"
+                }
+            ]
+        }
+    ]
+}
