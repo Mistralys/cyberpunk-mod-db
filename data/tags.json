@@ -517,6 +517,14 @@
         "description": "Items restricted to female V characters",
         "category": "Item properties"
     },
+    "FullBody": {
+        "description": "Full body clothing items",
+        "category": "Clothing slots",
+        "aliases": [
+            "fullbody",
+            "full-body"
+        ]
+    },
     "Glasses": {
         "description": "Clothing item: Glasses",
         "category": "Clothing items",
