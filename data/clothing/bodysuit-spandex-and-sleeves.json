@@ -1,0 +1,119 @@
+{
+    "mod": "Bodysuit Spandex and Sleeves",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11050",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Bodysuit",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "bodsui_a"
+                },
+                {
+                    "name": "Blue",
+                    "code": "bodsui_b"
+                },
+                {
+                    "name": "Green",
+                    "code": "bodsui_c"
+                },
+                {
+                    "name": "Grey Patterned",
+                    "code": "bodsui_i"
+                },
+                {
+                    "name": "Pink",
+                    "code": "bodsui_d"
+                },
+                {
+                    "name": "Purple",
+                    "code": "bodsui_f"
+                },
+                {
+                    "name": "Red",
+                    "code": "bodsui_e"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "bodsui_j"
+                },
+                {
+                    "name": "White",
+                    "code": "bodsui_g"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bodsui_h"
+                }
+            ]
+        },
+        {
+            "label": "Sleeves",
+            "tags": [
+                "Arms",
+                "Sleeves"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "bodsle_a"
+                },
+                {
+                    "name": "Blue",
+                    "code": "bodsle_b"
+                },
+                {
+                    "name": "Green",
+                    "code": "bodsle_c"
+                },
+                {
+                    "name": "Grey Patterned",
+                    "code": "bodsle_i"
+                },
+                {
+                    "name": "Pink",
+                    "code": "bodsle_d"
+                },
+                {
+                    "name": "Purple",
+                    "code": "bodsle_f"
+                },
+                {
+                    "name": "Red",
+                    "code": "bodsle_e"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "bodsle_j"
+                },
+                {
+                    "name": "White",
+                    "code": "bodsle_g"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bodsle_h"
+                }
+            ]
+        }
+    ]
+}
