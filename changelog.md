@@ -1,5 +1,9 @@
 ## v2.0.8 - Tags and screenshot updates
 - Mods: Added "Military Boots" by ScorpionTank.
+- Mods: Added "Bodysuit Spandex and Sleeved" by Apzurv.
+- Mods: Added "XRX Low Waist Leggings" by Apzurv.
+- Mods: Added "Simple Elbow Pads" by Kwek.
+- Mods: Added "One-Shoulder Shirt" by NolaDreamer.
 - Mods: Switched the daytime and nighttime screenshots for "xrx-led-leotard".
 - DB: Added possibility to describe screenshots with JSON sidecar files.
 - DB: Added the `tags.json` data file with detailed tag descriptions.
