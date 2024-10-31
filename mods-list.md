@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 111
+Total available mods: 112
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -66,6 +66,7 @@ Total available mods: 111
 * [Lucy Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5273) by Apzurv and EzioMaverick
 * [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130) by beanie and beaniebby
 * [Michiko Dress with Fur](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
+* [Military Boots](https://www.nexusmods.com/cyberpunk2077/mods/14781) by ScorpionTank
 * [Military Combat Armor](https://www.nexusmods.com/cyberpunk2077/mods/13212) by Gorefiend and ScorpionTank
 * [Mirror's Edge - Faith Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4599) by Apzurv and EzioMaverick
 * [Motoko Kusanagi Jacket and Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/4853) by Apzurv and Eziomaverick
