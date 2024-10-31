@@ -4,6 +4,7 @@
 - Mods: Added "XRX Low Waist Leggings" by Apzurv.
 - Mods: Added "Simple Elbow Pads" by Kwek.
 - Mods: Added "One-Shoulder Shirt" by NolaDreamer.
+- Mods: Added "Rockergirl Pants Laces" by DBRV.
 - Mods: Switched the daytime and nighttime screenshots for "xrx-led-leotard".
 - DB: Added possibility to describe screenshots with JSON sidecar files.
 - DB: Added the `tags.json` data file with detailed tag descriptions.
