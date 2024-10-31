@@ -1,42 +1,56 @@
 {
     "AXL": {
-        "description": "Mod: ArchiveXL, modder resource.",
+        "description": "Mod: ArchiveXL, modder resource",
+        "category": "Mods",
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4198"
             }
+        ],
+        "aliases": [
+            "archivexl",
+            "archive-xl"
         ]
     },
     "Accessories": {
-        "description": "Clothing accessories.",
+        "description": "Clothing accessories",
+        "category": "Clothing items",
         "aliases": [
             "accessory"
         ]
     },
     "Animated": {
-        "description": "Animated clothing parts.",
+        "description": "Animated clothing parts",
+        "category": "Item properties",
         "aliases": [
             "animation"
         ]
     },
     "Arms": {
-        "description": "Clothing slot: Arms",
+        "description": "Arms slot",
+        "category": "Clothing slots",
         "aliases": [
             "arm"
         ]
     },
     "AutoScale": {
-        "description": "Clothing that automatically scales to the player's level."
+        "description": "Clothing that automatically scales to the player's level",
+        "category": "Item properties"
     },
     "Belt": {
-        "description": "Clothing item: Belt.",
+        "description": "Belt",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Waist"
+        ],
         "aliases": [
             "belts"
         ]
     },
     "Body-Adonis": {
-        "description": "Body Mod for MaleV: Muscular body.",
+        "description": "Adonis: High-poly body with detailed musculature and definition",
+        "category": "Mods - Body Mods - MaleV",
         "links": [
             {
                 "label": "Nexus",
@@ -45,7 +59,8 @@
         ]
     },
     "Body-Atlas": {
-        "description": "Body mod for MaleV.",
+        "description": "Atlas: High poly body with hand-sculpted muscles",
+        "category": "Mods - Body Mods - MaleV",
         "links": [
             {
                 "label": "Nexus",
@@ -54,7 +69,8 @@
         ]
     },
     "Body-EVB": {
-        "description": "Body mod for FemV: Enhanced Vanilla Body",
+        "description": "Enhanced Vanilla Body: No refits needed",
+        "category": "Mods - Body Mods - FemV",
         "links": [
             {
                 "label": "Nexus",
@@ -63,7 +79,8 @@
         ]
     },
     "Body-Gymfiend": {
-        "description": "Body Mod for MaleV.",
+        "description": "Gymfiend: Muscular body",
+        "category": "Mods - Body Mods - MaleV",
         "links": [
             {
                 "label": "Nexus",
@@ -72,7 +89,8 @@
         ]
     },
     "Body-Hyst": {
-        "description": "Body mod for FemV: Enhanced Big Breasts, Realistic Butt, and more.",
+        "description": "Hyst Bodies: Enhanced Big Breasts, Realistic Butt, and more",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Hyst-EBB",
             "Body-Hyst-RB",
@@ -89,7 +107,8 @@
         ]
     },
     "Body-Hyst-Angel": {
-        "description": "Body mod for FemV: New improved version of the other body mods.",
+        "description": "Angel: New improved version of the other Hyst body mods",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Hyst-EBB",
             "Body-Hyst-RB",
@@ -106,7 +125,13 @@
         ]
     },
     "Body-Hyst-EBB": {
-        "description": "Body Mod for FemV: Enhanced Big Breasts",
+        "description": "EBB: Enhanced Big Breasts",
+        "category": "Mods - Body Mods - FemV",
+        "relatedTags": [
+            "Body-Hyst-EBBRB",
+            "Body-Hyst-EBBP",
+            "Body-Hyst-EBBPRB"
+        ],
         "links": [
             {
                 "label": "Nexus",
@@ -118,7 +143,8 @@
         ]
     },
     "Body-Hyst-EBBP": {
-        "description": "Body mod for FemV: Enhanced Big Breasts, Push-Up ",
+        "description": "EBBP: Enhanced Big Breasts and Push-Up",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Hyst-EBB"
         ],
@@ -133,7 +159,8 @@
         ]
     },
     "Body-Hyst-EBBPRB": {
-        "description": "Body mod for FemV: Enhanced Big Breasts, Push-Up, Realistic Butt",
+        "description": "EBBPRB: Enhanced Big Breasts, Push-Up and Realistic Butt",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Hyst-EBBP",
             "Body-Hyst-RB"
@@ -149,7 +176,8 @@
         ]
     },
     "Body-Hyst-EBBRB": {
-        "description": "Body mod for FemV: Enhanced Big Breasts, Realistic Butt",
+        "description": "EBBRB: Enhanced Big Breasts and Realistic Butt",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Hyst-EBB",
             "Body-Hyst-RB"
@@ -167,7 +195,8 @@
         ]
     },
     "Body-Hyst-RB": {
-        "description": "Body Mod for FemV: More Realistic Butt",
+        "description": "RB: Realistic Butt",
+        "category": "Mods - Body Mods - FemV",
         "links": [
             {
                 "label": "Nexus",
@@ -179,7 +208,8 @@
         ]
     },
     "Body-Lush": {
-        "description": "Body mod for FemV: Voluptuous large breast.",
+        "description": "Lush: Voluptuous body and large breasts",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-SoLush"
         ],
@@ -194,7 +224,8 @@
         ]
     },
     "Body-SoLush": {
-        "description": "Body mod for FemV: Lush body with muscles.",
+        "description": "SoLush: Lush body with more muscles",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Lush"
         ],
@@ -206,7 +237,8 @@
         ]
     },
     "Body-Solo": {
-        "description": "Body mod for FemV.",
+        "description": "Solo: Rock-hard abs and toned body",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Solo-Arms",
             "Body-Solo-Small",
@@ -220,7 +252,8 @@
         ]
     },
     "Body-Solo-Arms": {
-        "description": "Body mod for FemV: Athletic arms.",
+        "description": "Solo Arms: Athletic arms",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Solo",
             "Body-Solo-Small",
@@ -237,7 +270,8 @@
         ]
     },
     "Body-Solo-Small": {
-        "description": "Body mod for FemV: Small breasts.",
+        "description": "Solo with small breasts",
+        "category": "Mods - Body Mods - FemV",
         "links": [
             {
                 "label": "Nexus",
@@ -250,7 +284,8 @@
         ]
     },
     "Body-Solo-Ultimate": {
-        "description": "Body mod for FemV: Ultimate body with bigger breasts and butt.",
+        "description": "Solo Ultimate: Bigger breasts and butt",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-Solo",
             "Body-Solo-Small"
@@ -263,7 +298,8 @@
         ]
     },
     "Body-Spawn0": {
-        "description": "Body mod for FemV: Big choice of sizes with CET in-game body swap.",
+        "description": "Spawn0: Body with a large choice of sizes and CET in-game body swap",
+        "category": "Mods - Body Mods - FemV",
         "links": [
             {
                 "label": "Nexus",
@@ -272,7 +308,8 @@
         ]
     },
     "Body-Valentine": {
-        "description": "Body mod for FemV: Improved proportions.",
+        "description": "Valentine: Body with improved proportions",
+        "category": "Mods - Body Mods - FemV",
         "links": [
             {
                 "label": "Nexus",
@@ -281,10 +318,12 @@
         ]
     },
     "Body-Vanilla": {
-        "description": "The vanilla body for FemV and MaleV."
+        "description": "The vanilla body for FemV and MaleV",
+        "category": "Item properties"
     },
     "Body-VTK-Big": {
-        "description": "Body mod for FemV: Vanilla body with bigger breasts.",
+        "description": "VTK Big: Vanilla body with bigger breasts",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-VTK-Small",
             "Body-VTK-VanillaHD"
@@ -301,7 +340,8 @@
         ]
     },
     "Body-VTK-Small": {
-        "description": "Body mod for FemV: Vanilla HD with small breasts.",
+        "description": "VTK Small: Vanilla HD with small breasts",
+        "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-VTK-Big",
             "Body-VTK-VanillaHD"
@@ -318,7 +358,8 @@
         ]
     },
     "Body-VTK-VanillaHD": {
-        "description": "Body mod for FemV: Vanilla HD body.",
+        "description": "VTK Vanilla HD: High quality body, requires no refits",
+        "category": "Mods - Body Mods - FemV",
         "links": [
             {
                 "label": "Nexus",
@@ -333,7 +374,11 @@
         ]
     },
     "Bodysuit": {
-        "description": "Clothing item: Bodysuit.",
+        "description": "Bodysuit",
+        "category": "Clothing items",
+        "relatedTags": [
+            "FullBody"
+        ],
         "aliases": [
             "body-suit",
             "bodysuits"
@@ -341,107 +386,186 @@
     },
     "Boots": {
         "description": "Clothing item: Boots",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Feet"
+        ],
         "aliases": [
             "boot"
         ]
     },
     "Bra": {
-        "description": "Clothing item: Bra or bra-like.",
+        "description": "Bra or bra-like",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Torso"
+        ],
         "aliases": [
             "bras"
         ]
     },
+    "CET": {
+        "description": "Cyber Engine Tweaks: Modder resource",
+        "category": "Mods",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/107"
+            }
+        ],
+        "aliases": [
+            "cyberenginetweaks",
+            "cyber-engine-tweaks"
+        ]
+    },
     "CDW": {
-        "description": "Mod: Codeware, modder resource.",
+        "description": "Codeware: Modder resource",
+        "category": "Mods",
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/7780"
             }
+        ],
+        "aliases": [
+            "codeware",
+            "code-ware"
         ]
     },
     "Choker": {
-        "description": "",
+        "description": "Neck choker",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Neck"
+        ],
         "aliases": [
             "chokers",
             "collar"
         ]
     },
     "Clothing": {
-        "description": "Clothing items."
+        "description": "Clothing items",
+        "category": "Item properties"
     },
     "Coat": {
-        "description": "",
+        "description": "Coat",
+        "category": "Clothing items",
+        "relatedTags": [
+            "FullBody"
+        ],
         "aliases": [
             "coats"
         ]
     },
     "DIY": {
-        "description": "Do it yourself clothing items.",
+        "description": "Do-it-yourself clothing items",
+        "category": "Item properties",
         "aliases": [
             "doityourself",
             "do-it-yourself"
         ]
     },
     "Dress": {
-        "description": "",
+        "description": "Dress",
+        "category": "Clothing items",
+        "relatedTags": [
+            "FullBody"
+        ],
         "aliases": [
             "dresses"
         ]
     },
     "Earring": {
-        "description": "",
+        "description": "Earring",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Head"
+        ],
         "aliases": [
             "earrings"
         ]
     },
     "EQEX": {
-        "description": "Mod: Equipment-EX, layering of clothing items.",
+        "description": "Equipment-EX: Layering of clothing items",
+        "category": "Mods",
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6945"
             }
+        ],
+        "aliases": [
+            "equipmentex",
+            "equipment-ex"
         ]
     },
     "Emissive": {
-        "description": "Clothing items that glow or emit light in some way.",
+        "description": "Clothing items that glow or emit light in some way",
+        "category": "Item properties",
         "aliases": [
             "glow"
         ]
     },
     "Feet": {
-        "description": "Clothing slot: Feet",
+        "description": "Feet slot",
+        "category": "Clothing slots",
         "aliases": [
             "foot"
         ]
     },
     "FemV": {
-        "description": "Items restricted to female V characters."
+        "description": "Items restricted to female V characters",
+        "category": "Item properties"
     },
     "Glasses": {
-        "description": "Clothing item: Glasses"
+        "description": "Clothing item: Glasses",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Head"
+        ]
     },
     "Gloves": {
-        "description": "Clothing item: Gloves",
+        "description": "Gloves",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Hands"
+        ],
         "aliases": [
             "glove"
         ]
     },
     "Hair": {
-        "description": "Clothing slot: Hair"
+        "description": "Hair slot",
+        "category": "Clothing slots"
     },
     "Hands": {
-        "description": "Clothing slot: Hands",
+        "description": "Hand slot",
+        "category": "Clothing slots",
         "aliases": [
             "hand"
         ]
     },
     "Hat": {
-        "description": "Clothing item: Hat"
+        "description": "Hat",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Head"
+        ],
+        "aliases": [
+            "hats"
+        ]
+    },
+    "Head": {
+        "description": "Head slot",
+        "category": "Clothing slots",
+        "aliases": [
+            "headgear",
+            "face"
+        ]
     },
     "Holo": {
-        "description": "Holographic items.",
+        "description": "Holographic items",
+        "category": "Item properties",
         "aliases": [
             "hologram",
             "holograms",
@@ -449,13 +573,22 @@
         ]
     },
     "Jacket": {
-        "description": "Clothing item: Jacket",
+        "description": "Jacket, Blazer, Bolero",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Torso"
+        ],
         "aliases": [
-            "jackets"
+            "jackets",
+            "blazer",
+            "blazers",
+            "bolero",
+            "boleros"
         ]
     },
     "Jewelry": {
-        "description": "Clothing item: Jewelry",
+        "description": "Jewelry",
+        "category": "Clothing items",
         "aliases": [
             "jewellery",
             "jewlery",
@@ -463,70 +596,130 @@
         ]
     },
     "Leggings": {
-        "description": "Clothing item: Leggings"
+        "description": "Leggings, stretch pants",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Legs"
+        ],
+        "aliases": [
+            "legging",
+            "stretchpants",
+            "stretchpant",
+            "stretch-pants",
+            "stretch-pant"
+        ]
     },
     "Legs": {
-        "description": "Clothing slot: Legs",
+        "description": "Leg slot",
+        "category": "Clothing slots",
         "aliases": [
             "leg"
         ]
     },
     "MaleV": {
-        "description": "Items restricted to male V characters."
+        "description": "Items restricted to male V characters",
+        "category": "Item properties"
     },
     "Mask": {
-        "description": "Clothing item: Mask",
+        "description": "Mask",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Head"
+        ],
         "aliases": [
             "masks"
         ]
     },
     "Modular": {
-        "description": "Modular clothing items that can be combined in different ways."
+        "description": "Modular clothing items that can be combined in different ways",
+        "category": "Item properties"
     },
     "Navel": {
-        "description": "Clothing slot: Navel"
+        "description": "Navel slot",
+        "category": "Clothing slots"
     },
     "Neck": {
-        "description": "Clothing slot: Neck"
+        "description": "Neck slot",
+        "category": "Clothing slots"
     },
     "Necklace": {
-        "description": "Clothing item: Necklace",
+        "description": "Necklace",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Neck"
+        ],
         "aliases": [
             "necklaces"
         ]
     },
     "Outfit": {
-        "description": "Set of clothing items for a full themed outfit.",
+        "description": "Set of clothing items for a full-themed outfit",
+        "category": "Item properties",
         "aliases": [
             "outfits"
         ]
     },
     "Panties": {
-        "description": "Clothing item: Panties",
+        "description": "Panties",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Legs"
+        ],
         "aliases": [
             "panty"
         ]
     },
     "Pants": {
-        "description": "Clothing item: Pants"
+        "description": "Pants",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Legs"
+        ]
     },
     "Physics": {
-        "description": "Items with working physics."
+        "description": "Items with working physics",
+        "category": "Item properties"
     },
     "Piercing": {
-        "description": "Clothing item: Piercing",
+        "description": "Piercing",
+        "category": "Clothing items",
         "aliases": [
             "piercings"
         ]
     },
+    "R4EX": {
+        "description": "Red4Ext: Modder resource",
+        "category": "Mods",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/2380"
+            }
+        ],
+        "aliases": [
+            "red4ext",
+            "red-4-ext",
+            "red4",
+            "red-4",
+            "redx"
+        ]
+    },
     "Ring": {
-        "description": "Clothing item: Ring",
+        "description": "Ring",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Hands"
+        ],
         "aliases": [
             "rings"
         ]
     },
     "Shirt": {
-        "description": "Clothing item: Shirt",
+        "description": "Shirt",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Torso"
+        ],
         "aliases": [
             "shirts",
             "t-shirt",
@@ -536,7 +729,8 @@
         ]
     },
     "Shoes": {
-        "description": "Clothing item: Shoes",
+        "description": "Shoes",
+        "category": "Clothing items",
         "relatedTags": [
             "Feet"
         ],
@@ -545,13 +739,15 @@
         ]
     },
     "Shorts": {
-        "description": "Clothing item: Shorts",
+        "description": "Shorts",
+        "category": "Clothing items",
         "relatedTags": [
             "Legs"
         ]
     },
     "Skimpy": {
-        "description": "Clothing items that are revealing.",
+        "description": "Clothing items that are revealing",
+        "category": "Item properties",
         "aliases": [
             "sexy",
             "nude",
@@ -560,7 +756,8 @@
         ]
     },
     "Skirt": {
-        "description": "Clothing item: Skirt",
+        "description": "Skirt",
+        "category": "Clothing items",
         "relatedTags": [
             "Legs"
         ],
@@ -569,19 +766,25 @@
         ]
     },
     "Sleeves": {
-        "description": "Clothing item: Sleeves",
+        "description": "Sleeves",
+        "category": "Clothing items",
         "relatedTags": [
             "Arms"
+        ],
+        "aliases": [
+            "sleeve"
         ]
     },
     "Stockings": {
-        "description": "Clothing item: Stockings",
+        "description": "Stockings",
+        "category": "Clothing items",
         "relatedTags": [
             "Legs"
         ]
     },
     "Suit": {
-        "description": "Clothing item: Suit",
+        "description": "Suit",
+        "category": "Clothing items",
         "relatedTags": [
             "FullBody"
         ],
@@ -590,16 +793,22 @@
         ]
     },
     "TXL": {
-        "description": "Mod: Tweak XL, modder resource.",
+        "description": "Tweak XL: Modder resource",
+        "category": "Mods",
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4197"
             }
+        ],
+        "aliases": [
+            "tweakxl",
+            "tweak-xl"
         ]
     },
     "Top": {
-        "description": "Clothing item: Top",
+        "description": "Top",
+        "category": "Clothing items",
         "relatedTags": [
             "Torso"
         ],
@@ -608,12 +817,15 @@
         ]
     },
     "Torso": {
-        "description": "Clothing slot: Torso"
+        "description": "Torso slot",
+        "category": "Clothing slots"
     },
     "Transparent": {
-        "description": "Items with transparency."
+        "description": "Items with transparency",
+        "category": "Item properties"
     },
     "Waist": {
-        "description": "Clothing slot: Waist"
+        "description": "Waist slot",
+        "category": "Clothing slots"
     }
 }
