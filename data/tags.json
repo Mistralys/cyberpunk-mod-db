@@ -1,6 +1,7 @@
 {
     "AXL": {
-        "description": "Mod: ArchiveXL, modder resource",
+        "fullName": "ArchiveXL",
+        "description": "Modder resource",
         "category": "Mods",
         "links": [
             {
@@ -195,7 +196,7 @@
         ]
     },
     "Body-Hyst-RB": {
-        "description": "RB: Realistic Butt",
+        "description": "Realistic Butt body",
         "category": "Mods - Body Mods - FemV",
         "links": [
             {
@@ -298,7 +299,7 @@
         ]
     },
     "Body-Spawn0": {
-        "description": "Spawn0: Body with a large choice of sizes and CET in-game body swap",
+        "description": "Body with a large choice of sizes and CET in-game body swap",
         "category": "Mods - Body Mods - FemV",
         "links": [
             {
@@ -308,7 +309,7 @@
         ]
     },
     "Body-Valentine": {
-        "description": "Valentine: Body with improved proportions",
+        "description": "Body with improved proportions",
         "category": "Mods - Body Mods - FemV",
         "links": [
             {
@@ -322,7 +323,7 @@
         "category": "Item properties"
     },
     "Body-VTK-Big": {
-        "description": "VTK Big: Vanilla body with bigger breasts",
+        "description": "Vanilla HD body with bigger breasts",
         "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-VTK-Small",
@@ -340,7 +341,7 @@
         ]
     },
     "Body-VTK-Small": {
-        "description": "VTK Small: Vanilla HD with small breasts",
+        "description": "Vanilla HD body with small breasts",
         "category": "Mods - Body Mods - FemV",
         "relatedTags": [
             "Body-VTK-Big",
@@ -358,7 +359,7 @@
         ]
     },
     "Body-VTK-VanillaHD": {
-        "description": "VTK Vanilla HD: High quality body, requires no refits",
+        "description": "High quality body, requires no refits",
         "category": "Mods - Body Mods - FemV",
         "links": [
             {
@@ -406,7 +407,8 @@
         ]
     },
     "CET": {
-        "description": "Cyber Engine Tweaks: Modder resource",
+        "fullName": "Cyber Engine Tweaks",
+        "description": "Modder resource",
         "category": "Mods",
         "links": [
             {
@@ -420,7 +422,8 @@
         ]
     },
     "CDW": {
-        "description": "Codeware: Modder resource",
+        "fullName": "Codeware",
+        "description": "Modder resource",
         "category": "Mods",
         "links": [
             {
@@ -459,6 +462,7 @@
         ]
     },
     "DIY": {
+        "fullName": "Do-It-Yourself",
         "description": "Do-it-yourself clothing items",
         "category": "Item properties",
         "aliases": [
@@ -487,7 +491,8 @@
         ]
     },
     "EQEX": {
-        "description": "Equipment-EX: Layering of clothing items",
+        "fullName": "Equipment-EX",
+        "description": "Layering of clothing items",
         "category": "Mods",
         "links": [
             {
@@ -527,7 +532,7 @@
         ]
     },
     "Glasses": {
-        "description": "Clothing item: Glasses",
+        "description": "Glasses",
         "category": "Clothing items",
         "relatedTags": [
             "Head"
@@ -700,7 +705,8 @@
         ]
     },
     "R4EX": {
-        "description": "Red4Ext: Modder resource",
+        "fullName": "Red4Ext",
+        "description": "Modder resource",
         "category": "Mods",
         "links": [
             {
@@ -805,6 +811,7 @@
         ]
     },
     "TXL": {
+        "fullName": "Tweak XL",
         "description": "Tweak XL: Modder resource",
         "category": "Mods",
         "links": [
