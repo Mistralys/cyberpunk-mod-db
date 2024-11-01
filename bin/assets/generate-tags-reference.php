@@ -35,15 +35,27 @@ function generateTagsReference() : void
     logInfo('Tags reference generated.');
 }
 
-function generateModLines(array &$lines, string $tagName, array $modDef) : void
+function generateModLines(array &$lines, string $tagName, array $tagDef) : void
 {
-    $links = $modDef['links'] ?? array();
+    $links = $tagDef['links'] ?? array();
+    $description = $tagDef['description'];
 
-    $line = sprintf(
-        '- `%s`: %s',
-        $tagName,
-        $modDef['description']
-    );
+    if(isset($tagDef['fullName'])) {
+        $description = '"'.$tagDef['fullName'].'" - '.$description;
+    }
+
+    if($tagName !== $description) {
+        $line = sprintf(
+            '- `%s` - %s',
+            $tagName,
+            $description
+        );
+    } else {
+        $line = sprintf(
+            '- `%s`',
+            $tagName
+        );
+    }
 
     if(!empty($links)) {
         foreach($links as $link) {
