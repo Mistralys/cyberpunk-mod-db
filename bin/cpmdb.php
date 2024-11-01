@@ -25,16 +25,6 @@ use function CPMDB\Assets\normalizeFile;
 use function CPMDB\Assets\showUsage;
 
 require_once __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ . '/assets/functions.php';
-require_once __DIR__ . '/assets/prepend.php';
-require_once __DIR__ . '/assets/create-new.php';
-require_once __DIR__ . '/assets/add-category.php';
-require_once __DIR__ . '/assets/cet-codes.php';
-require_once __DIR__ . '/assets/normalize.php';
-require_once __DIR__ . '/assets/check-screenshots.php';
-require_once __DIR__ . '/assets/generate-mods-list.php';
-require_once __DIR__ . '/assets/generate-tags-reference.php';
-require_once __DIR__ . '/assets/build-release.php';
 
 $commands = getCLICommands();
 

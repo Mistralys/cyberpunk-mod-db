@@ -13,5 +13,18 @@
   "require": {
     "mistralys/application-utils": ">=3.0.5",
     "mistralys/application-utils-core": ">=2.3.0"
+  },
+  "autoload": {
+    "files": [
+      "bin/assets/add-category.php",
+      "bin/assets/build-release.php",
+      "bin/assets/cet-codes.php",
+      "bin/assets/check-screenshots.php",
+      "bin/assets/create-new.php",
+      "bin/assets/functions.php",
+      "bin/assets/generate-mods-list.php",
+      "bin/assets/generate-tags-reference.php",
+      "bin/assets/normalize.php"
+    ]
   }
 }
