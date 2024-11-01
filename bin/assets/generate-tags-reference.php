@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace CPMDB\Assets;
 
+use AppUtils\ConvertHelper;
+use AppUtils\FileHelper\FileInfo;
+
 function getTagsReferenceArg() : ?string
 {
     $commands = getCLICommands();
@@ -30,7 +33,21 @@ function generateTagsReference() : void
         $lines[] = '';
     }
 
-    file_put_contents(__DIR__.'/../../build-tags-reference.md', implode("\n", $lines));
+    $tagRefFile = FileInfo::factory(__DIR__.'/../../docs/tagging-reference.md');
+    $searchText = '## Available Tags reference';
+
+    $parts = explode(
+        $searchText,
+        $tagRefFile->getContents()
+    );
+
+    if(count($parts) !== 2) {
+        die(sprintf('Error: File [%s] does not contain the anchor text.', $tagRefFile->getName()));
+    }
+
+    $parts[1] = PHP_EOL.PHP_EOL.implode(PHP_EOL, $lines);
+
+    $tagRefFile->putContents(implode($searchText, $parts));
 
     logInfo('Tags reference generated.');
 }
