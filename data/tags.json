@@ -387,7 +387,7 @@
         ]
     },
     "Boots": {
-        "description": "Clothing item: Boots",
+        "description": "Boots",
         "category": "Clothing items",
         "relatedTags": [
             "Feet"
@@ -463,7 +463,7 @@
     },
     "DIY": {
         "fullName": "Do-It-Yourself",
-        "description": "Do-it-yourself clothing items",
+        "description": "Clothing items that can be customized with Wolvenkit",
         "category": "Item properties",
         "aliases": [
             "doityourself",
