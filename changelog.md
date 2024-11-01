@@ -1,4 +1,5 @@
 ## v2.0.9 - Command line tools
+- Tags: Added the `fullName` key for abbreviation tags.
 - Commands: Removed vendor includes in the script files.
 - Commands: Some commands can now be used externally.
 
