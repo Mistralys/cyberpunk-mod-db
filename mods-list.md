@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 116
+Total available mods: 117
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -82,6 +82,7 @@ Total available mods: 116
 * [Psycho Cyber-Tubes](https://www.nexusmods.com/cyberpunk2077/mods/7860) by MONSTERaider
 * [Quiet Outfit and Hair](https://www.nexusmods.com/cyberpunk2077/mods/5194) by AlvarixPT
 * [Quipao Dress](https://www.nexusmods.com/cyberpunk2077/mods/8823) by Peachu and PeachuHime
+* [Rockergirl Pants Laces](https://www.nexusmods.com/cyberpunk2077/mods/9040) by DBRV
 * [Rough Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15606) by NolaDreamer and Veegee
 * [Salander's Earplugs](https://www.nexusmods.com/cyberpunk2077/mods/7600) by Kwek and kewknexuss
 * [Sasha Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5393) by Apzurv and EzioMaverick
