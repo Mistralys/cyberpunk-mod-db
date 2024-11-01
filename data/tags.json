@@ -843,6 +843,24 @@
         "description": "Items with transparency",
         "category": "Item properties"
     },
+    "VAT": {
+        "fullName": "Virtual Atelier",
+        "description": "Adds clothing stores to the in-game browser.",
+        "category": "Mods",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/2987"
+            }
+        ],
+        "aliases": [
+            "virtual-atelier",
+            "virtualatelier",
+            "atelier",
+            "vat",
+            "va"
+        ]
+    },
     "Waist": {
         "description": "Waist slot",
         "category": "Clothing slots"
