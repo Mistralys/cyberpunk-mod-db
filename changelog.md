@@ -1,3 +1,7 @@
+## v2.0.9 - Command line tools
+- Commands: Removed vendor includes in the script files.
+- Commands: Some commands can now be used externally.
+
 ## v2.0.8 - Tags and screenshot updates
 - Mods: Added "Military Boots" by ScorpionTank.
 - Mods: Added "Bodysuit Spandex and Sleeved" by Apzurv.
