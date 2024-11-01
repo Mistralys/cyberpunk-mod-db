@@ -12,8 +12,6 @@ namespace CPMDB\Assets;
 use AppUtils\ConvertHelper;
 use AppUtils\FileHelper\FileInfo;
 
-require_once __DIR__ . '/prepend.php';
-
 function getModListArg() : ?string
 {
     $commands = getCLICommands();

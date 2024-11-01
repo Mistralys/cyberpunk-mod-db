@@ -11,8 +11,6 @@ namespace CPMDB\Assets;
 
 use AppUtils\FileHelper_Exception;
 
-require_once __DIR__.'/prepend.php';
-
 /**
  * @return string|null
  */

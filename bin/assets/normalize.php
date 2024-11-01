@@ -18,8 +18,6 @@ declare(strict_types=1);
 
 namespace CPMDB\Assets;
 
-require_once __DIR__.'/prepend.php';
-
 use AppUtils\FileHelper\JSONFile;
 use AppUtils\FileHelper_Exception;
 

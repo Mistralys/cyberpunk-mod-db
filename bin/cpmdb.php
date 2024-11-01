@@ -24,6 +24,7 @@ use function CPMDB\Assets\getTagsReferenceArg;
 use function CPMDB\Assets\normalizeFile;
 use function CPMDB\Assets\showUsage;
 
+require_once __DIR__ . '/../vendor/autoload.php';
 require_once __DIR__ . '/assets/functions.php';
 require_once __DIR__ . '/assets/prepend.php';
 require_once __DIR__ . '/assets/create-new.php';
