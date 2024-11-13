@@ -1,0 +1,165 @@
+{
+    "mod": "Zip-Up Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/13758",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6572",
+    "authors": [
+        "Halkuonn"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo-Small",
+        "Body-Solo-Ultimate",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody"
+    ],
+    "itemCategories": [
+        {
+            "label": "Floral Pattern",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Halk_ZipUpDress_floralblack"
+                },
+                {
+                    "name": "Blue",
+                    "code": "Halk_ZipUpDress_floralblue"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "Halk_ZipUpDress_floralemerald"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "Halk_ZipUpDress_floralmagenta"
+                },
+                {
+                    "name": "Orange",
+                    "code": "Halk_ZipUpDress_floralorange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "Halk_ZipUpDress_floralpink"
+                },
+                {
+                    "name": "Red",
+                    "code": "Halk_ZipUpDress_floralred"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Halk_ZipUpDress_floraltan"
+                },
+                {
+                    "name": "White",
+                    "code": "Halk_ZipUpDress_floralwhite"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "Halk_ZipUpDress_floralyellow"
+                }
+            ]
+        },
+        {
+            "label": "Regular",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Halk_ZipUpDress_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "Halk_ZipUpDress_blue"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "Halk_ZipUpDress_emerald"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "Halk_ZipUpDress_magenta"
+                },
+                {
+                    "name": "Orange",
+                    "code": "Halk_ZipUpDress_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "Halk_ZipUpDress_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "Halk_ZipUpDress_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Halk_ZipUpDress_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "Halk_ZipUpDress_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "Halk_ZipUpDress_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Rose Pattern",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Halk_ZipUpDress_rosesblack"
+                },
+                {
+                    "name": "Blue",
+                    "code": "Halk_ZipUpDress_rosesblue"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "Halk_ZipUpDress_rosesemerald"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "Halk_ZipUpDress_rosesmagenta"
+                },
+                {
+                    "name": "Orange",
+                    "code": "Halk_ZipUpDress_rosesorange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "Halk_ZipUpDress_rosespink"
+                },
+                {
+                    "name": "Red",
+                    "code": "Halk_ZipUpDress_rosesred"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Halk_ZipUpDress_rosestan"
+                },
+                {
+                    "name": "White",
+                    "code": "Halk_ZipUpDress_roseswhite"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "Halk_ZipUpDress_rosesyellow"
+                }
+            ]
+        }
+    ]
+}
