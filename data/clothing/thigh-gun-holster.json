@@ -1,0 +1,51 @@
+{
+    "mod": "Thigh Gun Holster",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7304",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "authors": [
+        "MONSTERaider"
+    ],
+    "tags": [
+        "Accessories",
+        "Body-Spawn0",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Hologram",
+                    "code": "raid_gunholster_hologram",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Militech 1",
+                    "code": "raid_gunholster_militech1"
+                },
+                {
+                    "name": "Militech 2",
+                    "code": "raid_gunholster_militech2"
+                },
+                {
+                    "name": "Sand",
+                    "code": "raid_gunholster_sand"
+                },
+                {
+                    "name": "Standard",
+                    "code": "raid_gunholster_standard"
+                },
+                {
+                    "name": "Valentino",
+                    "code": "raid_gunholster_valentino"
+                }
+            ]
+        }
+    ]
+}
