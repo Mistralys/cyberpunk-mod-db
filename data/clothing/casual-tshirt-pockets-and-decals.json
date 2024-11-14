@@ -1,0 +1,369 @@
+{
+    "mod": "Casual T-Shirt with Pockets and Decals",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14645",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "authors": [
+        "yellingintothevoid"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Decals",
+            "tags": [
+                "Accessories",
+                "Decals"
+            ],
+            "items": [
+                {
+                    "name": "90s",
+                    "code": "yv_casual_tshirt_decal_90s"
+                },
+                {
+                    "name": "Aldecaldo Bomb",
+                    "code": "yv_casual_tshirt_decal_ald_bomb"
+                },
+                {
+                    "name": "Aldecaldo Flame",
+                    "code": "yv_casual_tshirt_decal_ald_flame"
+                },
+                {
+                    "name": "Aldecaldo Horse",
+                    "code": "yv_casual_tshirt_decal_ald_horse"
+                },
+                {
+                    "name": "Aldecaldo Pistons",
+                    "code": "yv_casual_tshirt_decal_ald_pistons"
+                },
+                {
+                    "name": "Arasaka Black",
+                    "code": "yv_casual_tshirt_decal_arasaka_black"
+                },
+                {
+                    "name": "Arasaka Red",
+                    "code": "yv_casual_tshirt_decal_arasaka_red"
+                },
+                {
+                    "name": "Arasaka White",
+                    "code": "yv_casual_tshirt_decal_arasaka_white"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "yv_casual_tshirt_decal_barghest"
+                },
+                {
+                    "name": "Charlie Black",
+                    "code": "yv_casual_tshirt_decal_charlie_black"
+                },
+                {
+                    "name": "Charlie White",
+                    "code": "yv_casual_tshirt_decal_charlie_white"
+                },
+                {
+                    "name": "Chipping In",
+                    "code": "yv_casual_tshirt_decal_chipping_in"
+                },
+                {
+                    "name": "Corpo Shit",
+                    "code": "yv_casual_tshirt_decal_corpo_shit"
+                },
+                {
+                    "name": "Eurodyne",
+                    "code": "yv_casual_tshirt_decal_eurodyne"
+                },
+                {
+                    "name": "F**k",
+                    "code": "yv_casual_tshirt_decal_fuck"
+                },
+                {
+                    "name": "Graffiti Teeth",
+                    "code": "yv_casual_tshirt_decal_graffiti_teeth"
+                },
+                {
+                    "name": "Graffiti Tongue",
+                    "code": "yv_casual_tshirt_decal_graffiti_tongue"
+                },
+                {
+                    "name": "Growl",
+                    "code": "yv_casual_tshirt_decal_growl"
+                },
+                {
+                    "name": "ICU",
+                    "code": "yv_casual_tshirt_decal_icu"
+                },
+                {
+                    "name": "LP Corpo",
+                    "code": "yv_casual_tshirt_decal_lp_corpo"
+                },
+                {
+                    "name": "LP Nomad",
+                    "code": "yv_casual_tshirt_decal_lp_nomad"
+                },
+                {
+                    "name": "LP Streetkid",
+                    "code": "yv_casual_tshirt_decal_lp_streetkid"
+                },
+                {
+                    "name": "Mael Eyes",
+                    "code": "yv_casual_tshirt_decal_mael_eyes"
+                },
+                {
+                    "name": "Mael Skull",
+                    "code": "yv_casual_tshirt_decal_mael_skull"
+                },
+                {
+                    "name": "Mael Spider",
+                    "code": "yv_casual_tshirt_decal_mael_spider"
+                },
+                {
+                    "name": "MCR Black",
+                    "code": "yv_casual_tshirt_decal_mcr_black"
+                },
+                {
+                    "name": "MCR White",
+                    "code": "yv_casual_tshirt_decal_mcr_white"
+                },
+                {
+                    "name": "Militech Black",
+                    "code": "yv_casual_tshirt_decal_militech_black"
+                },
+                {
+                    "name": "Militech White",
+                    "code": "yv_casual_tshirt_decal_militech_white"
+                },
+                {
+                    "name": "Militech Yellow",
+                    "code": "yv_casual_tshirt_decal_militech_yellow"
+                },
+                {
+                    "name": "Mox Dancers",
+                    "code": "yv_casual_tshirt_decal_mox_dancers"
+                },
+                {
+                    "name": "Mox Letters",
+                    "code": "yv_casual_tshirt_decal_mox_letters"
+                },
+                {
+                    "name": "Mox Skull",
+                    "code": "yv_casual_tshirt_decal_mox_skull"
+                },
+                {
+                    "name": "Mox Skull Hair",
+                    "code": "yv_casual_tshirt_decal_mox_skull_hair"
+                },
+                {
+                    "name": "Ribcage Black",
+                    "code": "yv_casual_tshirt_decal_ribcage_black"
+                },
+                {
+                    "name": "Ribcage White",
+                    "code": "yv_casual_tshirt_decal_ribcage_white"
+                },
+                {
+                    "name": "Ritual Black",
+                    "code": "yv_casual_tshirt_decal_ritual_black"
+                },
+                {
+                    "name": "Ritual White",
+                    "code": "yv_casual_tshirt_decal_ritual_white"
+                },
+                {
+                    "name": "Rumad Black",
+                    "code": "yv_casual_tshirt_decal_rumad_black"
+                },
+                {
+                    "name": "Rumad White",
+                    "code": "yv_casual_tshirt_decal_rumad_white"
+                },
+                {
+                    "name": "Samurai",
+                    "code": "yv_casual_tshirt_decal_samurai"
+                },
+                {
+                    "name": "Samurai Helmet",
+                    "code": "yv_casual_tshirt_decal_samurai_helmet"
+                },
+                {
+                    "name": "Valentino Holy",
+                    "code": "yv_casual_tshirt_decal_valentino_holy"
+                },
+                {
+                    "name": "Valentino Roses",
+                    "code": "yv_casual_tshirt_decal_valentino_roses"
+                },
+                {
+                    "name": "Valentino Santa Muerte",
+                    "code": "yv_casual_tshirt_decal_valentino_santa_muerte"
+                },
+                {
+                    "name": "Valentino Skull",
+                    "code": "yv_casual_tshirt_decal_valentino_skull"
+                },
+                {
+                    "name": "VDB Letters",
+                    "code": "yv_casual_tshirt_decal_vdb_letters"
+                },
+                {
+                    "name": "VDB Skull Eyes",
+                    "code": "yv_casual_tshirt_decal_vdb_skull_eyes"
+                },
+                {
+                    "name": "Voidwear",
+                    "code": "yv_casual_tshirt_decal_voidwear"
+                },
+                {
+                    "name": "Yaiba",
+                    "code": "yv_casual_tshirt_decal_yaiba"
+                }
+            ]
+        },
+        {
+            "label": "T-Shirt",
+            "tags": [
+                "GarmentSupport",
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_casual_tshirt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yv_casual_tshirt_blue"
+                },
+                {
+                    "name": "Dots",
+                    "code": "yv_casual_tshirt_dots"
+                },
+                {
+                    "name": "Green",
+                    "code": "yv_casual_tshirt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "yv_casual_tshirt_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yv_casual_tshirt_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_casual_tshirt_red"
+                },
+                {
+                    "name": "Shiny",
+                    "code": "yv_casual_tshirt_shiny"
+                },
+                {
+                    "name": "Sky",
+                    "code": "yv_casual_tshirt_sky"
+                },
+                {
+                    "name": "Stripes",
+                    "code": "yv_casual_tshirt_stripes"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_casual_tshirt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "yv_casual_tshirt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "T-Shirt with Pockets",
+            "tags": [
+                "GarmentSupport",
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Abstract Floral 2",
+                    "code": "yv_casual_tshirt_pocket_abstract_floral2"
+                },
+                {
+                    "name": "Black",
+                    "code": "yv_casual_tshirt_pocket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yv_casual_tshirt_pocket_blue"
+                },
+                {
+                    "name": "Circles and Lines 1",
+                    "code": "yv_casual_tshirt_pocket_circles_n_lines1"
+                },
+                {
+                    "name": "Dots",
+                    "code": "yv_casual_tshirt_pocket_dots"
+                },
+                {
+                    "name": "Elegant Leaves 1",
+                    "code": "yv_casual_tshirt_pocket_elegant_leaves1"
+                },
+                {
+                    "name": "Green",
+                    "code": "yv_casual_tshirt_pocket_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "yv_casual_tshirt_pocket_grey"
+                },
+                {
+                    "name": "Leaves",
+                    "code": "yv_casual_tshirt_pocket_leaves"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yv_casual_tshirt_pocket_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_casual_tshirt_pocket_red"
+                },
+                {
+                    "name": "Shiny",
+                    "code": "yv_casual_tshirt_pocket_shiny"
+                },
+                {
+                    "name": "Simple Leaves 1",
+                    "code": "yv_casual_tshirt_pocket_simple_leaves1"
+                },
+                {
+                    "name": "Sky",
+                    "code": "yv_casual_tshirt_pocket_sky"
+                },
+                {
+                    "name": "Stripes",
+                    "code": "yv_casual_tshirt_pocket_stripes"
+                },
+                {
+                    "name": "Tiny Plants 1",
+                    "code": "yv_casual_tshirt_pocket_tiny_plants1"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_casual_tshirt_pocket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "yv_casual_tshirt_pocket_yellow"
+                }
+            ]
+        }
+    ]
+}
