@@ -1,0 +1,404 @@
+{
+    "mod": "Voronoi Cage Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15094",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16929",
+    "authors": [
+        "CaffeinatedRogue"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Bracer",
+            "tags": [
+                "Arms",
+                "Sleeves"
+            ],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_cage_arm_babyblue"
+                },
+                {
+                    "name": "Baby Pink",
+                    "code": "caffie_neur0_cage_arm_babypink"
+                },
+                {
+                    "name": "Black",
+                    "code": "caffie_neur0_cage_arm_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "caffie_neur0_cage_arm_blue"
+                },
+                {
+                    "name": "Champagne",
+                    "code": "caffie_neur0_cage_arm_champagne"
+                },
+                {
+                    "name": "Copper",
+                    "code": "caffie_neur0_cage_arm_copper"
+                },
+                {
+                    "name": "Dark Green",
+                    "code": "caffie_neur0_cage_arm_darkgreen"
+                },
+                {
+                    "name": "EM Blue",
+                    "code": "caffie_neur0_cage_arm_em_blue",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM Gold",
+                    "code": "caffie_neur0_cage_arm_em_gold",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM Green",
+                    "code": "caffie_neur0_cage_arm_em_green",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM Pink",
+                    "code": "caffie_neur0_cage_arm_em_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM White",
+                    "code": "caffie_neur0_cage_arm_em_white",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Fuxia",
+                    "code": "caffie_neur0_cage_arm_fuxia"
+                },
+                {
+                    "name": "G",
+                    "code": "caffie_neur0_cage_arm_g"
+                },
+                {
+                    "name": "Green",
+                    "code": "caffie_neur0_cage_arm_green"
+                },
+                {
+                    "name": "Purple",
+                    "code": "caffie_neur0_cage_arm_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_cage_arm_red"
+                },
+                {
+                    "name": "S",
+                    "code": "caffie_neur0_cage_arm_s"
+                },
+                {
+                    "name": "Teal",
+                    "code": "caffie_neur0_cage_arm_teal"
+                }
+            ]
+        },
+        {
+            "label": "Cage Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "B",
+                    "code": "caffie_neur0_cage_top_b"
+                },
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_cage_top_babyblue"
+                },
+                {
+                    "name": "Baby Pink",
+                    "code": "caffie_neur0_cage_top_babypink"
+                },
+                {
+                    "name": "Blue",
+                    "code": "caffie_neur0_cage_top_blue"
+                },
+                {
+                    "name": "Champagne",
+                    "code": "caffie_neur0_cage_top_champagne"
+                },
+                {
+                    "name": "Copper",
+                    "code": "caffie_neur0_cage_top_copp"
+                },
+                {
+                    "name": "Dark Green",
+                    "code": "caffie_neur0_cage_top_darkgreen"
+                },
+                {
+                    "name": "EM Blue",
+                    "code": "caffie_neur0_cage_top_em_blue",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM Gold",
+                    "code": "caffie_neur0_cage_top_em_gold",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM Green",
+                    "code": "caffie_neur0_cage_top_em_green",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM Pink",
+                    "code": "caffie_neur0_cage_top_em_pink",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "EM White",
+                    "code": "caffie_neur0_cage_top_em_white",
+                    "tags": [
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "G",
+                    "code": "caffie_neur0_cage_top_g"
+                },
+                {
+                    "name": "Green",
+                    "code": "caffie_neur0_cage_top_green"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "caffie_neur0_cage_top_magenta"
+                },
+                {
+                    "name": "Purple",
+                    "code": "caffie_neur0_cage_top_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_cage_top_red"
+                },
+                {
+                    "name": "S",
+                    "code": "caffie_neur0_cage_top_s"
+                },
+                {
+                    "name": "Teal",
+                    "code": "caffie_neur0_cage_top_teal"
+                }
+            ]
+        },
+        {
+            "label": "Dress, Latex",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_cage_dress_pv_babyblue"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "caffie_neur0_cage_dress_pv_barbie"
+                },
+                {
+                    "name": "Black",
+                    "code": "caffie_neur0_cage_dress_pv_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "caffie_neur0_cage_dress_pv_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "caffie_neur0_cage_dress_pv_burgundy"
+                },
+                {
+                    "name": "CP Yellow",
+                    "code": "caffie_neur0_cage_dress_pv_cpyellow"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "caffie_neur0_cage_dress_pv_cyan"
+                },
+                {
+                    "name": "Mint",
+                    "code": "caffie_neur0_cage_dress_pv_mint"
+                },
+                {
+                    "name": "Pink",
+                    "code": "caffie_neur0_cage_dress_pv_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_cage_dress_pv_red"
+                },
+                {
+                    "name": "White",
+                    "code": "caffie_neur0_cage_dress_pv_white"
+                }
+            ]
+        },
+        {
+            "label": "Dress, Leather",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_cage_dress_l_babyblue"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "caffie_neur0_cage_dress_l_barbie"
+                },
+                {
+                    "name": "Blush",
+                    "code": "caffie_neur0_cage_dress_l_blush"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "caffie_neur0_cage_dress_l_burg"
+                },
+                {
+                    "name": "Mint",
+                    "code": "caffie_neur0_cage_dress_l_mint"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "caffie_neur0_cage_dress_l_mustard"
+                },
+                {
+                    "name": "Navy",
+                    "code": "caffie_neur0_cage_dress_l_navy"
+                },
+                {
+                    "name": "Nude",
+                    "code": "caffie_neur0_cage_dress_l_nude"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_cage_dress_l_red"
+                },
+                {
+                    "name": "Standard",
+                    "code": "caffie_neur0_cage_dress"
+                },
+                {
+                    "name": "White",
+                    "code": "caffie_neur0_cage_dress_l_white"
+                }
+            ]
+        },
+        {
+            "label": "Dress, Silk",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_cage_dress_s_babyblue"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "caffie_neur0_cage_dress_s_barbie"
+                },
+                {
+                    "name": "Black",
+                    "code": "caffie_neur0_cage_dress_s_black"
+                },
+                {
+                    "name": "Bubblegum Pink",
+                    "code": "caffie_neur0_cage_dress_s_bpink"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "caffie_neur0_cage_dress_s_burgundy"
+                },
+                {
+                    "name": "Deep Blue",
+                    "code": "caffie_neur0_cage_dress_s_deepblue"
+                },
+                {
+                    "name": "Forest Green",
+                    "code": "caffie_neur0_cage_dress_s_forestgreen"
+                },
+                {
+                    "name": "Grey",
+                    "code": "caffie_neur0_cage_dress_s_grey"
+                },
+                {
+                    "name": "Mint",
+                    "code": "caffie_neur0_cage_dress_s_mint"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "caffie_neur0_cage_dress_s_mustard"
+                },
+                {
+                    "name": "Nude",
+                    "code": "caffie_neur0_cage_dress_s_nude"
+                },
+                {
+                    "name": "Purple",
+                    "code": "caffie_neur0_cage_dress_s_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_cage_dress_s_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "caffie_neur0_cage_dress_s_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "caffie_neur0_cage_dress_s_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "caffie_neur0_cage_dress_s_white"
+                }
+            ]
+        }
+    ]
+}
