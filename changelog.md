@@ -1,3 +1,11 @@
+## v2.0.10 - New mods
+- Mods: Added "Zip-Up Dress" by Halkuonn.
+- Mods: Added "Thigh Gun Holster" by MONSTERaider.
+- Mods: Added "Casual T-Shirt with Pockets and Decals" by yellingintothevoid.
+- Mods: Added "Voronoi Cage Dress" by CaffeinatedRogue.
+- Tags: Added the `Decals` tag.
+- Tags: Added the `GarmentSupport` tag.
+
 ## v2.0.9 - Command line tools
 - Tags: Added the `fullName` key for abbreviation tags.
 - Tags: Added the `VAT` (aka Virtual Atelier) tag.
