@@ -770,6 +770,19 @@
             "redx"
         ]
     },
+    "Reflective": {
+        "description": "Items with reflective surfaces",
+        "category": "Item properties",
+        "aliases": [
+            "reflect",
+            "reflection",
+            "chrome",
+            "chrom",
+            "chromed",
+            "chromatic",
+            "reflections"
+        ]
+    },
     "Ring": {
         "description": "Ring",
         "category": "Clothing items",
