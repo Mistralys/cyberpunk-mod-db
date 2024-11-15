@@ -29,15 +29,19 @@
             ],
             "items": [
                 {
+                    "name": "Barghest",
+                    "code": "dsbodysuit_b"
+                },
+                {
+                    "name": "Black and Gold",
+                    "code": "dsbodysuit_e"
+                },
+                {
                     "name": "Black Transparent",
                     "code": "dsbodysuit_a",
                     "tags": [
                         "Transparent"
                     ]
-                },
-                {
-                    "name": "Barghest",
-                    "code": "dsbodysuit_b"
                 },
                 {
                     "name": "Burgundy Transparent",
@@ -52,10 +56,6 @@
                     "tags": [
                         "Transparent"
                     ]
-                },
-                {
-                    "name": "Black and Gold",
-                    "code": "dsbodysuit_e"
                 }
             ]
         },
