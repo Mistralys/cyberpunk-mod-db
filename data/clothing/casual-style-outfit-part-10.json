@@ -1,0 +1,451 @@
+{
+    "mod": "Casual Style Outfit Part 10",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16667",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_boots_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_boots_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_boots_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_boots_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_boots_color5"
+                }
+            ]
+        },
+        {
+            "label": "Bra",
+            "tags": [
+                "Bra",
+                "Underwear"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_bra_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_bra_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_bra_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_bra_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_bra_color5"
+                }
+            ]
+        },
+        {
+            "label": "Cape",
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_cape_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_cape_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_cape_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_cape_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_cape_color5"
+                }
+            ]
+        },
+        {
+            "label": "Chest and shoulder guard",
+            "tags": [
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_chest_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_chest_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_chest_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_chest_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_chest_color5"
+                }
+            ]
+        },
+        {
+            "label": "Corset",
+            "tags": [
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_corset_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_corset_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_corset_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_corset_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_corset_color5"
+                }
+            ]
+        },
+        {
+            "label": "Glove Left",
+            "tags": [
+                "Arms",
+                "Gloves"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_arm_l_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_arm_l_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_arm_l_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_arm_l_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_arm_l_color5"
+                }
+            ]
+        },
+        {
+            "label": "Glove Right",
+            "tags": [
+                "Arms",
+                "Gloves"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_arm_r_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_arm_r_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_arm_r_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_arm_r_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_arm_r_color5"
+                }
+            ]
+        },
+        {
+            "label": "Harness",
+            "tags": [
+                "Accessories",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_harness_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_harness_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_harness_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_harness_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_harness_color5"
+                }
+            ]
+        },
+        {
+            "label": "Mask",
+            "tags": [
+                "Head",
+                "Mask"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_mask_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_mask_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_mask_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_mask_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_mask_color5"
+                }
+            ]
+        },
+        {
+            "label": "Neck",
+            "tags": [
+                "Choker",
+                "Neck"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_neck_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_neck_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_neck_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_neck_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_neck_color5"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_pants_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_pants_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_pants_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_pants_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_pants_color5"
+                }
+            ]
+        },
+        {
+            "label": "Panty",
+            "tags": [
+                "Panties",
+                "Skimpy",
+                "Underwear"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_panty_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_panty_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_panty_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_panty_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_panty_color5"
+                }
+            ]
+        },
+        {
+            "label": "Shirt",
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_shirt_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_shirt_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_shirt_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_shirt_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_shirt_color5"
+                }
+            ]
+        },
+        {
+            "label": "Skirt",
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_skirt_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_skirt_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_skirt_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_skirt_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_skirt_color5"
+                }
+            ]
+        },
+        {
+            "label": "Stockings",
+            "tags": [
+                "Legs",
+                "Stockings"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_stockings_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_stockings_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_stockings_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_stockings_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_stockings_color5"
+                }
+            ]
+        }
+    ]
+}
