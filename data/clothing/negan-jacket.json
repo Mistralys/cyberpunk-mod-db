@@ -1,0 +1,103 @@
+{
+    "mod": "Negan Jacket",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17382",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16065/",
+    "authors": [
+        "Rosslin"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "Jacket",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Female V",
+            "tags": [
+                "Body-Hyst-Angel",
+                "Body-Hyst-EBB",
+                "Body-Hyst-EBBP",
+                "Body-Lush",
+                "Body-Solo-Small",
+                "Body-VTK-Big",
+                "Body-VTK-Small",
+                "FemV"
+            ],
+            "items": [
+                {
+                    "name": "Berry",
+                    "code": "rosslin_negan_fem_berry"
+                },
+                {
+                    "name": "Black",
+                    "code": "rosslin_negan_fem_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "rosslin_negan_fem_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "rosslin_negan_fem_green"
+                },
+                {
+                    "name": "Petrol",
+                    "code": "rosslin_negan_fem_petrol"
+                },
+                {
+                    "name": "Red",
+                    "code": "rosslin_negan_fem_red"
+                },
+                {
+                    "name": "Violet",
+                    "code": "rosslin_negan_fem_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "rosslin_negan_fem_white"
+                }
+            ]
+        },
+        {
+            "label": "Male V",
+            "tags": [
+                "MaleV"
+            ],
+            "items": [
+                {
+                    "name": "Berry",
+                    "code": "rosslin_negan_masc_berry"
+                },
+                {
+                    "name": "Black",
+                    "code": "rosslin_negan_masc_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "rosslin_negan_masc_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "rosslin_negan_masc_green"
+                },
+                {
+                    "name": "Petrol",
+                    "code": "rosslin_negan_masc_petrol"
+                },
+                {
+                    "name": "Red",
+                    "code": "rosslin_negan_masc_red"
+                },
+                {
+                    "name": "Violet",
+                    "code": "rosslin_negan_masc_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "rosslin_negan_masc_white"
+                }
+            ]
+        }
+    ]
+}
