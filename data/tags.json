@@ -904,6 +904,17 @@
         "description": "Items with transparency",
         "category": "Item properties"
     },
+    "Underwear": {
+        "description": "Underwear",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Skimpy"
+        ],
+        "aliases": [
+            "undergarment",
+            "undergarments"
+        ]
+    },
     "VAT": {
         "fullName": "Virtual Atelier",
         "description": "Adds clothing stores to the in-game browser.",
