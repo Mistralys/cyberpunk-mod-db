@@ -5,6 +5,8 @@
 - Mods: Added "Voronoi Cage Dress" by CaffeinatedRogue.
 - Mods: Added "Lace-Up Dress" by CaffeinatedRogue.
 - Mods: Added "XRX Victorian Gloves" by apzurv.
+- Mods: Added "Cyber Skull Mask" by AAbdii.
+- Mods: Added "Chic Skirt" by Breezypunk.
 - Tags: Added the `Decals` tag.
 - Tags: Added the `GarmentSupport` tag.
 - Tags: Added the `Body-Flat` tag.
