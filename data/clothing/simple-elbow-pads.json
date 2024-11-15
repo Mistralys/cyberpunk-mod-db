@@ -37,7 +37,10 @@
                 },
                 {
                     "name": "Chrome",
-                    "code": "kwek_elbowpads_01_chrome"
+                    "code": "kwek_elbowpads_01_chrome",
+                    "tags": [
+                        "Reflective"
+                    ]
                 },
                 {
                     "name": "Cyan",
