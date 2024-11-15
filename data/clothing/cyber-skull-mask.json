@@ -1,0 +1,28 @@
+{
+    "mod": "Cyber Skull Mask",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15086",
+    "atelier": "",
+    "authors": [
+        "AAbdii"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Head",
+        "MaleV",
+        "Mask"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Skull",
+                    "code": "cyber_skull_mask"
+                }
+            ]
+        }
+    ]
+}
