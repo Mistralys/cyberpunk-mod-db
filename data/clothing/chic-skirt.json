@@ -1,0 +1,206 @@
+{
+    "mod": "Chic Skirt",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16149",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14744",
+    "authors": [
+        "Breezypunk"
+    ],
+    "tags": [
+        "Body-Gymfiend",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Legs",
+        "MaleV",
+        "Skirt"
+    ],
+    "itemCategories": [
+        {
+            "label": "Denim",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "breezy_chic_skirt_denimblack"
+                },
+                {
+                    "name": "Blue",
+                    "code": "breezy_chic_skirt_denimblue"
+                },
+                {
+                    "name": "Cream",
+                    "code": "breezy_chic_skirt_denimcream"
+                },
+                {
+                    "name": "Dark Blue",
+                    "code": "breezy_chic_skirt_denimdarkblue"
+                },
+                {
+                    "name": "Green",
+                    "code": "breezy_chic_skirt_denimgreen"
+                },
+                {
+                    "name": "Pink",
+                    "code": "breezy_chic_skirt_denimpink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "breezy_chic_skirt_denimpurple"
+                },
+                {
+                    "name": "Red",
+                    "code": "breezy_chic_skirt_denimred"
+                },
+                {
+                    "name": "White",
+                    "code": "breezy_chic_skirt_denimwhite"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "breezy_chic_skirt_denimyellow"
+                }
+            ]
+        },
+        {
+            "label": "Latex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Pink",
+                    "code": "breezy_chic_skirt_latexblackpink"
+                },
+                {
+                    "name": "Blue White",
+                    "code": "breezy_chic_skirt_latexbluewhite"
+                },
+                {
+                    "name": "Blue Yellow",
+                    "code": "breezy_chic_skirt_latexblueyellow"
+                },
+                {
+                    "name": "Burgundy Yellow",
+                    "code": "breezy_chic_skirt_latexburgundyyellow"
+                },
+                {
+                    "name": "Gray White",
+                    "code": "breezy_chic_skirt_latexgraywhite"
+                },
+                {
+                    "name": "Orange Pink",
+                    "code": "breezy_chic_skirt_latexorangepink"
+                },
+                {
+                    "name": "Pink Blue",
+                    "code": "breezy_chic_skirt_latexpinkblue"
+                },
+                {
+                    "name": "Purple Green",
+                    "code": "breezy_chic_skirt_latexpurplegreen"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "breezy_chic_skirt_latexredblack"
+                },
+                {
+                    "name": "Tan Brown",
+                    "code": "breezy_chic_skirt_latextanbrown"
+                }
+            ]
+        },
+        {
+            "label": "Pattern",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aliens",
+                    "code": "breezy_chic_skirt_patternaliens"
+                },
+                {
+                    "name": "Butterflies",
+                    "code": "breezy_chic_skirt_patternbutterflies"
+                },
+                {
+                    "name": "Circuit",
+                    "code": "breezy_chic_skirt_patterncircuit"
+                },
+                {
+                    "name": "Dinos",
+                    "code": "breezy_chic_skirt_patterndinos"
+                },
+                {
+                    "name": "Dogwood",
+                    "code": "breezy_chic_skirt_patterndogwood"
+                },
+                {
+                    "name": "Ghosts",
+                    "code": "breezy_chic_skirt_patternghosts"
+                },
+                {
+                    "name": "Hearts",
+                    "code": "breezy_chic_skirt_patternhearts"
+                },
+                {
+                    "name": "Kisses",
+                    "code": "breezy_chic_skirt_patternkisses"
+                },
+                {
+                    "name": "Paws",
+                    "code": "breezy_chic_skirt_patternpaws"
+                },
+                {
+                    "name": "Wisps",
+                    "code": "breezy_chic_skirt_patternwisps"
+                }
+            ]
+        },
+        {
+            "label": "Sequin",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "breezy_chic_skirt_sequinblack"
+                },
+                {
+                    "name": "Blue",
+                    "code": "breezy_chic_skirt_sequinblue"
+                },
+                {
+                    "name": "Cream",
+                    "code": "breezy_chic_skirt_sequincream"
+                },
+                {
+                    "name": "Dark Blue",
+                    "code": "breezy_chic_skirt_sequindarkblue"
+                },
+                {
+                    "name": "Green",
+                    "code": "breezy_chic_skirt_sequingreen"
+                },
+                {
+                    "name": "Pink",
+                    "code": "breezy_chic_skirt_sequinpink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "breezy_chic_skirt_sequinpurple"
+                },
+                {
+                    "name": "Red",
+                    "code": "breezy_chic_skirt_sequinred"
+                },
+                {
+                    "name": "White",
+                    "code": "breezy_chic_skirt_sequinwhite"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "breezy_chic_skirt_sequinyellow"
+                }
+            ]
+        }
+    ]
+}
