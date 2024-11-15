@@ -1,0 +1,323 @@
+{
+    "mod": "Hailey Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16476",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14747",
+    "authors": [
+        "Subleader",
+        "Subleader100"
+    ],
+    "tags": [
+        "Clothing",
+        "FemV"
+    ],
+    "comments": "Hailey from 'The First Descendant'.",
+    "itemCategories": [
+        {
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Skin 01",
+                    "code": "sub_hailey_boots_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_hailey_boots_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_boots_standard"
+                },
+                {
+                    "name": "White",
+                    "code": "sub_hailey_boots_white"
+                }
+            ]
+        },
+        {
+            "label": "Bracelets",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Left",
+                    "code": "sub_hailey_bracelet_l_standard"
+                },
+                {
+                    "name": "Right",
+                    "code": "sub_hailey_bracelet_r_standard"
+                }
+            ]
+        },
+        {
+            "label": "Earpiece",
+            "tags": [
+                "Accessories",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_earpiece_standard"
+                }
+            ]
+        },
+        {
+            "label": "Gloves",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_hailey_gloves_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_hailey_gloves_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_hailey_gloves_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_hailey_gloves_green"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_hailey_gloves_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_hailey_gloves_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_hailey_gloves_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_hailey_gloves_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_hailey_gloves_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_gloves_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_hailey_gloves_tan"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "sub_hailey_gloves_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_hailey_jacket_alt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_hailey_jacket_alt_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_hailey_jacket_alt_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_hailey_jacket_alt_green"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_hailey_jacket_alt_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_hailey_jacket_alt_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_hailey_jacket_alt_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_hailey_jacket_alt_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_hailey_jacket_alt_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_jacket_alt_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_hailey_jacket_alt_tan"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "sub_hailey_jacket_alt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Jacket with Bra",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_hailey_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_hailey_jacket_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_hailey_jacket_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_hailey_jacket_green"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_hailey_jacket_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_hailey_jacket_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_hailey_jacket_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_hailey_jacket_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_hailey_jacket_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_jacket_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_hailey_jacket_tan"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "sub_hailey_jacket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_hailey_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_hailey_pants_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_hailey_pants_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_hailey_pants_green"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_hailey_pants_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_hailey_pants_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_hailey_pants_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_hailey_pants_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_hailey_pants_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_pants_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_hailey_pants_tan"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "sub_hailey_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pouches",
+            "tags": [
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_hailey_pouchs_black"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_hailey_pouchs_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_hailey_pouchs_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_hailey_pouchs_standard"
+                }
+            ]
+        }
+    ]
+}
