@@ -1,0 +1,154 @@
+{
+    "mod": "DS2 Jacket, Bodysuit and Necklace",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16985",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Clothing"
+    ],
+    "comments": "The three items are separate downloads.",
+    "itemCategories": [
+        {
+            "label": "Body Suit",
+            "tags": [
+                "AutoScale",
+                "Body-Gymfiend",
+                "Body-Hyst-Angel",
+                "Body-Hyst-EBB",
+                "Body-Hyst-EBBP",
+                "Body-Hyst-EBBPRB",
+                "Body-Hyst-EBBRB",
+                "Body-Vanilla",
+                "FemV",
+                "FullBody",
+                "GarmentSupport",
+                "MaleV"
+            ],
+            "items": [
+                {
+                    "name": "Black Transparent",
+                    "code": "dsbodysuit_a",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Barghest",
+                    "code": "dsbodysuit_b"
+                },
+                {
+                    "name": "Burgundy Transparent",
+                    "code": "dsbodysuit_c",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Green Transparent",
+                    "code": "dsbodysuit_d",
+                    "tags": [
+                        "Transparent"
+                    ]
+                },
+                {
+                    "name": "Black and Gold",
+                    "code": "dsbodysuit_e"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "AutoScale",
+                "Body-Gymfiend",
+                "Body-Hyst-Angel",
+                "Body-Hyst-EBB",
+                "Body-Hyst-EBBP",
+                "Body-Hyst-EBBPRB",
+                "Body-Hyst-EBBRB",
+                "Body-Vanilla",
+                "FemV",
+                "GarmentSupport",
+                "Jacket",
+                "MaleV",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "A",
+                    "code": "dsjacket_a"
+                },
+                {
+                    "name": "B",
+                    "code": "dsjacket_b"
+                },
+                {
+                    "name": "C",
+                    "code": "dsjacket_c"
+                },
+                {
+                    "name": "D",
+                    "code": "dsjacket_d"
+                },
+                {
+                    "name": "E",
+                    "code": "dsjacket_e"
+                },
+                {
+                    "name": "F",
+                    "code": "dsjacket_f"
+                },
+                {
+                    "name": "G",
+                    "code": "dsjacket_g"
+                },
+                {
+                    "name": "H",
+                    "code": "dsjacket_h"
+                },
+                {
+                    "name": "I",
+                    "code": "dsjacket_i"
+                },
+                {
+                    "name": "J",
+                    "code": "dsjacket_j"
+                },
+                {
+                    "name": "K",
+                    "code": "dsjacket_k"
+                },
+                {
+                    "name": "L",
+                    "code": "dsjacket_l"
+                },
+                {
+                    "name": "M",
+                    "code": "dsjacket_m"
+                },
+                {
+                    "name": "N",
+                    "code": "dsjacket_n"
+                }
+            ]
+        },
+        {
+            "label": "Necklace",
+            "tags": [
+                "FemV",
+                "Jewelry",
+                "Neck",
+                "Necklace"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "dsnecklace_a"
+                }
+            ]
+        }
+    ]
+}
