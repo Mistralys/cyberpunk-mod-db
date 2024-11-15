@@ -17,7 +17,8 @@
             "label": "Regular",
             "tags": [
                 "Bra",
-                "Torso"
+                "Torso",
+                "Underwear"
             ],
             "items": [
                 {
@@ -54,8 +55,8 @@
             "label": "Slim",
             "tags": [
                 "Bra",
-                "Skimpy",
-                "Torso"
+                "Torso",
+                "Underwear"
             ],
             "items": [
                 {

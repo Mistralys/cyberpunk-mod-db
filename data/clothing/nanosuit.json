@@ -22,7 +22,8 @@
             "label": "Lingerie Bottom",
             "tags": [
                 "Legs",
-                "Panties"
+                "Panties",
+                "Underwear"
             ],
             "items": [
                 {
@@ -79,7 +80,8 @@
             "label": "Lingerie Top",
             "tags": [
                 "Bra",
-                "Torso"
+                "Torso",
+                "Underwear"
             ],
             "items": [
                 {

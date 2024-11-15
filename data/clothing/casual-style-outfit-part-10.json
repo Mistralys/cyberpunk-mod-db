@@ -46,6 +46,7 @@
             "label": "Bra",
             "tags": [
                 "Bra",
+                "Torso",
                 "Underwear"
             ],
             "items": [
@@ -333,8 +334,8 @@
         {
             "label": "Panty",
             "tags": [
+                "Legs",
                 "Panties",
-                "Skimpy",
                 "Underwear"
             ],
             "items": [
