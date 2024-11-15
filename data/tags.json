@@ -79,6 +79,22 @@
             }
         ]
     },
+    "Body-Flat": {
+        "description": "Flat chested body",
+        "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-flat-chest",
+            "flatbody",
+            "body-nochest",
+            "body-no-chest"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/6883"
+            }
+        ]
+    },
     "Body-Gymfiend": {
         "description": "Muscular body",
         "category": "Mods - Body Mods - MaleV",
