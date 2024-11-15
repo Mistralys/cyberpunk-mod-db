@@ -1,0 +1,91 @@
+{
+    "mod": "Comfy Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16026",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/15184",
+    "authors": [
+        "NotMayoSan",
+        "TheLoneStrider",
+        "TheLoneStrider13"
+    ],
+    "tags": [
+        "Body-Flat",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Solo",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Chrome Gold",
+                    "code": "the_lone_strider_comfy_dress_gold",
+                    "tags": [
+                        "Reflective"
+                    ]
+                },
+                {
+                    "name": "Chrome Purple",
+                    "code": "the_lone_strider_comfy_dress_chrome_purple",
+                    "tags": [
+                        "Reflective"
+                    ]
+                },
+                {
+                    "name": "Cotton Black",
+                    "code": "the_lone_strider_comfy_dress_cotton_black"
+                },
+                {
+                    "name": "Cotton Blue",
+                    "code": "the_lone_strider_comfy_dress_cotton_blue"
+                },
+                {
+                    "name": "Cotton Brown",
+                    "code": "the_lone_strider_comfy_dress_cotton_brown"
+                },
+                {
+                    "name": "Cotton Green",
+                    "code": "the_lone_strider_comfy_dress_cotton_green"
+                },
+                {
+                    "name": "Cotton Lpurple",
+                    "code": "the_lone_strider_comfy_dress_cotton_lpurple"
+                },
+                {
+                    "name": "Cotton Orange",
+                    "code": "the_lone_strider_comfy_dress_cotton_orange"
+                },
+                {
+                    "name": "Cotton Pink",
+                    "code": "the_lone_strider_comfy_dress_cotton_pink"
+                },
+                {
+                    "name": "Cotton Purple",
+                    "code": "the_lone_strider_comfy_dress_cotton_purple"
+                },
+                {
+                    "name": "Cotton Red",
+                    "code": "the_lone_strider_comfy_dress_cotton_red"
+                },
+                {
+                    "name": "Cotton White",
+                    "code": "the_lone_strider_comfy_dress_cotton_white"
+                },
+                {
+                    "name": "Cotton Yellow",
+                    "code": "the_lone_strider_comfy_dress_cotton_yellow"
+                }
+            ]
+        }
+    ]
+}
