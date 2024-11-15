@@ -3,8 +3,11 @@
 - Mods: Added "Thigh Gun Holster" by MONSTERaider.
 - Mods: Added "Casual T-Shirt with Pockets and Decals" by yellingintothevoid.
 - Mods: Added "Voronoi Cage Dress" by CaffeinatedRogue.
+- Mods: Added "Lace-Up Dress" by CaffeinatedRogue.
+- Mods: Added "XRX Victorian Gloves" by apzurv.
 - Tags: Added the `Decals` tag.
 - Tags: Added the `GarmentSupport` tag.
+- Tags: Added the `Body-Flat` tag.
 
 ## v2.0.9 - Command line tools
 - Tags: Added the `fullName` key for abbreviation tags.
