@@ -1,0 +1,128 @@
+{
+    "mod": "Lace-Up Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16927",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16929",
+    "authors": [
+        "CaffeinatedRogue"
+    ],
+    "tags": [
+        "Body-Flat",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody"
+    ],
+    "itemCategories": [
+        {
+            "label": "Floral Pattern Dress",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_babyblue"
+                },
+                {
+                    "name": "Black",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_black"
+                },
+                {
+                    "name": "Blush",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_blush"
+                },
+                {
+                    "name": "Green",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_green"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_mustard"
+                },
+                {
+                    "name": "Navy",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_navy"
+                },
+                {
+                    "name": "Nude",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_nude"
+                },
+                {
+                    "name": "Purple",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_teal"
+                },
+                {
+                    "name": "White",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_lace_white"
+                }
+            ]
+        },
+        {
+            "label": "Regular Dress",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_babyblue"
+                },
+                {
+                    "name": "Baby Pink",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_babypink"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_barbie"
+                },
+                {
+                    "name": "Black",
+                    "code": "caffie_neur0_neur0mance_laceup_dress"
+                },
+                {
+                    "name": "Blue",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_blue"
+                },
+                {
+                    "name": "Coffee",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_coffee"
+                },
+                {
+                    "name": "Green",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_green"
+                },
+                {
+                    "name": "Nude",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_nude"
+                },
+                {
+                    "name": "Red",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_red"
+                },
+                {
+                    "name": "White",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_white"
+                },
+                {
+                    "name": "Wine",
+                    "code": "caffie_neur0_neur0mance_laceup_dress_wine"
+                }
+            ]
+        }
+    ]
+}
