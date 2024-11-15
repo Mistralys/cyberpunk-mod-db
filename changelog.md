@@ -10,6 +10,7 @@
 - Mods: Added "DS2 Jacket, Bodysuit and Necklace" by apzurv.
 - Mods: Added "Negan Jacket" by Rosslin.
 - Mods: Added "Comfy Dress" by TheLoneStrider.
+- Mods: Added "Hailey Outfit" by Subleader.
 - Tags: Added the `Decals` tag.
 - Tags: Added the `GarmentSupport` tag.
 - Tags: Added the `Body-Flat` tag.
