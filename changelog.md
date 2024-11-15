@@ -7,9 +7,13 @@
 - Mods: Added "XRX Victorian Gloves" by apzurv.
 - Mods: Added "Cyber Skull Mask" by AAbdii.
 - Mods: Added "Chic Skirt" by Breezypunk.
+- Mods: Added "DS2 Jacket, Bodysuit and Necklace" by apzurv.
+- Mods: Added "Negan Jacket" by Rosslin.
+- Mods: Added "Comfy Dress" by TheLoneStrider.
 - Tags: Added the `Decals` tag.
 - Tags: Added the `GarmentSupport` tag.
 - Tags: Added the `Body-Flat` tag.
+- Tags: Added the `Reflective` tag.
 
 ## v2.0.9 - Command line tools
 - Tags: Added the `fullName` key for abbreviation tags.
