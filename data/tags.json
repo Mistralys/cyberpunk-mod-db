@@ -37,7 +37,15 @@
     },
     "AutoScale": {
         "description": "Clothing that automatically scales to the player's level",
-        "category": "Item properties"
+        "category": "Item properties",
+        "aliases": [
+            "autoscaling",
+            "auto-scaling",
+            "auto-scale",
+            "auto-refit",
+            "autorefit",
+            "auto-refits"
+        ]
     },
     "Belt": {
         "description": "Belt",
