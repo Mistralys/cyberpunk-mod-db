@@ -44,6 +44,7 @@ is holographic. Searching for holographic items will return only the holographic
 - `Bra` - Bra or bra-like
 - `Choker` - Neck choker
 - `Coat`
+- `Decals` - Decals or stickers to use on clothing items
 - `Dress`
 - `Earring`
 - `Glasses`
@@ -66,6 +67,7 @@ is holographic. Searching for holographic items will return only the holographic
 - `Stockings`
 - `Suit`
 - `Top`
+- `Underwear`
 
 ### Clothing slots
 
@@ -90,11 +92,13 @@ is holographic. Searching for holographic items will return only the holographic
 - `DIY` - "Do-It-Yourself" - Clothing items that can be customized with Wolvenkit
 - `Emissive` - Clothing items that glow or emit light in some way
 - `FemV` - Items restricted to female V characters
+- `GarmentSupport` - Clothing system that handles tucking pants into boots and shirts under jackets. [Modding Wiki article](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-creators-theory/3d-modelling/garment-support-how-does-it-work)
 - `Holo` - Holographic items
 - `MaleV` - Items restricted to male V characters
 - `Modular` - Modular clothing items that can be combined in different ways
 - `Outfit` - Set of clothing items for a full-themed outfit
 - `Physics` - Items with working physics
+- `Reflective` - Items with reflective surfaces
 - `Skimpy` - Clothing items that are revealing
 - `Transparent` - Items with transparency
 
@@ -111,6 +115,7 @@ is holographic. Searching for holographic items will return only the holographic
 ### Mods - Body Mods - FemV
 
 - `Body-EVB` - Enhanced Vanilla Body; No refits needed [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/11489)
+- `Body-Flat` - Flat chested body [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6883)
 - `Body-Hyst` - Enhanced Big Breasts, Realistic Butt, and more [Nexus](https://next.nexusmods.com/profile/LxRHyst/mods?gameId=3333)
 - `Body-Hyst-Angel` - New improved version of the other Hyst body mods [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/14896)
 - `Body-Hyst-EBB` - EBB - Enhanced Big Breasts [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4654)
