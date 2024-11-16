@@ -158,7 +158,9 @@
         },
         {
             "label": "Sequin",
-            "tags": [],
+            "tags": [
+                "Reflective"
+            ],
             "items": [
                 {
                     "name": "Black",

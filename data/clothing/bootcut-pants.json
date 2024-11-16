@@ -118,7 +118,9 @@
         },
         {
             "label": "Special",
-            "tags": [],
+            "tags": [
+                "Reflective"
+            ],
             "items": [
                 {
                     "name": "Gold",

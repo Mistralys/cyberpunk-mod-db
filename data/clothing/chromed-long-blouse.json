@@ -7,15 +7,14 @@
     ],
     "tags": [
         "Clothing",
-        "FemV"
+        "FemV",
+        "FullBody",
+        "Reflective"
     ],
     "itemCategories": [
         {
             "label": "",
-            "tags": [
-                "FullBody",
-                "Reflective"
-            ],
+            "tags": [],
             "items": [
                 {
                     "name": "Gold",

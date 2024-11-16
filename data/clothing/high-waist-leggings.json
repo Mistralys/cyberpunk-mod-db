@@ -121,7 +121,9 @@
         },
         {
             "label": "Metallic",
-            "tags": [],
+            "tags": [
+                "Reflective"
+            ],
             "items": [
                 {
                     "name": "Gold",

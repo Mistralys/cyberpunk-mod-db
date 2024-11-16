@@ -51,7 +51,10 @@
                 },
                 {
                     "name": "Silver",
-                    "code": "PinkyDude_ShinyTightPantsF_Silver"
+                    "code": "PinkyDude_ShinyTightPantsF_Silver",
+                    "tags": [
+                        "Reflective"
+                    ]
                 },
                 {
                     "name": "White",
