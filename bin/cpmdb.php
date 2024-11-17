@@ -19,8 +19,10 @@ use function CPMDB\Assets\getHelpArg;
 use function CPMDB\Assets\getModArg;
 use function CPMDB\Assets\getModFile;
 use function CPMDB\Assets\getModListArg;
+use function CPMDB\Assets\getNormalizeAllArg;
 use function CPMDB\Assets\getNormalizeArg;
 use function CPMDB\Assets\getTagsReferenceArg;
+use function CPMDB\Assets\normalizeAll;
 use function CPMDB\Assets\normalizeFile;
 use function CPMDB\Assets\showUsage;
 
@@ -79,6 +81,11 @@ else
 
     if(getBuildReleaseArg() !== null) {
         buildRelease();
+        exit;
+    }
+
+    if(getNormalizeAllArg() !== null) {
+        normalizeAll();
         exit;
     }
 }

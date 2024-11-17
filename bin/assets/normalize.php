@@ -35,6 +35,22 @@ function getNormalizeArg() : ?string
         null;
 }
 
+/**
+ * @return string|null
+ */
+function getNormalizeAllArg() : ?string
+{
+    $commands = getCLICommands();
+
+    return
+        $commands['normalize-all'] ??
+        $commands['normalizeall'] ??
+        $commands['norm-all'] ??
+        $commands['normall'] ??
+        $commands['nma'] ??
+        null;
+}
+
 function normalizeFile(JSONFile $file) : void
 {
     logHeader('Data file [%s] - Normalizing structure', $file->getName());
@@ -118,7 +134,10 @@ function normalizeFile(JSONFile $file) : void
 
     $converted['itemCategories'] = $keep;
 
-    $file->putData($converted, true);
+    $file
+        ->setEscapeSlashes(false)
+        ->setTrailingNewline(true)
+        ->putData($converted, true);
 
     logInfo('File normalized successfully.');
     logEmptyLine();
