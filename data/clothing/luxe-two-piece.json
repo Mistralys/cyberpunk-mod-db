@@ -1,0 +1,189 @@
+{
+    "mod": "Luxe Two-Piece",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16011",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13605",
+    "authors": [
+        "Nemipies"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBN",
+        "Body-Lush",
+        "Body-Angel",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "FemV"
+    ],
+    "comments": "No garment support, and not planned.",
+    "itemCategories": [
+        {
+            "label": "Luxe Shorts",
+            "tags": [
+                "Legs",
+                "Panties",
+                "Body-Hyst-RB",
+                "Body-Hyst-EBBRB",
+                "Body-Hyst-EBBPRB",
+                "Body-Hyst-EBBNRB"
+            ],
+            "items": [
+                {
+                    "name": "Black Envy",
+                    "code": "luxe_shorts_black_envy"
+                },
+                {
+                    "name": "Black",
+                    "code": "luxe_shorts_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "luxe_shorts_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "luxe_shorts_brown"
+                },
+                {
+                    "name": "Garden Party",
+                    "code": "luxe_shorts_garden_party"
+                },
+                {
+                    "name": "Green",
+                    "code": "luxe_shorts_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "luxe_shorts_grey"
+                },
+                {
+                    "name": "Guns and Roses",
+                    "code": "luxe_shorts_guns_and_roses"
+                },
+                {
+                    "name": "Heart Ache",
+                    "code": "luxe_shorts_heart_ache"
+                },
+                {
+                    "name": "Jaded Mystery",
+                    "code": "luxe_shorts_jaded_mystery"
+                },
+                {
+                    "name": "Peony Party",
+                    "code": "luxe_shorts_peony_party"
+                },
+                {
+                    "name": "Pink",
+                    "code": "luxe_shorts_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "luxe_shorts_purple"
+                },
+                {
+                    "name": "Queen of Hearts",
+                    "code": "luxe_shorts_queen_of_hearts"
+                },
+                {
+                    "name": "Red",
+                    "code": "luxe_shorts_red"
+                },
+                {
+                    "name": "Rouge",
+                    "code": "luxe_shorts_rouge"
+                },
+                {
+                    "name": "Solstice Dreams",
+                    "code": "luxe_shorts_solstice_dreams"
+                },
+                {
+                    "name": "White",
+                    "code": "luxe_shorts_white"
+                }
+            ]
+        },
+        {
+            "label": "Luxe Top",
+            "tags": [
+                "Torso",
+                "Bra"
+            ],
+            "items": [
+                {
+                    "name": "Black Envy",
+                    "code": "luxe_top_black_envy"
+                },
+                {
+                    "name": "Black",
+                    "code": "luxe_top_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "luxe_top_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "luxe_top_brown"
+                },
+                {
+                    "name": "Garden Party",
+                    "code": "luxe_top_garden_party"
+                },
+                {
+                    "name": "Green",
+                    "code": "luxe_top_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "luxe_top_grey"
+                },
+                {
+                    "name": "Guns and Roses",
+                    "code": "luxe_top_guns_and_roses"
+                },
+                {
+                    "name": "Heart Ache",
+                    "code": "luxe_top_heart_ache"
+                },
+                {
+                    "name": "Jaded Mystery",
+                    "code": "luxe_top_jaded_mystery"
+                },
+                {
+                    "name": "Peony Party",
+                    "code": "luxe_top_peony_party"
+                },
+                {
+                    "name": "Pink",
+                    "code": "luxe_top_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "luxe_top_purple"
+                },
+                {
+                    "name": "Queen of Hearts",
+                    "code": "luxe_top_queen_of_hearts"
+                },
+                {
+                    "name": "Red",
+                    "code": "luxe_top_red"
+                },
+                {
+                    "name": "Rouge",
+                    "code": "luxe_top_rouge"
+                },
+                {
+                    "name": "Solstice Dreams",
+                    "code": "luxe_top_solstice_dreams"
+                },
+                {
+                    "name": "White",
+                    "code": "luxe_top_white"
+                }
+            ]
+        }
+    ]
+}
