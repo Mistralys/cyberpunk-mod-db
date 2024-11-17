@@ -16,35 +16,24 @@
     ],
     "itemCategories": [
         {
-            "label": "Sunglasses with Grille",
+            "label": "Clear Lens with Grille",
             "tags": [],
             "items": [
                 {
                     "name": "Black Frame",
-                    "code": "oversized_heart_glasses_basic_01_kwek"
-                },
-                {
-                    "name": "White Frame",
-                    "code": "oversized_heart_glasses_basic_02_kwek"
-                },
-                {
-                    "name": "Silver Frame",
-                    "code": "oversized_heart_glasses_basic_03_kwek"
+                    "code": "oversized_heart_glasses_basic_12_kwek"
                 },
                 {
                     "name": "Gold Frame",
-                    "code": "oversized_heart_glasses_basic_04_kwek"
+                    "code": "oversized_heart_glasses_basic_13_kwek"
                 },
                 {
-                    "name": "All Pink Limited Edition: La vie en rose!",
-                    "code": "oversized_heart_glasses_basic_14_kwek"
+                    "name": "Silver Frame",
+                    "code": "oversized_heart_glasses_basic_10_kwek"
                 },
                 {
-                    "name": "Holo Lens",
-                    "code": "oversized_heart_glasses_basic_09_kwek",
-                    "tags": [
-                        "Holo"
-                    ]
+                    "name": "White Frame",
+                    "code": "oversized_heart_glasses_basic_11_kwek"
                 }
             ]
         },
@@ -53,42 +42,53 @@
             "tags": [],
             "items": [
                 {
-                    "name": "Silver Frame",
-                    "code": "oversized_heart_glasses_basic_05_kwek"
-                },
-                {
-                    "name": "White Frame",
-                    "code": "oversized_heart_glasses_basic_06_kwek"
-                },
-                {
                     "name": "Black Frame",
                     "code": "oversized_heart_glasses_basic_07_kwek"
                 },
                 {
                     "name": "Gold Frame",
                     "code": "oversized_heart_glasses_basic_08_kwek"
+                },
+                {
+                    "name": "Silver Frame",
+                    "code": "oversized_heart_glasses_basic_05_kwek"
+                },
+                {
+                    "name": "White Frame",
+                    "code": "oversized_heart_glasses_basic_06_kwek"
                 }
             ]
         },
         {
-            "label": "Clear Lens with Grille",
+            "label": "Sunglasses with Grille",
             "tags": [],
             "items": [
                 {
-                    "name": "Silver Frame",
-                    "code": "oversized_heart_glasses_basic_10_kwek"
-                },
-                {
-                    "name": "White Frame",
-                    "code": "oversized_heart_glasses_basic_11_kwek"
+                    "name": "All Pink Limited Edition: La vie en rose!",
+                    "code": "oversized_heart_glasses_basic_14_kwek"
                 },
                 {
                     "name": "Black Frame",
-                    "code": "oversized_heart_glasses_basic_12_kwek"
+                    "code": "oversized_heart_glasses_basic_01_kwek"
                 },
                 {
                     "name": "Gold Frame",
-                    "code": "oversized_heart_glasses_basic_13_kwek"
+                    "code": "oversized_heart_glasses_basic_04_kwek"
+                },
+                {
+                    "name": "Holo Lens",
+                    "code": "oversized_heart_glasses_basic_09_kwek",
+                    "tags": [
+                        "Holo"
+                    ]
+                },
+                {
+                    "name": "Silver Frame",
+                    "code": "oversized_heart_glasses_basic_03_kwek"
+                },
+                {
+                    "name": "White Frame",
+                    "code": "oversized_heart_glasses_basic_02_kwek"
                 }
             ]
         }

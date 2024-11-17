@@ -7,19 +7,19 @@
         "PeachuHime"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
         "Body-Hyst-EBB",
+        "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
     "itemCategories": [
         {
             "label": "",
             "tags": [
-                "Top",
-                "Torso",
                 "Arms",
-                "Sleeves"
+                "Sleeves",
+                "Top",
+                "Torso"
             ],
             "items": [
                 {

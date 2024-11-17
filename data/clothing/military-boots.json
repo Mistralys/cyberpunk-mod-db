@@ -6,16 +6,16 @@
         "ScorpionTank"
     ],
     "tags": [
-        "Clothing",
         "Body-Vanilla",
-        "FemV",
-        "MaleV",
+        "Boots",
+        "Clothing",
         "Feet",
-        "Boots"
+        "FemV",
+        "MaleV"
     ],
     "linkedMods": [
-        "military-combat-armor",
-        "armor-pads-pack"
+        "armor-pads-pack",
+        "military-combat-armor"
     ],
     "comments": "These are a pair of boots that exist in real life and are actively used in various militaries.",
     "itemCategories": [

@@ -7,11 +7,11 @@
         "apzurv"
     ],
     "tags": [
-        "Clothing",
         "Body-Vanilla",
+        "Clothing",
         "FemV",
-        "Hands",
-        "Gloves"
+        "Gloves",
+        "Hands"
     ],
     "itemCategories": [
         {
@@ -19,41 +19,41 @@
             "tags": [],
             "items": [
                 {
-                    "name": "Black and White",
-                    "code": "xrxhalogleft_a"
-                },
-                {
-                    "name": "Black and Grey",
-                    "code": "xrxhalogleft_b"
-                },
-                {
-                    "name": "Black and Red",
-                    "code": "xrxhalogleft_c"
+                    "name": "Black and Blue",
+                    "code": "xrxhalogleft_e"
                 },
                 {
                     "name": "Black and Green",
                     "code": "xrxhalogleft_d"
                 },
                 {
-                    "name": "Black and Blue",
-                    "code": "xrxhalogleft_e"
+                    "name": "Black and Grey",
+                    "code": "xrxhalogleft_b"
                 },
                 {
                     "name": "Black and Pink",
                     "code": "xrxhalogleft_f"
                 },
                 {
-                    "name": "Black and White Glow",
-                    "code": "xrxhalogleft_g",
-                    "tags": [
-                        "Glow"
-                    ]
+                    "name": "Black and Red",
+                    "code": "xrxhalogleft_c"
                 },
                 {
                     "name": "Black and Red Glow",
                     "code": "xrxhalogleft_h",
                     "tags": [
-                        "Glow"
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Black and White",
+                    "code": "xrxhalogleft_a"
+                },
+                {
+                    "name": "Black and White Glow",
+                    "code": "xrxhalogleft_g",
+                    "tags": [
+                        "Emissive"
                     ]
                 }
             ]
@@ -63,41 +63,41 @@
             "tags": [],
             "items": [
                 {
-                    "name": "Black and White",
-                    "code": "xrxhalogright_a"
-                },
-                {
-                    "name": "Black and Grey",
-                    "code": "xrxhalogright_b"
-                },
-                {
-                    "name": "Black and Red",
-                    "code": "xrxhalogright_c"
+                    "name": "Black and Blue",
+                    "code": "xrxhalogright_e"
                 },
                 {
                     "name": "Black and Green",
                     "code": "xrxhalogright_d"
                 },
                 {
-                    "name": "Black and Blue",
-                    "code": "xrxhalogright_e"
+                    "name": "Black and Grey",
+                    "code": "xrxhalogright_b"
                 },
                 {
                     "name": "Black and Pink",
                     "code": "xrxhalogright_f"
                 },
                 {
-                    "name": "Black and White Glow",
-                    "code": "xrxhalogright_g",
-                    "tags": [
-                        "Glow"
-                    ]
+                    "name": "Black and Red",
+                    "code": "xrxhalogright_c"
                 },
                 {
                     "name": "Black and Red Glow",
                     "code": "xrxhalogright_h",
                     "tags": [
-                        "Glow"
+                        "Emissive"
+                    ]
+                },
+                {
+                    "name": "Black and White",
+                    "code": "xrxhalogright_a"
+                },
+                {
+                    "name": "Black and White Glow",
+                    "code": "xrxhalogright_g",
+                    "tags": [
+                        "Emissive"
                     ]
                 }
             ]
