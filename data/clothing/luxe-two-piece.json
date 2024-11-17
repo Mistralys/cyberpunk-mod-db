@@ -6,15 +6,15 @@
         "Nemipies"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
+        "Body-Hyst-Angel",
         "Body-Hyst-EBB",
-        "Body-Hyst-EBBP",
         "Body-Hyst-EBBN",
+        "Body-Hyst-EBBP",
         "Body-Lush",
-        "Body-Angel",
         "Body-VTK-Big",
         "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
     "comments": "No garment support, and not planned.",
@@ -22,21 +22,21 @@
         {
             "label": "Luxe Shorts",
             "tags": [
-                "Legs",
-                "Panties",
-                "Body-Hyst-RB",
-                "Body-Hyst-EBBRB",
+                "Body-Hyst-EBBNRB",
                 "Body-Hyst-EBBPRB",
-                "Body-Hyst-EBBNRB"
+                "Body-Hyst-EBBRB",
+                "Body-Hyst-RB",
+                "Legs",
+                "Panties"
             ],
             "items": [
                 {
-                    "name": "Black Envy",
-                    "code": "luxe_shorts_black_envy"
-                },
-                {
                     "name": "Black",
                     "code": "luxe_shorts_black"
+                },
+                {
+                    "name": "Black Envy",
+                    "code": "luxe_shorts_black_envy"
                 },
                 {
                     "name": "Blue",
@@ -107,17 +107,17 @@
         {
             "label": "Luxe Top",
             "tags": [
-                "Torso",
-                "Bra"
+                "Bra",
+                "Torso"
             ],
             "items": [
                 {
-                    "name": "Black Envy",
-                    "code": "luxe_top_black_envy"
-                },
-                {
                     "name": "Black",
                     "code": "luxe_top_black"
+                },
+                {
+                    "name": "Black Envy",
+                    "code": "luxe_top_black_envy"
                 },
                 {
                     "name": "Blue",
