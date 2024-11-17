@@ -322,6 +322,16 @@
             }
         ]
     },
+    "Body-Songbird": {
+        "description": "Songbird's body for the FemV player character",
+        "category": "Mods - Body Mods - FemV",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/12898"
+            }
+        ]
+    },
     "Body-Spawn0": {
         "description": "Body with a large choice of sizes and CET in-game body swap",
         "category": "Mods - Body Mods - FemV",
