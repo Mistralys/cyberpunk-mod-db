@@ -7,40 +7,12 @@
         "apzurv"
     ],
     "tags": [
-        "Clothing",
+        "Body-Gymfiend",
         "Body-Vanilla",
+        "Clothing",
         "MaleV"
     ],
     "itemCategories": [
-        {
-            "label": "Top",
-            "tags": [
-                "Torso",
-                "Top"
-            ],
-            "items": [
-                {
-                    "name": "White",
-                    "code": "jinkaztop_a"
-                },
-                {
-                    "name": "Red",
-                    "code": "jinkaztop_b"
-                },
-                {
-                    "name": "Green",
-                    "code": "jinkaztop_c"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "jinkaztop_d"
-                },
-                {
-                    "name": "Orange",
-                    "code": "jinkaztop_e"
-                }
-            ]
-        },
         {
             "label": "Pants",
             "tags": [
@@ -49,24 +21,53 @@
             ],
             "items": [
                 {
-                    "name": "White",
-                    "code": "jinkazpants_a"
+                    "name": "Green",
+                    "code": "jinkazpants_c"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jinkazpants_e"
                 },
                 {
                     "name": "Red",
                     "code": "jinkazpants_b"
                 },
                 {
-                    "name": "Green",
-                    "code": "jinkazpants_c"
+                    "name": "White",
+                    "code": "jinkazpants_a"
                 },
                 {
                     "name": "Yellow",
                     "code": "jinkazpants_d"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Green",
+                    "code": "jinkaztop_c"
                 },
                 {
                     "name": "Orange",
-                    "code": "jinkazpants_e"
+                    "code": "jinkaztop_e"
+                },
+                {
+                    "name": "Red",
+                    "code": "jinkaztop_b"
+                },
+                {
+                    "name": "White",
+                    "code": "jinkaztop_a"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "jinkaztop_d"
                 }
             ]
         }
