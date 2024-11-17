@@ -1,0 +1,102 @@
+{
+    "mod": "Shroud",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15576",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "authors": [
+        "yellingintothevoid"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "FemV",
+        "Head"
+    ],
+    "itemCategories": [
+        {
+            "label": "With hair",
+            "tags": [
+                "Hair"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_shroud_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yv_shroud_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "yv_shroud_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "yv_shroud_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yv_shroud_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_shroud_red"
+                },
+                {
+                    "name": "Sky",
+                    "code": "yv_shroud_sky"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_shroud_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "yv_shroud_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Without hair",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_shroud_hair_hider_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yv_shroud_hair_hider_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "yv_shroud_hair_hider_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "yv_shroud_hair_hider_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yv_shroud_hair_hider_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_shroud_hair_hider_red"
+                },
+                {
+                    "name": "Sky",
+                    "code": "yv_shroud_hair_hider_sky"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_shroud_hair_hider_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "yv_shroud_hair_hider_yellow"
+                }
+            ]
+        }
+    ]
+}
