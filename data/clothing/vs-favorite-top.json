@@ -7,18 +7,18 @@
         "sRosapexa"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
-        "Body-VTK-Small",
-        "Body-VTK-Big",
         "Body-Flat",
-        "Body-EBB",
-        "Body-EBBP",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
         "Body-Lush",
         "Body-Songbird",
-        "Torso",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
         "Top",
-        "FemV"
+        "Torso"
     ],
     "itemCategories": [
         {
@@ -26,28 +26,16 @@
             "tags": [],
             "items": [
                 {
-                    "name": "Black and White",
-                    "code": "rosapexa_vs_favorite_top_black_white"
+                    "name": "Aldecaldos",
+                    "code": "rosapexa_vs_favorite_top_aldecaldos"
                 },
                 {
-                    "name": "Black and Red",
-                    "code": "rosapexa_vs_favorite_top_black_red"
+                    "name": "Barghest",
+                    "code": "rosapexa_vs_favorite_top_barghest"
                 },
                 {
-                    "name": "Black and Yellow",
-                    "code": "rosapexa_vs_favorite_top_black_yellow"
-                },
-                {
-                    "name": "Black and Purple",
-                    "code": "rosapexa_vs_favorite_top_black_purple"
-                },
-                {
-                    "name": "Black and Pink",
-                    "code": "rosapexa_vs_favorite_top_black_pink"
-                },
-                {
-                    "name": "Black and Orange",
-                    "code": "rosapexa_vs_favorite_top_black_orange"
+                    "name": "Bats",
+                    "code": "rosapexa_vs_favorite_top_bats"
                 },
                 {
                     "name": "Black and Blue",
@@ -62,88 +50,28 @@
                     "code": "rosapexa_vs_favorite_top_black_light_blue"
                 },
                 {
-                    "name": "Plaid Gray",
-                    "code": "rosapexa_vs_favorite_top_plaid_gray"
+                    "name": "Black and Orange",
+                    "code": "rosapexa_vs_favorite_top_black_orange"
                 },
                 {
-                    "name": "Plaid Red",
-                    "code": "rosapexa_vs_favorite_top_plaid_red"
+                    "name": "Black and Pink",
+                    "code": "rosapexa_vs_favorite_top_black_pink"
                 },
                 {
-                    "name": "Plaid Yellow",
-                    "code": "rosapexa_vs_favorite_top_plaid_yellow"
+                    "name": "Black and Purple",
+                    "code": "rosapexa_vs_favorite_top_black_purple"
                 },
                 {
-                    "name": "Plaid Purple",
-                    "code": "rosapexa_vs_favorite_top_plaid_purple"
+                    "name": "Black and Red",
+                    "code": "rosapexa_vs_favorite_top_black_red"
                 },
                 {
-                    "name": "Plaid Pink",
-                    "code": "rosapexa_vs_favorite_top_plaid_pink"
+                    "name": "Black and White",
+                    "code": "rosapexa_vs_favorite_top_black_white"
                 },
                 {
-                    "name": "Plaid Orange",
-                    "code": "rosapexa_vs_favorite_top_plaid_orange"
-                },
-                {
-                    "name": "Plaid Blue",
-                    "code": "rosapexa_vs_favorite_top_plaid_blue"
-                },
-                {
-                    "name": "Plaid Green",
-                    "code": "rosapexa_vs_favorite_top_plaid_green"
-                },
-                {
-                    "name": "Plaid Light Blue",
-                    "code": "rosapexa_vs_favorite_top_plaid_light_blue"
-                },
-                {
-                    "name": "Samurai 01",
-                    "code": "rosapexa_vs_favorite_top_samurai_01"
-                },
-                {
-                    "name": "Samurai 02",
-                    "code": "rosapexa_vs_favorite_top_samurai_02"
-                },
-                {
-                    "name": "Ghost 01",
-                    "code": "rosapexa_vs_favorite_top_ghost_01"
-                },
-                {
-                    "name": "Ghost 02",
-                    "code": "rosapexa_vs_favorite_top_ghost_02"
-                },
-                {
-                    "name": "Dogwoods 01",
-                    "code": "rosapexa_vs_favorite_top_dogwoods_01"
-                },
-                {
-                    "name": "Dogwoods 02",
-                    "code": "rosapexa_vs_favorite_top_dogwoods_02"
-                },
-                {
-                    "name": "Dogwoods 03",
-                    "code": "rosapexa_vs_favorite_top_dogwoods_03"
-                },
-                {
-                    "name": "Skulls 01",
-                    "code": "rosapexa_vs_favorite_top_skulls_01"
-                },
-                {
-                    "name": "Skulls 02",
-                    "code": "rosapexa_vs_favorite_top_skulls_02"
-                },
-                {
-                    "name": "Skulls 03",
-                    "code": "rosapexa_vs_favorite_top_skulls_03"
-                },
-                {
-                    "name": "Maelstrom 01",
-                    "code": "rosapexa_vs_favorite_top_maelstrom_01"
-                },
-                {
-                    "name": "Maelstrom 02",
-                    "code": "rosapexa_vs_favorite_top_maelstrom_02"
+                    "name": "Black and Yellow",
+                    "code": "rosapexa_vs_favorite_top_black_yellow"
                 },
                 {
                     "name": "Butterflies 01",
@@ -170,56 +98,8 @@
                     "code": "rosapexa_vs_favorite_top_cherries_02"
                 },
                 {
-                    "name": "Aldecaldos",
-                    "code": "rosapexa_vs_favorite_top_aldecaldos"
-                },
-                {
-                    "name": "Barghest",
-                    "code": "rosapexa_vs_favorite_top_barghest"
-                },
-                {
-                    "name": "Jack Skellington",
-                    "code": "rosapexa_vs_favorite_top_jack_skellington"
-                },
-                {
-                    "name": "Skull and Bones",
-                    "code": "rosapexa_vs_favorite_top_skull_and_bones"
-                },
-                {
-                    "name": "Bats",
-                    "code": "rosapexa_vs_favorite_top_bats"
-                },
-                {
-                    "name": "Mox",
-                    "code": "rosapexa_vs_favorite_top_mox"
-                },
-                {
-                    "name": "Valentinos",
-                    "code": "rosapexa_vs_favorite_top_valentinos"
-                },
-                {
-                    "name": "Pandas",
-                    "code": "rosapexa_vs_favorite_top_pandas"
-                },
-                {
-                    "name": "Hearts 01",
-                    "code": "rosapexa_vs_favorite_top_hearts_01"
-                },
-                {
-                    "name": "Hearts 02",
-                    "code": "rosapexa_vs_favorite_top_hearts_02"
-                },
-                {
-                    "name": "Stars",
-                    "code": "rosapexa_vs_favorite_top_stars"
-                },
-                {
-                    "name": "Salem",
-                    "code": "rosapexa_vs_favorite_top_salem"
-                },
-                {
-                    "name": "Minion",
-                    "code": "rosapexa_vs_favorite_top_minion"
+                    "name": "Cyberpunk 2077",
+                    "code": "rosapexa_vs_favorite_top_cyberpunk_2077"
                 },
                 {
                     "name": "Daisies 01",
@@ -230,6 +110,126 @@
                     "code": "rosapexa_vs_favorite_top_daisies_02"
                 },
                 {
+                    "name": "Dogwoods 01",
+                    "code": "rosapexa_vs_favorite_top_dogwoods_01"
+                },
+                {
+                    "name": "Dogwoods 02",
+                    "code": "rosapexa_vs_favorite_top_dogwoods_02"
+                },
+                {
+                    "name": "Dogwoods 03",
+                    "code": "rosapexa_vs_favorite_top_dogwoods_03"
+                },
+                {
+                    "name": "Ghost 01",
+                    "code": "rosapexa_vs_favorite_top_ghost_01"
+                },
+                {
+                    "name": "Ghost 02",
+                    "code": "rosapexa_vs_favorite_top_ghost_02"
+                },
+                {
+                    "name": "Hearts 01",
+                    "code": "rosapexa_vs_favorite_top_hearts_01"
+                },
+                {
+                    "name": "Hearts 02",
+                    "code": "rosapexa_vs_favorite_top_hearts_02"
+                },
+                {
+                    "name": "Jack Skellington",
+                    "code": "rosapexa_vs_favorite_top_jack_skellington"
+                },
+                {
+                    "name": "Kinda OG",
+                    "code": "rosapexa_vs_favorite_top_kinda_og"
+                },
+                {
+                    "name": "Maelstrom 01",
+                    "code": "rosapexa_vs_favorite_top_maelstrom_01"
+                },
+                {
+                    "name": "Maelstrom 02",
+                    "code": "rosapexa_vs_favorite_top_maelstrom_02"
+                },
+                {
+                    "name": "Minion",
+                    "code": "rosapexa_vs_favorite_top_minion"
+                },
+                {
+                    "name": "Mox",
+                    "code": "rosapexa_vs_favorite_top_mox"
+                },
+                {
+                    "name": "Pandas",
+                    "code": "rosapexa_vs_favorite_top_pandas"
+                },
+                {
+                    "name": "Plaid Blue",
+                    "code": "rosapexa_vs_favorite_top_plaid_blue"
+                },
+                {
+                    "name": "Plaid Gray",
+                    "code": "rosapexa_vs_favorite_top_plaid_gray"
+                },
+                {
+                    "name": "Plaid Green",
+                    "code": "rosapexa_vs_favorite_top_plaid_green"
+                },
+                {
+                    "name": "Plaid Light Blue",
+                    "code": "rosapexa_vs_favorite_top_plaid_light_blue"
+                },
+                {
+                    "name": "Plaid Orange",
+                    "code": "rosapexa_vs_favorite_top_plaid_orange"
+                },
+                {
+                    "name": "Plaid Pink",
+                    "code": "rosapexa_vs_favorite_top_plaid_pink"
+                },
+                {
+                    "name": "Plaid Purple",
+                    "code": "rosapexa_vs_favorite_top_plaid_purple"
+                },
+                {
+                    "name": "Plaid Red",
+                    "code": "rosapexa_vs_favorite_top_plaid_red"
+                },
+                {
+                    "name": "Plaid Yellow",
+                    "code": "rosapexa_vs_favorite_top_plaid_yellow"
+                },
+                {
+                    "name": "Salem",
+                    "code": "rosapexa_vs_favorite_top_salem"
+                },
+                {
+                    "name": "Samurai 01",
+                    "code": "rosapexa_vs_favorite_top_samurai_01"
+                },
+                {
+                    "name": "Samurai 02",
+                    "code": "rosapexa_vs_favorite_top_samurai_02"
+                },
+                {
+                    "name": "Skull and Bones",
+                    "code": "rosapexa_vs_favorite_top_skull_and_bones"
+                },
+                {
+                    "name": "Skulls 01",
+                    "code": "rosapexa_vs_favorite_top_skulls_01"
+                },
+                {
+                    "name": "Skulls 02",
+                    "code": "rosapexa_vs_favorite_top_skulls_02"
+                },
+                {
+                    "name": "Skulls 03",
+                    "code": "rosapexa_vs_favorite_top_skulls_03"
+                },
+                {
                     "name": "Skulls 04",
                     "code": "rosapexa_vs_favorite_top_skulls_04"
                 },
@@ -238,16 +238,16 @@
                     "code": "rosapexa_vs_favorite_top_skulls_05"
                 },
                 {
+                    "name": "Stars",
+                    "code": "rosapexa_vs_favorite_top_stars"
+                },
+                {
                     "name": "Sticker Bomb",
                     "code": "rosapexa_vs_favorite_top_sticker_bomb"
                 },
                 {
-                    "name": "Kinda OG",
-                    "code": "rosapexa_vs_favorite_top_kinda_og"
-                },
-                {
-                    "name": "Cyberpunk 2077",
-                    "code": "rosapexa_vs_favorite_top_cyberpunk_2077"
+                    "name": "Valentinos",
+                    "code": "rosapexa_vs_favorite_top_valentinos"
                 }
             ]
         }
