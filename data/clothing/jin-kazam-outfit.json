@@ -1,0 +1,74 @@
+{
+    "mod": "Jin Kazam Tekken Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15049",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Top",
+            "tags": [
+                "Torso",
+                "Top"
+            ],
+            "items": [
+                {
+                    "name": "White",
+                    "code": "jinkaztop_a"
+                },
+                {
+                    "name": "Red",
+                    "code": "jinkaztop_b"
+                },
+                {
+                    "name": "Green",
+                    "code": "jinkaztop_c"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "jinkaztop_d"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jinkaztop_e"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "White",
+                    "code": "jinkazpants_a"
+                },
+                {
+                    "name": "Red",
+                    "code": "jinkazpants_b"
+                },
+                {
+                    "name": "Green",
+                    "code": "jinkazpants_c"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "jinkazpants_d"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jinkazpants_e"
+                }
+            ]
+        }
+    ]
+}
