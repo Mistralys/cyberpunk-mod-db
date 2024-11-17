@@ -2,6 +2,7 @@
 - Mods: Added "Shroud" by yellingintothevoid.
 - Mods: Added "V's Favorite Top" by Rosapexa.
 - Mods: Added "Luxe Two-Piece" by Nemipies.
+- Mods: Added "Jin Kazam Outfit" by apzurv.
 - Mods: Fixed some mod files not having been normalized.
 - Commands: Added the `normalize-all` command.
 - Tags: Added `Body-Songbird` tag.
