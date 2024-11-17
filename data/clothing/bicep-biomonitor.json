@@ -1,0 +1,37 @@
+{
+    "mod": "Bicep Biomonitor",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16545",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/15765",
+    "authors": [
+        "707 Tactical"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "MaleV",
+        "Arms",
+        "Accessories"
+    ],
+    "seeAlso": [
+        {
+            "url": "https://www.nexusmods.com/cyberpunk2077/mods/8985",
+            "label": "Same item for FemV"
+        }
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Blue Screen",
+                    "code": "caibro_monitor_default"
+                },
+                {
+                    "name": "Red Screen",
+                    "code": "caibro_monitor_red"
+                }
+            ]
+        }
+    ]
+}
