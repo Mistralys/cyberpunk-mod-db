@@ -155,7 +155,8 @@
         "relatedTags": [
             "Body-Hyst-EBBRB",
             "Body-Hyst-EBBP",
-            "Body-Hyst-EBBPRB"
+            "Body-Hyst-EBBPRB",
+            "Body-Hyst-EBBN"
         ],
         "links": [
             {
@@ -165,6 +166,38 @@
         ],
         "aliases": [
             "body-ebb"
+        ]
+    },
+    "Body-Hyst-EBBN": {
+        "description": "Enhanced Big Breasts Natural",
+        "category": "Mods - Body Mods - FemV",
+        "relatedTags": [
+            "Body-Hyst-EBBNRB"
+        ],
+        "aliases": [
+            "body-ebbn"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4654"
+            }
+        ]
+    },
+    "Body-Hyst-EBBNRB": {
+        "description": "Enhanced Big Breasts Natural and Realistic Butt",
+        "category": "Mods - Body Mods - FemV",
+        "relatedTags": [
+            "Body-Hyst-EBBN"
+        ],
+        "aliases": [
+            "body-ebbnrb"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4654"
+            }
         ]
     },
     "Body-Hyst-EBBP": {
