@@ -118,10 +118,7 @@ function normalizeFile(JSONFile $file) : void
 
     $converted['itemCategories'] = $keep;
 
-    JSONFile::factory($file->getFolderPath().'/normalized/'. $file->getName())
-        ->setEscapeSlashes(false)
-        ->setTrailingNewline(true)
-        ->putData($converted, true);
+    $file->putData($converted, true);
 
     logInfo('File normalized successfully.');
     logEmptyLine();
