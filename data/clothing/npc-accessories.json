@@ -1,0 +1,147 @@
+{
+    "mod": "NPC Accessories",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8985",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8853",
+    "authors": [
+        "DISCO",
+        "deadengine959"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "FemV"
+    ],
+    "relatedMods": [
+        "bicep-biomonitor"
+    ],
+    "itemCategories": [
+        {
+            "label": "Gun Harness",
+            "tags": [
+                "Accessories",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "gun_harness"
+                },
+                {
+                    "name": "Pink",
+                    "code": "gun_harness_pink"
+                },
+                {
+                    "name": "Green",
+                    "code": "gun_harness_green"
+                },
+                {
+                    "name": "White",
+                    "code": "gun_harness_white"
+                },
+                {
+                    "name": "Leather",
+                    "code": "gun_harness_leather"
+                },
+                {
+                    "name": "Gold",
+                    "code": "gun_harness_gold"
+                },
+                {
+                    "name": "Zebra",
+                    "code": "gun_harness_zebra"
+                }
+            ]
+        },
+        {
+            "label": "Mox Belt",
+            "tags": [
+                "Waist",
+                "Belt"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "mox_belt"
+                },
+                {
+                    "name": "Snake",
+                    "code": "mox_belt_snake"
+                },
+                {
+                    "name": "Blue",
+                    "code": "mox_belt_blue"
+                },
+                {
+                    "name": "Metallic",
+                    "code": "mox_belt_metallic"
+                }
+            ]
+        },
+        {
+            "label": "Calf Baton",
+            "tags": [
+                "Legs",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "baton"
+                }
+            ]
+        },
+        {
+            "label": "Biomonitor",
+            "tags": [
+                "Arms",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Biomonitor",
+                    "code": "arm1"
+                }
+            ]
+        },
+        {
+            "label": "Necklaces",
+            "tags": [
+                "Jewelry",
+                "Neck",
+                "Necklace"
+            ],
+            "items": [
+                {
+                    "name": "Maman Brigitte's Necklace",
+                    "code": "maman_necklace"
+                }
+            ]
+        },
+        {
+            "label": "Fanny Bag",
+            "tags": [
+                "Torso",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Grey Bag",
+                    "code": "fanny"
+                }
+            ]
+        },
+        {
+            "label": "Mechanic's Belt",
+            "tags": [
+                "Waist",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Claire's Belt",
+                    "code": "arm2"
+                }
+            ]
+        }
+    ]
+}
