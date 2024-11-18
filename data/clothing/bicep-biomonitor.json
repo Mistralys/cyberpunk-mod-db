@@ -12,11 +12,9 @@
         "Arms",
         "Accessories"
     ],
-    "seeAlso": [
-        {
-            "url": "https://www.nexusmods.com/cyberpunk2077/mods/8985",
-            "label": "Same item for FemV"
-        }
+    "comments": "Item available for FemV in the NPC Accessories mod.",
+    "relatedMods": [
+        "npc-accessories"
     ],
     "itemCategories": [
         {
