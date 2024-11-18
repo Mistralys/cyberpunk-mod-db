@@ -56,6 +56,12 @@ function normalizeFile(JSONFile $file) : void
     logHeader('Data file [%s] - Normalizing structure', $file->getName());
 
     $data = $file->parse();
+
+    if(!empty($data['relatedMods'])) {
+        $data['linkedMods'] = $data['relatedMods'];
+        unset($data['relatedMods']);
+    }
+
     $converted = array();
 
     foreach(KEYS_ORDER as $key => $value) {
