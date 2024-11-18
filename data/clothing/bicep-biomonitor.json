@@ -13,7 +13,7 @@
         "Accessories"
     ],
     "comments": "Item available for FemV in the NPC Accessories mod.",
-    "relatedMods": [
+    "linkedMods": [
         "npc-accessories"
     ],
     "itemCategories": [
