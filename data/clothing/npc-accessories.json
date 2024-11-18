@@ -7,14 +7,53 @@
         "deadengine959"
     ],
     "tags": [
-        "Clothing",
         "Body-Vanilla",
+        "Clothing",
         "FemV"
     ],
-    "relatedMods": [
+    "linkedMods": [
         "bicep-biomonitor"
     ],
     "itemCategories": [
+        {
+            "label": "Biomonitor",
+            "tags": [
+                "Accessories",
+                "Arms"
+            ],
+            "items": [
+                {
+                    "name": "Biomonitor",
+                    "code": "arm1"
+                }
+            ]
+        },
+        {
+            "label": "Calf Baton",
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "baton"
+                }
+            ]
+        },
+        {
+            "label": "Fanny Bag",
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Grey Bag",
+                    "code": "fanny"
+                }
+            ]
+        },
         {
             "label": "Gun Harness",
             "tags": [
@@ -27,24 +66,24 @@
                     "code": "gun_harness"
                 },
                 {
-                    "name": "Pink",
-                    "code": "gun_harness_pink"
+                    "name": "Gold",
+                    "code": "gun_harness_gold"
                 },
                 {
                     "name": "Green",
                     "code": "gun_harness_green"
                 },
                 {
-                    "name": "White",
-                    "code": "gun_harness_white"
-                },
-                {
                     "name": "Leather",
                     "code": "gun_harness_leather"
                 },
                 {
-                    "name": "Gold",
-                    "code": "gun_harness_gold"
+                    "name": "Pink",
+                    "code": "gun_harness_pink"
+                },
+                {
+                    "name": "White",
+                    "code": "gun_harness_white"
                 },
                 {
                     "name": "Zebra",
@@ -53,53 +92,40 @@
             ]
         },
         {
-            "label": "Mox Belt",
+            "label": "Mechanic's Belt",
             "tags": [
-                "Waist",
-                "Belt"
+                "Accessories",
+                "Waist"
             ],
             "items": [
                 {
-                    "name": "Default",
-                    "code": "mox_belt"
-                },
-                {
-                    "name": "Snake",
-                    "code": "mox_belt_snake"
-                },
+                    "name": "Claire's Belt",
+                    "code": "arm2"
+                }
+            ]
+        },
+        {
+            "label": "Mox Belt",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
                 {
                     "name": "Blue",
                     "code": "mox_belt_blue"
                 },
                 {
+                    "name": "Default",
+                    "code": "mox_belt"
+                },
+                {
                     "name": "Metallic",
                     "code": "mox_belt_metallic"
-                }
-            ]
-        },
-        {
-            "label": "Calf Baton",
-            "tags": [
-                "Legs",
-                "Accessories"
-            ],
-            "items": [
+                },
                 {
-                    "name": "Default",
-                    "code": "baton"
-                }
-            ]
-        },
-        {
-            "label": "Biomonitor",
-            "tags": [
-                "Arms",
-                "Accessories"
-            ],
-            "items": [
-                {
-                    "name": "Biomonitor",
-                    "code": "arm1"
+                    "name": "Snake",
+                    "code": "mox_belt_snake"
                 }
             ]
         },
@@ -114,32 +140,6 @@
                 {
                     "name": "Maman Brigitte's Necklace",
                     "code": "maman_necklace"
-                }
-            ]
-        },
-        {
-            "label": "Fanny Bag",
-            "tags": [
-                "Torso",
-                "Accessories"
-            ],
-            "items": [
-                {
-                    "name": "Grey Bag",
-                    "code": "fanny"
-                }
-            ]
-        },
-        {
-            "label": "Mechanic's Belt",
-            "tags": [
-                "Waist",
-                "Accessories"
-            ],
-            "items": [
-                {
-                    "name": "Claire's Belt",
-                    "code": "arm2"
                 }
             ]
         }
