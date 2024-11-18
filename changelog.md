@@ -3,6 +3,8 @@
 - Mods: Added "V's Favorite Top" by Rosapexa.
 - Mods: Added "Luxe Two-Piece" by Nemipies.
 - Mods: Added "Jin Kazam Outfit" by apzurv.
+- Mods: Added "Bicep Biomonitor" by 707 Tactical.
+- Mods: Added "NPC Accessories" by DISCO.
 - Mods: Fixed some mod files not having been normalized.
 - Commands: Added the `normalize-all` command.
 - Tags: Added `Body-Songbird` tag.
