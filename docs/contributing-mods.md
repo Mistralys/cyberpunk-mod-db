@@ -146,8 +146,8 @@ I will consider adding or replacing them.
 
 ### The Philosophy
 
-The mod screenshots are uniform in order to best showcase the items the mods
-add. The goal is to provide a clear view of the items, and to make it easy
+The mod screenshots are uniform to best showcase the items the mods add. 
+The goal is to provide a clear view of the items, and to make it easy
 to compare them.
 
 The original mod pages are linked in the database, so it's easy to go there to
@@ -188,13 +188,12 @@ as the need arises.
 
 ## JSON Structure Reference
 
-The JSON format is quite simple:
-
 ```json
 {
   "mod": "Mod Name",
   "url": "https://www.nexusmods.com/cyberpunk2077/mods/1234",
   "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/1234",
+  "atelierName": "Someone's Awesome Store",
   "authors": [
     "Author 1", 
     "Author 2"
@@ -218,6 +217,7 @@ The JSON format is quite simple:
       "label": "Optional link label"
     }
   ],
+  "searchTweaks": "space separated words",
   "itemCategories": [
     {
       "label": "Category name",
@@ -241,20 +241,22 @@ The JSON format is quite simple:
 - `mod`: The name of the mod.
 - `url`: The URL to the mod on Nexus Mods or other mods site (must be publicly available).
 - `atelier`: The URL to the mod's Virtual Atelier mod (if any).
-- `authors`: A list of authors of the mod.
-- `tags`: A list of tags identifying dependencies to other mods and the kind of items. See [Tags Legend](#tags-legend) for a list.
+- `atelierName`: The original name of the Atelier mod (if any).
+- `authors`: A list of mod author names.
+- `tags`: A list of tags identifying dependencies to other mods and the kind of items.
 - `comments`: Optional comments about the mod.
 - `linkedMods`: Optional list of mod IDs that are related to this mod.
 - `seeAlso`: Optional list of links to related mods or pages.
     - `url`: The URL to the related page.
     - `label`: Optional label for the link.
+- `searchTweaks`: Optional space-separated list of words to help prefix search engines like [MeiliSearch](https://www.meilisearch.com/) or [Loupe](https://github.com/loupe-php/loupe). These engines only search at the beginning of words, so searching for "flower" will not find "sunflower". Adding "flower" to the search tweaks makes it possible to fix this issue.
 - `itemCategories`: Categories for each type of item added by the mod.
     - `label`: The name of the category.
-    - `tags`: Optional list of tags for the category. Inherited by all items.
+    - `tags`: Optional: Tags specific to the category. Inherited by all items.
     - `items`: A list of items in this category.
         - `name`: The name of the item.
         - `code`: The item's code (either in the mod description, or in the mod's `yaml` file).
-        - `tags`: Optional tags for the item.
+        - `tags`: Optional: Tags specific to the item.
 
 See the [tagging reference](tagging-reference.md) for more information on how to use
 tags, and which ones can be used.
