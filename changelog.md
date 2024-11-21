@@ -4,6 +4,7 @@
 - Data: Added the `ateliers.json` that contains all virtual atelier mods in the database.
 - Commands: Normalizing now adds the atelier name automatically.
 - Commands: Added PHP constants for all keys in the JSON.
+- Docs: Added a list of all atelier mods.
 
 ## v2.0.11 - New mods
 - Mods: Added "Shroud" by yellingintothevoid.
