@@ -24,7 +24,9 @@
       "bin/assets/functions.php",
       "bin/assets/generate-mods-list.php",
       "bin/assets/generate-tags-reference.php",
-      "bin/assets/normalize.php"
+      "bin/assets/key-defs.php",
+      "bin/assets/normalize.php",
+      "bin/assets/search-terms.php"
     ]
   }
 }
