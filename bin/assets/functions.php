@@ -177,3 +177,16 @@ function getCategorySkeleton(?string $label=null) : array
         )
     );
 }
+
+function getAteliersFile() : JSONFile
+{
+    return JSONFile::factory(__DIR__.'/../../data/ateliers.json')
+        ->setPrettyPrint(true)
+        ->setTrailingNewline(true)
+        ->setEscapeSlashes(false);
+}
+
+function getAteliers() : array
+{
+    return getAteliersFile()->getData();
+}
