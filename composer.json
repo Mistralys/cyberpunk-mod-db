@@ -22,6 +22,7 @@
       "bin/assets/check-screenshots.php",
       "bin/assets/create-new.php",
       "bin/assets/functions.php",
+      "bin/assets/generate-ateliers-reference.php",
       "bin/assets/generate-mods-list.php",
       "bin/assets/generate-tags-reference.php",
       "bin/assets/key-defs.php",
