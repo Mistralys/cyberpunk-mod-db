@@ -186,7 +186,19 @@ function getAteliersFile() : JSONFile
         ->setEscapeSlashes(false);
 }
 
+/**
+ * @return array<string,array{url:string,name:string,authors:string[]}>
+ * @throws FileHelper_Exception
+ */
 function getAteliers() : array
 {
-    return getAteliersFile()->getData();
+    if(isset($GLOBALS['__ateliers'])) {
+        return $GLOBALS['__ateliers'];
+    }
+
+    $ateliers = getAteliersFile()->getData();
+
+    $GLOBALS['__ateliers'] = $ateliers;
+
+    return $ateliers;
 }
