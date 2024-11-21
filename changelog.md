@@ -1,3 +1,10 @@
+## v2.1.0 - New data keys, ateliers database
+- Data: Added the `atelierName` key to specify the name of the atelier mod.
+- Data: Added the `searchTweaks` key to solve the wildcard search issue.
+- Data: Added the `ateliers.json` that contains all virtual atelier mods in the database.
+- Commands: Normalizing now adds the atelier name automatically.
+- Commands: Added PHP constants for all keys in the JSON.
+
 ## v2.0.11 - New mods
 - Mods: Added "Shroud" by yellingintothevoid.
 - Mods: Added "V's Favorite Top" by Rosapexa.
