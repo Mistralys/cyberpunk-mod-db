@@ -1,0 +1,54 @@
+{
+    "mod": "Starlight Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15638",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14797",
+    "authors": [
+        "Dusty2077"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "Body-Angel",
+        "Body-EBB",
+        "Body-EBBP",
+        "Body-EBBPRB",
+        "Body-EBBRB",
+        "Body-RB",
+        "Body-VTK-Small",
+        "FullBody",
+        "Dress",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "dusty_starlightdress_default"
+                },
+                {
+                    "name": "Pink",
+                    "code": "dusty_starlightdress_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "dusty_starlightdress_red"
+                },
+                {
+                    "name": "Black",
+                    "code": "dusty_starlightdress_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "dusty_starlightdress_blue"
+                },
+                {
+                    "name": "Gold",
+                    "code": "dusty_starlightdress_gold"
+                }
+            ]
+        }
+    ]
+}
