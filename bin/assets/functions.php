@@ -198,6 +198,10 @@ function getAteliers() : array
 
     $ateliers = getAteliersFile()->getData();
 
+    uasort($ateliers, function($a, $b) {
+        return strcasecmp($a[KEY_ATELIERS_NAME], $b[KEY_ATELIERS_NAME]);
+    });
+
     $GLOBALS['__ateliers'] = $ateliers;
 
     return $ateliers;
