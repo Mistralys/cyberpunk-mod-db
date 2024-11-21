@@ -2,6 +2,7 @@
     "mod": "Chain Top",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8327",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8183",
+    "atelierName": "Veegee Shop",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -12,6 +13,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "",

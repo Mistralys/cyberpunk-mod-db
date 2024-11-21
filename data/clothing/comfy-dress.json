@@ -2,6 +2,7 @@
     "mod": "Comfy Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16026",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/15184",
+    "atelierName": "TLS and Mayo Virtual Atelier",
     "authors": [
         "NotMayoSan",
         "TheLoneStrider",
@@ -22,6 +23,7 @@
         "FemV",
         "FullBody"
     ],
+    "searchTweaks": "lone strider",
     "itemCategories": [
         {
             "label": "",

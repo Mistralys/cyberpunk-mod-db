@@ -2,6 +2,7 @@
     "mod": "Sports Leggings",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/4716",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "atelierName": "Kwek's Family Jewels",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -15,6 +16,7 @@
         "Leggings",
         "Legs"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

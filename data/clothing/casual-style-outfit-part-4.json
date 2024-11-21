@@ -2,6 +2,7 @@
     "mod": "Casual Style Outfit - Part IV",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14504",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -21,6 +22,7 @@
         "casual-style-outfit-part-2",
         "casual-style-outfit-part-8"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "Gloves",

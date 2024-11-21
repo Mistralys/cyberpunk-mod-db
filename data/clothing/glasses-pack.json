@@ -2,6 +2,7 @@
     "mod": "Glasses Pack",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/13095",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8688",
+    "atelierName": "Veegee Jewelry Shop",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -11,6 +12,7 @@
         "Glasses",
         "Head"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "Butterfly",

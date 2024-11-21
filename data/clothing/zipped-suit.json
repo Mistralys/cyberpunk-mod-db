@@ -2,6 +2,7 @@
     "mod": "Zipped Suit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8484",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "atelierName": "MONSTERaider Atelier Store",
     "authors": [
         "MONSTERaider"
     ],
@@ -14,6 +15,7 @@
         "FemV",
         "Modular"
     ],
+    "searchTweaks": "raider",
     "itemCategories": [
         {
             "label": "Decals",

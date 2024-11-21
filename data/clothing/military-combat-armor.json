@@ -2,6 +2,7 @@
     "mod": "Military Combat Armor",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/13212",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/10090",
+    "atelierName": "Zenitex Atelier",
     "authors": [
         "Gorefiend",
         "ScorpionTank"
@@ -35,6 +36,7 @@
             "label": "All related Mods"
         }
     ],
+    "searchTweaks": "tank",
     "itemCategories": [
         {
             "label": "Chestplate",

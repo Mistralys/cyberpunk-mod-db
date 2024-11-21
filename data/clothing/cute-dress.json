@@ -2,6 +2,7 @@
     "mod": "Cute Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/6193",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -9,6 +10,7 @@
     "tags": [
         "FemV"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

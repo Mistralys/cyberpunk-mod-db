@@ -2,6 +2,7 @@
     "mod": "Evangelion Misato Outfit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14653",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -15,6 +16,7 @@
     "linkedMods": [
         "evangelion-plugsuits"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "Dress",

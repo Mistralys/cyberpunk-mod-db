@@ -2,6 +2,7 @@
     "mod": "Arasaka Sports Wear V2",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/4890",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -11,6 +12,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

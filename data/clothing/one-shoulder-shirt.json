@@ -2,6 +2,7 @@
     "mod": "One-Shoulder Shirt",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7267",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "atelierName": "Nola Dreamer Boutique",
     "authors": [
         "NolaDreamer"
     ],
@@ -19,6 +20,7 @@
         "Top",
         "Torso"
     ],
+    "searchTweaks": "dreamer",
     "itemCategories": [
         {
             "label": "",

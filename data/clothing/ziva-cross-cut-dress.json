@@ -2,6 +2,7 @@
     "mod": "Ziva Cross Cut Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16620",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -16,6 +17,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "Dress",

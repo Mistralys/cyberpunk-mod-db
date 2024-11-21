@@ -2,6 +2,7 @@
     "mod": "Jacket Bolero Hex",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16378",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -11,6 +12,7 @@
         "Jacket",
         "Torso"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

@@ -2,6 +2,7 @@
     "mod": "Zip-Up Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/13758",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6572",
+    "atelierName": "VV0LFDEN - Virtual Atelier Store",
     "authors": [
         "Halkuonn"
     ],
@@ -22,6 +23,7 @@
         "FemV",
         "FullBody"
     ],
+    "searchTweaks": "den wolf",
     "itemCategories": [
         {
             "label": "Floral Pattern",

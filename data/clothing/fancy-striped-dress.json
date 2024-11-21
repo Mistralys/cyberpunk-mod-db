@@ -2,6 +2,7 @@
     "mod": "Fancy Striped Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8843",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+    "atelierName": "The Rvcoon Dumpster",
     "authors": [
         "PinkyDude"
     ],
@@ -10,6 +11,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
             "label": "",

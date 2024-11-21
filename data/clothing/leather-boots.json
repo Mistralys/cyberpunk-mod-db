@@ -2,6 +2,7 @@
     "mod": "Leather Boots",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15749",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -12,6 +13,7 @@
         "FemV",
         "MaleV"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

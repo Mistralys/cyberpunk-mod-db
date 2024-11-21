@@ -2,6 +2,7 @@
     "mod": "Peachu Top",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7603",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6943",
+    "atelierName": "Peachu and Hyst Atelier Store",
     "authors": [
         "Peachu",
         "PeachuHime"
@@ -12,6 +13,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "hime",
     "itemCategories": [
         {
             "label": "",

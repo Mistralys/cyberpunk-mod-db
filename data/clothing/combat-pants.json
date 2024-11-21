@@ -2,6 +2,7 @@
     "mod": "Combat Pants",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/9016",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8183",
+    "atelierName": "Veegee Shop",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -14,6 +15,7 @@
         "FemV",
         "MaleV"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "",

@@ -2,6 +2,7 @@
     "mod": "Assassin Outfit - Part II",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15453",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -21,6 +22,7 @@
     "linkedMods": [
         "assassin-outfit"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "Arm Rings (Left)",

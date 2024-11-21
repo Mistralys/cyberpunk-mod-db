@@ -2,6 +2,7 @@
     "mod": "Beaded Choker",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/6978",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+    "atelierName": "Complectedd Necklace Atelier",
     "authors": [
         "complectedd",
         "mistshield"
@@ -13,6 +14,7 @@
         "Jewelry",
         "Neck"
     ],
+    "searchTweaks": "shield",
     "itemCategories": [
         {
             "label": "",

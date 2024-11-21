@@ -2,6 +2,7 @@
     "mod": "Lace-Up Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16927",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16929",
+    "atelierName": "Neuromance",
     "authors": [
         "CaffeinatedRogue"
     ],
@@ -23,6 +24,7 @@
         "FemV",
         "FullBody"
     ],
+    "searchTweaks": "rogue",
     "itemCategories": [
         {
             "label": "Floral Pattern Dress",

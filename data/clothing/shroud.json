@@ -2,6 +2,7 @@
     "mod": "Shroud",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15576",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "atelierName": "Voidwear Virtual Atelier",
     "authors": [
         "yellingintothevoid"
     ],
@@ -11,6 +12,7 @@
         "FemV",
         "Head"
     ],
+    "searchTweaks": "into void",
     "itemCategories": [
         {
             "label": "With hair",

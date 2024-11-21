@@ -2,6 +2,7 @@
     "mod": "Military Boots",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14781",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/10090",
+    "atelierName": "Zenitex Atelier",
     "authors": [
         "ScorpionTank"
     ],
@@ -18,6 +19,7 @@
         "military-combat-armor"
     ],
     "comments": "These are a pair of boots that exist in real life and are actively used in various militaries.",
+    "searchTweaks": "tank",
     "itemCategories": [
         {
             "label": "",

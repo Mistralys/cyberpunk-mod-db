@@ -2,6 +2,7 @@
     "mod": "Casual T-Shirt with Pockets and Decals",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14645",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "atelierName": "Voidwear Virtual Atelier",
     "authors": [
         "yellingintothevoid"
     ],
@@ -15,6 +16,7 @@
         "FemV",
         "Modular"
     ],
+    "searchTweaks": "into void",
     "itemCategories": [
         {
             "label": "Decals",

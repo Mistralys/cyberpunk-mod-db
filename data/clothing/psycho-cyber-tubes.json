@@ -2,6 +2,7 @@
     "mod": "Psycho Cyber-Tubes",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7860",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7448",
+    "atelierName": "Viktor Vektor Store",
     "authors": [
         "MONSTERaider"
     ],
@@ -13,6 +14,7 @@
         "FemV",
         "MaleV"
     ],
+    "searchTweaks": "raider",
     "itemCategories": [
         {
             "label": "Both Arms (Combined Version)",

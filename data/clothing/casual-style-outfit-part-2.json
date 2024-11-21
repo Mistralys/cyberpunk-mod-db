@@ -2,6 +2,7 @@
     "mod": "Casual Style Outfit - Part II",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/14133",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -21,6 +22,7 @@
         "casual-style-outfit-part-4",
         "casual-style-outfit-part-8"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "Jacket",

@@ -2,20 +2,21 @@
     "mod": "Bicep Biomonitor",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16545",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/15765",
+    "atelierName": "Yevgeniy's 2nd Hand",
     "authors": [
         "707 Tactical"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
-        "MaleV",
+        "Accessories",
         "Arms",
-        "Accessories"
+        "Body-Vanilla",
+        "Clothing",
+        "MaleV"
     ],
-    "comments": "Item available for FemV in the NPC Accessories mod.",
     "linkedMods": [
         "npc-accessories"
     ],
+    "comments": "Item available for FemV in the NPC Accessories mod.",
     "itemCategories": [
         {
             "label": "",

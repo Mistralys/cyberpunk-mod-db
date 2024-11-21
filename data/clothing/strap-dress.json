@@ -2,6 +2,7 @@
     "mod": "Strap Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7270",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "atelierName": "MONSTERaider Atelier Store",
     "authors": [
         "MONSTERaider"
     ],
@@ -11,6 +12,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "raider",
     "itemCategories": [
         {
             "label": "Full Straps",

@@ -2,6 +2,7 @@
     "mod": "Alt's Necklaces",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7122",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+    "atelierName": "Complectedd Necklace Atelier",
     "authors": [
         "mistshield"
     ],
@@ -9,6 +10,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "shield",
     "itemCategories": [
         {
             "label": "",

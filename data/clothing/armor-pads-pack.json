@@ -2,6 +2,7 @@
     "mod": "Armor Pads Pack",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/12044",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/10090",
+    "atelierName": "Zenitex Atelier",
     "authors": [
         "ScorpionTank"
     ],
@@ -21,6 +22,7 @@
         }
     ],
     "comments": "Have a look at the mod page for information on how to use the toggles.",
+    "searchTweaks": "tank",
     "itemCategories": [
         {
             "label": "Gugnir Shoulder Pad - Left",

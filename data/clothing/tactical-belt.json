@@ -2,6 +2,7 @@
     "mod": "Tactical Belt",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15548",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -9,6 +10,7 @@
     "tags": [
         "FemV"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "Simple",

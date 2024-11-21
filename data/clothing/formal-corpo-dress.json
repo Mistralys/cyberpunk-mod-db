@@ -2,6 +2,7 @@
     "mod": "Formal Corpo Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8641",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "atelierName": "MONSTERaider Atelier Store",
     "authors": [
         "MONSTERaider"
     ],
@@ -14,6 +15,7 @@
         "FemV",
         "FullBody"
     ],
+    "searchTweaks": "raider",
     "itemCategories": [
         {
             "label": "Full Dress",

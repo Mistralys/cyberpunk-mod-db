@@ -2,6 +2,7 @@
     "mod": "Celebrity Dress (Modular)",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8299",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "atelierName": "MONSTERaider Atelier Store",
     "authors": [
         "MONSTERaider"
     ],
@@ -14,6 +15,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "raider",
     "itemCategories": [
         {
             "label": "Bras",

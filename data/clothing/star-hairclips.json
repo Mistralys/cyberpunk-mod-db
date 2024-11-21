@@ -2,6 +2,7 @@
     "mod": "Star Hairclips",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15195",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
+    "atelierName": "Cyb3rbling Jeweller's",
     "authors": [
         "cyb3rsn4k3",
         "cyb3rsn4k34li3n"
@@ -13,6 +14,7 @@
         "Jewelry"
     ],
     "comments": "Can be tricky to find hair styles that work well with these, but they're worth the hassle.",
+    "searchTweaks": "alien bling cyber snake",
     "itemCategories": [
         {
             "label": "3 Stars, Right",

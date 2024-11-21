@@ -2,6 +2,7 @@
     "mod": "Tactical Crop Top",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8406",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
+    "atelierName": "AdShield Atelier Store",
     "authors": [
         "Adshield"
     ],
@@ -15,6 +16,7 @@
         "Top",
         "Torso"
     ],
+    "searchTweaks": "shield",
     "itemCategories": [
         {
             "label": "BDSM",

@@ -2,6 +2,7 @@
     "mod": "Sasha Edgerunners Suit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/5393",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -14,6 +15,7 @@
     "linkedMods": [
         "sasha-edgerunners-suit"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "Jacket",

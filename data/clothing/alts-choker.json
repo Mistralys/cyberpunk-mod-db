@@ -2,6 +2,7 @@
     "mod": "Alt Cunningham's Choker",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/6947",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+    "atelierName": "Complectedd Necklace Atelier",
     "authors": [
         "complectedd",
         "mistshield"
@@ -10,6 +11,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "shield",
     "itemCategories": [
         {
             "label": "",

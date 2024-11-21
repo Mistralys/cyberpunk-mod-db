@@ -2,6 +2,7 @@
     "mod": "Tight Shiny Pants",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/10546",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+    "atelierName": "The Rvcoon Dumpster",
     "authors": [
         "PinkyDude"
     ],
@@ -9,6 +10,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
             "label": "",

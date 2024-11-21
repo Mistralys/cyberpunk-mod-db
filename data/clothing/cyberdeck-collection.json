@@ -2,6 +2,7 @@
     "mod": "Cyberdeck Collection",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/11093",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
+    "atelierName": "AdShield Atelier Store",
     "authors": [
         "Adshield"
     ],
@@ -13,6 +14,7 @@
         "Body-Hyst-RB",
         "Body-Vanilla"
     ],
+    "searchTweaks": "shield",
     "itemCategories": [
         {
             "label": "Alt - Black",

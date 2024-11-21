@@ -2,6 +2,7 @@
     "mod": "Panam Jeans Spandex",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/5119",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "atelierName": "Kwek's Family Jewels",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -14,6 +15,7 @@
         "Legs",
         "Pants"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

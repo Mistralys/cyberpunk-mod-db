@@ -2,6 +2,7 @@
     "mod": "Lucy Edgerunners Jacket",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/5248",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -15,6 +16,7 @@
         "lucy-edgerunners-pants",
         "lucy-edgerunners-suit"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

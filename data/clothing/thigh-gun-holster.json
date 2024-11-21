@@ -2,6 +2,7 @@
     "mod": "Thigh Gun Holster",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7304",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "atelierName": "MONSTERaider Atelier Store",
     "authors": [
         "MONSTERaider"
     ],
@@ -13,6 +14,7 @@
         "FemV",
         "Legs"
     ],
+    "searchTweaks": "raider",
     "itemCategories": [
         {
             "label": "",

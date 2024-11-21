@@ -2,6 +2,7 @@
     "mod": "XRX Stockings",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/17278",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
         "EzioMaverick"
@@ -18,6 +19,7 @@
         "Legs",
         "Stockings"
     ],
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "",

@@ -2,6 +2,7 @@
     "mod": "Lethal Outfit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15867",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11964",
+    "atelierName": "Nola x Veegee Feminine Store",
     "authors": [
         "Aquelyras",
         "NolaDreamer",
@@ -21,6 +22,7 @@
         "Torso",
         "Waist"
     ],
+    "searchTweaks": "alvarez dreamer",
     "itemCategories": [
         {
             "label": "Bag",

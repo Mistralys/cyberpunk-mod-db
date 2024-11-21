@@ -2,6 +2,7 @@
     "mod": "Assassin Outfit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/13996",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -14,6 +15,7 @@
     "linkedMods": [
         "assassin-outfit-part-2"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "Blades",

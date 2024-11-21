@@ -2,6 +2,7 @@
     "mod": "Basic Tees",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/11309",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6572",
+    "atelierName": "VV0LFDEN - Virtual Atelier Store",
     "authors": [
         "Halkuonn"
     ],
@@ -14,6 +15,7 @@
         "FemV",
         "MaleV"
     ],
+    "searchTweaks": "den wolf",
     "itemCategories": [
         {
             "label": "",

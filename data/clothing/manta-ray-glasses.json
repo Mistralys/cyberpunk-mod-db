@@ -2,6 +2,7 @@
     "mod": "Manta Ray Glasses",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16130",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12223",
+    "atelierName": "The Bean Cup Atelier",
     "authors": [
         "beanie",
         "beaniebby"
@@ -12,6 +13,7 @@
         "Glasses",
         "Head"
     ],
+    "searchTweaks": "baby",
     "itemCategories": [
         {
             "label": "Black Frames",

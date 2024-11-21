@@ -2,6 +2,7 @@
     "mod": "DS2 Jacket, Bodysuit and Necklace",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16985",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
     "authors": [
         "EzioMaverick",
         "apzurv"
@@ -10,6 +11,7 @@
         "Clothing"
     ],
     "comments": "The three items are separate downloads.",
+    "searchTweaks": "maverick",
     "itemCategories": [
         {
             "label": "Body Suit",

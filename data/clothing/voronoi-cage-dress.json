@@ -2,6 +2,7 @@
     "mod": "Voronoi Cage Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15094",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16929",
+    "atelierName": "Neuromance",
     "authors": [
         "CaffeinatedRogue"
     ],
@@ -20,6 +21,7 @@
         "FemV",
         "Modular"
     ],
+    "searchTweaks": "rogue",
     "itemCategories": [
         {
             "label": "Bracer",

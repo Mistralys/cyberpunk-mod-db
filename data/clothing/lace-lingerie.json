@@ -2,6 +2,7 @@
     "mod": "Lace Lingerie",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7711",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6360/",
+    "atelierName": "Se7en Virtual Atelier Store",
     "authors": [
         "xBaebsae"
     ],
@@ -13,6 +14,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "seven",
     "itemCategories": [
         {
             "label": "Lace Panties",

@@ -2,6 +2,7 @@
     "mod": "Summer Outfit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/12331",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8704",
+    "atelierName": "Nola Dreamer and Aquelyras Atelier",
     "authors": [
         "Aquelyras",
         "NolaDreamer"
@@ -12,6 +13,7 @@
         "FemV",
         "Outfit"
     ],
+    "searchTweaks": "dreamer",
     "itemCategories": [
         {
             "label": "Top",

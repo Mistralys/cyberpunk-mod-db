@@ -2,6 +2,7 @@
     "mod": "Evelyn Coat and Fur",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8319",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "atelierName": "Nola Dreamer Boutique",
     "authors": [
         "NolaDreamer"
     ],
@@ -23,6 +24,7 @@
         "evelyn-dress",
         "evelyn-skirt"
     ],
+    "searchTweaks": "dreamer",
     "itemCategories": [
         {
             "label": "Cropped Coat",

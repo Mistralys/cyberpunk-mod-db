@@ -2,6 +2,7 @@
     "mod": "Chromed Long Blouse",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7609",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+    "atelierName": "The Rvcoon Dumpster",
     "authors": [
         "PinkyDude"
     ],
@@ -11,6 +12,7 @@
         "FullBody",
         "Reflective"
     ],
+    "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
             "label": "",

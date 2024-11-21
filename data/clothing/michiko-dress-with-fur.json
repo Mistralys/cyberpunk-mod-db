@@ -2,6 +2,7 @@
     "mod": "Michiko Dress with Fur",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/6885",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "atelierName": "Nola Dreamer Boutique",
     "authors": [
         "NolaDreamer"
     ],
@@ -13,6 +14,7 @@
         "FemV",
         "FullBody"
     ],
+    "searchTweaks": "dreamer",
     "itemCategories": [
         {
             "label": "Dress",

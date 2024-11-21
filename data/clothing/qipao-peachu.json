@@ -2,6 +2,7 @@
     "mod": "Quipao Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8823",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+    "atelierName": "Peachu Atelier Store",
     "authors": [
         "Peachu",
         "PeachuHime"
@@ -13,6 +14,7 @@
         "Body-Vanilla",
         "FemV"
     ],
+    "searchTweaks": "hime",
     "itemCategories": [
         {
             "label": "",

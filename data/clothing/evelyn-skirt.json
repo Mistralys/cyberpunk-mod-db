@@ -2,6 +2,7 @@
     "mod": "Evelyn Skirt",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8024",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+    "atelierName": "Peachu Atelier Store",
     "authors": [
         "Peachu",
         "PeachuHime"
@@ -17,6 +18,7 @@
         "evelyn-coat-and-fur",
         "evelyn-dress"
     ],
+    "searchTweaks": "hime",
     "itemCategories": [
         {
             "label": "",

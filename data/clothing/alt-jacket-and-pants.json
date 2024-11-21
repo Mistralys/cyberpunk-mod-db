@@ -2,6 +2,7 @@
     "mod": "Alt Jacket and Pants",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7701",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "atelierName": "Nola Dreamer Boutique",
     "authors": [
         "NolaDreamer"
     ],
@@ -16,6 +17,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "dreamer",
     "itemCategories": [
         {
             "label": "Jacket Set 1",

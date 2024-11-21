@@ -2,6 +2,7 @@
     "mod": "NPC Accessories",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/8985",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8853",
+    "atelierName": "Disco's Store",
     "authors": [
         "DISCO",
         "deadengine959"
@@ -14,6 +15,7 @@
     "linkedMods": [
         "bicep-biomonitor"
     ],
+    "searchTweaks": "959 engine",
     "itemCategories": [
         {
             "label": "Biomonitor",

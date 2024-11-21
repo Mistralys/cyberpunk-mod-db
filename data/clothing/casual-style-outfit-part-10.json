@@ -2,6 +2,7 @@
     "mod": "Casual Style Outfit Part 10",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16667",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
     "authors": [
         "Veegee",
         "VeegeeAlvarez"
@@ -12,6 +13,7 @@
         "FemV",
         "Modular"
     ],
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "label": "Boots",

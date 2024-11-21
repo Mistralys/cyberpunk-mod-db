@@ -2,6 +2,7 @@
     "mod": "Rough Outfit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15606",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11964",
+    "atelierName": "Nola x Veegee Feminine Store",
     "authors": [
         "NolaDreamer",
         "Veegee"
@@ -18,6 +19,7 @@
         "FemV",
         "Modular"
     ],
+    "searchTweaks": "dreamer",
     "itemCategories": [
         {
             "label": "Boots",
