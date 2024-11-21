@@ -2,40 +2,29 @@
     "mod": "Starlight Dress",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15638",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14797",
+    "atelierName": "Dusty Virtual Atelier",
     "authors": [
         "Dusty2077"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
-        "Body-Angel",
-        "Body-EBB",
-        "Body-EBBP",
-        "Body-EBBPRB",
-        "Body-EBBRB",
-        "Body-RB",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
         "Body-VTK-Small",
-        "FullBody",
+        "Body-Vanilla",
+        "Clothing",
         "Dress",
-        "FemV"
+        "FemV",
+        "FullBody"
     ],
     "itemCategories": [
         {
             "label": "",
             "tags": [],
             "items": [
-                {
-                    "name": "Default",
-                    "code": "dusty_starlightdress_default"
-                },
-                {
-                    "name": "Pink",
-                    "code": "dusty_starlightdress_pink"
-                },
-                {
-                    "name": "Red",
-                    "code": "dusty_starlightdress_red"
-                },
                 {
                     "name": "Black",
                     "code": "dusty_starlightdress_black"
@@ -45,8 +34,20 @@
                     "code": "dusty_starlightdress_blue"
                 },
                 {
+                    "name": "Default",
+                    "code": "dusty_starlightdress_default"
+                },
+                {
                     "name": "Gold",
                     "code": "dusty_starlightdress_gold"
+                },
+                {
+                    "name": "Pink",
+                    "code": "dusty_starlightdress_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "dusty_starlightdress_red"
                 }
             ]
         }
