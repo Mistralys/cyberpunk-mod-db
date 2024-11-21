@@ -3,7 +3,8 @@
 ## Introduction
 
 Tags can be connected to mods, item categories and even individual items. 
-They are used to quickly find items with specific properties.
+They are used to quickly find items with specific properties. They are
+available as a separate JSON file, [tags.json](../data/tags.json).
 
 ## Tag inheritance
 
@@ -119,6 +120,8 @@ is holographic. Searching for holographic items will return only the holographic
 - `Body-Hyst` - Enhanced Big Breasts, Realistic Butt, and more [Nexus](https://next.nexusmods.com/profile/LxRHyst/mods?gameId=3333)
 - `Body-Hyst-Angel` - New improved version of the other Hyst body mods [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/14896)
 - `Body-Hyst-EBB` - EBB - Enhanced Big Breasts [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4654)
+- `Body-Hyst-EBBN` - Enhanced Big Breasts Natural [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4654)
+- `Body-Hyst-EBBNRB` - Enhanced Big Breasts Natural and Realistic Butt [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4654)
 - `Body-Hyst-EBBP` - EBBP - Enhanced Big Breasts and Push-Up [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/9083)
 - `Body-Hyst-EBBPRB` - EBBPRB - Enhanced Big Breasts, Push-Up and Realistic Butt [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/9083)
 - `Body-Hyst-EBBRB` - EBBRB - Enhanced Big Breasts and Realistic Butt [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4654)
@@ -129,6 +132,7 @@ is holographic. Searching for holographic items will return only the holographic
 - `Body-Solo-Arms` - Athletic arms [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/7148)
 - `Body-Solo-Small` - Solo with small breasts [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6213)
 - `Body-Solo-Ultimate` - Solo with bigger breasts and butt [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6944)
+- `Body-Songbird` - Songbird's body for the FemV player character [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/12898)
 - `Body-Spawn0` - Body with a large choice of sizes and CET in-game body swap [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/1424)
 - `Body-VTK-Big` - Vanilla HD body with bigger breasts [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/7482)
 - `Body-VTK-Small` - Vanilla HD body with small breasts [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/7482)
