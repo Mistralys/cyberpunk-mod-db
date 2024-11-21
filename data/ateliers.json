@@ -1,0 +1,306 @@
+{
+  "nc-fashion": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "name": "NC Fashion",
+    "authors": [
+      "Apzurv",
+      "EzioMaverick"
+    ]
+  },
+  "cyberbling-jewellers": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14191",
+    "name": "Cyb3rbling Jeweller's",
+    "authors": [
+      "cyb3rsn4k3",
+      "cyb3rsn4k34li3n"
+    ]
+  },
+  "nola-dreamer-boutique": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "name": "Nola Dreamer Boutique",
+    "authors": [
+      "NolaDreamer"
+    ]
+  },
+  "complectedd-necklace-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7016",
+    "name": "Complectedd Necklace Atelier",
+    "authors": [
+      "complectedd",
+      "mistshield"
+    ]
+  },
+  "kweks-sartorial-omnibus-shop": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6779",
+    "name": "Kwek's Sartorial Omnibus Shop",
+    "authors": [
+      "Kwek"
+    ]
+  },
+  "zenitex-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/10090",
+    "name": "Zenitex Atelier",
+    "authors": [
+      "ScorpionTank"
+    ]
+  },
+  "veegee-shop-2": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "name": "Veegee Shop 2",
+    "authors": [
+      "Veegee",
+      "VeegeeAlvarez"
+    ]
+  },
+  "monster-raider-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7269",
+    "name": "MONSTERaider Atelier Store",
+    "authors": [
+      "MONSTERaider"
+    ]
+  },
+  "seawright-optometry-shop": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6505",
+    "name": "Seawright Optometry Shop",
+    "authors": [
+      "Kwek",
+      "kweknexuss"
+    ]
+  },
+  "alvarix-custom-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4602",
+    "name": "Alvarix Custom Store",
+    "authors": [
+      "AlvarixPT"
+    ]
+  },
+  "wolfden-virtual-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6572",
+    "name": "VV0LFDEN - Virtual Atelier Store",
+    "authors": [
+      "Halkuonn"
+    ]
+  },
+  "yevgeniys-second-hand": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15765",
+    "name": "Yevgeniy's 2nd Hand",
+    "authors": [
+      "707 Tactical"
+    ]
+  },
+  "dbrv-and-co-virtual-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7848",
+    "name": "DBRV n CO Virtual Store",
+    "authors": [
+      "DBRV"
+    ]
+  },
+  "rosas-shop": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8919",
+    "name": "Rosa's Shop",
+    "authors": [
+      "Rosapexa"
+    ]
+  },
+  "neuromance": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16929",
+    "name": "Neuromance",
+    "authors": [
+      "CaffeinatedRogue",
+      "CaffeineRogue"
+    ]
+  },
+  "the-raccoon-dumpster": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/5802",
+    "name": "The Rvcoon Dumpster",
+    "authors": [
+      "PinkyDude"
+    ]
+  },
+  "cub-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6949",
+    "name": "CUB Atelier Store",
+    "authors": [
+      "cubfan82"
+    ]
+  },
+  "adshield-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8452",
+    "name": "AdShield Atelier Store",
+    "authors": [
+      "Adshield"
+    ]
+  },
+  "nola-dreamer-and-aquelyras-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8704",
+    "name": "Nola Dreamer and Aquelyras Atelier",
+    "authors": [
+      "NolaDreamer",
+      "Aquelyras"
+    ]
+  },
+  "the-raccoon-dumpster-2": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11171",
+    "name": "The Rvcoon Dumpster 2",
+    "authors": [
+      "PinkyDude"
+    ]
+  },
+  "kweks-family-jewels": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6985",
+    "name": "Kwek's Family Jewels",
+    "authors": [
+      "Kwek",
+      "kweknexuss"
+    ]
+  },
+  "voidwear-virtual-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "name": "Voidwear Virtual Atelier",
+    "authors": [
+      "yellingintothevoid"
+    ]
+  },
+  "hyst-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6015",
+    "name": "Hyst Atelier Store",
+    "authors": [
+      "Hyst",
+      "LxRHyst"
+    ]
+  },
+  "nola-and-veegee-feminine-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/11964",
+    "name": "Nola x Veegee Feminine Store",
+    "authors": [
+      "NolaDreamer",
+      "Veegee",
+      "VeegeeAlvarez"
+    ]
+  },
+  "peachu-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12233",
+    "name": "Peachu Atelier Store",
+    "authors": [
+      "Peachu",
+      "PeachuHime"
+    ]
+  },
+  "viktor-vektor-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7448",
+    "name": "Viktor Vektor Store",
+    "authors": [
+      "MONSTERaider"
+    ]
+  },
+  "peachu-and-hyst-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6943",
+    "name": "Peachu and Hyst Atelier Store",
+    "authors": [
+      "Peachu",
+      "PeachuHime",
+      "Hyst",
+      "LxRHyst"
+    ]
+  },
+  "discos-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8853",
+    "name": "Disco's Store",
+    "authors": [
+      "Disco",
+      "deadengine959"
+    ]
+  },
+  "kmkcs-virtual-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16065/",
+    "name": "KMKC's Virtual Atelier",
+    "authors": [
+      "Rosslin",
+      "Rosslinn"
+    ]
+  },
+  "subleader-virtual-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14747",
+    "name": "Subleader Virtual Atelier",
+    "authors": [
+      "Subleader",
+      "Subleader100"
+    ]
+  },
+  "the-bean-cup-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12223",
+    "name": "The Bean Cup Atelier",
+    "authors": [
+      "beaniebby"
+    ]
+  },
+  "nemies-closet": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/13605",
+    "name": "Nemie's Closet",
+    "authors": [
+      "Nemiepies"
+    ]
+  },
+  "seven-virtual-atelier-store": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6360/",
+    "name": "Se7en Virtual Atelier Store",
+    "authors": [
+      "xBaebsae"
+    ]
+  },
+  "mayo-virtual-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/12939",
+    "name": "Mayo Virtual Atelier",
+    "authors": [
+      "Mayo",
+      "NotMayoSan"
+    ]
+  },
+  "veegee-jewelry-shop": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8688",
+    "name": "Veegee Jewelry Shop",
+    "authors": [
+      "Veegee",
+      "VeegeeAlvarez"
+    ]
+  },
+  "atelier-for-flash-posers": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8886",
+    "name": "Atelier for Flash Posers",
+    "authors": [
+      "jerinski"
+    ]
+  },
+  "tls-and-mayo-virtual-atelier": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15184",
+    "name": "TLS and Mayo Virtual Atelier",
+    "authors": [
+      "TheLoneStrider",
+      "TheLoneStrider13",
+      "Mayo",
+      "NotMayoSan"
+    ]
+  },
+  "veegee-shop": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8183",
+    "name": "Veegee Shop",
+    "authors": [
+      "Veegee",
+      "VeegeeAlvarez"
+    ]
+  },
+  "breezys-clothing-emporium": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14744",
+    "name": "Breezy's Clothing Emporium",
+    "authors": [
+      "Breezypunk"
+    ]
+  },
+  "cubs-closet": {
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15621",
+    "name": "Cub's Closet",
+    "authors": [
+      "cubfan82"
+    ]
+  }
+}
