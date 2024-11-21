@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace CPMDB\Assets;
 
-use AppUtils\ConvertHelper;
 use AppUtils\FileHelper\FileInfo;
 
 function getTagsReferenceArg() : ?string
