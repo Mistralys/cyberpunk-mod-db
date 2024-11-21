@@ -18,6 +18,7 @@ declare(strict_types=1);
 
 namespace CPMDB\Assets;
 
+use AppUtils\ConvertHelper;
 use AppUtils\FileHelper\JSONFile;
 use AppUtils\FileHelper_Exception;
 
@@ -51,6 +52,22 @@ function getNormalizeAllArg() : ?string
         null;
 }
 
+/**
+ * @return string|null
+ */
+function getNormalizeAteliersArg() : ?string
+{
+    $commands = getCLICommands();
+
+    return
+        $commands['normalize-ateliers'] ??
+        $commands['normalizeateliers'] ??
+        $commands['norm-ateliers'] ??
+        $commands['normateliers'] ??
+        $commands['nmat'] ??
+        null;
+}
+
 function normalizeFile(JSONFile $file) : void
 {
     logHeader('Data file [%s] - Normalizing structure', $file->getName());
@@ -68,77 +85,87 @@ function normalizeFile(JSONFile $file) : void
         $converted[$key] = $data[$key] ?? $value;
     }
 
-    if(empty($converted['comments'])) {
-        unset($converted['comments']);
+    if(empty($converted[KEY_COMMENTS])) {
+        unset($converted[KEY_COMMENTS]);
     }
 
-    if(empty($converted['linkedMods'])) {
-        unset($converted['linkedMods']);
+    if(empty($converted[KEY_LINKED_MODS])) {
+        unset($converted[KEY_LINKED_MODS]);
     } else {
-        sort($converted['linkedMods']);
+        sort($converted[KEY_LINKED_MODS]);
     }
 
-    if(empty($converted['seeAlso'])) {
-        unset($converted['seeAlso']);
+    if(empty($converted[KEY_SEE_ALSO])) {
+        unset($converted[KEY_SEE_ALSO]);
     } else {
-        usort($converted['seeAlso'], function(array $a, array $b) : int {
-            $labelA = $a['label'] ?? '';
-            $urlA = $a['url'] ?? '';
-            $labelB = $b['label'] ?? '';
-            $urlB = $b['url'] ?? '';
+        usort($converted[KEY_SEE_ALSO], function(array $a, array $b) : int {
+            $labelA = $a[KEY_SEE_ALSO_LABEL] ?? '';
+            $urlA = $a[KEY_SEE_ALSO_URL] ?? '';
+            $labelB = $b[KEY_SEE_ALSO_LABEL] ?? '';
+            $urlB = $b[KEY_SEE_ALSO_URL] ?? '';
 
             return strnatcasecmp($labelA.$urlA, $labelB.$urlB);
         });
     }
 
-    $converted['tags'] = normalizeTags($converted['tags']);
+    $converted[KEY_TAGS] = normalizeTags($converted[KEY_TAGS]);
 
-    sort($converted['authors']);
+    sort($converted[KEY_AUTHORS]);
 
-    $categories = $data['itemCategories'];
+    if(!empty($converted[KEY_ATELIER])) {
+        $converted[KEY_ATELIER_NAME] = getAtelierName($converted[KEY_ATELIER]);
+    }
+
+    $categories = $data[KEY_ITEM_CATEGORIES];
 
     // Sort categories by label
     usort($categories, function(array $a, array$b) : int {
-        return strnatcasecmp($a['label'], $b['label']);
+        return strnatcasecmp($a[KEY_CAT_LABEL], $b[KEY_CAT_LABEL]);
     });
 
     $keep = array();
     foreach($categories as $category)
     {
         // Prune empty categories
-        if(empty($category['items'])) {
+        if(empty($category[KEY_CAT_ITEMS])) {
             continue;
         }
 
         // Add tags if not present
-        if(!isset($category['tags'])) {
-            $category['tags'] = array();
+        if(!isset($category[KEY_CAT_TAGS])) {
+            $category[KEY_CAT_TAGS] = array();
         }
 
-        $category['tags'] = normalizeTags($category['tags']);
+        $category[KEY_CAT_TAGS] = normalizeTags($category[KEY_CAT_TAGS]);
 
-        foreach($category['items'] as $idx => $item) {
+        foreach($category[KEY_CAT_ITEMS] as $idx => $item) {
             $normalizedItem = array(
-                'name' => $item['label'] ?? $item['name'] ?? '',
-                'code' => $item['code'] ?? ''
+                KEY_ITEM_NAME => $item['label'] ?? $item[KEY_ITEM_NAME] ?? '',
+                KEY_ITEM_CODE => $item[KEY_ITEM_CODE] ?? ''
             );
 
-            if(!empty($item['tags'])) {
-                $normalizedItem['tags'] = normalizeTags($item['tags']);
+            if(!empty($item[KEY_ITEM_TAGS])) {
+                $normalizedItem[KEY_ITEM_TAGS] = normalizeTags($item[KEY_ITEM_TAGS]);
             }
 
-            $category['items'][$idx] = $normalizedItem;
+            $category[KEY_CAT_ITEMS][$idx] = $normalizedItem;
         }
 
         // Sort items by name
-        usort($category['items'], function(array $a, array$b) : int {
-            return strnatcasecmp($a['name'], $b['name']);
+        usort($category[KEY_CAT_ITEMS], function(array $a, array$b) : int {
+            return strnatcasecmp($a[KEY_ITEM_NAME], $b[KEY_ITEM_NAME]);
         });
 
         $keep[] = $category;
     }
 
-    $converted['itemCategories'] = $keep;
+    $converted[KEY_ITEM_CATEGORIES] = $keep;
+
+    $converted[KEY_SEARCH_TERMS] = resolveSearchTerms($converted);
+
+    if(empty($converted[KEY_SEARCH_TERMS])) {
+        unset($converted[KEY_SEARCH_TERMS]);
+    }
 
     $file
         ->setEscapeSlashes(false)
@@ -149,17 +176,41 @@ function normalizeFile(JSONFile $file) : void
     logEmptyLine();
 }
 
-const KEYS_ORDER = array(
-    'mod' => '',
-    'url' => '',
-    'atelier' => '',
-    'authors' => array(),
-    'tags' => array(),
-    'linkedMods' => array(),
-    'seeAlso' => array(),
-    'comments' => '',
-    'itemCategories' => array()
-);
+function resolveSearchTerms(array $modData) : string
+{
+    $contents =
+        implode(' ', $modData[KEY_AUTHORS]).' '.
+        $modData[KEY_MOD].' '.
+        $modData[KEY_ATELIER_NAME].' ';
+
+    $existing = str_replace(',', ' ', $modData[KEY_SEARCH_TERMS] ?? '');
+    $terms = ConvertHelper::explodeTrim(' ', $existing);
+
+    foreach(SEARCH_TERMS as $search => $replace) {
+        if(stripos($contents, $search) !== false) {
+            array_push($terms, ...ConvertHelper::explodeTrim(' ', $replace));
+        }
+    }
+
+    $terms = array_unique($terms);
+
+    sort($terms);
+
+    return implode(' ', $terms);
+}
+
+function getAtelierName(string $atelierURL) : string
+{
+    foreach(getAteliers() as $atelier) {
+        if($atelier['url'] === $atelierURL) {
+            return $atelier['name'];
+        }
+    }
+
+    logError('Unknown atelier URL ['.$atelierURL.'].');
+
+    return '';
+}
 
 /**
  * @param string[] $tags
@@ -202,8 +253,14 @@ function normalizeAll() : void
  */
 function getTags() : array
 {
+    if(isset($GLOBALS['__tags'])) {
+        return $GLOBALS['__tags'];
+    }
+
     $tags = JSONFile::factory(__DIR__.'/../../data/tags.json')->getData();
     ksort($tags);
+
+    $GLOBALS['__tags'] = $tags;
 
     return $tags;
 }
@@ -217,7 +274,7 @@ function getTagAliases() : array
     $result = array();
 
     foreach(getTags() as $tagName => $tagDef) {
-        $aliases = $tagDef['aliases'] ?? array();
+        $aliases = $tagDef[KEY_TAGS_ALIASES] ?? array();
         $aliases[] = strtolower($tagName);
         foreach($aliases as $alias) {
             $result[$alias] = $tagName;
@@ -234,11 +291,34 @@ function getTagsCategorized() : array
     $categorized = array();
 
     foreach(getTags() as $tagName => $tagDef) {
-        $category = $tagDef['category'] ?? 'Miscellaneous';
+        $category = $tagDef[KEY_TAGS_CATEGORY] ?? 'Miscellaneous';
         $categorized[$category][$tagName] = $tagDef;
     }
 
     uksort($categorized, 'strnatcasecmp');
 
     return $categorized;
+}
+
+function normalizeAteliers() : void
+{
+    $ateliers = getAteliers();
+
+    logHeader('Normalizing ateliers');
+    logInfo('Found [%s] ateliers.', count($ateliers));
+
+    foreach($ateliers as $id => $data) {
+        $ateliers[$id] = normalizeAtelier($data);
+    }
+
+    getAteliersFile()->putData($ateliers);
+
+    logInfo('Ateliers normalized successfully.');
+}
+
+function normalizeAtelier(array $data) : array
+{
+    sort($data[KEY_ATELIERS_AUTHORS]);
+
+    return $data;
 }

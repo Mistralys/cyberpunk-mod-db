@@ -21,8 +21,10 @@ use function CPMDB\Assets\getModFile;
 use function CPMDB\Assets\getModListArg;
 use function CPMDB\Assets\getNormalizeAllArg;
 use function CPMDB\Assets\getNormalizeArg;
+use function CPMDB\Assets\getNormalizeAteliersArg;
 use function CPMDB\Assets\getTagsReferenceArg;
 use function CPMDB\Assets\normalizeAll;
+use function CPMDB\Assets\normalizeAteliers;
 use function CPMDB\Assets\normalizeFile;
 use function CPMDB\Assets\showUsage;
 
@@ -86,6 +88,11 @@ else
 
     if(getNormalizeAllArg() !== null) {
         normalizeAll();
+        exit;
+    }
+
+    if(getNormalizeAteliersArg() !== null) {
+        normalizeAteliers();
         exit;
     }
 }
