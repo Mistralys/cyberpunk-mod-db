@@ -26,7 +26,9 @@ const KEY_ITEM_TAGS = 'tags';
 const KEY_TAGS_ALIASES = 'aliases';
 const KEY_TAGS_CATEGORY = 'category';
 
+const KEY_ATELIERS_NAME = 'name';
 const KEY_ATELIERS_AUTHORS = 'authors';
+const KEY_ATELIERS_URL = 'url';
 
 const KEYS_ORDER = array(
     KEY_MOD => '',
