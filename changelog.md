@@ -1,3 +1,8 @@
+## v2.1.1 - New mods
+- Mods: Added "Aria T'Loak Suit" by Dusty2077.
+- Mods: Added "Spiky Leather Jacket" by FrauBlume.
+- Ateliers: Added "Flower Shop" atelier by FrauBlume.
+
 ## v2.1.0 - New data keys, ateliers database
 - Data: Added the `atelierName` key to specify the name of the atelier mod.
 - Data: Added the `searchTweaks` key to solve the wildcard search issue.
