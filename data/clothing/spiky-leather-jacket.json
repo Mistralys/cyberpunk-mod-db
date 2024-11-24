@@ -1,0 +1,73 @@
+{
+    "mod": "Spiky Leather Jacket",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16664",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6852",
+    "atelierName": "Flower Shop",
+    "authors": [
+        "FrauBlume"
+    ],
+    "tags": [
+        "Body-Gymfiend",
+        "Body-Vanilla",
+        "Clothing",
+        "GarmentSupport",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Gloves",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Left",
+                    "code": "xl_jacket_spiky_gloves_l"
+                },
+                {
+                    "name": "Right",
+                    "code": "xl_jacket_spiky_gloves_r"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "xl_jacket_spiky_gold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "xl_jacket_spiky_silver"
+                },
+                {
+                    "name": "Worn",
+                    "code": "xl_jacket_spiky_old"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "xl_jacket_spiky_pants"
+                },
+                {
+                    "name": "Worn",
+                    "code": "xl_jacket_spiky_pants_old"
+                }
+            ]
+        }
+    ]
+}
