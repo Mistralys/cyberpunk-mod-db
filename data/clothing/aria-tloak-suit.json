@@ -1,0 +1,85 @@
+{
+    "mod": "Aria T'Loak Suit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14757",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14797",
+    "atelierName": "Dusty Virtual Atelier",
+    "authors": [
+        "Dusty2077"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "dusty_ariaboots_black"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "dusty_ariaboots_black_red"
+                },
+                {
+                    "name": "Default",
+                    "code": "dusty_ariaboots_default"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "dusty_ariajacket_black"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "dusty_ariajacket_black_red"
+                },
+                {
+                    "name": "Default",
+                    "code": "dusty_ariajacket_default"
+                }
+            ]
+        },
+        {
+            "label": "Suit",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "dusty_ariasuit_black"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "dusty_ariasuit_black_red"
+                },
+                {
+                    "name": "Default",
+                    "code": "dusty_ariasuit_default"
+                }
+            ]
+        }
+    ]
+}
