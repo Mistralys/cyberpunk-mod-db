@@ -945,7 +945,16 @@
     },
     "Transparent": {
         "description": "Items with transparency",
-        "category": "Item properties"
+        "category": "Item properties",
+        "aliases": [
+            "translucent",
+            "transparencies",
+            "transparency",
+            "see-through",
+            "seethrough",
+            "see-thru",
+            "seethru"
+        ]
     },
     "Underwear": {
         "description": "Underwear",
