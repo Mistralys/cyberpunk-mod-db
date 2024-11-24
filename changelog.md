@@ -1,7 +1,10 @@
 ## v2.1.1 - New mods
 - Mods: Added "Aria T'Loak Suit" by Dusty2077.
 - Mods: Added "Spiky Leather Jacket" by FrauBlume.
+- Mods: Added "Night Top Vol. 1" by Tottes.
+- Mods: Added "Hanako Top" by Sumi.
 - Ateliers: Added "Flower Shop" atelier by FrauBlume.
+- Ateliers: Added "Tottes Atelier Shop" by Tottes.
 
 ## v2.1.0 - New data keys, ateliers database
 - Data: Added the `atelierName` key to specify the name of the atelier mod.
