@@ -1,0 +1,113 @@
+{
+    "mod": "Night Top Vol. 1",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16625",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13717",
+    "atelierName": "Tottes Atelier Shop",
+    "authors": [
+        "Tottes"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Solo",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Beige",
+                    "code": "n1_top_veige"
+                },
+                {
+                    "name": "Black",
+                    "code": "n1_top_black"
+                },
+                {
+                    "name": "Black with Gold Dots",
+                    "code": "n1_top_extra6"
+                },
+                {
+                    "name": "Black with Silver Dots",
+                    "code": "n1_top_extra7"
+                },
+                {
+                    "name": "Blue",
+                    "code": "n1_top_blue"
+                },
+                {
+                    "name": "Blue - Alternate",
+                    "code": "n1_top_extra3"
+                },
+                {
+                    "name": "Brown",
+                    "code": "n1_top_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "n1_top_burgundy"
+                },
+                {
+                    "name": "Gold Aluminium",
+                    "code": "n1_top_extra8"
+                },
+                {
+                    "name": "Green",
+                    "code": "n1_top_green"
+                },
+                {
+                    "name": "Light Grey",
+                    "code": "n1_top_extra5"
+                },
+                {
+                    "name": "Pink",
+                    "code": "n1_top_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "n1_top_purple"
+                },
+                {
+                    "name": "Purple - Alternate",
+                    "code": "n1_top_extra4"
+                },
+                {
+                    "name": "Red",
+                    "code": "n1_top_red"
+                },
+                {
+                    "name": "Red - Alternate",
+                    "code": "n1_top_extra1"
+                },
+                {
+                    "name": "Silver Aluminium",
+                    "code": "n1_top_extra9"
+                },
+                {
+                    "name": "Teal",
+                    "code": "n1_top_teal"
+                },
+                {
+                    "name": "White",
+                    "code": "n1_top_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "n1_top_yellow"
+                },
+                {
+                    "name": "Yellow - Alternate",
+                    "code": "n1_top_extra2"
+                }
+            ]
+        }
+    ]
+}
