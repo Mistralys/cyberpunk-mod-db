@@ -1,5 +1,11 @@
 {
   "full-sleeveless": {
-    "title": "Full, Sleeveless"
+    "title": "Full, sleeveless"
+  },
+  "cropped-sleeves": {
+    "title": "Cropped, with sleeves"
+  },
+  "cropped-tank": {
+    "title": "Cropped, tank top"
   }
 }
