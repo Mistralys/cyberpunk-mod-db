@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace CPMDB\Assets;
 
+use AppUtils\ConvertHelper;
 use AppUtils\FileHelper\FileInfo;
 
 function getAteliersReferenceArg() : ?string
@@ -27,8 +28,16 @@ function generateAteliersReference() : void
 
     $lines = array();
 
+    // Generate the list of ateliers
     foreach(getAteliers() as $atelier) {
-        $lines[] = sprintf('- [%s](%s)', $atelier[KEY_ATELIERS_NAME], $atelier[KEY_ATELIERS_URL]);
+        $lines[] = sprintf('- [%s](#%s)', $atelier[KEY_ATELIERS_NAME], ConvertHelper::transliterate($atelier[KEY_ATELIERS_NAME]));
+    }
+
+    $lines[] = '';
+
+    // Generate the individual atelier reference
+    foreach(getAteliers() as $atelier) {
+        generateAtelierReference($lines, $atelier);
     }
 
     $lines[] = '';
@@ -51,3 +60,41 @@ function generateAteliersReference() : void
 
     logInfo('Atelier reference generated.');
 }
+
+function generateAtelierReference(array &$lines, array $atelier) : void
+{
+    $url = $atelier[KEY_ATELIERS_URL];
+    $mods = getAtelierMods($url);
+
+    $lines[] = sprintf('### %s', $atelier[KEY_ATELIERS_NAME]);
+    $lines[] = '';
+    $lines[] = sprintf(
+        'Mods: %s | [Source](%s)',
+        count($mods),
+        $url
+    );
+    $lines[] = '';
+
+    foreach($mods as $data) {
+        if($data[KEY_ATELIER] === $url) {
+            $lines[] = sprintf('- [%s](%s)', $data[KEY_MOD], $data[KEY_URL]);
+        }
+    }
+
+    $lines[] = '';
+}
+
+function getAtelierMods(string $atelierURL) : array
+{
+    $result = array();
+
+    foreach(getFiles() as $file) {
+        $data = $file->getData();
+        if($data[KEY_ATELIER] === $atelierURL) {
+            $result[] = $data;
+        }
+    }
+
+    return $result;
+}
+
