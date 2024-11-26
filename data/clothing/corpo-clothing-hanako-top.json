@@ -1,8 +1,8 @@
 {
     "mod": "Corpo Clothing - Hanako Top",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/17586",
-    "atelier": "",
-    "atelierName": "",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16261?tab=files",
+    "atelierName": "SumiStyle Corporate Atelier",
     "authors": [
         "Sumi",
         "SumiTerra"
@@ -17,7 +17,7 @@
         "Torso",
         "Transparent"
     ],
-    "comments": "The atelier is integrated: No need to download it separately, the items can be bought ingame.",
+    "comments": "The atelier is a separate download in another mod's files.",
     "itemCategories": [
         {
             "label": "Cropped Long Sleeves",
