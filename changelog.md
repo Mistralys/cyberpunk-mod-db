@@ -5,8 +5,12 @@
 - Mods: Added "Hanako Top" by Sumi.
 - Mods: Added "Vi Jacket and Gauntlets" by Dusty2077.
 - Mods: Added "Chain Jewelry Collection" by raem.
+- Mods: Added "XRX Asymmetric Top" by apzurv.
+- Mods: Added "Modest Lingerie" by Nemipies.
 - Tags: Added the `ACM` tag.
 - Tags: Added the `Bracelet` tag.
+- Tags: Added the `Corset` tag.
+- Tags: Added the `Lingerie` tag.
 - Ateliers: Added "Flower Shop" atelier by FrauBlume.
 - Ateliers: Added "Tottes Atelier Shop" by Tottes.
 - Ateliers: Added "SumiStyle Corporate Atelier" by Sumi.
