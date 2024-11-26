@@ -2,21 +2,22 @@
     "mod": "Modest Lingerie",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/17909",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13605",
+    "atelierName": "Nemie's Closet",
     "authors": [
         "Nemiepies"
     ],
     "tags": [
-        "Clothing",
-        "Body-Vanilla",
-        "Body-Angel",
-        "Body-EBB",
-        "Body-EBBRB",
-        "Body-EBBP",
-        "Body-EBBPRB",
-        "Body-RB",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
         "Body-Lush",
         "Body-VTK-Big",
         "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
         "FemV",
         "Modular"
     ],
@@ -24,8 +25,8 @@
         {
             "label": "Bodysuit",
             "tags": [
-                "FullBody",
                 "Bodysuit",
+                "FullBody",
                 "Lingerie"
             ],
             "items": [
@@ -74,18 +75,18 @@
         {
             "label": "Bra",
             "tags": [
-                "Torso",
                 "Bra",
-                "Lingerie"
+                "Lingerie",
+                "Torso"
             ],
             "items": [
                 {
-                    "name": "Black Butterflies",
-                    "code": "modest_bra_black_butterflies"
-                },
-                {
                     "name": "Black",
                     "code": "modest_bra_black"
+                },
+                {
+                    "name": "Black Butterflies",
+                    "code": "modest_bra_black_butterflies"
                 },
                 {
                     "name": "Blue Butterflies",
@@ -120,22 +121,26 @@
         {
             "label": "Corset",
             "tags": [
-                "Waist",
                 "Corset",
-                "Lingerie"
+                "Lingerie",
+                "Waist"
             ],
             "items": [
-                {
-                    "name": "Black Butterflies",
-                    "code": "modest_corset_black_butterflies"
-                },
                 {
                     "name": "Black",
                     "code": "modest_corset_black"
                 },
                 {
+                    "name": "Black Butterflies",
+                    "code": "modest_corset_black_butterflies"
+                },
+                {
                     "name": "Blue Butterflies",
                     "code": "modest_corset_blue_butterflies"
+                },
+                {
+                    "name": "Chestnut",
+                    "code": "modest_corset_chestnut"
                 },
                 {
                     "name": "Dark Blue Flowers",
@@ -146,16 +151,12 @@
                     "code": "modest_corset_flowers"
                 },
                 {
-                    "name": "Chestnut",
-                    "code": "modest_corset_chestnut"
+                    "name": "Pink",
+                    "code": "modest_corset_pink"
                 },
                 {
                     "name": "Red Yellow",
                     "code": "modest_corset_red_yellow"
-                },
-                {
-                    "name": "Pink",
-                    "code": "modest_corset_pink"
                 }
             ]
         },
