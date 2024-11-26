@@ -16,7 +16,8 @@
         "Body-VTK-Small",
         "Body-Vanilla",
         "Clothing",
-        "FemV"
+        "FemV",
+        "Lingerie"
     ],
     "comments": "No garment support, and not planned.",
     "itemCategories": [

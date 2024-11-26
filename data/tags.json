@@ -764,6 +764,16 @@
             "leg"
         ]
     },
+    "Lingerie": {
+        "description": "Lingerie",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Skimpy"
+        ],
+        "aliases": [
+            "lingeries"
+        ]
+    },
     "MaleV": {
         "description": "Items restricted to male V characters",
         "category": "Item properties"
