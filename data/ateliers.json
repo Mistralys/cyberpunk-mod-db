@@ -331,5 +331,13 @@
             "Sumi",
             "SumiTerra"
         ]
+    },
+    "raems-atelier-store": {
+        "url": "https://www.nexusmods.com/cyberpunk2077/mods/14210",
+        "name": "Raem's Atelier Store",
+        "authors": [
+            "raem",
+            "raemaze"
+        ]
     }
 }
