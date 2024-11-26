@@ -1,0 +1,208 @@
+{
+    "mod": "Modest Lingerie",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17909",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13605",
+    "authors": [
+        "Nemiepies"
+    ],
+    "tags": [
+        "Clothing",
+        "Body-Vanilla",
+        "Body-Angel",
+        "Body-EBB",
+        "Body-EBBRB",
+        "Body-EBBP",
+        "Body-EBBPRB",
+        "Body-RB",
+        "Body-Lush",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "FemV",
+        "Modular"
+    ],
+    "itemCategories": [
+        {
+            "label": "Bodysuit",
+            "tags": [
+                "FullBody",
+                "Bodysuit",
+                "Lingerie"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "modest_bodysuit_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "modest_bodysuit_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "modest_bodysuit_brown"
+                },
+                {
+                    "name": "Dark Blue",
+                    "code": "modest_bodysuit_dark_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "modest_bodysuit_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "modest_bodysuit_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "modest_bodysuit_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "modest_bodysuit_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "modest_bodysuit_red"
+                },
+                {
+                    "name": "White",
+                    "code": "modest_bodysuit_white"
+                }
+            ]
+        },
+        {
+            "label": "Bra",
+            "tags": [
+                "Torso",
+                "Bra",
+                "Lingerie"
+            ],
+            "items": [
+                {
+                    "name": "Black Butterflies",
+                    "code": "modest_bra_black_butterflies"
+                },
+                {
+                    "name": "Black",
+                    "code": "modest_bra_black"
+                },
+                {
+                    "name": "Blue Butterflies",
+                    "code": "modest_bra_blue_butterflies"
+                },
+                {
+                    "name": "Dark Blue Flowers",
+                    "code": "modest_bra_dark_blue_flowers"
+                },
+                {
+                    "name": "Flowers",
+                    "code": "modest_bra_flowers"
+                },
+                {
+                    "name": "Pink",
+                    "code": "modest_bra_pink"
+                },
+                {
+                    "name": "Pink Dots",
+                    "code": "modest_bra_pink_dots"
+                },
+                {
+                    "name": "Red",
+                    "code": "modest_bra_red"
+                },
+                {
+                    "name": "Red White",
+                    "code": "modest_bra_red_white"
+                }
+            ]
+        },
+        {
+            "label": "Corset",
+            "tags": [
+                "Waist",
+                "Corset",
+                "Lingerie"
+            ],
+            "items": [
+                {
+                    "name": "Black Butterflies",
+                    "code": "modest_corset_black_butterflies"
+                },
+                {
+                    "name": "Black",
+                    "code": "modest_corset_black"
+                },
+                {
+                    "name": "Blue Butterflies",
+                    "code": "modest_corset_blue_butterflies"
+                },
+                {
+                    "name": "Dark Blue Flowers",
+                    "code": "modest_corset_dark_blue_flowers"
+                },
+                {
+                    "name": "Flowers",
+                    "code": "modest_corset_flowers"
+                },
+                {
+                    "name": "Chestnut",
+                    "code": "modest_corset_chestnut"
+                },
+                {
+                    "name": "Red Yellow",
+                    "code": "modest_corset_red_yellow"
+                },
+                {
+                    "name": "Pink",
+                    "code": "modest_corset_pink"
+                }
+            ]
+        },
+        {
+            "label": "XL Shirt",
+            "tags": [
+                "FullBody",
+                "Shirt"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "modest_xl_shirt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "modest_xl_shirt_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "modest_xl_shirt_green"
+                },
+                {
+                    "name": "Lavender",
+                    "code": "modest_xl_shirt_lavendar"
+                },
+                {
+                    "name": "Pink",
+                    "code": "modest_xl_shirt_pink"
+                },
+                {
+                    "name": "Plaid",
+                    "code": "modest_xl_shirt_plaid"
+                },
+                {
+                    "name": "Red",
+                    "code": "modest_xl_shirt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "modest_xl_shirt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "modest_xl_shirt_yellow"
+                }
+            ]
+        }
+    ]
+}
