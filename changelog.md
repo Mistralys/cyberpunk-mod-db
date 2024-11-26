@@ -9,6 +9,7 @@
 - Ateliers: Added "Tottes Atelier Shop" by Tottes.
 - Ateliers: Added "SumiStyle Corporate Atelier" by Sumi.
 - Commands: Added the `add-screenshot` command.
+- Docs: Improved the atelier reference with mods per atelier.
 
 ## v2.1.0 - New data keys, ateliers database
 - Data: Added the `atelierName` key to specify the name of the atelier mod.
