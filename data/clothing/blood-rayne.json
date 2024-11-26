@@ -79,8 +79,10 @@
                     "name": "Necklace",
                     "code": "rayne_necklace",
                     "tags": [
+                        "Choker",
                         "Jewelry",
-                        "Neck"
+                        "Neck",
+                        "Necklace"
                     ]
                 },
                 {
