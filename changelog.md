@@ -3,9 +3,11 @@
 - Mods: Added "Spiky Leather Jacket" by FrauBlume.
 - Mods: Added "Night Top Vol. 1" by Tottes.
 - Mods: Added "Hanako Top" by Sumi.
+- Mods: Added "Vi Jacket and Gauntlets" by Dusty2077.
 - Ateliers: Added "Flower Shop" atelier by FrauBlume.
 - Ateliers: Added "Tottes Atelier Shop" by Tottes.
 - Ateliers: Added "SumiStyle Corporate Atelier" by Sumi.
+- Commands: Added the `add-screenshot` command.
 
 ## v2.1.0 - New data keys, ateliers database
 - Data: Added the `atelierName` key to specify the name of the atelier mod.
