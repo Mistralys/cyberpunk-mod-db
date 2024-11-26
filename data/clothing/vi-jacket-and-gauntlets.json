@@ -1,0 +1,63 @@
+{
+    "mod": "Vi Jacket and Gauntlet",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17842",
+    "atelier": "",
+    "atelierName": "",
+    "authors": [
+        "Dusty2077"
+    ],
+    "tags": [
+        "ACM",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Solo",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "seeAlso": [
+        {
+            "label": "E3 Haircut Collection",
+            "url": "https://www.nexusmods.com/cyberpunk2077/mods/14189"
+        },
+        {
+            "label": "Vi Gauntlets pose pack",
+            "url": "https://www.nexusmods.com/cyberpunk2077/mods/17877"
+        }
+    ],
+    "itemCategories": [
+        {
+            "label": "Gauntlets",
+            "tags": [
+                "Arms",
+                "Gloves"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "dusty_vi_gauntlets_black"
+                },
+                {
+                    "name": "Default",
+                    "code": "dusty_vi_gauntlets_default"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "dusty_vi_jacket_default"
+                }
+            ]
+        }
+    ]
+}
