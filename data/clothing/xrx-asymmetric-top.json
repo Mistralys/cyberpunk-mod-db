@@ -1,0 +1,111 @@
+{
+    "mod": "XRX Asymmetric Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14920",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "xrxasymmtop_a"
+                },
+                {
+                    "name": "Black Camo",
+                    "code": "xrxasymmtop_b"
+                },
+                {
+                    "name": "Black Dark Grey Camo",
+                    "code": "xrxasymmtop_c"
+                },
+                {
+                    "name": "Blue",
+                    "code": "xrxasymmtop_m"
+                },
+                {
+                    "name": "Blue Camo",
+                    "code": "xrxasymmtop_o"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "xrxasymmtop_h"
+                },
+                {
+                    "name": "Desert Camo",
+                    "code": "xrxasymmtop_k"
+                },
+                {
+                    "name": "Green",
+                    "code": "xrxasymmtop_i"
+                },
+                {
+                    "name": "Green Black Camo",
+                    "code": "xrxasymmtop_j"
+                },
+                {
+                    "name": "Green Camo",
+                    "code": "xrxasymmtop_l"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "xrxasymmtop_n"
+                },
+                {
+                    "name": "Light Grey Camo",
+                    "code": "xrxasymmtop_e"
+                },
+                {
+                    "name": "Orange",
+                    "code": "xrxasymmtop_p"
+                },
+                {
+                    "name": "Orange Black Camo",
+                    "code": "xrxasymmtop_q"
+                },
+                {
+                    "name": "Orange Camo",
+                    "code": "xrxasymmtop_r"
+                },
+                {
+                    "name": "Pink",
+                    "code": "xrxasymmtop_s"
+                },
+                {
+                    "name": "Red",
+                    "code": "xrxasymmtop_f"
+                },
+                {
+                    "name": "Red Black Camo",
+                    "code": "xrxasymmtop_g"
+                },
+                {
+                    "name": "White",
+                    "code": "xrxasymmtop_d"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "xrxasymmtop_t"
+                }
+            ]
+        }
+    ]
+}
