@@ -560,6 +560,17 @@
             "coats"
         ]
     },
+    "Corset": {
+        "description": "Corset",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Torso",
+            "Waist"
+        ],
+        "aliases": [
+            "corsets"
+        ]
+    },
     "Decals": {
         "description": "Decals or stickers to use on clothing items",
         "category": "Clothing items",
