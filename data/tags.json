@@ -490,6 +490,21 @@
             "bras"
         ]
     },
+    "Bracelet": {
+        "description": "Bracelet",
+        "category": "Clothing items",
+        "relatedTags": [
+            "Arms",
+            "Jewelry"
+        ],
+        "aliases": [
+            "bracelets",
+            "armlet",
+            "armlets",
+            "wristband",
+            "wristbands"
+        ]
+    },
     "CET": {
         "fullName": "Cyber Engine Tweaks",
         "description": "Modder resource",
