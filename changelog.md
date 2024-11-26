@@ -4,6 +4,7 @@
 - Mods: Added "Night Top Vol. 1" by Tottes.
 - Mods: Added "Hanako Top" by Sumi.
 - Mods: Added "Vi Jacket and Gauntlets" by Dusty2077.
+- Tags: Added the `ACM` tag.
 - Ateliers: Added "Flower Shop" atelier by FrauBlume.
 - Ateliers: Added "Tottes Atelier Shop" by Tottes.
 - Ateliers: Added "SumiStyle Corporate Atelier" by Sumi.
