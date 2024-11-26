@@ -5,6 +5,7 @@ declare(strict_types=1);
 use function CPMB\Assets\buildRelease;
 use function CPMB\Assets\getBuildReleaseArg;
 use function CPMDB\Assets\addCategory;
+use function CPMDB\Assets\addScreenshot;
 use function CPMDB\Assets\checkScreenshots;
 use function CPMDB\Assets\createNew;
 use function CPMDB\Assets\generateAteliersReference;
@@ -12,6 +13,7 @@ use function CPMDB\Assets\generateCETCodes;
 use function CPMDB\Assets\generateModsList;
 use function CPMDB\Assets\generateTagsReference;
 use function CPMDB\Assets\getAddCategoryArg;
+use function CPMDB\Assets\getAddScreenshotArg;
 use function CPMDB\Assets\getAteliersReferenceArg;
 use function CPMDB\Assets\getCETCodesArg;
 use function CPMDB\Assets\getCheckScreenshotsArg;
@@ -58,6 +60,12 @@ if(!empty($modID))
     $cmd = getAddCategoryArg();
     if($cmd !== null) {
         addCategory($modID, $cmd);
+        exit;
+    }
+
+    $cmd = getAddScreenshotArg();
+    if($cmd !== null) {
+        addScreenshot($modID, $cmd);
         exit;
     }
 
