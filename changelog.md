@@ -5,6 +5,7 @@
 - Mods: Added "Hanako Top" by Sumi.
 - Ateliers: Added "Flower Shop" atelier by FrauBlume.
 - Ateliers: Added "Tottes Atelier Shop" by Tottes.
+- Ateliers: Added "SumiStyle Corporate Atelier" by Sumi.
 
 ## v2.1.0 - New data keys, ateliers database
 - Data: Added the `atelierName` key to specify the name of the atelier mod.
