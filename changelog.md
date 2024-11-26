@@ -4,10 +4,13 @@
 - Mods: Added "Night Top Vol. 1" by Tottes.
 - Mods: Added "Hanako Top" by Sumi.
 - Mods: Added "Vi Jacket and Gauntlets" by Dusty2077.
+- Mods: Added "Chain Jewelry Collection" by raem.
 - Tags: Added the `ACM` tag.
+- Tags: Added the `Bracelet` tag.
 - Ateliers: Added "Flower Shop" atelier by FrauBlume.
 - Ateliers: Added "Tottes Atelier Shop" by Tottes.
 - Ateliers: Added "SumiStyle Corporate Atelier" by Sumi.
+- Ateliers: Added "Raem's Atelier Store" by raem.
 - Commands: Added the `add-screenshot` command.
 - Docs: Improved the atelier reference with mods per atelier.
 
