@@ -188,6 +188,7 @@ function getAteliersFile() : JSONFile
 }
 
 /**
+ * Gets all atelier information, sorted by name.
  * @return array<string,array{url:string,name:string,authors:string[]}>
  * @throws FileHelper_Exception
  */
