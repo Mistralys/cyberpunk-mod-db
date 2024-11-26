@@ -1,4 +1,21 @@
 {
+    "ACM": {
+        "fullName": "Appearance Creator Mod",
+        "description": "Change NPC clothing in-game without any restart. Export as AMM Appearance and share your created outfit.",
+        "category": "Mods",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/10795"
+            }
+        ],
+        "aliases": [
+            "appearance-creator-mod",
+            "appearance-creator",
+            "appearancecreator",
+            "a-c-m"
+        ]
+    },
     "AXL": {
         "fullName": "ArchiveXL",
         "description": "Modder resource",
