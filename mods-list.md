@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 136
+Total available mods: 141
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -10,6 +10,7 @@ Total available mods: 136
 * [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027) by Apzurv and EzioMaverick
 * [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896) by Apzurv and EzioMaverick
 * [Arasaka Sports Wear V2](https://www.nexusmods.com/cyberpunk2077/mods/4890) by Apzurv and EzioMaverick
+* [Aria T'Loak Suit](https://www.nexusmods.com/cyberpunk2077/mods/14757) by Dusty2077
 * [Armor Pads Pack](https://www.nexusmods.com/cyberpunk2077/mods/12044) by ScorpionTank
 * [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996) by Veegee and VeegeeAlvarez
 * [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453) by Veegee and VeegeeAlvarez
@@ -40,6 +41,7 @@ Total available mods: 136
 * [Combat Pants](https://www.nexusmods.com/cyberpunk2077/mods/9016) by Veegee and VeegeeAlvarez
 * [Comfy Dress](https://www.nexusmods.com/cyberpunk2077/mods/16026) by NotMayoSan, TheLoneStrider and TheLoneStrider13
 * [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041) by Peachu and PeachuHime
+* [Corpo Clothing - Hanako Top](https://www.nexusmods.com/cyberpunk2077/mods/17586) by Sumi and SumiTerra
 * [Cute Dress](https://www.nexusmods.com/cyberpunk2077/mods/6193) by Apzurv and EzioMaverick
 * [Cut Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by Cubfan82
 * [Cyberdeck Collection](https://www.nexusmods.com/cyberpunk2077/mods/11093) by Adshield
@@ -87,6 +89,7 @@ Total available mods: 136
 * [Nanosuit](https://www.nexusmods.com/cyberpunk2077/mods/14677) by Subleader
 * [Negan Jacket](https://www.nexusmods.com/cyberpunk2077/mods/17382) by Rosslin
 * [Netrunner Combat Top](https://www.nexusmods.com/cyberpunk2077/mods/4939) by Apzurv and EzioMaverick
+* [Night Top Vol. 1](https://www.nexusmods.com/cyberpunk2077/mods/16625) by Tottes
 * [NPC Accessories](https://www.nexusmods.com/cyberpunk2077/mods/8985) by DISCO and deadengine959
 * [One-Shoulder Shirt](https://www.nexusmods.com/cyberpunk2077/mods/7267) by NolaDreamer
 * [Panam Jeans Spandex](https://www.nexusmods.com/cyberpunk2077/mods/5119) by Apzurv and EzioMaverick
@@ -106,10 +109,12 @@ Total available mods: 136
 * [Skirts Expansion Part 1](https://www.nexusmods.com/cyberpunk2077/mods/7387) by MONSTERaider
 * [Skirts Expansion Part 2](https://www.nexusmods.com/cyberpunk2077/mods/7402?tab=files) by MONSTERaider
 * [Slim Bolero Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7278) by MONSTERaider
+* [Spiky Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/16664) by FrauBlume
 * [Split Dress and Bikini](https://www.nexusmods.com/cyberpunk2077/mods/8999) by AlvarixPT
 * [Sports Leggings](https://www.nexusmods.com/cyberpunk2077/mods/4716) by Apzurv and EzioMaverick
 * [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342) by PinkyDude
 * [Star Hairclips](https://www.nexusmods.com/cyberpunk2077/mods/15195) by cyb3rsn4k3 and cyb3rsn4k34li3n
+* [Starlight Dress](https://www.nexusmods.com/cyberpunk2077/mods/15638) by Dusty2077
 * [Stellar Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14553) by cyb3rsn4k3
 * [Strap Dress](https://www.nexusmods.com/cyberpunk2077/mods/7270) by MONSTERaider
 * [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and Nola Dreamer
