@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 141
+Total available mods: 142
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -126,6 +126,7 @@ Total available mods: 141
 * [Tied Crop](https://www.nexusmods.com/cyberpunk2077/mods/8533) by cubfan82
 * [Tight Shiny Pants](https://www.nexusmods.com/cyberpunk2077/mods/10546) by PinkyDude
 * [V's Favorite Top](https://www.nexusmods.com/cyberpunk2077/mods/15130) by Rosapexa and sRosapexa
+* [Vi Jacket and Gauntlet](https://www.nexusmods.com/cyberpunk2077/mods/17842) by Dusty2077
 * [Voronoi Cage Dress](https://www.nexusmods.com/cyberpunk2077/mods/15094) by CaffeinatedRogue
 * [Wrap Around Dress](https://www.nexusmods.com/cyberpunk2077/mods/8894) by AlvarixPT
 * [XRX Dress](https://www.nexusmods.com/cyberpunk2077/mods/7444) by Apzurv and EzioMaverick
