@@ -6,6 +6,7 @@ namespace CPMDB\Assets;
 
 use AppUtils\ConvertHelper;
 use AppUtils\FileHelper;
+use AppUtils\FileHelper\FolderInfo;
 use AppUtils\FileHelper\JSONFile;
 use AppUtils\FileHelper_Exception;
 
@@ -205,4 +206,36 @@ function getAteliers() : array
     $GLOBALS['__ateliers'] = $ateliers;
 
     return $ateliers;
+}
+
+/**
+ * Gets the path to the folder containing all screenshots.
+ * @return FolderInfo
+ * @throws FileHelper_Exception
+ */
+function getScreensFolder() : FolderInfo
+{
+    return FolderInfo::factory(__DIR__.'/../../data/clothing/screens');
+}
+
+/**
+ * Gets the path to the screenshot file for the specified mod.
+ *
+ * NOTE: Use {@see JSONFile::exists()} to check if the file exists.
+ *
+ * @param string $modID
+ * @return JSONFile
+ * @throws FileHelper_Exception
+ */
+function getScreenshotFile(string $modID) : JSONFile
+{
+    return JSONFile::factory(getScreensFolder().'/'.$modID.'.json')
+        ->setPrettyPrint(true)
+        ->setTrailingNewline(true)
+        ->setEscapeSlashes(false);
+}
+
+function getModRoot() : FolderInfo
+{
+    return FolderInfo::factory(__DIR__.'/../../');
 }
