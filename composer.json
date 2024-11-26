@@ -17,6 +17,7 @@
   "autoload": {
     "files": [
       "bin/assets/add-category.php",
+      "bin/assets/add-screenshot.php",
       "bin/assets/build-release.php",
       "bin/assets/cet-codes.php",
       "bin/assets/check-screenshots.php",
