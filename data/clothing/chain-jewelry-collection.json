@@ -1,0 +1,1315 @@
+{
+    "mod": "Chain Jewelry Collection",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15861",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14210",
+    "atelierName": "Raem's Atelier Store",
+    "authors": [
+        "raem",
+        "raemaze"
+    ],
+    "tags": [
+        "Body-Gymfiend",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Jewelry",
+        "MaleV"
+    ],
+    "comments": "Necklaces 1-4 do not work in ACM due to the physics.",
+    "itemCategories": [
+        {
+            "label": "Bracelet 1, Left",
+            "tags": [
+                "Arms",
+                "Bracelet"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_wrist_doll1_l_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_wrist_doll1_l_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_wrist_doll1_l_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_wrist_doll1_l_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_wrist_doll1_l_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_wrist_doll1_l_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_wrist_doll1_l_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_wrist_doll1_l_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_wrist_doll1_l_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_wrist_doll1_l_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_wrist_doll1_l_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_wrist_doll1_l_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_wrist_doll1_l_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_wrist_doll1_l_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_wrist_doll1_l_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_wrist_doll1_l_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_wrist_doll1_l_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_wrist_doll1_l_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_wrist_doll1_l_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_wrist_doll1_l_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_wrist_doll1_l_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_wrist_doll1_l_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_wrist_doll1_l_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_wrist_doll1_l_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_wrist_doll1_l_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_wrist_doll1_l_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_wrist_doll1_l_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_wrist_doll1_l_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_wrist_doll1_l_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_wrist_doll1_l_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Bracelet 1, Right",
+            "tags": [
+                "Arms",
+                "Bracelet"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_wrist_doll1_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_wrist_doll1_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_wrist_doll1_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_wrist_doll1_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_wrist_doll1_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_wrist_doll1_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_wrist_doll1_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_wrist_doll1_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_wrist_doll1_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_wrist_doll1_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_wrist_doll1_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_wrist_doll1_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_wrist_doll1_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_wrist_doll1_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_wrist_doll1_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_wrist_doll1_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_wrist_doll1_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_wrist_doll1_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_wrist_doll1_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_wrist_doll1_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_wrist_doll1_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_wrist_doll1_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_wrist_doll1_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_wrist_doll1_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_wrist_doll1_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_wrist_doll1_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_wrist_doll1_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_wrist_doll1_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_wrist_doll1_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_wrist_doll1_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Bracelet 2, Left",
+            "tags": [
+                "Arms",
+                "Bracelet"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_wrist_doll2_l_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_wrist_doll2_l_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_wrist_doll2_l_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_wrist_doll2_l_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_wrist_doll2_l_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_wrist_doll2_l_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_wrist_doll2_l_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_wrist_doll2_l_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_wrist_doll2_l_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_wrist_doll2_l_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_wrist_doll2_l_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_wrist_doll2_l_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_wrist_doll2_l_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_wrist_doll2_l_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_wrist_doll2_l_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_wrist_doll2_l_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_wrist_doll2_l_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_wrist_doll2_l_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_wrist_doll2_l_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_wrist_doll2_l_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_wrist_doll2_l_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_wrist_doll2_l_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_wrist_doll2_l_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_wrist_doll2_l_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_wrist_doll2_l_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_wrist_doll2_l_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_wrist_doll2_l_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_wrist_doll2_l_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_wrist_doll2_l_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_wrist_doll2_l_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Bracelet 2, Right",
+            "tags": [
+                "Arms",
+                "Bracelet"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_wrist_doll2_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_wrist_doll2_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_wrist_doll2_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_wrist_doll2_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_wrist_doll2_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_wrist_doll2_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_wrist_doll2_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_wrist_doll2_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_wrist_doll2_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_wrist_doll2_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_wrist_doll2_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_wrist_doll2_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_wrist_doll2_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_wrist_doll2_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_wrist_doll2_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_wrist_doll2_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_wrist_doll2_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_wrist_doll2_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_wrist_doll2_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_wrist_doll2_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_wrist_doll2_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_wrist_doll2_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_wrist_doll2_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_wrist_doll2_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_wrist_doll2_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_wrist_doll2_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_wrist_doll2_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_wrist_doll2_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_wrist_doll2_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_wrist_doll2_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Necklace 1",
+            "tags": [
+                "Neck",
+                "Necklace",
+                "Physics"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_neck_doll1_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_neck_doll1_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_neck_doll1_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_neck_doll1_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_neck_doll1_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_neck_doll1_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_neck_doll1_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_neck_doll1_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_neck_doll1_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_neck_doll1_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_neck_doll1_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_neck_doll1_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_neck_doll1_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_neck_doll1_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_neck_doll1_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_neck_doll1_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_neck_doll1_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_neck_doll1_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_neck_doll1_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_neck_doll1_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_neck_doll1_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_neck_doll1_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_neck_doll1_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_neck_doll1_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_neck_doll1_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_neck_doll1_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_neck_doll1_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_neck_doll1_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_neck_doll1_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_neck_doll1_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Necklace 2",
+            "tags": [
+                "Neck",
+                "Necklace",
+                "Physics"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_neck_doll2_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_neck_doll2_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_neck_doll2_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_neck_doll2_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_neck_doll2_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_neck_doll2_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_neck_doll2_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_neck_doll2_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_neck_doll2_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_neck_doll2_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_neck_doll2_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_neck_doll2_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_neck_doll2_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_neck_doll2_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_neck_doll2_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_neck_doll2_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_neck_doll2_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_neck_doll2_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_neck_doll2_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_neck_doll2_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_neck_doll2_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_neck_doll2_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_neck_doll2_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_neck_doll2_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_neck_doll2_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_neck_doll2_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_neck_doll2_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_neck_doll2_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_neck_doll2_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_neck_doll2_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Necklace 3",
+            "tags": [
+                "Neck",
+                "Necklace",
+                "Physics"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_neck_doll_type3_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_neck_doll_type3_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_neck_doll_type3_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_neck_doll_type3_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_neck_doll_type3_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_neck_doll_type3_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_neck_doll_type3_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_neck_doll_type3_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_neck_doll_type3_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_neck_doll_type3_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_neck_doll_type3_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_neck_doll_type3_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_neck_doll_type3_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_neck_doll_type3_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_neck_doll_type3_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_neck_doll_type3_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_neck_doll_type3_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_neck_doll_type3_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_neck_doll_type3_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_neck_doll_type3_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_neck_doll_type3_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_neck_doll_type3_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_neck_doll_type3_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_neck_doll_type3_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_neck_doll_type3_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_neck_doll_type3_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_neck_doll_type3_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_neck_doll_type3_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_neck_doll_type3_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_neck_doll_type3_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Necklace 4",
+            "tags": [
+                "Neck",
+                "Necklace",
+                "Physics"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_neck_doll4_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_neck_doll4_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_neck_doll4_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_neck_doll4_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_neck_doll4_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_neck_doll4_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_neck_doll4_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_neck_doll4_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_neck_doll4_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_neck_doll4_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_neck_doll4_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_neck_doll4_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_neck_doll4_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_neck_doll4_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_neck_doll4_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_neck_doll4_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_neck_doll4_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_neck_doll4_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_neck_doll4_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_neck_doll4_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_neck_doll4_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_neck_doll4_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_neck_doll4_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_neck_doll4_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_neck_doll4_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_neck_doll4_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_neck_doll4_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_neck_doll4_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_neck_doll4_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_neck_doll4_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Necklace 5",
+            "tags": [
+                "Neck",
+                "Necklace"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_neck_doll5_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_neck_doll5_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_neck_doll5_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_neck_doll5_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_neck_doll5_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_neck_doll5_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_neck_doll5_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_neck_doll5_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_neck_doll5_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_neck_doll5_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_neck_doll5_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_neck_doll5_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_neck_doll5_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_neck_doll5_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_neck_doll5_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_neck_doll5_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_neck_doll5_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_neck_doll5_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_neck_doll5_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_neck_doll5_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_neck_doll5_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_neck_doll5_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_neck_doll5_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_neck_doll5_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_neck_doll5_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_neck_doll5_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_neck_doll5_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_neck_doll5_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_neck_doll5_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_neck_doll5_stone_white"
+                }
+            ]
+        },
+        {
+            "label": "Necklace 6",
+            "tags": [
+                "Neck",
+                "Necklace"
+            ],
+            "items": [
+                {
+                    "name": "Metal Black",
+                    "code": "rm_neck_doll6_metal_black"
+                },
+                {
+                    "name": "Metal Brushed Black",
+                    "code": "rm_neck_doll6_metal_brushedblack"
+                },
+                {
+                    "name": "Metal Copper",
+                    "code": "rm_neck_doll6_metal_copper"
+                },
+                {
+                    "name": "Metal Default",
+                    "code": "rm_neck_doll6_metal_default"
+                },
+                {
+                    "name": "Metal Gold",
+                    "code": "rm_neck_doll6_metal_gold"
+                },
+                {
+                    "name": "Metal Gunmetal",
+                    "code": "rm_neck_doll6_metal_gunmetal"
+                },
+                {
+                    "name": "Metal Rose",
+                    "code": "rm_neck_doll6_metal_rose"
+                },
+                {
+                    "name": "Metal Silver",
+                    "code": "rm_neck_doll6_metal_silver"
+                },
+                {
+                    "name": "Metal Steel",
+                    "code": "rm_neck_doll6_metal_steel"
+                },
+                {
+                    "name": "Metal Titanium",
+                    "code": "rm_neck_doll6_metal_titanium"
+                },
+                {
+                    "name": "Metalz Black Brass",
+                    "code": "rm_neck_doll6_metalz_blackbrass"
+                },
+                {
+                    "name": "Metalz Black Rose",
+                    "code": "rm_neck_doll6_metalz_blackrose"
+                },
+                {
+                    "name": "Metalz Brass Gold",
+                    "code": "rm_neck_doll6_metalz_brassgold"
+                },
+                {
+                    "name": "Metalz Silver Black",
+                    "code": "rm_neck_doll6_metalz_silverblack"
+                },
+                {
+                    "name": "Metalz Silver Brass",
+                    "code": "rm_neck_doll6_metalz_silverbrass"
+                },
+                {
+                    "name": "Plastic Black",
+                    "code": "rm_neck_doll6_plastic_black"
+                },
+                {
+                    "name": "Plastic Black Blue",
+                    "code": "rm_neck_doll6_plastic_blackblue"
+                },
+                {
+                    "name": "Plastic Black Chartreuse",
+                    "code": "rm_neck_doll6_plastic_blackchartreuse"
+                },
+                {
+                    "name": "Plastic Black Cyan",
+                    "code": "rm_neck_doll6_plastic_blackcyan"
+                },
+                {
+                    "name": "Plastic Black Green",
+                    "code": "rm_neck_doll6_plastic_blackgreen"
+                },
+                {
+                    "name": "Plastic Black Orange",
+                    "code": "rm_neck_doll6_plastic_blackorange"
+                },
+                {
+                    "name": "Plastic Black Pink",
+                    "code": "rm_neck_doll6_plastic_blackpink"
+                },
+                {
+                    "name": "Plastic Black Purple",
+                    "code": "rm_neck_doll6_plastic_blackpurple"
+                },
+                {
+                    "name": "Plastic Black Red",
+                    "code": "rm_neck_doll6_plastic_blackred"
+                },
+                {
+                    "name": "Plastic Black Yellow",
+                    "code": "rm_neck_doll6_plastic_blackyellow"
+                },
+                {
+                    "name": "Stone Blue",
+                    "code": "rm_neck_doll6_stone_blue"
+                },
+                {
+                    "name": "Stone Green",
+                    "code": "rm_neck_doll6_stone_green"
+                },
+                {
+                    "name": "Stone Red",
+                    "code": "rm_neck_doll6_stone_red"
+                },
+                {
+                    "name": "Stone Rose",
+                    "code": "rm_neck_doll6_stone_rose"
+                },
+                {
+                    "name": "Stone White",
+                    "code": "rm_neck_doll6_stone_white"
+                }
+            ]
+        }
+    ]
+}
