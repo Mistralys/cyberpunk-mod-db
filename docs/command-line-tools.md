@@ -96,6 +96,33 @@ This will update the `mods-list.md` file with the current list of mods.
 php bin/cpmdb.php modlist
 ```
 
+### Adding more screenshots
+
+As soon as a mod has more than one screenshot, the additional ones
+must be registered in a separate JSON file. This command can create
+the file for you.
+
+```bash
+php bin/cpmdb.php mod="{mod-id}" add-screenshot="{screen-id}"
+```
+
+See [contributing mods](contributing-mods.md) for more details on
+setting up multiple screenshots.
+
+### Building a release
+
+Building / preparing the release involves:
+
+1. Normalizing all mod files
+2. Generating the mod list
+3. Generating the atelier reference
+4. Generating the tag reference
+5. Injecting the mod count into the `README.md` file
+
+```bash
+php bin/cpmdb.php build
+```
+
 ## Screenshotting
 
 ### Step 1: Create the outfits
