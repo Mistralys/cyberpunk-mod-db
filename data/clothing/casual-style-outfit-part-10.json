@@ -134,7 +134,8 @@
         {
             "label": "Corset",
             "tags": [
-                "Torso"
+                "Torso",
+                "Corset"
             ],
             "items": [
                 {
