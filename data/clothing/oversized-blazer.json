@@ -1,0 +1,285 @@
+{
+    "mod": "OverSized Blazer",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17462",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Jacket",
+            "tags": [
+                "FemV",
+                "Jacket",
+                "MaleV",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_oversized_blazer_jacket_black"
+                },
+                {
+                    "name": "Black White",
+                    "code": "veegee_oversized_blazer_jacket_black_white"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_oversized_blazer_jacket_brown"
+                },
+                {
+                    "name": "Brown White",
+                    "code": "veegee_oversized_blazer_jacket_brown_white"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_oversized_blazer_jacket_green"
+                },
+                {
+                    "name": "Green White",
+                    "code": "veegee_oversized_blazer_jacket_green_white"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_oversized_blazer_jacket_grey"
+                },
+                {
+                    "name": "Grey Black",
+                    "code": "veegee_oversized_blazer_jacket_grey_black"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_oversized_blazer_jacket_pink"
+                },
+                {
+                    "name": "Pink White",
+                    "code": "veegee_oversized_blazer_jacket_pink_white"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_oversized_blazer_jacket_red"
+                },
+                {
+                    "name": "Red White",
+                    "code": "veegee_oversized_blazer_jacket_red_white"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_oversized_blazer_jacket_tan"
+                },
+                {
+                    "name": "Tan Black",
+                    "code": "veegee_oversized_blazer_jacket_tan_black"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_oversized_blazer_jacket_white"
+                },
+                {
+                    "name": "White Black",
+                    "code": "veegee_oversized_blazer_jacket_white_black"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "FemV",
+                "Legs",
+                "MaleV",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "gabriellaxveegee_alexander_macqueen_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "FemV",
+                "MaleV",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_grey"
+                },
+                {
+                    "name": "Red",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "gabriellaxveegee_alexander_macqueen_shoes_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Skirt",
+            "tags": [
+                "FemV",
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_oversized_blazer_dress_black"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_oversized_blazer_dress_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_oversized_blazer_dress_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_oversized_blazer_dress_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_oversized_blazer_dress_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_oversized_blazer_dress_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_oversized_blazer_dress_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_oversized_blazer_dress_white"
+                }
+            ]
+        },
+        {
+            "label": "Stockings",
+            "tags": [
+                "FemV",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_oversized_blazer_stockings_black1"
+                },
+                {
+                    "name": "Black with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_black_t"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_oversized_blazer_stockings_blue1"
+                },
+                {
+                    "name": "Brown with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_brown_t"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_oversized_blazer_stockings_green1"
+                },
+                {
+                    "name": "Green with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_green_t"
+                },
+                {
+                    "name": "Grey with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_grey_t"
+                },
+                {
+                    "name": "Pink with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_pink_t"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_oversized_blazer_stockings_red1"
+                },
+                {
+                    "name": "Red with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_red_t"
+                },
+                {
+                    "name": "Tan with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_tan_t"
+                },
+                {
+                    "name": "White with Lace Top",
+                    "code": "veegee_oversized_blazer_stockings_white_t"
+                }
+            ]
+        }
+    ]
+}
