@@ -7,6 +7,7 @@
 - Mods: Added "Chain Jewelry Collection" by raem.
 - Mods: Added "XRX Asymmetric Top" by apzurv.
 - Mods: Added "Modest Lingerie" by Nemipies.
+- Mods: Added "Oversized Blazer" by Veegee.
 - Tags: Added the `ACM` tag.
 - Tags: Added the `Bracelet` tag.
 - Tags: Added the `Corset` tag.
