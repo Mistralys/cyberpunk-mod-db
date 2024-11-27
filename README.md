@@ -31,12 +31,8 @@ use the separate project [Cyberpunk 2077 Clothing Mods Database PHP][].
 
 ## Contributing
 
-**Corrections and additions**: If you find any errors or missing information,
-pull requests are very welcome. Alternatively, you can email me the details at
-[eve@aeonoftime.com](mailto:eve@aeonoftime.com).
-
-**Adding new mods**: See the [contribution guide](docs/contributing-mods.md) for details 
-on how to submit new mods to the database.
+Please see the [contribution guide](docs/contributing.md). I am always happy to 
+receive error reports, new mods, tag suggestions, and any other kind of feedback.
 
 
 [Cyberpunk 2077 Clothing Mods Database PHP]: https://github.com/Mistralys/cyberpunk-mod-db-php
