@@ -34,6 +34,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [Nola x Veegee Feminine Store](#nola-x-veegee-feminine-store)
 - [Peachu and Hyst Atelier Store](#peachu-and-hyst-atelier-store)
 - [Peachu Atelier Store](#peachu-atelier-store)
+- [Raem's Atelier Store](#raems-atelier-store)
 - [Rosa's Shop](#rosas-shop)
 - [Se7en Virtual Atelier Store](#se7en-virtual-atelier-store)
 - [Seawright Optometry Shop](#seawright-optometry-shop)
@@ -133,9 +134,10 @@ Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8853)
 
 ### Dusty Virtual Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14797)
+Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14797)
 
 - [Aria T'Loak Suit](https://www.nexusmods.com/cyberpunk2077/mods/14757)
+- [Mileena Hungry Hipster Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15401)
 - [Starlight Dress](https://www.nexusmods.com/cyberpunk2077/mods/15638)
 
 ### Flower Shop
@@ -153,9 +155,10 @@ Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6015)
 
 ### KMKC's Virtual Atelier
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16065/)
+Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16065/)
 
 - [Negan Jacket](https://www.nexusmods.com/cyberpunk2077/mods/17382)
+- [Neon Razor Outfit](https://www.nexusmods.com/cyberpunk2077/mods/17339)
 
 ### Kwek's Family Jewels
 
@@ -202,7 +205,7 @@ Mods: 10 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
 
 ### NC Fashion
 
-Mods: 34 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+Mods: 35 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 - [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027)
 - [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896)
@@ -225,6 +228,7 @@ Mods: 34 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [Sasha Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5393)
 - [Leggings Spandex](https://www.nexusmods.com/cyberpunk2077/mods/10385)
 - [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548)
+- [XRX Asymmetric Top](https://www.nexusmods.com/cyberpunk2077/mods/14920)
 - [XRX Dress](https://www.nexusmods.com/cyberpunk2077/mods/7444)
 - [XRX Latex Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7662)
 - [XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661)
@@ -241,9 +245,10 @@ Mods: 34 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 ### Nemie's Closet
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13605)
+Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13605)
 
 - [Luxe Two-Piece](https://www.nexusmods.com/cyberpunk2077/mods/16011)
+- [Modest Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/17909)
 
 ### Neuromance
 
@@ -289,6 +294,12 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12233)
 - [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041)
 - [Evelyn Skirt](https://www.nexusmods.com/cyberpunk2077/mods/8024)
 - [Quipao Dress](https://www.nexusmods.com/cyberpunk2077/mods/8823)
+
+### Raem's Atelier Store
+
+Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14210)
+
+- [Chain Jewelry Collection](https://www.nexusmods.com/cyberpunk2077/mods/15861)
 
 ### Rosa's Shop
 
@@ -369,14 +380,16 @@ Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8183)
 
 ### Veegee Shop 2
 
-Mods: 6 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
+Mods: 8 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 - [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453)
 - [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996)
 - [Casual Style Outfit Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667)
+- [Casual Style Outfit Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523)
 - [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133)
 - [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504)
 - [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345)
+- [OverSized Blazer](https://www.nexusmods.com/cyberpunk2077/mods/17462)
 
 ### Viktor Vektor Store
 

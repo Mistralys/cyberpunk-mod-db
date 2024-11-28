@@ -43,8 +43,10 @@ is holographic. Searching for holographic items will return only the holographic
 - `Bodysuit`
 - `Boots`
 - `Bra` - Bra or bra-like
+- `Bracelet`
 - `Choker` - Neck choker
 - `Coat`
+- `Corset`
 - `Decals` - Decals or stickers to use on clothing items
 - `Dress`
 - `Earring`
@@ -54,6 +56,7 @@ is holographic. Searching for holographic items will return only the holographic
 - `Jacket` - Jacket, Blazer, Bolero
 - `Jewelry`
 - `Leggings` - Leggings, stretch pants
+- `Lingerie`
 - `Mask`
 - `Necklace`
 - `Panties`
