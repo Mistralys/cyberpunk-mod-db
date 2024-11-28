@@ -49,6 +49,6 @@ function addScreenshot(string $modID, string $screenID, ?string $label=null) : v
 function getScreenshotSkeleton(?string $title=null) : array
 {
     return array(
-        'title' => $title ?? ''
+        KEY_SCREENSHOT_TITLE => $title ?? ''
     );
 }
