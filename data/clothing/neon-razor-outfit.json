@@ -1,0 +1,191 @@
+{
+    "mod": "Neon Razor Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17339",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16065/",
+    "atelierName": "KMKC's Virtual Atelier",
+    "authors": [
+        "Rosslin",
+        "Rosslinn"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Solo-Small",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Body Suit",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "rosslin_neonrazor_suit_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "rosslin_neonrazor_suit_green"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "rosslin_neonrazor_suit_lblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "rosslin_neonrazor_suit_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "rosslin_neonrazor_suit_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "rosslin_neonrazor_suit_red"
+                },
+                {
+                    "name": "White",
+                    "code": "rosslin_neonrazor_suit_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "rosslin_neonrazor_suit_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "rosslin_neonrazor_boots_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "rosslin_neonrazor_boots_green"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "rosslin_neonrazor_boots_lblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "rosslin_neonrazor_boots_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "rosslin_neonrazor_boots_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "rosslin_neonrazor_boots_red"
+                },
+                {
+                    "name": "White",
+                    "code": "rosslin_neonrazor_boots_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "rosslin_neonrazor_boots_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Arms",
+                "Sleeves",
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "rosslin_neonrazor_top_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "rosslin_neonrazor_top_green"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "rosslin_neonrazor_top_lblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "rosslin_neonrazor_top_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "rosslin_neonrazor_top_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "rosslin_neonrazor_top_red"
+                },
+                {
+                    "name": "White",
+                    "code": "rosslin_neonrazor_top_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "rosslin_neonrazor_top_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Visor",
+            "tags": [
+                "Glasses",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
+                    "code": "rosslin_neonrazor_visor_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "rosslin_neonrazor_visor_green"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "rosslin_neonrazor_visor_lblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "rosslin_neonrazor_visor_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "rosslin_neonrazor_visor_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "rosslin_neonrazor_visor_red"
+                },
+                {
+                    "name": "White",
+                    "code": "rosslin_neonrazor_visor_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "rosslin_neonrazor_visor_yellow"
+                }
+            ]
+        }
+    ]
+}
