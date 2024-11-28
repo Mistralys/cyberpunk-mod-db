@@ -1,3 +1,6 @@
+## v2.1.2 - Internal additions
+- Tools: Added constant for the screenshot sidecar JSON title.
+
 ## v2.1.1 - New mods
 - Mods: Added "Aria T'Loak Suit" by Dusty2077.
 - Mods: Added "Spiky Leather Jacket" by FrauBlume.
