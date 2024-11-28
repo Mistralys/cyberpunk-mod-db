@@ -30,6 +30,8 @@ const KEY_ATELIERS_NAME = 'name';
 const KEY_ATELIERS_AUTHORS = 'authors';
 const KEY_ATELIERS_URL = 'url';
 
+const KEY_SCREENSHOT_TITLE = 'title';
+
 const KEYS_ORDER = array(
     KEY_MOD => '',
     KEY_URL => '',
