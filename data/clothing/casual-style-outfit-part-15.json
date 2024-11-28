@@ -1,0 +1,259 @@
+{
+    "mod": "Casual Style Outfit Part 15",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17523",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Harness",
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_harness_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_harness_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_harness_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_harness_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_harness_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_harness_color6"
+                }
+            ]
+        },
+        {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_shoes_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_shoes_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_shoes_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_shoes_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_shoes_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_shoes_color6"
+                }
+            ]
+        },
+        {
+            "label": "Shoulder Rope",
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_shoulder_rope_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_shoulder_rope_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_shoulder_rope_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_shoulder_rope_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_shoulder_rope_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_shoulder_rope_color6"
+                }
+            ]
+        },
+        {
+            "label": "Suit",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_suit_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_suit_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_suit_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_suit_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_suit_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_suit_color6"
+                },
+                {
+                    "name": "Color 7",
+                    "code": "veegee_casual_pt15_suit_color7"
+                }
+            ]
+        },
+        {
+            "label": "Tactical Belt with back Pouch",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_tactical_belt_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_tactical_belt_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_tactical_belt_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_tactical_belt_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_tactical_belt_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_tactical_belt_color6"
+                }
+            ]
+        },
+        {
+            "label": "Waist Band with side Pouch",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_waist_band_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_waist_band_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_waist_band_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_waist_band_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_waist_band_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_waist_band_color6"
+                }
+            ]
+        },
+        {
+            "label": "Waist Rope",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_waist_rope_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_waist_rope_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_waist_rope_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_waist_rope_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_waist_rope_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_waist_rope_color6"
+                }
+            ]
+        }
+    ]
+}
