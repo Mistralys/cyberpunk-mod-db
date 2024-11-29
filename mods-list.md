@@ -45,7 +45,7 @@ Total available mods: 149
 * [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041) by Peachu and PeachuHime
 * [Corpo Clothing - Hanako Top](https://www.nexusmods.com/cyberpunk2077/mods/17586) by Sumi and SumiTerra
 * [Cute Dress](https://www.nexusmods.com/cyberpunk2077/mods/6193) by Apzurv and EzioMaverick
-* [Cut Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by Cubfan82
+* [Cute Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by Cubfan82
 * [Cyberdeck Collection](https://www.nexusmods.com/cyberpunk2077/mods/11093) by Adshield
 * [Cyber Skull Mask](https://www.nexusmods.com/cyberpunk2077/mods/15086) by AAbdii
 * [Deus Ex Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4601) by AlvarixPT
@@ -123,7 +123,7 @@ Total available mods: 149
 * [Starlight Dress](https://www.nexusmods.com/cyberpunk2077/mods/15638) by Dusty2077
 * [Stellar Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14553) by cyb3rsn4k3
 * [Strap Dress](https://www.nexusmods.com/cyberpunk2077/mods/7270) by MONSTERaider
-* [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and Nola Dreamer
+* [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and NolaDreamer
 * [Summer Outfit](https://www.nexusmods.com/cyberpunk2077/mods/12331) by Aquelyras and NolaDreamer
 * [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548) by Apzurv and EzioMaverick
 * [Tactical Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/8406) by Adshield

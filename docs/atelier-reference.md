@@ -99,7 +99,7 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7016)
 
 Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6949)
 
-- [Cut Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097)
+- [Cute Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097)
 - [Lowrise Pants](https://www.nexusmods.com/cyberpunk2077/mods/8456)
 - [Tied Crop](https://www.nexusmods.com/cyberpunk2077/mods/8533)
 
