@@ -53,11 +53,11 @@ function generateTagsReference() : void
 
 function generateModLines(array &$lines, string $tagName, array $tagDef) : void
 {
-    $links = $tagDef['links'] ?? array();
-    $description = $tagDef['description'];
+    $links = $tagDef[KEY_TAG_DEFS_LINKS] ?? array();
+    $description = $tagDef[KEY_TAG_DEFS_DESCRIPTION];
 
-    if(isset($tagDef['fullName'])) {
-        $description = '"'.$tagDef['fullName'].'" - '.$description;
+    if(isset($tagDef[KEY_TAG_DEFS_FULL_NAME])) {
+        $description = '"'.$tagDef[KEY_TAG_DEFS_FULL_NAME].'" - '.$description;
     }
 
     if($tagName !== $description) {
@@ -75,7 +75,11 @@ function generateModLines(array &$lines, string $tagName, array $tagDef) : void
 
     if(!empty($links)) {
         foreach($links as $link) {
-            $line .= sprintf(' [%s](%s)', $link['label'], $link['url']);
+            $line .= sprintf(
+                ' [%s](%s)',
+                $link[KEY_TAG_DEFS_LINKS_LABEL],
+                $link[KEY_TAG_DEFS_LINKS_URL]
+            );
         }
     }
 
