@@ -12,6 +12,7 @@
         "Clothing",
         "FemV"
     ],
+    "searchTweaks": "ware",
     "itemCategories": [
         {
             "label": "Emissive",

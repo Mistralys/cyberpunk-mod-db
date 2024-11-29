@@ -17,6 +17,7 @@
         "npc-accessories"
     ],
     "comments": "Item available for FemV in the NPC Accessories mod.",
+    "searchTweaks": "monitor",
     "itemCategories": [
         {
             "label": "",
