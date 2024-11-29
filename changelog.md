@@ -2,6 +2,7 @@
 - Mods: Added "Mileena Hungry Hipster Outfit" by Dusty2077.
 - Mods: Added "Neon Razor Outfit" by Rosslin.
 - Mods: Added "Casual Style Outfit" by Veegee.
+- Tools: Added constants for the tag JSON keys.
 
 ## v2.1.2 - Internal additions
 - Tools: Added constant for the screenshot sidecar JSON title.
