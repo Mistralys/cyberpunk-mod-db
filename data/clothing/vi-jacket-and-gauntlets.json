@@ -28,6 +28,9 @@
             "url": "https://www.nexusmods.com/cyberpunk2077/mods/17877"
         }
     ],
+    "linkedMods": [
+        "jinx-arcane-s2-top"
+    ],
     "comments": "From the TV show 'Arcane'.",
     "searchTweaks": "arcane",
     "itemCategories": [
