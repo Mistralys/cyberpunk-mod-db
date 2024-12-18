@@ -1,3 +1,6 @@
+## v2.1.4 - New mods
+- Mods: Added "Jinx Arcane S2 Top" by apzurv.
+
 ## v2.1.3 - New mods
 - Mods: Added "Mileena Hungry Hipster Outfit" by Dusty2077.
 - Mods: Added "Neon Razor Outfit" by Rosslin.
