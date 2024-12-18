@@ -1,0 +1,42 @@
+{
+    "mod": "Jinx Arcane S2 Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18038",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "linkedMods": [
+        "vi-jacket-and-gauntlets"
+    ],
+    "comments": "From the TV show 'Arcane', season two.",
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "jinxarctop_a"
+                },
+                {
+                    "name": "White",
+                    "code": "jinxarctop_b"
+                }
+            ]
+        }
+    ]
+}
