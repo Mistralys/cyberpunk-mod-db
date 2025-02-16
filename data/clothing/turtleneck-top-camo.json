@@ -1,0 +1,55 @@
+{
+    "mod": "Turtleneck Top Camo",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19025",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "linkedMods": [
+        "turtleneck-top"
+    ],
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "turtstopcamo_a"
+                },
+                {
+                    "name": "Jungle",
+                    "code": "turtstopcamo_d"
+                },
+                {
+                    "name": "Orange",
+                    "code": "turtstopcamo_e"
+                },
+                {
+                    "name": "Red",
+                    "code": "turtstopcamo_c"
+                },
+                {
+                    "name": "White",
+                    "code": "turtstopcamo_b"
+                }
+            ]
+        }
+    ]
+}
