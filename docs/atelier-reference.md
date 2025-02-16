@@ -105,9 +105,10 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6949)
 
 ### Cub's Closet
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15621)
+Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15621)
 
 - [Camisole Top](https://www.nexusmods.com/cyberpunk2077/mods/17113)
+- [Long Sleeve Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/18510)
 
 ### Cyb3rbling Jeweller's
 
@@ -120,10 +121,11 @@ Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14191)
 
 ### DBRV n CO Virtual Store
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7848)
+Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7848)
 
 - [Rockergirl Pants Laces](https://www.nexusmods.com/cyberpunk2077/mods/9040)
 - [Techtopia Gloves](https://www.nexusmods.com/cyberpunk2077/mods/9000)
+- [XTX Sneakers](https://www.nexusmods.com/cyberpunk2077/mods/17067)
 - [Yaahl Tech Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/7847)
 
 ### Disco's Store
@@ -183,9 +185,10 @@ Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6779)
 
 ### Mayo Virtual Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
+Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
 
 - [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249)
+- [Goth Skirt Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15099)
 - [High Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/17045)
 
 ### MONSTERaider Atelier Store
@@ -205,11 +208,13 @@ Mods: 10 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
 
 ### NC Fashion
 
-Mods: 35 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+Mods: 40 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 - [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027)
 - [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896)
 - [Arasaka Sports Wear V2](https://www.nexusmods.com/cyberpunk2077/mods/4890)
+- [Bladerunner Joi Leggings Reworked](https://www.nexusmods.com/cyberpunk2077/mods/15283)
+- [Bladerunner Joi Top Reworked](https://www.nexusmods.com/cyberpunk2077/mods/15283)
 - [Bodysuit Spandex and Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/11050)
 - [Cat Antenna](https://www.nexusmods.com/cyberpunk2077/mods/8794)
 - [Catsuit](https://www.nexusmods.com/cyberpunk2077/mods/4917)
@@ -219,6 +224,7 @@ Mods: 35 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [Hanako Dress](https://www.nexusmods.com/cyberpunk2077/mods/6034)
 - [Jacket Bolero Hex](https://www.nexusmods.com/cyberpunk2077/mods/16378)
 - [Jin Kazam Tekken Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15049)
+- [Jinx Arcane S2 Top](https://www.nexusmods.com/cyberpunk2077/mods/18038)
 - [Leather Boots](https://www.nexusmods.com/cyberpunk2077/mods/15749)
 - [Lucy Edgerunners Jacket](https://www.nexusmods.com/cyberpunk2077/mods/5248)
 - [Lucy Edgerunners Pants](https://www.nexusmods.com/cyberpunk2077/mods/5342)
@@ -228,6 +234,8 @@ Mods: 35 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [Sasha Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5393)
 - [Leggings Spandex](https://www.nexusmods.com/cyberpunk2077/mods/10385)
 - [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548)
+- [Turtleneck Top Camo](https://www.nexusmods.com/cyberpunk2077/mods/19025)
+- [Turtleneck Top](https://www.nexusmods.com/cyberpunk2077/mods/4881)
 - [XRX Asymmetric Top](https://www.nexusmods.com/cyberpunk2077/mods/14920)
 - [XRX Dress](https://www.nexusmods.com/cyberpunk2077/mods/7444)
 - [XRX Latex Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7662)
@@ -335,8 +343,9 @@ Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16261?tab=files)
 
 ### The Bean Cup Atelier
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12223)
+Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12223)
 
+- [Casino Aviators](https://www.nexusmods.com/cyberpunk2077/mods/18191)
 - [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130)
 
 ### The Rvcoon Dumpster
@@ -380,11 +389,12 @@ Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8183)
 
 ### Veegee Shop 2
 
-Mods: 8 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
+Mods: 9 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 - [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453)
 - [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996)
 - [Casual Style Outfit Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667)
+- [Casual Style Outfit Part 14](https://www.nexusmods.com/cyberpunk2077/mods/17501)
 - [Casual Style Outfit Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523)
 - [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133)
 - [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504)

@@ -9,7 +9,7 @@ JSON files and with custom screenshots for each mod.
 
 - [Aeon's Cyberpunk Mods][]
 
-## Included in the database
+## Data included in the database
 
 - [Clothing mods](mods-list.md) with detailed information, including all items they add.
 - [Tags](docs/tagging-reference.md) used to categorize mods and items.
@@ -18,16 +18,18 @@ JSON files and with custom screenshots for each mod.
 
 ## Mods List
 
-Total available mods: 149
+Total available mods: 159
 
 See the [full list of included mods](mods-list.md).  
 
 ## Accessing the Database
 
 At its simplest level, you can include the project as a submodule in your own
-project, and load the JSON files manually. The database was initially created
-to be used in a PHP project however, so if you have access to PHP, you can
-use the separate project [Cyberpunk 2077 Clothing Mods Database PHP][].
+project, and load the JSON files manually.
+
+The database was initially created to be used in a PHP project, so if you have 
+access to PHP, you can use the separate project [Cyberpunk 2077 Clothing Mods Database PHP][].
+This provides object-oriented access to the data, including a full text search.
 
 ## Contributing
 
