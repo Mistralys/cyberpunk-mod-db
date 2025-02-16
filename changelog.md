@@ -1,11 +1,12 @@
 ## v2.1.4 - New mods
 - Mods: Added "Jinx Arcane S2 Top" by apzurv.
-
-## v2.1.3 - New mods
 - Mods: Added "Mileena Hungry Hipster Outfit" by Dusty2077.
 - Mods: Added "Neon Razor Outfit" by Rosslin.
 - Mods: Added "Casual Style Outfit" by Veegee.
 - Mods: Added some more search term tweaks to help with searches.
+- Mods: Added "XTX Sneakers" by DBRV.
+- Mods: Added "Long Sleeve Bodysuit" by Cubfan82.
+- Mods: Added "Goth Skirt Outfit" by Mayo.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
 - Tools: Added constants for the tag JSON keys.
 
