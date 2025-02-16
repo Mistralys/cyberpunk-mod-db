@@ -7,8 +7,13 @@
 - Mods: Added "XTX Sneakers" by DBRV.
 - Mods: Added "Long Sleeve Bodysuit" by Cubfan82.
 - Mods: Added "Goth Skirt Outfit" by Mayo.
+- Mods: Added "Casual Style Outfit Part 14" by Veegee.
+- Mods: Added "Casino Aviators" by beaniebby.
+- Mods: Added "Bladerunner Joi Top" by apzurv.
+- Mods: Added "Bladerunner Joi Leggings" by apzurv.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
 - Tools: Added constants for the tag JSON keys.
+- Tools: The `create` command no longer overwrites existing files.
 
 ## v2.1.2 - Internal additions
 - Tools: Added constant for the screenshot sidecar JSON title.
