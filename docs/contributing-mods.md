@@ -41,21 +41,11 @@ to place the file in the `data/clothing` folder.
 
 ### With the command-line tools
 
-#### Requirements
-
-- PHP 8.3 or higher.
-- [Composer](https://getcomposer.org).
-
-#### Installation
-
-1. Clone the repository.
-2. Run `composer install` to install the dependencies.
-
-#### Using the create command
-
 1. Run `php bin/cpmdb.php mod="mod-id" create` to create the JSON skeleton.
 2. Open the created file `data/clothing/mod-id.json`.
 3. Fill in the basic details, excluding items.
+
+See the [command line tools reference](command-line-tools.md) for details. 
 
 ## Step 3: Adding the items
 
