@@ -52,7 +52,7 @@ See the [command line tools reference](command-line-tools.md) for details.
 ### Uncategorized vs categorized items
 
 - **Uncategorized:**  
-  When the items are of the same type (e.g., only pants),  
+  When the items are of the same type (e.g., only pants),
   they can be put directly into one default category. The category does
   not need to have label in this case. All items must have a category.
 - **Categorized:**  
@@ -76,8 +76,8 @@ Typically, the CET codes are found in the following locations:
 
 At its most basic level, items are added manually to the `items` list
 of a category, using the CET codes as specified in the mod's description.
-Use the `add-category` command to append the skeleton for a new category
-in your file.
+Use the `add-category` command ([documentation](https://github.com/Mistralys/cyberpunk-mod-db/blob/main/docs/command-line-tools.md#adding-an-item-category)) 
+to append the skeleton for a new category in your file.
 
 **Determining item names:**
 
