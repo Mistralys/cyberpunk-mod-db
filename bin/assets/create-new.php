@@ -26,6 +26,7 @@ function getCreateArg() : ?string
 
 /**
  * @param string $modID
+ * @param string $name Optional human-readable mod name.
  * @return void
  * @throws FileHelper_Exception
  */
@@ -34,6 +35,11 @@ function createNew(string $modID, string $name) : void
     if (empty($modID)) {
         logError('Mod ID not specified.');
         showUsage();
+        exit;
+    }
+
+    if(getModFile($modID)->exists()) {
+        logError('Mod [%s] already exists.', $modID);
         exit;
     }
 
