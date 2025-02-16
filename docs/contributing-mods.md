@@ -51,13 +51,14 @@ See the [command line tools reference](command-line-tools.md) for details.
 
 ### Uncategorized vs categorized items
 
-**Uncategorized:** When the items are of the same type (e.g. only pants),
-they can be put directly into one default category. The category does
-not need to have label in this case. All items must have a category.
-
-**Categorized:** When there are multiple types of items, or the mod contains
-different types of items (e.g. jackets and pants), they should be put into
-separate categories.
+- **Uncategorized:**  
+  When the items are of the same type (e.g., only pants),  
+  they can be put directly into one default category. The category does
+  not need to have label in this case. All items must have a category.
+- **Categorized:**  
+  When there are multiple types of items, or the mod contains
+  different types of items (e.g., jackets and pants), they should be put 
+  into separate categories.
 
 ### Finding the item codes
 
