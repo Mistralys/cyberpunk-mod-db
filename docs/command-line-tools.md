@@ -66,15 +66,10 @@ version control history with unnecessary changes.
 php bin/cpmdb.php mod="mod-id" normalize
 ```
 
-The normalized file will be saved under:
-
-`data/clothing/normalized/mod-id.json`
-
-This way it can be reviewed before replacing the original file.
-
 ### Showing the CET item codes
 
-This will display a list of all item codes for the CET.
+This will display a list of commands for the CET console to add
+all the mod's items to the player's inventory.
 
 ```bash
 php bin/cpmdb.php mod="mod-id" cet-codes
