@@ -1,0 +1,173 @@
+{
+    "mod": "Casino Aviators",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18191",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12223",
+    "atelierName": "The Bean Cup Atelier",
+    "authors": [
+        "Beanie",
+        "beaniebby"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Glasses",
+        "Head",
+        "MaleV"
+    ],
+    "searchTweaks": "baby",
+    "itemCategories": [
+        {
+            "label": "On Face - Black Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Clear",
+                    "code": "bby_casino_aviators_face_clear_black"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "bby_casino_aviators_face_darkred_black"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "bby_casino_aviators_face_darktint_black"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "bby_casino_aviators_face_lighttint_black"
+                },
+                {
+                    "name": "Mirrored",
+                    "code": "bby_casino_aviators_face_mirrored_black"
+                },
+                {
+                    "name": "Orange",
+                    "code": "bby_casino_aviators_face_orange_black"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "bby_casino_aviators_face_sepia_black"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bby_casino_aviators_face_yellow_black"
+                }
+            ]
+        },
+        {
+            "label": "On Face - White Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Clear",
+                    "code": "bby_casino_aviators_face_clear_white"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "bby_casino_aviators_face_darkred_white"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "bby_casino_aviators_face_darktint_white"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "bby_casino_aviators_face_lighttint_white"
+                },
+                {
+                    "name": "Mirrored",
+                    "code": "bby_casino_aviators_face_mirrored_white"
+                },
+                {
+                    "name": "Orange",
+                    "code": "bby_casino_aviators_face_orange_white"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "bby_casino_aviators_face_sepia_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bby_casino_aviators_face_yellow_white"
+                }
+            ]
+        },
+        {
+            "label": "On Head - Black Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Clear",
+                    "code": "bby_casino_aviators_head_clear_black"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "bby_casino_aviators_head_darkred_black"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "bby_casino_aviators_head_darktint_black"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "bby_casino_aviators_head_lighttint_black"
+                },
+                {
+                    "name": "Mirrored",
+                    "code": "bby_casino_aviators_head_mirrored_black"
+                },
+                {
+                    "name": "Orange",
+                    "code": "bby_casino_aviators_head_orange_black"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "bby_casino_aviators_head_sepia_black"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bby_casino_aviators_head_yellow_black"
+                }
+            ]
+        },
+        {
+            "label": "On Head - White Frames",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Clear",
+                    "code": "bby_casino_aviators_head_clear_white"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "bby_casino_aviators_head_darkred_white"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "bby_casino_aviators_head_darktint_white"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "bby_casino_aviators_head_lighttint_white"
+                },
+                {
+                    "name": "Mirrored",
+                    "code": "bby_casino_aviators_head_mirrored_white"
+                },
+                {
+                    "name": "Orange",
+                    "code": "bby_casino_aviators_head_orange_white"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "bby_casino_aviators_head_sepia_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bby_casino_aviators_head_yellow_white"
+                }
+            ]
+        }
+    ]
+}
