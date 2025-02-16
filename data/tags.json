@@ -102,6 +102,11 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/11489"
             }
+        ],
+        "aliases": [
+            "evb",
+            "hyst-evb",
+            "vtk-evb"
         ]
     },
     "Body-Flat": {
@@ -128,6 +133,9 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6423"
             }
+        ],
+        "aliases": [
+            "gymfiend"
         ]
     },
     "Body-Hyst": {
@@ -163,6 +171,8 @@
             }
         ],
         "aliases": [
+            "angel",
+            "hyst-angel",
             "body-angel"
         ]
     },
@@ -182,6 +192,8 @@
             }
         ],
         "aliases": [
+            "ebb",
+            "hyst-ebb",
             "body-ebb"
         ]
     },
@@ -192,6 +204,9 @@
             "Body-Hyst-EBBNRB"
         ],
         "aliases": [
+            "ebb-n",
+            "ebbn",
+            "hyst-ebbn",
             "body-ebbn"
         ],
         "links": [
@@ -208,6 +223,9 @@
             "Body-Hyst-EBBN"
         ],
         "aliases": [
+            "ebb-nrb",
+            "ebbnrb",
+            "hyst-ebbnrb",
             "body-ebbnrb"
         ],
         "links": [
@@ -230,6 +248,9 @@
             }
         ],
         "aliases": [
+            "ebbp",
+            "ebb-p",
+            "hyst-ebbp",
             "body-ebbp"
         ]
     },
@@ -247,6 +268,9 @@
             }
         ],
         "aliases": [
+            "ebb-prb",
+            "ebbprb",
+            "hyst-ebbprb",
             "body-ebbprb"
         ]
     },
@@ -264,6 +288,9 @@
             }
         ],
         "aliases": [
+            "ebbrb",
+            "ebb-rb",
+            "hyst-ebbrb",
             "body-ebbrb",
             "body-hyst-ebb-bb",
             "body-hyst-ebb-rb"
@@ -279,6 +306,8 @@
             }
         ],
         "aliases": [
+            "hyst-rb",
+            "rb",
             "body-rb"
         ]
     },
@@ -289,6 +318,7 @@
             "Body-SoLush"
         ],
         "aliases": [
+            "lush",
             "body-lush-large"
         ],
         "links": [
@@ -309,6 +339,9 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/8392"
             }
+        ],
+        "aliases": [
+            "solush"
         ]
     },
     "Body-Solo": {
@@ -354,6 +387,7 @@
             }
         ],
         "aliases": [
+            "solo-small",
             "body-small",
             "body-solo-small-breast"
         ]
@@ -370,6 +404,9 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6944"
             }
+        ],
+        "aliases": [
+            "solo-ultimate"
         ]
     },
     "Body-Songbird": {
@@ -420,6 +457,7 @@
             }
         ],
         "aliases": [
+            "vtk-big",
             "body-vanillahd-big",
             "body-vanilla-vtk-big"
         ]
@@ -438,6 +476,7 @@
             }
         ],
         "aliases": [
+            "vtk-small",
             "body-vanillahd-small",
             "body-vanilla-vtk-small"
         ]
@@ -453,6 +492,7 @@
         ],
         "aliases": [
             "body-vtk",
+            "vtk-hd",
             "body-vanilla-hd",
             "body-vanillahd",
             "body-vtk-hd",
