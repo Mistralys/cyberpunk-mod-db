@@ -1,0 +1,290 @@
+{
+    "mod": "Long Sleeve Bodysuit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18510",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/15621",
+    "atelierName": "Cub's Closet",
+    "authors": [
+        "Cubfan82"
+    ],
+    "tags": [
+        "Body-Flat",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Solo-Small",
+        "Body-Solo-Ultimate",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "seeAlso": [
+        {
+            "url": "https://www.nexusmods.com/cyberpunk2077/mods/10437",
+            "label": "Community Palette Project"
+        },
+        {
+            "url": "https://www.nexusmods.com/cyberpunk2077/mods/4571",
+            "label": "Microblend Resource"
+        }
+    ],
+    "comments": "Check out the optional files for body-specific refits.",
+    "itemCategories": [
+        {
+            "label": "Patterned",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Aliens",
+                    "code": "cubfan82_bodysuit_aliens"
+                },
+                {
+                    "name": "Argyle",
+                    "code": "cubfan82_bodysuit_argyle"
+                },
+                {
+                    "name": "Argyle 2",
+                    "code": "cubfan82_bodysuit_argyle2"
+                },
+                {
+                    "name": "Argyle 3",
+                    "code": "cubfan82_bodysuit_argyle3"
+                },
+                {
+                    "name": "Argyle 4",
+                    "code": "cubfan82_bodysuit_argyle4"
+                },
+                {
+                    "name": "Blue Splatter",
+                    "code": "cubfan82_bodysuit_bluesplatter"
+                },
+                {
+                    "name": "Buttercup Splatter",
+                    "code": "cubfan82_bodysuit_buttercupsplatter"
+                },
+                {
+                    "name": "Butterflies",
+                    "code": "cubfan82_bodysuit_butterflies"
+                },
+                {
+                    "name": "Gold Hypnotic",
+                    "code": "cubfan82_bodysuit_goldhypnotic"
+                },
+                {
+                    "name": "Green Plaid",
+                    "code": "cubfan82_bodysuit_greenplaid"
+                },
+                {
+                    "name": "Lime Splatter",
+                    "code": "cubfan82_bodysuit_limesplatter"
+                },
+                {
+                    "name": "Pink Plaid",
+                    "code": "cubfan82_bodysuit_pinkplaid"
+                },
+                {
+                    "name": "Pink Splatter",
+                    "code": "cubfan82_bodysuit_pinksplatter"
+                },
+                {
+                    "name": "Pink Stars",
+                    "code": "cubfan82_bodysuit_pinkstars"
+                },
+                {
+                    "name": "Purple Flower",
+                    "code": "cubfan82_bodysuit_purpleflower"
+                },
+                {
+                    "name": "Purple Hypnotic",
+                    "code": "cubfan82_bodysuit_purplehypnotic"
+                },
+                {
+                    "name": "Purple Splatter",
+                    "code": "cubfan82_bodysuit_purplesplatter"
+                },
+                {
+                    "name": "Red Hypnotic",
+                    "code": "cubfan82_bodysuit_redhypnotic"
+                },
+                {
+                    "name": "Red Plaid",
+                    "code": "cubfan82_bodysuit_redplaid"
+                },
+                {
+                    "name": "Red Skulls",
+                    "code": "cubfan82_bodysuit_redskulls"
+                },
+                {
+                    "name": "Red Splatter",
+                    "code": "cubfan82_bodysuit_redsplatter"
+                },
+                {
+                    "name": "Roses",
+                    "code": "cubfan82_bodysuit_roses"
+                },
+                {
+                    "name": "White Splatter",
+                    "code": "cubfan82_bodysuit_whitesplatter"
+                },
+                {
+                    "name": "White Stars",
+                    "code": "cubfan82_bodysuit_whitestars"
+                }
+            ]
+        },
+        {
+            "label": "Plain Colors",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_bodysuit_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_bodysuit_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_bodysuit_brown"
+                },
+                {
+                    "name": "Bubblegum",
+                    "code": "cubfan82_bodysuit_bubblegum"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "cubfan82_bodysuit_burgundy"
+                },
+                {
+                    "name": "Buttercup",
+                    "code": "cubfan82_bodysuit_buttercup"
+                },
+                {
+                    "name": "Dark Purple",
+                    "code": "cubfan82_bodysuit_darkpurple"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "cubfan82_bodysuit_darkred"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "cubfan82_bodysuit_emerald"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_bodysuit_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_bodysuit_grey"
+                },
+                {
+                    "name": "Lime",
+                    "code": "cubfan82_bodysuit_lime"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "cubfan82_bodysuit_midnightblue"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cubfan82_bodysuit_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_bodysuit_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_bodysuit_red"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_bodysuit_white"
+                }
+            ]
+        },
+        {
+            "label": "Poly",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "cubfan82_bodysuit_blackpoly"
+                },
+                {
+                    "name": "Blue",
+                    "code": "cubfan82_bodysuit_bluepoly"
+                },
+                {
+                    "name": "Brown",
+                    "code": "cubfan82_bodysuit_brownpoly"
+                },
+                {
+                    "name": "Bubblegum",
+                    "code": "cubfan82_bodysuit_bubblegumpoly"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "cubfan82_bodysuit_burgundypoly"
+                },
+                {
+                    "name": "Buttercup",
+                    "code": "cubfan82_bodysuit_buttercuppoly"
+                },
+                {
+                    "name": "Dark Purple",
+                    "code": "cubfan82_bodysuit_darkpurplepoly"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "cubfan82_bodysuit_darkredpoly"
+                },
+                {
+                    "name": "Emerald",
+                    "code": "cubfan82_bodysuit_emeraldpoly"
+                },
+                {
+                    "name": "Green",
+                    "code": "cubfan82_bodysuit_greenpoly"
+                },
+                {
+                    "name": "Grey",
+                    "code": "cubfan82_bodysuit_greypoly"
+                },
+                {
+                    "name": "Lime",
+                    "code": "cubfan82_bodysuit_limepoly"
+                },
+                {
+                    "name": "Midnight Blue",
+                    "code": "cubfan82_bodysuit_midnightbluepoly"
+                },
+                {
+                    "name": "Pink",
+                    "code": "cubfan82_bodysuit_pinkpoly"
+                },
+                {
+                    "name": "Purple",
+                    "code": "cubfan82_bodysuit_purplepoly"
+                },
+                {
+                    "name": "Red",
+                    "code": "cubfan82_bodysuit_redpoly"
+                },
+                {
+                    "name": "White",
+                    "code": "cubfan82_bodysuit_whitepoly"
+                }
+            ]
+        }
+    ]
+}
