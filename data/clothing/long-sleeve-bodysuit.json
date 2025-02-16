@@ -21,8 +21,10 @@
         "Body-VTK-Big",
         "Body-VTK-Small",
         "Body-Vanilla",
+        "Bodysuit",
         "Clothing",
-        "FemV"
+        "FemV",
+        "FullBody"
     ],
     "seeAlso": [
         {
