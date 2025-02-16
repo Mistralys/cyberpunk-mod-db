@@ -1,0 +1,124 @@
+{
+    "mod": "Bladerunner Joi Leggings Reworked",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15283",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Leggings",
+        "Legs"
+    ],
+    "linkedMods": [
+        "bladerunner-joi-top-reworked"
+    ],
+    "comments": "Inspired by the outfit worn by Joi in the movie 'Bladerunner'. See the downloads section for body refit files.",
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "Cotton",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "brjoilg_f"
+                },
+                {
+                    "name": "Blue",
+                    "code": "brjoilg_i"
+                },
+                {
+                    "name": "Green",
+                    "code": "brjoilg_g"
+                },
+                {
+                    "name": "Grey",
+                    "code": "brjoilg_h"
+                }
+            ]
+        },
+        {
+            "label": "Latex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "brjoilg_j"
+                }
+            ]
+        },
+        {
+            "label": "Sheer",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "brjoilg_n"
+                },
+                {
+                    "name": "Blue",
+                    "code": "brjoilg_m"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "brjoilg_k"
+                },
+                {
+                    "name": "Green",
+                    "code": "brjoilg_l"
+                }
+            ]
+        },
+        {
+            "label": "Shiny Sheer",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "brjoilg_p"
+                },
+                {
+                    "name": "Green",
+                    "code": "brjoilg_o"
+                }
+            ]
+        },
+        {
+            "label": "Spandex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "brjoilg_a"
+                },
+                {
+                    "name": "Blue",
+                    "code": "brjoilg_c"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "brjoilg_e"
+                },
+                {
+                    "name": "Green",
+                    "code": "brjoilg_b"
+                },
+                {
+                    "name": "Grey",
+                    "code": "brjoilg_d"
+                }
+            ]
+        }
+    ]
+}
