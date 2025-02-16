@@ -1,0 +1,210 @@
+{
+    "mod": "Goth Skirt Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15099",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12939",
+    "atelierName": "Mayo Virtual Atelier",
+    "authors": [
+        "Mayo",
+        "NotMayoSan"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Shirt",
+            "tags": [
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black Fabric",
+                    "code": "mayo_fabric_black_gso_shirt"
+                },
+                {
+                    "name": "Black Latex",
+                    "code": "mayo_latex_black_gso_shirt"
+                },
+                {
+                    "name": "Black Leather",
+                    "code": "mayo_leather_black_gso_shirt"
+                },
+                {
+                    "name": "Black Silk",
+                    "code": "mayo_silk_black_gso_shirt"
+                },
+                {
+                    "name": "Blue Leather",
+                    "code": "mayo_leather_blue_gso_shirt"
+                },
+                {
+                    "name": "Gold",
+                    "code": "mayo_gold_gso_shirt"
+                },
+                {
+                    "name": "Green Latex",
+                    "code": "mayo_latex_green_gso_shirt"
+                },
+                {
+                    "name": "Maroon Gold",
+                    "code": "mayo_gold_maroon_gso_shirt"
+                },
+                {
+                    "name": "Pink Leather",
+                    "code": "mayo_leather_pink_gso_shirt"
+                },
+                {
+                    "name": "Purple Latex",
+                    "code": "mayo_latex_purple_gso_shirt"
+                },
+                {
+                    "name": "Red Silk",
+                    "code": "mayo_silk_red_gso_shirt"
+                },
+                {
+                    "name": "White Leather",
+                    "code": "mayo_leather_white_gso_shirt"
+                }
+            ]
+        },
+        {
+            "label": "Skirt",
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Black Fabric",
+                    "code": "mayo_fabric_black_gso_skirt"
+                },
+                {
+                    "name": "Black Latex",
+                    "code": "mayo_latex_black_gso_skirt"
+                },
+                {
+                    "name": "Black Leather",
+                    "code": "mayo_leather_black_gso_skirt"
+                },
+                {
+                    "name": "Black Silk",
+                    "code": "mayo_silk_black_gso_skirt"
+                },
+                {
+                    "name": "Blue Leather",
+                    "code": "mayo_leather_blue_gso_skirt"
+                },
+                {
+                    "name": "Gold",
+                    "code": "mayo_gold_gso_skirt"
+                },
+                {
+                    "name": "Green Latex",
+                    "code": "mayo_latex_green_gso_skirt"
+                },
+                {
+                    "name": "Maroon Gold",
+                    "code": "mayo_gold_maroon_gso_skirt"
+                },
+                {
+                    "name": "Pink Leather",
+                    "code": "mayo_leather_pink_gso_skirt"
+                },
+                {
+                    "name": "Purple Latex",
+                    "code": "mayo_latex_purple_gso_skirt"
+                },
+                {
+                    "name": "Red Silk",
+                    "code": "mayo_silk_red_gso_skirt"
+                },
+                {
+                    "name": "White Leather",
+                    "code": "mayo_leather_white_gso_skirt"
+                }
+            ]
+        },
+        {
+            "label": "Stockings",
+            "tags": [
+                "Legs",
+                "Stockings"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_black_gso_stockings"
+                },
+                {
+                    "name": "Fishnet Black",
+                    "code": "mayo_fishnet_black_gso_stockings"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black Fabric",
+                    "code": "mayo_fabric_black_gso_top"
+                },
+                {
+                    "name": "Black Latex",
+                    "code": "mayo_latex_black_gso_top"
+                },
+                {
+                    "name": "Black Leather",
+                    "code": "mayo_leather_black_gso_top"
+                },
+                {
+                    "name": "Black Silk",
+                    "code": "mayo_silk_black_gso_top"
+                },
+                {
+                    "name": "Blue Leather",
+                    "code": "mayo_leather_blue_gso_top"
+                },
+                {
+                    "name": "Gold",
+                    "code": "mayo_gold_gso_top"
+                },
+                {
+                    "name": "Green Latex",
+                    "code": "mayo_latex_green_gso_top"
+                },
+                {
+                    "name": "Maroon Gold",
+                    "code": "mayo_gold_maroon_gso_top"
+                },
+                {
+                    "name": "Pink Leather",
+                    "code": "mayo_leather_pink_gso_top"
+                },
+                {
+                    "name": "Purple Latex",
+                    "code": "mayo_latex_purple_gso_top"
+                },
+                {
+                    "name": "Red Silk",
+                    "code": "mayo_silk_red_gso_top"
+                },
+                {
+                    "name": "White Leather",
+                    "code": "mayo_leather_white_gso_top"
+                }
+            ]
+        }
+    ]
+}
