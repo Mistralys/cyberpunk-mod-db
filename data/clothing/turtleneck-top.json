@@ -1,0 +1,38 @@
+{
+    "mod": "Turtleneck Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/4881",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "turtle_top_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "turtle_top_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "turtle_top_pink"
+                }
+            ]
+        }
+    ]
+}
