@@ -11,6 +11,8 @@
 - Mods: Added "Casino Aviators" by beaniebby.
 - Mods: Added "Bladerunner Joi Top" by apzurv.
 - Mods: Added "Bladerunner Joi Leggings" by apzurv.
+- Mods: Added "Turtleneck Top" by apzurv.
+- Mods: Added "Turtleneck Top Camo" by apzurv.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
 - Tools: Added constants for the tag JSON keys.
 - Tools: The `create` command no longer overwrites existing files.
