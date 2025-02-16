@@ -1,0 +1,188 @@
+{
+    "mod": "Casual Style Outfit Part 14",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17501",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Cotton Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt14_jacket_black_cotton"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt14_jacket_brown_cotton"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt14_jacket_green_cotton"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_casual_pt14_jacket_grey_cotton"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt14_jacket_pink_cotton"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt14_jacket_red_cotton"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_casual_pt14_jacket_tan_cotton"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt14_jacket_white_cotton"
+                }
+            ]
+        },
+        {
+            "label": "Cotton Skirt",
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt14_skirt_black_cotton"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt14_skirt_brown_cotton"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt14_skirt_green_cotton"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_casual_pt14_skirt_grey_cotton"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt14_skirt_pink_cotton"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt14_skirt_red_cotton"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_casual_pt14_skirt_tan_cotton"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt14_skirt_white_cotton"
+                }
+            ]
+        },
+        {
+            "label": "Leather Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt14_jacket_black_leather"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt14_jacket_brown_leather"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt14_jacket_green_leather"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_casual_pt14_jacket_grey_leather"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt14_jacket_pink_leather"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt14_jacket_red_leather"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_casual_pt14_jacket_tan_leather"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt14_jacket_white_leather"
+                }
+            ]
+        },
+        {
+            "label": "Leather Skirt",
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt14_skirt_black_leather"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt14_skirt_brown_leather"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt14_skirt_green_leather"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_casual_pt14_skirt_grey_leather"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt14_skirt_pink_leather"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt14_skirt_red_leather"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_casual_pt14_skirt_tan_leather"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt14_skirt_white_leather"
+                }
+            ]
+        }
+    ]
+}
