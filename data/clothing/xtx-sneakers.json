@@ -1,0 +1,55 @@
+{
+    "mod": "XTX Sneakers",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17067",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7848",
+    "atelierName": "DBRV n CO Virtual Store",
+    "authors": [
+        "DBRV"
+    ],
+    "tags": [
+        "Body-EVB",
+        "Body-Gymfiend",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-VTK-VanillaHD",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV",
+        "Shoes"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Acid Orange",
+                    "code": "xtxsneak_a"
+                },
+                {
+                    "name": "Black 2048",
+                    "code": "xtxsneak_c"
+                },
+                {
+                    "name": "Burgundy Suede",
+                    "code": "xtxsneak_b"
+                },
+                {
+                    "name": "Green Vintage",
+                    "code": "xtxsneak_d"
+                },
+                {
+                    "name": "White Snake",
+                    "code": "xtxsneak_e"
+                }
+            ]
+        }
+    ]
+}
