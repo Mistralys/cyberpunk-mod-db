@@ -622,6 +622,14 @@
             "coats"
         ]
     },
+    "Cosplay": {
+        "description": "Clothing items that are inspired by characters from other media",
+        "category": "Item properties",
+        "aliases": [
+            "cosplays",
+            "costume-play"
+        ]
+    },
     "CPAL": {
         "description": "Community Palette Project",
         "category": "Mods",
