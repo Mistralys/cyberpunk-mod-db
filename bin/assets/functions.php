@@ -142,13 +142,14 @@ function addMessage(string $message, ...$args) : void
 
 function displayMessages() : void
 {
+    logHeader('Messages');
+
     $messages = getMessages();
 
     if(empty($messages)) {
+        logInfo('Excellent! No messages triggered.');
         return;
     }
-
-    logHeader('Messages');
 
     foreach($messages as $message) {
         logInfo($message);
