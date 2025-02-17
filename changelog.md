@@ -15,6 +15,7 @@
 - Mods: Added "Turtleneck Top Camo" by apzurv.
 - Mods: Added "Low Waist Leggings" by Mayo.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
+- Mods: `comfy-dress` updated to support Male V.
 - Tags: Added the possibility to list required tags per tag.
 - Tags: Added `CPAL`, `MIBL` and `MatEX` tags for modder resource mods.
 - Tags: Added the `Cosplay` tag for items inspired by TV shows, games and the like.
