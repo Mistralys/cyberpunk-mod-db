@@ -11,6 +11,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [AdShield Atelier Store](#adshield-atelier-store)
 - [Alvarix Custom Store](#alvarix-custom-store)
 - [Atelier for Flash Posers](#atelier-for-flash-posers)
+- [Breezy's Accessory Alcove](#breezys-accessory-alcove)
 - [Breezy's Clothing Emporium](#breezys-clothing-emporium)
 - [Complectedd Necklace Atelier](#complectedd-necklace-atelier)
 - [CUB Atelier Store](#cub-atelier-store)
@@ -80,6 +81,12 @@ Mods: 8 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8886)
 
 - [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886)
+
+### Breezy's Accessory Alcove
+
+Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
+
+- [Keffiyeh](https://www.nexusmods.com/cyberpunk2077/mods/19475)
 
 ### Breezy's Clothing Emporium
 
@@ -185,11 +192,12 @@ Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6779)
 
 ### Mayo Virtual Atelier
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
+Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
 
 - [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249)
 - [Goth Skirt Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15099)
 - [High Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/17045)
+- [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/19257)
 
 ### MONSTERaider Atelier Store
 

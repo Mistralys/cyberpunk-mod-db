@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 159
+Total available mods: 161
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -75,6 +75,7 @@ Total available mods: 159
 * [Jinx Arcane S2 Top](https://www.nexusmods.com/cyberpunk2077/mods/18038) by EzioMaverick and apzurv
 * [Johnny Silverhand's String Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/6912) by Kwek and kweknexuss
 * [Judy's Platform Shoes](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
+* [Keffiyeh](https://www.nexusmods.com/cyberpunk2077/mods/19475) by Breezypunk
 * [Lace-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/16927) by CaffeinatedRogue
 * [Lace Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/7711) by xBaebsae
 * [Leather Boots](https://www.nexusmods.com/cyberpunk2077/mods/15749) by Apzurv and EzioMaverick
@@ -83,6 +84,7 @@ Total available mods: 159
 * [Liquid Heart Earrings](https://www.nexusmods.com/cyberpunk2077/mods/14190) by cyb3rsn4k3
 * [Long Sleeve Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/18510) by Cubfan82
 * [Lowrise Pants](https://www.nexusmods.com/cyberpunk2077/mods/8456) by Cubfan82
+* [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/19257) by Mayo and NotMayoSan
 * [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/8627) by Apzurv and EzioMaverick
 * [Lucy Edgerunners Jacket](https://www.nexusmods.com/cyberpunk2077/mods/5248) by Apzurv and EzioMaverick
 * [Lucy Edgerunners Pants](https://www.nexusmods.com/cyberpunk2077/mods/5342) by Apzurv and EzioMaverick
