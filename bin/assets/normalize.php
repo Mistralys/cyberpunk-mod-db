@@ -423,7 +423,7 @@ function normalizeTagDefs() : void
 
     getTagDefsFile()->putData($result);
 
-    $GLOBALS[GLOBAL_TAGS] = array();
+    $GLOBALS[GLOBAL_TAGS] = null;
 
     logInfo('DONE.');
 }
