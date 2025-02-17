@@ -72,6 +72,7 @@ function normalizeFile(JSONFile $file) : void
 {
     logHeader('Data file [%s] - Normalizing structure', $file->getName());
 
+    $modID = $file->getBaseName();
     $data = $file->parse();
 
     if(!empty($data['relatedMods'])) {
@@ -108,12 +109,12 @@ function normalizeFile(JSONFile $file) : void
         });
     }
 
-    $converted[KEY_TAGS] = normalizeTags($converted[KEY_TAGS]);
+    $converted[KEY_TAGS] = normalizeTags($converted[KEY_TAGS], 'mod ['.$modID.']');
 
     sort($converted[KEY_AUTHORS]);
 
     if(!empty($converted[KEY_ATELIER])) {
-        $converted[KEY_ATELIER_NAME] = getAtelierName($converted[KEY_ATELIER]);
+        $converted[KEY_ATELIER_NAME] = getAtelierName($converted[KEY_ATELIER], 'mod ['.$modID.']');
     }
 
     $categories = $data[KEY_ITEM_CATEGORIES];
@@ -136,7 +137,7 @@ function normalizeFile(JSONFile $file) : void
             $category[KEY_CAT_TAGS] = array();
         }
 
-        $category[KEY_CAT_TAGS] = normalizeTags($category[KEY_CAT_TAGS]);
+        $category[KEY_CAT_TAGS] = normalizeTags($category[KEY_CAT_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].']');
 
         foreach($category[KEY_CAT_ITEMS] as $idx => $item) {
             $normalizedItem = array(
@@ -145,7 +146,7 @@ function normalizeFile(JSONFile $file) : void
             );
 
             if(!empty($item[KEY_ITEM_TAGS])) {
-                $normalizedItem[KEY_ITEM_TAGS] = normalizeTags($item[KEY_ITEM_TAGS]);
+                $normalizedItem[KEY_ITEM_TAGS] = normalizeTags($item[KEY_ITEM_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].'] item ['.$normalizedItem[KEY_ITEM_NAME].']');
             }
 
             $category[KEY_CAT_ITEMS][$idx] = $normalizedItem;
@@ -199,7 +200,7 @@ function resolveSearchTerms(array $modData) : string
     return implode(' ', $terms);
 }
 
-function getAtelierName(string $atelierURL) : string
+function getAtelierName(string $atelierURL, string $source) : string
 {
     foreach(getAteliers() as $atelier) {
         if($atelier['url'] === $atelierURL) {
@@ -207,17 +208,19 @@ function getAtelierName(string $atelierURL) : string
         }
     }
 
-    logError('Unknown atelier URL ['.$atelierURL.'].');
+    addMessage('Unknown atelier URL [%s] in %s.', $atelierURL, $source);
+    logError('Unknown atelier URL [%s].', $atelierURL);
 
     return '';
 }
 
 /**
  * @param string[] $tags
+ * @param string $source Which part of the data file the tags are from?
  * @return string[]
  * @throws FileHelper_Exception
  */
-function normalizeTags(array $tags) : array
+function normalizeTags(array $tags, string $source) : array
 {
     $normalized = array();
     $tagAliases = getTagAliases();
@@ -226,7 +229,8 @@ function normalizeTags(array $tags) : array
     {
         $tag = strtolower($tag);
         if(!isset($tagAliases[$tag])) {
-            logError('Unknown tag ['.$tag.']');
+            addMessage('Unknown tag [%s] in %s.', $tag, $source);
+            logError('Unknown tag [%s]', $tag);
             continue;
         }
 
@@ -235,7 +239,45 @@ function normalizeTags(array $tags) : array
 
     sort($normalized);
 
+    checkTags($normalized, $source);
+
     return $normalized;
+}
+
+/**
+ * Verifies that the required tags are present for
+ * each of the specified tags (as defined in the tag
+ * collection in the setting {@see KEY_TAG_DEFS_REQUIRED_TAGS}).
+ *
+ * @param string[] $tags
+ * @param string $source Which part of the data file the tags are from?
+ * @return void
+ * @throws FileHelper_Exception
+ */
+function checkTags(array $tags, string $source) : void
+{
+    $tagDefs = getTags();
+
+    foreach($tags as $tag) {
+        if(!isset($tagDefs[$tag])) {
+            addMessage('Unknown tag [%s] in %s.', $tag, $source);
+            logError('Unknown tag [%s].', $tag);
+            continue;
+        }
+
+        $def = $tagDefs[$tag];
+
+        if(empty($def[KEY_TAG_DEFS_REQUIRED_TAGS])) {
+            continue;
+        }
+
+        foreach($def[KEY_TAG_DEFS_REQUIRED_TAGS] as $requiredTag) {
+            if (!in_array($requiredTag, $tags)) {
+                addMessage('Tag [%s] requires tag [%s] to be present too in %s.', $tag, $requiredTag, $source);
+                logError('Tag [%s] requires tag [%s] to be present too.', $tag, $requiredTag);
+            }
+        }
+    }
 }
 
 function normalizeAll() : void
