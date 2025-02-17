@@ -35,15 +35,22 @@ function getCheckScreenshotsArg() : ?string
 
 function checkScreenshots() : void
 {
+    logHeader('Checking screenshots');
+
     $screenshotPath = __DIR__ . '/../../data/clothing/screens';
 
     foreach(getModFiles() as $file) {
         checkModScreenshots($file->getBaseName(), $screenshotPath);
     }
+
+    logInfo('DONE.');
+    logEmptyLine();
 }
 
 function checkModScreenshots(string $modID, string $screenshotPath) : void
 {
+    logInfo('- Mod [%s]...', $modID);
+
     $path = sprintf(
         '%s/%s.jpg',
         $screenshotPath,
@@ -55,10 +62,8 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
             'Missing screenshot',
             'mod ['.$modID.']'
         );
-        logError(
-            'Missing screenshot for [%s]',
-            $modID
-        );
+        logInfo('  ...the screenshot is missing.');
+        return;
     }
 
     $sidecarFiles = getModScreenshotSidecarFiles($modID);
@@ -82,7 +87,7 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
             );
 
             logInfo(
-                'No screenshot detected for the MaleV version for mod [%s].',
+                '  ...No screenshot detected for the MaleV version.',
                 $modID
             );
         }
