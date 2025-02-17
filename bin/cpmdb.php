@@ -27,10 +27,12 @@ use function CPMDB\Assets\getModListArg;
 use function CPMDB\Assets\getNormalizeAllArg;
 use function CPMDB\Assets\getNormalizeArg;
 use function CPMDB\Assets\getNormalizeAteliersArg;
+use function CPMDB\Assets\getNormalizeTagsArg;
 use function CPMDB\Assets\getTagsReferenceArg;
-use function CPMDB\Assets\normalizeAll;
+use function CPMDB\Assets\normalizeAllMods;
 use function CPMDB\Assets\normalizeAteliers;
 use function CPMDB\Assets\normalizeFile;
+use function CPMDB\Assets\normalizeTagDefs;
 use function CPMDB\Assets\showUsage;
 
 require_once __DIR__ . '/../vendor/autoload.php';
@@ -103,13 +105,21 @@ else
     }
 
     if(getNormalizeAllArg() !== null) {
-        normalizeAll();
+        normalizeAllMods();
         displayMessages();
         exit;
     }
 
+    // Normalize the atelier definitions file
     if(getNormalizeAteliersArg() !== null) {
         normalizeAteliers();
+        displayMessages();
+        exit;
+    }
+
+    // Normalize the tag definitions file
+    if (getNormalizeTagsArg() !== null) {
+        normalizeTagDefs();
         displayMessages();
         exit;
     }
