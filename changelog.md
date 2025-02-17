@@ -14,6 +14,7 @@
 - Mods: Added "Turtleneck Top" by apzurv.
 - Mods: Added "Turtleneck Top Camo" by apzurv.
 - Mods: Added "Low Waist Leggings" by Mayo.
+- Mods: Added "Keffiyeh" by Breezypunk.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
 - Mods: `comfy-dress` updated to support Male V.
 - Tags: Added the possibility to list required tags per tag.
