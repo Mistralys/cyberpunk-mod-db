@@ -1,0 +1,166 @@
+{
+    "mod": "Obscura Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19383",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/17860",
+    "atelierName": "Scofil Virtual Atelier",
+    "authors": [
+        "SCOFIL",
+        "Scofil1996"
+    ],
+    "tags": [
+        "Body-Flat",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Solo",
+        "Body-Solo-Small",
+        "Body-Solo-Ultimate",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "BodyTags",
+        "Clothing",
+        "FemV",
+        "GarmentSupport"
+    ],
+    "searchTweaks": "1996",
+    "itemCategories": [
+        {
+            "label": "Blazer",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "scofil_obscura_blazer_black"
+                },
+                {
+                    "name": "Purple",
+                    "code": "scofil_obscura_blazer_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "scofil_obscura_blazer_red"
+                }
+            ]
+        },
+        {
+            "label": "Bodysuit",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Biomechanic",
+                    "code": "scofil_obscura_bodysuit_biomechanic"
+                },
+                {
+                    "name": "Biomechanic White",
+                    "code": "scofil_obscura_bodysuit_biomechanic_white"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "scofil_obscura_bodysuit_black_red"
+                },
+                {
+                    "name": "Black White",
+                    "code": "scofil_obscura_bodysuit_black_white"
+                },
+                {
+                    "name": "Dragon Black",
+                    "code": "scofil_obscura_bodysuit_dragon_black"
+                },
+                {
+                    "name": "Dragon Purple",
+                    "code": "scofil_obscura_bodysuit_dragon_purple"
+                },
+                {
+                    "name": "Dragon Red",
+                    "code": "scofil_obscura_bodysuit_dragon_red"
+                },
+                {
+                    "name": "Dragon White",
+                    "code": "scofil_obscura_bodysuit_dragon_white"
+                },
+                {
+                    "name": "Full Black",
+                    "code": "scofil_obscura_bodysuit_fullblack"
+                },
+                {
+                    "name": "Full Purple",
+                    "code": "scofil_obscura_bodysuit_fullpurple"
+                },
+                {
+                    "name": "Full Red",
+                    "code": "scofil_obscura_bodysuit_fullred"
+                },
+                {
+                    "name": "Full White",
+                    "code": "scofil_obscura_bodysuit_fullwhite"
+                },
+                {
+                    "name": "Pink Turquoise",
+                    "code": "scofil_obscura_bodysuit_pink_turquoise"
+                },
+                {
+                    "name": "Purple Green",
+                    "code": "scofil_obscura_bodysuit_purple_green"
+                },
+                {
+                    "name": "Purple Special",
+                    "code": "scofil_obscura_bodysuit_purple_special"
+                },
+                {
+                    "name": "Red Blue",
+                    "code": "scofil_obscura_bodysuit_red_blue"
+                },
+                {
+                    "name": "Red White",
+                    "code": "scofil_obscura_bodysuit_red_white"
+                },
+                {
+                    "name": "Sintetic Black",
+                    "code": "scofil_obscura_bodysuit_sintetic_black"
+                },
+                {
+                    "name": "Sintetic Iridescent",
+                    "code": "scofil_obscura_bodysuit_sintetic_iridescent"
+                },
+                {
+                    "name": "Sintetic Silver",
+                    "code": "scofil_obscura_bodysuit_sintetic_silver"
+                },
+                {
+                    "name": "Sorayama Chrome",
+                    "code": "scofil_obscura_bodysuit_sorayama_chrome"
+                },
+                {
+                    "name": "Sorayama Chrome 2",
+                    "code": "scofil_obscura_bodysuit_sorayama_chrome2"
+                },
+                {
+                    "name": "Sorayama Chrome 3",
+                    "code": "scofil_obscura_bodysuit_sorayama_chrome3"
+                },
+                {
+                    "name": "Sorayama Purple",
+                    "code": "scofil_obscura_bodysuit_sorayama_purple"
+                },
+                {
+                    "name": "Sorayama Red",
+                    "code": "scofil_obscura_bodysuit_sorayama_red"
+                },
+                {
+                    "name": "Xeno",
+                    "code": "scofil_obscura_bodysuit_xeno"
+                }
+            ]
+        }
+    ]
+}
