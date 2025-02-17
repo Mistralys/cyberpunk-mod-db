@@ -85,6 +85,9 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4968"
             }
+        ],
+        "aliases": [
+            "adonis"
         ]
     },
     "Body-Atlas": {
@@ -95,6 +98,9 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/8766"
             }
+        ],
+        "aliases": [
+            "atlas"
         ]
     },
     "Body-EVB": {
