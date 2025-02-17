@@ -67,6 +67,9 @@
     "Belt": {
         "description": "Belt",
         "category": "Clothing items",
+        "requiredTags": [
+            "Waist"
+        ],
         "relatedTags": [
             "Waist"
         ],
@@ -505,6 +508,9 @@
         "relatedTags": [
             "FullBody"
         ],
+        "requiredTags": [
+            "FullBody"
+        ],
         "aliases": [
             "body-suit",
             "bodysuits"
@@ -514,6 +520,9 @@
         "description": "Boots",
         "category": "Clothing items",
         "relatedTags": [
+            "Feet"
+        ],
+        "requiredTags": [
             "Feet"
         ],
         "aliases": [
@@ -526,6 +535,9 @@
         "relatedTags": [
             "Torso"
         ],
+        "requiredTags": [
+            "Torso"
+        ],
         "aliases": [
             "bras"
         ]
@@ -536,6 +548,9 @@
         "relatedTags": [
             "Arms",
             "Jewelry"
+        ],
+        "requiredTags": [
+            "Arms"
         ],
         "aliases": [
             "bracelets",
@@ -581,6 +596,9 @@
         "relatedTags": [
             "Neck"
         ],
+        "requiredTags": [
+            "Neck"
+        ],
         "aliases": [
             "chokers",
             "collar"
@@ -594,6 +612,10 @@
         "description": "Coat",
         "category": "Clothing items",
         "relatedTags": [
+            "FullBody",
+            "Torso"
+        ],
+        "requiredTags": [
             "FullBody"
         ],
         "aliases": [
@@ -606,6 +628,9 @@
         "relatedTags": [
             "Torso",
             "Waist"
+        ],
+        "requiredTags": [
+            "Torso"
         ],
         "aliases": [
             "corsets"
@@ -635,6 +660,9 @@
         "relatedTags": [
             "FullBody"
         ],
+        "requiredTags": [
+            "FullBody"
+        ],
         "aliases": [
             "dresses"
         ]
@@ -643,6 +671,9 @@
         "description": "Earring",
         "category": "Clothing items",
         "relatedTags": [
+            "Head"
+        ],
+        "requiredTags": [
             "Head"
         ],
         "aliases": [
@@ -710,12 +741,18 @@
         "category": "Clothing items",
         "relatedTags": [
             "Head"
+        ],
+        "requiredTags": [
+            "Head"
         ]
     },
     "Gloves": {
         "description": "Gloves",
         "category": "Clothing items",
         "relatedTags": [
+            "Hands"
+        ],
+        "requiredTags": [
             "Hands"
         ],
         "aliases": [
@@ -739,6 +776,9 @@
         "relatedTags": [
             "Head"
         ],
+        "requiredTags": [
+            "Head"
+        ],
         "aliases": [
             "hats"
         ]
@@ -749,6 +789,13 @@
         "aliases": [
             "headgear",
             "face"
+        ],
+        "relatedTags": [
+            "Hair",
+            "Mask",
+            "Glasses",
+            "Earring",
+            "Hat"
         ]
     },
     "Holo": {
@@ -764,6 +811,9 @@
         "description": "Jacket, Blazer, Bolero",
         "category": "Clothing items",
         "relatedTags": [
+            "Torso"
+        ],
+        "requiredTags": [
             "Torso"
         ],
         "aliases": [
@@ -787,6 +837,9 @@
         "description": "Leggings, stretch pants",
         "category": "Clothing items",
         "relatedTags": [
+            "Legs"
+        ],
+        "requiredTags": [
             "Legs"
         ],
         "aliases": [
@@ -824,6 +877,9 @@
         "relatedTags": [
             "Head"
         ],
+        "requiredTags": [
+            "Head"
+        ],
         "aliases": [
             "masks"
         ]
@@ -846,6 +902,9 @@
         "relatedTags": [
             "Neck"
         ],
+        "requiredTags": [
+            "Neck"
+        ],
         "aliases": [
             "necklaces"
         ]
@@ -863,6 +922,9 @@
         "relatedTags": [
             "Legs"
         ],
+        "requiredTags": [
+            "Legs"
+        ],
         "aliases": [
             "panty"
         ]
@@ -871,6 +933,9 @@
         "description": "Pants",
         "category": "Clothing items",
         "relatedTags": [
+            "Legs"
+        ],
+        "requiredTags": [
             "Legs"
         ],
         "aliases": [
@@ -925,6 +990,9 @@
         "relatedTags": [
             "Hands"
         ],
+        "requiredTags": [
+            "Hands"
+        ],
         "aliases": [
             "rings"
         ]
@@ -933,6 +1001,9 @@
         "description": "Shirt",
         "category": "Clothing items",
         "relatedTags": [
+            "Torso"
+        ],
+        "requiredTags": [
             "Torso"
         ],
         "aliases": [
@@ -949,6 +1020,9 @@
         "relatedTags": [
             "Feet"
         ],
+        "requiredTags": [
+            "Feet"
+        ],
         "aliases": [
             "shoe"
         ]
@@ -957,6 +1031,9 @@
         "description": "Shorts",
         "category": "Clothing items",
         "relatedTags": [
+            "Legs"
+        ],
+        "requiredTags": [
             "Legs"
         ]
     },
@@ -976,6 +1053,9 @@
         "relatedTags": [
             "Legs"
         ],
+        "requiredTags": [
+            "Legs"
+        ],
         "aliases": [
             "skirts"
         ]
@@ -984,6 +1064,9 @@
         "description": "Sleeves",
         "category": "Clothing items",
         "relatedTags": [
+            "Arms"
+        ],
+        "requiredTags": [
             "Arms"
         ],
         "aliases": [
@@ -995,12 +1078,18 @@
         "category": "Clothing items",
         "relatedTags": [
             "Legs"
+        ],
+        "requiredTags": [
+            "Legs"
         ]
     },
     "Suit": {
         "description": "Suit",
         "category": "Clothing items",
         "relatedTags": [
+            "FullBody"
+        ],
+        "requiredTags": [
             "FullBody"
         ],
         "aliases": [
@@ -1028,6 +1117,9 @@
         "relatedTags": [
             "Torso"
         ],
+        "requiredTags": [
+            "Torso"
+        ],
         "aliases": [
             "tops"
         ]
@@ -1053,7 +1145,9 @@
         "description": "Underwear",
         "category": "Clothing items",
         "relatedTags": [
-            "Skimpy"
+            "Skimpy",
+            "Panties",
+            "Bra"
         ],
         "aliases": [
             "undergarment",
@@ -1080,6 +1174,9 @@
     },
     "Waist": {
         "description": "Waist slot",
-        "category": "Clothing slots"
+        "category": "Clothing slots",
+        "relatedTags": [
+            "Belt"
+        ]
     }
 }
