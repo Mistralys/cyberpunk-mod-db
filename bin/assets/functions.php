@@ -75,8 +75,18 @@ function getModArg() : ?string
 /**
  * @return JSONFile[]
  * @throws FileHelper_Exception
+ * @deprecated Use {@see getModFiles()} instead.
  */
 function getFiles() : array
+{
+    return getModFiles();
+}
+
+/**
+ * @return JSONFile[]
+ * @throws FileHelper_Exception
+ */
+function getModFiles() : array
 {
     return FileHelper::createFileFinder(__DIR__.'/../../data/clothing')
         ->includeExtension('json')
@@ -271,4 +281,27 @@ function getScreenshotFile(string $modID) : JSONFile
 function getModRoot() : FolderInfo
 {
     return FolderInfo::factory(__DIR__.'/../../');
+}
+
+function getModTags(string $modID) : array
+{
+    $data = getModFile($modID)->getData();
+
+    $tags = $data[KEY_TAGS] ?? array();
+
+    if(!empty($data[KEY_ITEM_CATEGORIES])) {
+        foreach($data[KEY_ITEM_CATEGORIES] as $category) {
+            array_push($tags, ...$category[KEY_TAGS]);
+
+            if(!empty($category[KEY_CAT_ITEMS])) {
+                foreach($category[KEY_CAT_ITEMS] as $item) {
+                    if(!empty($item[KEY_ITEM_TAGS])) {
+                        array_push($tags, ...$item[KEY_ITEM_TAGS]);
+                    }
+                }
+            }
+        }
+    }
+
+    return $tags;
 }
