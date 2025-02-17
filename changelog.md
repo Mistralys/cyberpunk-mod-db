@@ -1,4 +1,4 @@
-## v2.1.4 - New mods
+## v2.2.0 - New mods and tagging update
 - Mods: Added "Jinx Arcane S2 Top" by apzurv.
 - Mods: Added "Mileena Hungry Hipster Outfit" by Dusty2077.
 - Mods: Added "Neon Razor Outfit" by Rosslin.
@@ -19,6 +19,7 @@
 - Tags: Added the possibility to list required tags per tag.
 - Tags: Added `CPAL`, `MIBL` and `MatEX` tags for modder resource mods.
 - Tags: Added the `Cosplay` tag for items inspired by TV shows, games and the like.
+- Tags: Added the `Modder resource` tag category.
 - Tools: Now doing required tag checks when normalizing tags.
 - Tools: Added constants for the tag JSON keys.
 - Tools: The `create` command no longer overwrites existing files.
