@@ -58,3 +58,13 @@ const KEYS_ORDER = array(
     KEY_SEARCH_TERMS => '',
     KEY_ITEM_CATEGORIES => array()
 );
+
+const KEYS_ORDER_TAG_DEFS = array(
+    KEY_TAG_DEFS_FULL_NAME => null,
+    KEY_TAG_DEFS_DESCRIPTION => '',
+    KEY_TAG_DEFS_CATEGORY => '',
+    KEY_TAG_DEFS_ALIASES => array(),
+    KEY_TAG_DEFS_RELATED_TAGS => array(),
+    KEY_TAG_DEFS_REQUIRED_TAGS => array(),
+    KEY_TAG_DEFS_LINKS => array()
+);
