@@ -29,8 +29,12 @@ function checkScreenshots() : void
         );
 
         if(!file_exists($path)) {
+            addMessage(
+                'Missing screenshot',
+                'mod ['.$file->getBaseName().']'
+            );
             logError(
-                "Missing screenshot for [%s]",
+                'Missing screenshot for [%s]',
                 $file->getBaseName()
             );
         }
