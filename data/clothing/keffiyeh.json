@@ -1,0 +1,134 @@
+{
+    "mod": "Keffiyeh",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19475",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/17749",
+    "atelierName": "Breezy's Accessory Alcove",
+    "authors": [
+        "Breezypunk"
+    ],
+    "tags": [
+        "Body-Gymfiend",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Solo",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "BodyTags",
+        "Clothing",
+        "FemV",
+        "MaleV",
+        "Neck"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Abir",
+                    "code": "breezy_keffiyeh_abir"
+                },
+                {
+                    "name": "Aleena",
+                    "code": "breezy_keffiyeh_aleena"
+                },
+                {
+                    "name": "Angel White",
+                    "code": "breezy_keffiyeh_angelwhite"
+                },
+                {
+                    "name": "Asif",
+                    "code": "breezy_keffiyeh_asif"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "breezy_keffiyeh_barbie"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "breezy_keffiyeh_burgundy"
+                },
+                {
+                    "name": "Cherry Bomb",
+                    "code": "breezy_keffiyeh_cherrybomb"
+                },
+                {
+                    "name": "Cream",
+                    "code": "breezy_keffiyeh_cream"
+                },
+                {
+                    "name": "Crow",
+                    "code": "breezy_keffiyeh_crow"
+                },
+                {
+                    "name": "Edgerunner",
+                    "code": "breezy_keffiyeh_edgerunner"
+                },
+                {
+                    "name": "Electric Purple",
+                    "code": "breezy_keffiyeh_electricpurple"
+                },
+                {
+                    "name": "Fauzia",
+                    "code": "breezy_keffiyeh_fauzia"
+                },
+                {
+                    "name": "Fiza",
+                    "code": "breezy_keffiyeh_fiza"
+                },
+                {
+                    "name": "Jade",
+                    "code": "breezy_keffiyeh_jade"
+                },
+                {
+                    "name": "Jori",
+                    "code": "breezy_keffiyeh_jori"
+                },
+                {
+                    "name": "Kinza",
+                    "code": "breezy_keffiyeh_kinza"
+                },
+                {
+                    "name": "Mahnoor",
+                    "code": "breezy_keffiyeh_mahnoor"
+                },
+                {
+                    "name": "Nabhan",
+                    "code": "breezy_keffiyeh_nabhan"
+                },
+                {
+                    "name": "Neha",
+                    "code": "breezy_keffiyeh_neha"
+                },
+                {
+                    "name": "OG",
+                    "code": "breezy_keffiyeh_og"
+                },
+                {
+                    "name": "Paisley",
+                    "code": "breezy_keffiyeh_paisley"
+                },
+                {
+                    "name": "Roses",
+                    "code": "breezy_keffiyeh_roses"
+                },
+                {
+                    "name": "Royal Blue",
+                    "code": "breezy_keffiyeh_royalblue"
+                },
+                {
+                    "name": "Sun Kissed",
+                    "code": "breezy_keffiyeh_sunkissed"
+                },
+                {
+                    "name": "Worn Tear",
+                    "code": "breezy_keffiyeh_wearntear"
+                }
+            ]
+        }
+    ]
+}
