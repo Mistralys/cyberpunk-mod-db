@@ -13,9 +13,11 @@
 - Mods: Added "Bladerunner Joi Leggings" by apzurv.
 - Mods: Added "Turtleneck Top" by apzurv.
 - Mods: Added "Turtleneck Top Camo" by apzurv.
+- Mods: Added "Low Waist Leggings" by Mayo.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
 - Tags: Added the possibility to list required tags per tag.
-- Tags: Added `CPAL` and `MIBL` tags.
+- Tags: Added `CPAL`, `MIBL` and `MatEX` tags for modder resource mods.
+- Tags: Added the `Cosplay` tag for items inspired by TV shows, games and the like.
 - Tools: Now doing required tag checks when normalizing tags.
 - Tools: Added constants for the tag JSON keys.
 - Tools: The `create` command no longer overwrites existing files.
