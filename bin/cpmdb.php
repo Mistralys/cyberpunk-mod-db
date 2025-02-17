@@ -101,6 +101,7 @@ else
 
     if(getBuildReleaseArg() !== null) {
         buildRelease();
+        displayMessages();
         exit;
     }
 
