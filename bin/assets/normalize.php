@@ -22,6 +22,8 @@ use AppUtils\ConvertHelper;
 use AppUtils\FileHelper\JSONFile;
 use AppUtils\FileHelper_Exception;
 
+const GLOBAL_TAGS = '__cpmdb_tags';
+
 /**
  * @return string|null
  */
@@ -68,6 +70,22 @@ function getNormalizeAteliersArg() : ?string
         null;
 }
 
+/**
+ * @return string|null
+ */
+function getNormalizeTagsArg() : ?string
+{
+    $commands = getCLICommands();
+
+    return
+        $commands['normalize-tags'] ??
+        $commands['normalizetags'] ??
+        $commands['norm-tags'] ??
+        $commands['normtags'] ??
+        $commands['ntags'] ??
+        null;
+}
+
 function normalizeFile(JSONFile $file) : void
 {
     logHeader('Data file [%s] - Normalizing structure', $file->getName());
@@ -111,6 +129,8 @@ function normalizeFile(JSONFile $file) : void
 
     $converted[KEY_TAGS] = normalizeTags($converted[KEY_TAGS], 'mod ['.$modID.']');
 
+    $allTags = $converted[KEY_TAGS];
+
     sort($converted[KEY_AUTHORS]);
 
     if(!empty($converted[KEY_ATELIER])) {
@@ -138,6 +158,7 @@ function normalizeFile(JSONFile $file) : void
         }
 
         $category[KEY_CAT_TAGS] = normalizeTags($category[KEY_CAT_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].']');
+        array_push($allTags, ...$category[KEY_CAT_TAGS]);
 
         foreach($category[KEY_CAT_ITEMS] as $idx => $item) {
             $normalizedItem = array(
@@ -147,6 +168,7 @@ function normalizeFile(JSONFile $file) : void
 
             if(!empty($item[KEY_ITEM_TAGS])) {
                 $normalizedItem[KEY_ITEM_TAGS] = normalizeTags($item[KEY_ITEM_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].'] item ['.$normalizedItem[KEY_ITEM_NAME].']');
+                array_push($allTags, ...$normalizedItem[KEY_ITEM_TAGS]);
             }
 
             $category[KEY_CAT_ITEMS][$idx] = $normalizedItem;
@@ -159,6 +181,8 @@ function normalizeFile(JSONFile $file) : void
 
         $keep[] = $category;
     }
+
+    analyzeTagRecommendations($allTags, 'mod ['.$modID.']');
 
     $converted[KEY_ITEM_CATEGORIES] = $keep;
 
@@ -175,6 +199,11 @@ function normalizeFile(JSONFile $file) : void
 
     logInfo('File normalized successfully.');
     logEmptyLine();
+}
+
+function analyzeTagRecommendations(array $tags, string $source) : void
+{
+
 }
 
 function resolveSearchTerms(array $modData) : string
@@ -239,7 +268,7 @@ function normalizeTags(array $tags, string $source) : array
 
     sort($normalized);
 
-    checkTags($normalized, $source);
+    checkRequiredTags($normalized, $source);
 
     return $normalized;
 }
@@ -254,7 +283,7 @@ function normalizeTags(array $tags, string $source) : array
  * @return void
  * @throws FileHelper_Exception
  */
-function checkTags(array $tags, string $source) : void
+function checkRequiredTags(array $tags, string $source) : void
 {
     $tagDefs = getTags();
 
@@ -280,9 +309,9 @@ function checkTags(array $tags, string $source) : void
     }
 }
 
-function normalizeAll() : void
+function normalizeAllMods() : void
 {
-    foreach(getFiles() as $file) {
+    foreach(getModFiles() as $file) {
         normalizeFile($file);
     }
 }
@@ -295,16 +324,30 @@ function normalizeAll() : void
  */
 function getTags() : array
 {
-    if(isset($GLOBALS['__tags'])) {
-        return $GLOBALS['__tags'];
+    if(isset($GLOBALS[GLOBAL_TAGS])) {
+        return $GLOBALS[GLOBAL_TAGS];
     }
 
-    $tags = JSONFile::factory(__DIR__.'/../../data/tags.json')->getData();
+    $tags = getTagDefsFile()->getData();
     ksort($tags);
 
-    $GLOBALS['__tags'] = $tags;
+    $GLOBALS[GLOBAL_TAGS] = $tags;
 
     return $tags;
+}
+
+/**
+ * Gets the file that stores all tag definitions.
+ *
+ * @return JSONFile
+ * @throws FileHelper_Exception
+ */
+function getTagDefsFile() : JSONFile
+{
+    return JSONFile::factory(__DIR__.'/../../data/tags.json')
+        ->setPrettyPrint(true)
+        ->setEscapeSlashes(false)
+        ->setTrailingNewline(true);
 }
 
 /**
@@ -363,4 +406,66 @@ function normalizeAtelier(array $data) : array
     sort($data[KEY_ATELIERS_AUTHORS]);
 
     return $data;
+}
+
+function normalizeTagDefs() : void
+{
+    logHeader('Normalizing tag definitions');
+
+    $tags = getTags();
+
+    ksort($tags);
+
+    $result = array();
+    foreach($tags as $name => $def) {
+        $result[$name] = normalizeTagDef($name, $def);
+    }
+
+    getTagDefsFile()->putData($result);
+
+    $GLOBALS[GLOBAL_TAGS] = array();
+
+    logInfo('DONE.');
+}
+
+function normalizeTagDef(string $name, array $def) : array
+{
+    logInfo('- Tag [%s]...', $name);
+
+    $result = array();
+
+    foreach(KEYS_ORDER_TAG_DEFS as $key => $value) {
+        if(isset($def[$key])) {
+            $value = $def[$key];
+        }
+
+        if(empty($value)) {
+            continue;
+        }
+
+        switch($key)
+        {
+            case KEY_TAG_DEFS_ALIASES:
+            case KEY_TAG_DEFS_RELATED_TAGS:
+            case KEY_TAG_DEFS_REQUIRED_TAGS:
+                $value = array_unique($value);
+                sort($value);
+                break;
+
+            case KEY_TAG_DEFS_LINKS:
+                usort($value, static function(array $a, array $b) : int {
+                    $labelA = $a[KEY_TAG_DEFS_LINKS_LABEL] ?? '';
+                    $urlA = $a[KEY_TAG_DEFS_LINKS_URL] ?? '';
+                    $labelB = $b[KEY_TAG_DEFS_LINKS_LABEL] ?? '';
+                    $urlB = $b[KEY_TAG_DEFS_LINKS_URL] ?? '';
+
+                    return strnatcasecmp($labelA.$urlA, $labelB.$urlB);
+                });
+                break;
+        }
+
+        $result[$key] = $value;
+    }
+
+    return $result;
 }
