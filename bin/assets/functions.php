@@ -10,6 +10,10 @@ use AppUtils\FileHelper\FolderInfo;
 use AppUtils\FileHelper\JSONFile;
 use AppUtils\FileHelper_Exception;
 
+const KEY_MESSAGES = '__cpmdb_messages';
+
+$GLOBALS[KEY_MESSAGES] = array(); // Messages collected during execution
+
 function showUsage() : void
 {
     logHeader('CPMDB command line help');
@@ -119,6 +123,34 @@ function logInfo(string $message, ...$args) : void
 function logError(string $message, ...$args) : void
 {
     echo '...! '.sprintf($message, ...$args).PHP_EOL;
+}
+
+function addMessage(string $message, ...$args) : void
+{
+    $GLOBALS[KEY_MESSAGES][] = sprintf($message, ...$args);
+}
+
+function displayMessages() : void
+{
+    $messages = getMessages();
+
+    if(empty($messages)) {
+        return;
+    }
+
+    logHeader('Messages');
+
+    foreach($messages as $message) {
+        logInfo($message);
+    }
+}
+
+/**
+ * @return string[]
+ */
+function getMessages() : array
+{
+    return $GLOBALS[KEY_MESSAGES];
 }
 
 /**
