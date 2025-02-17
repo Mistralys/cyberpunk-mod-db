@@ -40,8 +40,11 @@ const KEY_TAG_DEFS_LINKS = 'links';
 const KEY_TAG_DEFS_LINKS_LABEL = 'label';
 const KEY_TAG_DEFS_LINKS_URL = 'url';
 const KEY_TAG_DEFS_RELATED_TAGS = 'relatedTags';
+const KEY_TAG_DEFS_REQUIRED_TAGS = 'requiredTags';
 
-
+/**
+ * Order of a mod's keys in the JSON data files.
+ */
 const KEYS_ORDER = array(
     KEY_MOD => '',
     KEY_URL => '',
