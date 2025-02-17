@@ -18,8 +18,8 @@
     },
     "AXL": {
         "fullName": "ArchiveXL",
-        "description": "Modder resource",
-        "category": "Mods",
+        "description": "Archive extender used to load custom resources without touching original game files.",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
@@ -522,6 +522,21 @@
             "bodysuits"
         ]
     },
+    "BodyTags": {
+        "description": "Vanilla small and big body tags",
+        "category": "Modder resource",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/19286"
+            }
+        ],
+        "aliases": [
+            "bodytag",
+            "body-tag",
+            "body-tags"
+        ]
+    },
     "Boots": {
         "description": "Boots",
         "category": "Clothing items",
@@ -568,8 +583,8 @@
     },
     "CET": {
         "fullName": "Cyber Engine Tweaks",
-        "description": "Modder resource",
-        "category": "Mods",
+        "description": "Scripting framework for modders and quality of life fixes.",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
@@ -583,8 +598,8 @@
     },
     "CDW": {
         "fullName": "Codeware",
-        "description": "Modder resource",
-        "category": "Mods",
+        "description": "Library and framework for creating RedScript and Cyber Engine Tweaks mods.",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
@@ -637,8 +652,9 @@
         ]
     },
     "CPAL": {
-        "description": "Community Palette Project",
-        "category": "Mods",
+        "fullName": "Community Palette Project",
+        "description": "Adds 730* color options to a wide variety of materials in the game.",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
@@ -713,7 +729,7 @@
     "EQEX": {
         "fullName": "Equipment-EX",
         "description": "Layering of clothing items",
-        "category": "Mods",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
@@ -915,7 +931,8 @@
         ]
     },
     "MatEX": {
-        "description": "Multilayer Material Extender",
+        "fullName": "Multilayer Material Extender",
+        "description": "Pure black and white colors for mods to use.",
         "category": "Modder resource",
         "links": [
             {
@@ -925,7 +942,8 @@
         ]
     },
     "MIBL": {
-        "description": "Microblend Resource",
+        "fullName": "Microblend Resource",
+        "description": "Collection of custom microblends that can be used when recoloring objects.",
         "category": "Modder resource",
         "links": [
             {
@@ -1005,8 +1023,8 @@
     },
     "R4EX": {
         "fullName": "Red4Ext",
-        "description": "Modder resource",
-        "category": "Mods",
+        "description": "A script extender for REDengine 4.",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
@@ -1148,8 +1166,8 @@
     },
     "TXL": {
         "fullName": "Tweak XL",
-        "description": "Tweak XL: Modder resource",
-        "category": "Mods",
+        "description": "TweakDB modifications loader and script extensions",
+        "category": "Modder resource",
         "links": [
             {
                 "label": "Nexus",
