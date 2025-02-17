@@ -622,6 +622,22 @@
             "coats"
         ]
     },
+    "CPAL": {
+        "description": "Community Palette Project",
+        "category": "Mods",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/10437"
+            }
+        ],
+        "aliases": [
+            "palette",
+            "palette-project",
+            "communitypaletteproject",
+            "community-palette-project"
+        ]
+    },
     "Corset": {
         "description": "Corset",
         "category": "Clothing items",
@@ -882,6 +898,16 @@
         ],
         "aliases": [
             "masks"
+        ]
+    },
+    "MIBL": {
+        "description": "Microblend Resource",
+        "category": "Modder resource",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4571"
+            }
         ]
     },
     "Modular": {
