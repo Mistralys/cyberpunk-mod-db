@@ -93,6 +93,7 @@ is holographic. Searching for holographic items will return only the holographic
 - `AutoScale` - Clothing that automatically scales to the player's level
 - `Body-Vanilla` - The vanilla body for FemV and MaleV
 - `Clothing` - Clothing items
+- `Cosplay` - Clothing items that are inspired by characters from other media
 - `DIY` - "Do-It-Yourself" - Clothing items that can be customized with Wolvenkit
 - `Emissive` - Clothing items that glow or emit light in some way
 - `FemV` - Items restricted to female V characters
@@ -105,17 +106,6 @@ is holographic. Searching for holographic items will return only the holographic
 - `Reflective` - Items with reflective surfaces
 - `Skimpy` - Clothing items that are revealing
 - `Transparent` - Items with transparency
-
-### Mods
-
-- `ACM` - "Appearance Creator Mod" - Change NPC clothing in-game without any restart. Export as AMM Appearance and share your created outfit. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/10795)
-- `AXL` - "ArchiveXL" - Modder resource [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4198)
-- `CDW` - "Codeware" - Modder resource [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/7780)
-- `CET` - "Cyber Engine Tweaks" - Modder resource [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/107)
-- `EQEX` - "Equipment-EX" - Layering of clothing items [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6945)
-- `R4EX` - "Red4Ext" - Modder resource [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/2380)
-- `TXL` - "Tweak XL" - Tweak XL: Modder resource [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4197)
-- `VAT` - "Virtual Atelier" - Adds clothing stores to the in-game browser. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 
 ### Mods - Body Mods - FemV
 
@@ -148,3 +138,24 @@ is holographic. Searching for holographic items will return only the holographic
 - `Body-Adonis` - Adonis: High-poly body with detailed musculature and definition [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4968)
 - `Body-Atlas` - High poly body with hand-sculpted muscles [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/8766)
 - `Body-Gymfiend` - Muscular body [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6423)
+
+### Mods - Modder Resource
+
+- `AXL` - "ArchiveXL" - Archive extender used to load custom resources without touching original game files. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- `CDW` - "Codeware" - Library and framework for creating RedScript and Cyber Engine Tweaks mods. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- `CPAL` - "Community Palette Project" - Adds 730* color options to a wide variety of materials in the game. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/10437)
+- `MIBL` - "Microblend Resource" - Collection of custom microblends that can be used when recoloring objects. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4571)
+- `MatEX` - "Multilayer Material Extender" - Pure black and white colors for mods to use. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/5570)
+- `R4EX` - "Red4Ext" - A script extender for REDengine 4. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+- `TXL` - "Tweak XL" - TweakDB modifications loader and script extensions [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+
+### Mods - Tools
+
+- `ACM` - "Appearance Creator Mod" - Change NPC clothing in-game without any restart. Export as AMM Appearance and share your created outfit. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/10795)
+- `CET` - "Cyber Engine Tweaks" - Scripting framework for modders and quality of life fixes. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- `EQEX` - "Equipment-EX" - Layering of clothing items [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+- `VAT` - "Virtual Atelier" - Adds clothing stores to the in-game browser. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/2987)
+
+### Mods - Utilities
+
+- `BodyTags` - Vanilla small and big body tags [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/19286)
