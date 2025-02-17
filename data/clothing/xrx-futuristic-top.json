@@ -1,0 +1,74 @@
+{
+    "mod": "XRX Futuristic Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19176",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "EzioMaverick",
+        "apzurv"
+    ],
+    "tags": [
+        "Arms",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Sleeves",
+        "Top",
+        "Torso"
+    ],
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Arctic Camo",
+                    "code": "xrxfcrp_d"
+                },
+                {
+                    "name": "Black",
+                    "code": "xrxfcrp_a"
+                },
+                {
+                    "name": "Black Camo",
+                    "code": "xrxfcrp_b"
+                },
+                {
+                    "name": "Dark Jungle Camo",
+                    "code": "xrxfcrp_f"
+                },
+                {
+                    "name": "Desert 2 Camo",
+                    "code": "xrxfcrp_h"
+                },
+                {
+                    "name": "Desert Camo",
+                    "code": "xrxfcrp_g"
+                },
+                {
+                    "name": "Jungle Camo",
+                    "code": "xrxfcrp_e"
+                },
+                {
+                    "name": "Orange Camo",
+                    "code": "xrxfcrp_i"
+                },
+                {
+                    "name": "Teal Camo",
+                    "code": "xrxfcrp_j"
+                },
+                {
+                    "name": "White",
+                    "code": "xrxfcrp_c"
+                }
+            ]
+        }
+    ]
+}
