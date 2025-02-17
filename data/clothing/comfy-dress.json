@@ -9,9 +9,14 @@
         "TheLoneStrider13"
     ],
     "tags": [
+        "Body-Adonis",
+        "Body-Atlas",
+        "Body-EVB",
         "Body-Flat",
+        "Body-Gymfiend",
         "Body-Hyst-Angel",
         "Body-Hyst-EBB",
+        "Body-Hyst-EBBN",
         "Body-Hyst-EBBP",
         "Body-Hyst-EBBPRB",
         "Body-Hyst-EBBRB",
@@ -21,7 +26,8 @@
         "Clothing",
         "Dress",
         "FemV",
-        "FullBody"
+        "FullBody",
+        "MaleV"
     ],
     "searchTweaks": "comfortable lone strider",
     "itemCategories": [
