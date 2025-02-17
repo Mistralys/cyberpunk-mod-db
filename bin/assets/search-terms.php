@@ -26,4 +26,5 @@ const SEARCH_TERMS = array(
     'deadengine959' => 'engine 959',
     'mistshield' => 'shield',
     'yellingintothevoid' => 'into void',
+    'scofil1996' => '1996'
 );
