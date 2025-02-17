@@ -8,6 +8,7 @@ use function CPMDB\Assets\addCategory;
 use function CPMDB\Assets\addScreenshot;
 use function CPMDB\Assets\checkScreenshots;
 use function CPMDB\Assets\createNew;
+use function CPMDB\Assets\displayMessages;
 use function CPMDB\Assets\generateAteliersReference;
 use function CPMDB\Assets\generateCETCodes;
 use function CPMDB\Assets\generateModsList;
@@ -103,11 +104,13 @@ else
 
     if(getNormalizeAllArg() !== null) {
         normalizeAll();
+        displayMessages();
         exit;
     }
 
     if(getNormalizeAteliersArg() !== null) {
         normalizeAteliers();
+        displayMessages();
         exit;
     }
 }
