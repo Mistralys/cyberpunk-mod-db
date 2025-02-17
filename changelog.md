@@ -24,6 +24,13 @@
 - Tools: Added constants for the tag JSON keys.
 - Tools: The `create` command no longer overwrites existing files.
 - Tools: Now collecting and displaying messages from the normalization process.
+- Tools: Now checking if MaleV mods have a MaleV screenshot.
+- Tools: Added a constant for the screenshot sidecar JSON tags.
+- Screenshots: Tags can now be added in the `tags` key in the JSON sidecar files.
+
+### Deprecations
+
+- `getFiles()` has been renamed to `getModFiles()`.
 
 ## v2.1.2 - Internal additions
 - Tools: Added constant for the screenshot sidecar JSON title.
