@@ -36,7 +36,9 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [Peachu and Hyst Atelier Store](#peachu-and-hyst-atelier-store)
 - [Peachu Atelier Store](#peachu-atelier-store)
 - [Raem's Atelier Store](#raems-atelier-store)
+- [Raetelier - Raenef's Atelier](#raetelier-raenefs-atelier)
 - [Rosa's Shop](#rosas-shop)
+- [Scofil Virtual Atelier](#scofil-virtual-atelier)
 - [Se7en Virtual Atelier Store](#se7en-virtual-atelier-store)
 - [Seawright Optometry Shop](#seawright-optometry-shop)
 - [Subleader Virtual Atelier](#subleader-virtual-atelier)
@@ -84,9 +86,10 @@ Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8886)
 
 ### Breezy's Accessory Alcove
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
+Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
 
 - [Keffiyeh](https://www.nexusmods.com/cyberpunk2077/mods/19475)
+- [Knuckle Spikes](https://www.nexusmods.com/cyberpunk2077/mods/17758)
 
 ### Breezy's Clothing Emporium
 
@@ -216,7 +219,7 @@ Mods: 10 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
 
 ### NC Fashion
 
-Mods: 40 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+Mods: 41 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 - [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027)
 - [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896)
@@ -246,6 +249,7 @@ Mods: 40 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 - [Turtleneck Top](https://www.nexusmods.com/cyberpunk2077/mods/4881)
 - [XRX Asymmetric Top](https://www.nexusmods.com/cyberpunk2077/mods/14920)
 - [XRX Dress](https://www.nexusmods.com/cyberpunk2077/mods/7444)
+- [XRX Futuristic Top](https://www.nexusmods.com/cyberpunk2077/mods/19176)
 - [XRX Latex Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7662)
 - [XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661)
 - [XRX Led Leotard](https://www.nexusmods.com/cyberpunk2077/mods/8367)
@@ -317,11 +321,23 @@ Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14210)
 
 - [Chain Jewelry Collection](https://www.nexusmods.com/cyberpunk2077/mods/15861)
 
+### Raetelier - Raenef's Atelier
+
+Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16681)
+
+- [Street Set](https://www.nexusmods.com/cyberpunk2077/mods/18746)
+
 ### Rosa's Shop
 
 Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8919)
 
 - [V's Favorite Top](https://www.nexusmods.com/cyberpunk2077/mods/15130)
+
+### Scofil Virtual Atelier
+
+Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17860)
+
+- [Obscura Outfit](https://www.nexusmods.com/cyberpunk2077/mods/19383)
 
 ### Se7en Virtual Atelier Store
 
