@@ -1,0 +1,418 @@
+{
+    "mod": "Street Set",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18746",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16681",
+    "atelierName": "Raetelier - Raenef's Atelier",
+    "authors": [
+        "Raenef",
+        "Raenef1"
+    ],
+    "tags": [
+        "Body-Atlas",
+        "Body-Flat",
+        "Body-Gymfiend",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "GarmentSupport",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Hoodie",
+            "tags": [
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black Black",
+                    "code": "raenef_streetcoat_black_black"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "raenef_streetcoat_black_blue"
+                },
+                {
+                    "name": "Black Cyan",
+                    "code": "raenef_streetcoat_black_cyan"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "raenef_streetcoat_black_gold"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "raenef_streetcoat_black_green"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "raenef_streetcoat_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "raenef_streetcoat_black_purple"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "raenef_streetcoat_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "raenef_streetcoat_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "raenef_streetcoat_black_white"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "raenef_streetcoat_black_yellow"
+                },
+                {
+                    "name": "White Black",
+                    "code": "raenef_streetcoat_white_black"
+                },
+                {
+                    "name": "White Blue",
+                    "code": "raenef_streetcoat_white_blue"
+                },
+                {
+                    "name": "White Cyan",
+                    "code": "raenef_streetcoat_white_cyan"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "raenef_streetcoat_white_gold"
+                },
+                {
+                    "name": "White Green",
+                    "code": "raenef_streetcoat_white_green"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "raenef_streetcoat_white_pink"
+                },
+                {
+                    "name": "White Purple",
+                    "code": "raenef_streetcoat_white_purple"
+                },
+                {
+                    "name": "White Red",
+                    "code": "raenef_streetcoat_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "raenef_streetcoat_white_silver"
+                },
+                {
+                    "name": "White White",
+                    "code": "raenef_streetcoat_white_white"
+                },
+                {
+                    "name": "White Yellow",
+                    "code": "raenef_streetcoat_white_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Mask",
+            "tags": [
+                "Head",
+                "Mask"
+            ],
+            "items": [
+                {
+                    "name": "Black Black",
+                    "code": "raenef_streethead_black_black"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "raenef_streethead_black_blue"
+                },
+                {
+                    "name": "Black Cyan",
+                    "code": "raenef_streethead_black_cyan"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "raenef_streethead_black_gold"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "raenef_streethead_black_green"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "raenef_streethead_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "raenef_streethead_black_purple"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "raenef_streethead_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "raenef_streethead_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "raenef_streethead_black_white"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "raenef_streethead_black_yellow"
+                },
+                {
+                    "name": "White Black",
+                    "code": "raenef_streethead_white_black"
+                },
+                {
+                    "name": "White Blue",
+                    "code": "raenef_streethead_white_blue"
+                },
+                {
+                    "name": "White Cyan",
+                    "code": "raenef_streethead_white_cyan"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "raenef_streethead_white_gold"
+                },
+                {
+                    "name": "White Green",
+                    "code": "raenef_streethead_white_green"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "raenef_streethead_white_pink"
+                },
+                {
+                    "name": "White Purple",
+                    "code": "raenef_streethead_white_purple"
+                },
+                {
+                    "name": "White Red",
+                    "code": "raenef_streethead_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "raenef_streethead_white_silver"
+                },
+                {
+                    "name": "White White",
+                    "code": "raenef_streethead_white_white"
+                },
+                {
+                    "name": "White Yellow",
+                    "code": "raenef_streethead_white_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black Black",
+                    "code": "raenef_streetpants_black_black"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "raenef_streetpants_black_blue"
+                },
+                {
+                    "name": "Black Cyan",
+                    "code": "raenef_streetpants_black_cyan"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "raenef_streetpants_black_gold"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "raenef_streetpants_black_green"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "raenef_streetpants_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "raenef_streetpants_black_purple"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "raenef_streetpants_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "raenef_streetpants_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "raenef_streetpants_black_white"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "raenef_streetpants_black_yellow"
+                },
+                {
+                    "name": "White Black",
+                    "code": "raenef_streetpants_white_black"
+                },
+                {
+                    "name": "White Blue",
+                    "code": "raenef_streetpants_white_blue"
+                },
+                {
+                    "name": "White Cyan",
+                    "code": "raenef_streetpants_white_cyan"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "raenef_streetpants_white_gold"
+                },
+                {
+                    "name": "White Green",
+                    "code": "raenef_streetpants_white_green"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "raenef_streetpants_white_pink"
+                },
+                {
+                    "name": "White Purple",
+                    "code": "raenef_streetpants_white_purple"
+                },
+                {
+                    "name": "White Red",
+                    "code": "raenef_streetpants_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "raenef_streetpants_white_silver"
+                },
+                {
+                    "name": "White White",
+                    "code": "raenef_streetpants_white_white"
+                },
+                {
+                    "name": "White Yellow",
+                    "code": "raenef_streetpants_white_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Arms",
+                "Sleeves",
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black Black",
+                    "code": "raenef_streettop_black_black"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "raenef_streettop_black_blue"
+                },
+                {
+                    "name": "Black Cyan",
+                    "code": "raenef_streettop_black_cyan"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "raenef_streettop_black_gold"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "raenef_streettop_black_green"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "raenef_streettop_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "raenef_streettop_black_purple"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "raenef_streettop_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "raenef_streettop_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "raenef_streettop_black_white"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "raenef_streettop_black_yellow"
+                },
+                {
+                    "name": "White Black",
+                    "code": "raenef_streettop_white_black"
+                },
+                {
+                    "name": "White Blue",
+                    "code": "raenef_streettop_white_blue"
+                },
+                {
+                    "name": "White Cyan",
+                    "code": "raenef_streettop_white_cyan"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "raenef_streettop_white_gold"
+                },
+                {
+                    "name": "White Green",
+                    "code": "raenef_streettop_white_green"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "raenef_streettop_white_pink"
+                },
+                {
+                    "name": "White Purple",
+                    "code": "raenef_streettop_white_purple"
+                },
+                {
+                    "name": "White Red",
+                    "code": "raenef_streettop_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "raenef_streettop_white_silver"
+                },
+                {
+                    "name": "White White",
+                    "code": "raenef_streettop_white_white"
+                },
+                {
+                    "name": "White Yellow",
+                    "code": "raenef_streettop_white_yellow"
+                }
+            ]
+        }
+    ]
+}
