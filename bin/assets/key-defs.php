@@ -31,6 +31,7 @@ const KEY_ATELIERS_AUTHORS = 'authors';
 const KEY_ATELIERS_URL = 'url';
 
 const KEY_SCREENSHOT_TITLE = 'title';
+const KEY_SCREENSHOT_TAGS = 'tags';
 
 const KEY_TAG_DEFS_FULL_NAME = 'fullName';
 const KEY_TAG_DEFS_DESCRIPTION = 'description';
