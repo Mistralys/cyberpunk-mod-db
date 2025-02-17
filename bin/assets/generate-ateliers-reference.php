@@ -88,7 +88,7 @@ function getAtelierMods(string $atelierURL) : array
 {
     $result = array();
 
-    foreach(getFiles() as $file) {
+    foreach(getModFiles() as $file) {
         $data = $file->getData();
         if($data[KEY_ATELIER] === $atelierURL) {
             $result[] = $data;

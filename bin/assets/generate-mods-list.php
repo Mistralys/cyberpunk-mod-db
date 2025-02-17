@@ -28,7 +28,7 @@ function getModListArg() : ?string
 function generateModsList() : void
 {
     $list = array();
-    foreach (getFiles() as $file) {
+    foreach (getModFiles() as $file) {
         $data = $file->parse();
         $list[] = array(
             'label' => $data['mod'],
