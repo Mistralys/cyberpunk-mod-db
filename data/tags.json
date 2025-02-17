@@ -2,33 +2,33 @@
     "ACM": {
         "fullName": "Appearance Creator Mod",
         "description": "Change NPC clothing in-game without any restart. Export as AMM Appearance and share your created outfit.",
-        "category": "Mods",
+        "category": "Mods - Tools",
+        "aliases": [
+            "a-c-m",
+            "appearance-creator",
+            "appearance-creator-mod",
+            "appearancecreator"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/10795"
             }
-        ],
-        "aliases": [
-            "appearance-creator-mod",
-            "appearance-creator",
-            "appearancecreator",
-            "a-c-m"
         ]
     },
     "AXL": {
         "fullName": "ArchiveXL",
         "description": "Archive extender used to load custom resources without touching original game files.",
-        "category": "Modder resource",
+        "category": "Mods - Modder Resource",
+        "aliases": [
+            "archive-xl",
+            "archivexl"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4198"
             }
-        ],
-        "aliases": [
-            "archivexl",
-            "archive-xl"
         ]
     },
     "Accessories": {
@@ -56,66 +56,66 @@
         "description": "Clothing that automatically scales to the player's level",
         "category": "Item properties",
         "aliases": [
-            "autoscaling",
-            "auto-scaling",
-            "auto-scale",
             "auto-refit",
+            "auto-refits",
+            "auto-scale",
+            "auto-scaling",
             "autorefit",
-            "auto-refits"
+            "autoscaling"
         ]
     },
     "Belt": {
         "description": "Belt",
         "category": "Clothing items",
-        "requiredTags": [
-            "Waist"
+        "aliases": [
+            "belts"
         ],
         "relatedTags": [
             "Waist"
         ],
-        "aliases": [
-            "belts"
+        "requiredTags": [
+            "Waist"
         ]
     },
     "Body-Adonis": {
         "description": "Adonis: High-poly body with detailed musculature and definition",
         "category": "Mods - Body Mods - MaleV",
+        "aliases": [
+            "adonis"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4968"
             }
-        ],
-        "aliases": [
-            "adonis"
         ]
     },
     "Body-Atlas": {
         "description": "High poly body with hand-sculpted muscles",
         "category": "Mods - Body Mods - MaleV",
+        "aliases": [
+            "atlas"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/8766"
             }
-        ],
-        "aliases": [
-            "atlas"
         ]
     },
     "Body-EVB": {
         "description": "Enhanced Vanilla Body; No refits needed",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "evb",
+            "hyst-evb",
+            "vtk-evb"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/11489"
             }
-        ],
-        "aliases": [
-            "evb",
-            "hyst-evb",
-            "vtk-evb"
         ]
     },
     "Body-Flat": {
@@ -123,9 +123,9 @@
         "category": "Mods - Body Mods - FemV",
         "aliases": [
             "body-flat-chest",
-            "flatbody",
+            "body-no-chest",
             "body-nochest",
-            "body-no-chest"
+            "flatbody"
         ],
         "links": [
             {
@@ -137,26 +137,26 @@
     "Body-Gymfiend": {
         "description": "Muscular body",
         "category": "Mods - Body Mods - MaleV",
+        "aliases": [
+            "gymfiend"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6423"
             }
-        ],
-        "aliases": [
-            "gymfiend"
         ]
     },
     "Body-Hyst": {
         "description": "Enhanced Big Breasts, Realistic Butt, and more",
         "category": "Mods - Body Mods - FemV",
         "relatedTags": [
+            "Body-Hyst-Angel",
             "Body-Hyst-EBB",
-            "Body-Hyst-RB",
             "Body-Hyst-EBBP",
             "Body-Hyst-EBBPRB",
             "Body-Hyst-EBBRB",
-            "Body-Hyst-Angel"
+            "Body-Hyst-RB"
         ],
         "links": [
             {
@@ -168,55 +168,55 @@
     "Body-Hyst-Angel": {
         "description": "New improved version of the other Hyst body mods",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "angel",
+            "body-angel",
+            "hyst-angel"
+        ],
         "relatedTags": [
             "Body-Hyst-EBB",
-            "Body-Hyst-RB",
-            "Body-Hyst-EBBP"
+            "Body-Hyst-EBBP",
+            "Body-Hyst-RB"
         ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/14896"
             }
-        ],
-        "aliases": [
-            "angel",
-            "hyst-angel",
-            "body-angel"
         ]
     },
     "Body-Hyst-EBB": {
         "description": "EBB - Enhanced Big Breasts",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-ebb",
+            "ebb",
+            "hyst-ebb"
+        ],
         "relatedTags": [
-            "Body-Hyst-EBBRB",
+            "Body-Hyst-EBBN",
             "Body-Hyst-EBBP",
             "Body-Hyst-EBBPRB",
-            "Body-Hyst-EBBN"
+            "Body-Hyst-EBBRB"
         ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4654"
             }
-        ],
-        "aliases": [
-            "ebb",
-            "hyst-ebb",
-            "body-ebb"
         ]
     },
     "Body-Hyst-EBBN": {
         "description": "Enhanced Big Breasts Natural",
         "category": "Mods - Body Mods - FemV",
-        "relatedTags": [
-            "Body-Hyst-EBBNRB"
-        ],
         "aliases": [
+            "body-ebbn",
             "ebb-n",
             "ebbn",
-            "hyst-ebbn",
-            "body-ebbn"
+            "hyst-ebbn"
+        ],
+        "relatedTags": [
+            "Body-Hyst-EBBNRB"
         ],
         "links": [
             {
@@ -228,14 +228,14 @@
     "Body-Hyst-EBBNRB": {
         "description": "Enhanced Big Breasts Natural and Realistic Butt",
         "category": "Mods - Body Mods - FemV",
-        "relatedTags": [
-            "Body-Hyst-EBBN"
-        ],
         "aliases": [
+            "body-ebbnrb",
             "ebb-nrb",
             "ebbnrb",
-            "hyst-ebbnrb",
-            "body-ebbnrb"
+            "hyst-ebbnrb"
+        ],
+        "relatedTags": [
+            "Body-Hyst-EBBN"
         ],
         "links": [
             {
@@ -247,6 +247,12 @@
     "Body-Hyst-EBBP": {
         "description": "EBBP - Enhanced Big Breasts and Push-Up",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-ebbp",
+            "ebb-p",
+            "ebbp",
+            "hyst-ebbp"
+        ],
         "relatedTags": [
             "Body-Hyst-EBB"
         ],
@@ -255,17 +261,17 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/9083"
             }
-        ],
-        "aliases": [
-            "ebbp",
-            "ebb-p",
-            "hyst-ebbp",
-            "body-ebbp"
         ]
     },
     "Body-Hyst-EBBPRB": {
         "description": "EBBPRB - Enhanced Big Breasts, Push-Up and Realistic Butt",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-ebbprb",
+            "ebb-prb",
+            "ebbprb",
+            "hyst-ebbprb"
+        ],
         "relatedTags": [
             "Body-Hyst-EBBP",
             "Body-Hyst-RB"
@@ -275,17 +281,19 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/9083"
             }
-        ],
-        "aliases": [
-            "ebb-prb",
-            "ebbprb",
-            "hyst-ebbprb",
-            "body-ebbprb"
         ]
     },
     "Body-Hyst-EBBRB": {
         "description": "EBBRB - Enhanced Big Breasts and Realistic Butt",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-ebbrb",
+            "body-hyst-ebb-bb",
+            "body-hyst-ebb-rb",
+            "ebb-rb",
+            "ebbrb",
+            "hyst-ebbrb"
+        ],
         "relatedTags": [
             "Body-Hyst-EBB",
             "Body-Hyst-RB"
@@ -295,40 +303,32 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4654"
             }
-        ],
-        "aliases": [
-            "ebbrb",
-            "ebb-rb",
-            "hyst-ebbrb",
-            "body-ebbrb",
-            "body-hyst-ebb-bb",
-            "body-hyst-ebb-rb"
         ]
     },
     "Body-Hyst-RB": {
         "description": "Realistic Butt body",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-rb",
+            "hyst-rb",
+            "rb"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4420"
             }
-        ],
-        "aliases": [
-            "hyst-rb",
-            "rb",
-            "body-rb"
         ]
     },
     "Body-Lush": {
         "description": "Voluptuous body and large breasts",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-lush-large",
+            "lush"
+        ],
         "relatedTags": [
             "Body-SoLush"
-        ],
-        "aliases": [
-            "lush",
-            "body-lush-large"
         ],
         "links": [
             {
@@ -340,6 +340,9 @@
     "Body-SoLush": {
         "description": "Lush body with more muscles",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "solush"
+        ],
         "relatedTags": [
             "Body-Lush"
         ],
@@ -348,9 +351,6 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/8392"
             }
-        ],
-        "aliases": [
-            "solush"
         ]
     },
     "Body-Solo": {
@@ -371,6 +371,9 @@
     "Body-Solo-Arms": {
         "description": "Athletic arms",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-soloarms"
+        ],
         "relatedTags": [
             "Body-Solo",
             "Body-Solo-Small",
@@ -381,29 +384,29 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/7148"
             }
-        ],
-        "aliases": [
-            "body-soloarms"
         ]
     },
     "Body-Solo-Small": {
         "description": "Solo with small breasts",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-small",
+            "body-solo-small-breast",
+            "solo-small"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6213"
             }
-        ],
-        "aliases": [
-            "solo-small",
-            "body-small",
-            "body-solo-small-breast"
         ]
     },
     "Body-Solo-Ultimate": {
         "description": "Solo with bigger breasts and butt",
         "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "solo-ultimate"
+        ],
         "relatedTags": [
             "Body-Solo",
             "Body-Solo-Small"
@@ -413,9 +416,6 @@
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6944"
             }
-        ],
-        "aliases": [
-            "solo-ultimate"
         ]
     },
     "Body-Songbird": {
@@ -438,6 +438,62 @@
             }
         ]
     },
+    "Body-VTK-Big": {
+        "description": "Vanilla HD body with bigger breasts",
+        "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-vanilla-vtk-big",
+            "body-vanillahd-big",
+            "vtk-big"
+        ],
+        "relatedTags": [
+            "Body-VTK-Small",
+            "Body-VTK-VanillaHD"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7482"
+            }
+        ]
+    },
+    "Body-VTK-Small": {
+        "description": "Vanilla HD body with small breasts",
+        "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-vanilla-vtk-small",
+            "body-vanillahd-small",
+            "vtk-small"
+        ],
+        "relatedTags": [
+            "Body-VTK-Big",
+            "Body-VTK-VanillaHD"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7482"
+            }
+        ]
+    },
+    "Body-VTK-VanillaHD": {
+        "description": "High quality body, requires no refits",
+        "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "body-vanilla-hd",
+            "body-vanillahd",
+            "body-vtk",
+            "body-vtk-hd",
+            "body-vtk-vanilla-hd",
+            "vtk-hd"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7054"
+            }
+        ]
+    },
     "Body-Valentine": {
         "description": "Body with improved proportions",
         "category": "Mods - Body Mods - FemV",
@@ -452,177 +508,138 @@
         "description": "The vanilla body for FemV and MaleV",
         "category": "Item properties"
     },
-    "Body-VTK-Big": {
-        "description": "Vanilla HD body with bigger breasts",
-        "category": "Mods - Body Mods - FemV",
-        "relatedTags": [
-            "Body-VTK-Small",
-            "Body-VTK-VanillaHD"
-        ],
-        "links": [
-            {
-                "label": "Nexus",
-                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7482"
-            }
-        ],
-        "aliases": [
-            "vtk-big",
-            "body-vanillahd-big",
-            "body-vanilla-vtk-big"
-        ]
-    },
-    "Body-VTK-Small": {
-        "description": "Vanilla HD body with small breasts",
-        "category": "Mods - Body Mods - FemV",
-        "relatedTags": [
-            "Body-VTK-Big",
-            "Body-VTK-VanillaHD"
-        ],
-        "links": [
-            {
-                "label": "Nexus",
-                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7482"
-            }
-        ],
-        "aliases": [
-            "vtk-small",
-            "body-vanillahd-small",
-            "body-vanilla-vtk-small"
-        ]
-    },
-    "Body-VTK-VanillaHD": {
-        "description": "High quality body, requires no refits",
-        "category": "Mods - Body Mods - FemV",
-        "links": [
-            {
-                "label": "Nexus",
-                "url": "https://www.nexusmods.com/cyberpunk2077/mods/7054"
-            }
-        ],
-        "aliases": [
-            "body-vtk",
-            "vtk-hd",
-            "body-vanilla-hd",
-            "body-vanillahd",
-            "body-vtk-hd",
-            "body-vtk-vanilla-hd"
-        ]
-    },
-    "Bodysuit": {
-        "description": "Bodysuit",
-        "category": "Clothing items",
-        "relatedTags": [
-            "FullBody"
-        ],
-        "requiredTags": [
-            "FullBody"
-        ],
-        "aliases": [
-            "body-suit",
-            "bodysuits"
-        ]
-    },
     "BodyTags": {
         "description": "Vanilla small and big body tags",
-        "category": "Modder resource",
+        "category": "Mods - Utilities",
+        "aliases": [
+            "body-tag",
+            "body-tags",
+            "bodytag"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/19286"
             }
-        ],
+        ]
+    },
+    "Bodysuit": {
+        "description": "Bodysuit",
+        "category": "Clothing items",
         "aliases": [
-            "bodytag",
-            "body-tag",
-            "body-tags"
+            "body-suit",
+            "bodysuits"
+        ],
+        "relatedTags": [
+            "FullBody"
+        ],
+        "requiredTags": [
+            "FullBody"
         ]
     },
     "Boots": {
         "description": "Boots",
         "category": "Clothing items",
+        "aliases": [
+            "boot"
+        ],
         "relatedTags": [
             "Feet"
         ],
         "requiredTags": [
             "Feet"
-        ],
-        "aliases": [
-            "boot"
         ]
     },
     "Bra": {
         "description": "Bra or bra-like",
         "category": "Clothing items",
+        "aliases": [
+            "bras"
+        ],
         "relatedTags": [
             "Torso"
         ],
         "requiredTags": [
             "Torso"
-        ],
-        "aliases": [
-            "bras"
         ]
     },
     "Bracelet": {
         "description": "Bracelet",
         "category": "Clothing items",
+        "aliases": [
+            "armlet",
+            "armlets",
+            "bracelets",
+            "wristband",
+            "wristbands"
+        ],
         "relatedTags": [
             "Arms",
             "Jewelry"
         ],
         "requiredTags": [
             "Arms"
-        ],
-        "aliases": [
-            "bracelets",
-            "armlet",
-            "armlets",
-            "wristband",
-            "wristbands"
-        ]
-    },
-    "CET": {
-        "fullName": "Cyber Engine Tweaks",
-        "description": "Scripting framework for modders and quality of life fixes.",
-        "category": "Modder resource",
-        "links": [
-            {
-                "label": "Nexus",
-                "url": "https://www.nexusmods.com/cyberpunk2077/mods/107"
-            }
-        ],
-        "aliases": [
-            "cyberenginetweaks",
-            "cyber-engine-tweaks"
         ]
     },
     "CDW": {
         "fullName": "Codeware",
         "description": "Library and framework for creating RedScript and Cyber Engine Tweaks mods.",
-        "category": "Modder resource",
+        "category": "Mods - Modder Resource",
+        "aliases": [
+            "code-ware",
+            "codeware"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/7780"
             }
-        ],
+        ]
+    },
+    "CET": {
+        "fullName": "Cyber Engine Tweaks",
+        "description": "Scripting framework for modders and quality of life fixes.",
+        "category": "Mods - Tools",
         "aliases": [
-            "codeware",
-            "code-ware"
+            "cyber-engine-tweaks",
+            "cyberenginetweaks"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/107"
+            }
+        ]
+    },
+    "CPAL": {
+        "fullName": "Community Palette Project",
+        "description": "Adds 730* color options to a wide variety of materials in the game.",
+        "category": "Mods - Modder Resource",
+        "aliases": [
+            "community-palette-project",
+            "communitypaletteproject",
+            "palette",
+            "palette-project"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/10437"
+            }
         ]
     },
     "Choker": {
         "description": "Neck choker",
         "category": "Clothing items",
+        "aliases": [
+            "chokers",
+            "collar"
+        ],
         "relatedTags": [
             "Neck"
         ],
         "requiredTags": [
             "Neck"
-        ],
-        "aliases": [
-            "chokers",
-            "collar"
         ]
     },
     "Clothing": {
@@ -632,15 +649,29 @@
     "Coat": {
         "description": "Coat",
         "category": "Clothing items",
+        "aliases": [
+            "coats"
+        ],
         "relatedTags": [
             "FullBody",
             "Torso"
         ],
         "requiredTags": [
             "FullBody"
-        ],
+        ]
+    },
+    "Corset": {
+        "description": "Corset",
+        "category": "Clothing items",
         "aliases": [
-            "coats"
+            "corsets"
+        ],
+        "relatedTags": [
+            "Torso",
+            "Waist"
+        ],
+        "requiredTags": [
+            "Torso"
         ]
     },
     "Cosplay": {
@@ -651,35 +682,13 @@
             "costume-play"
         ]
     },
-    "CPAL": {
-        "fullName": "Community Palette Project",
-        "description": "Adds 730* color options to a wide variety of materials in the game.",
-        "category": "Modder resource",
-        "links": [
-            {
-                "label": "Nexus",
-                "url": "https://www.nexusmods.com/cyberpunk2077/mods/10437"
-            }
-        ],
+    "DIY": {
+        "fullName": "Do-It-Yourself",
+        "description": "Clothing items that can be customized with Wolvenkit",
+        "category": "Item properties",
         "aliases": [
-            "palette",
-            "palette-project",
-            "communitypaletteproject",
-            "community-palette-project"
-        ]
-    },
-    "Corset": {
-        "description": "Corset",
-        "category": "Clothing items",
-        "relatedTags": [
-            "Torso",
-            "Waist"
-        ],
-        "requiredTags": [
-            "Torso"
-        ],
-        "aliases": [
-            "corsets"
+            "do-it-yourself",
+            "doityourself"
         ]
     },
     "Decals": {
@@ -687,58 +696,49 @@
         "category": "Clothing items",
         "aliases": [
             "decal",
-            "stickers",
-            "sticker"
-        ]
-    },
-    "DIY": {
-        "fullName": "Do-It-Yourself",
-        "description": "Clothing items that can be customized with Wolvenkit",
-        "category": "Item properties",
-        "aliases": [
-            "doityourself",
-            "do-it-yourself"
+            "sticker",
+            "stickers"
         ]
     },
     "Dress": {
         "description": "Dress",
         "category": "Clothing items",
-        "relatedTags": [
-            "FullBody"
-        ],
-        "requiredTags": [
-            "FullBody"
-        ],
         "aliases": [
             "dresses"
-        ]
-    },
-    "Earring": {
-        "description": "Earring",
-        "category": "Clothing items",
+        ],
         "relatedTags": [
-            "Head"
+            "FullBody"
         ],
         "requiredTags": [
-            "Head"
-        ],
-        "aliases": [
-            "earrings"
+            "FullBody"
         ]
     },
     "EQEX": {
         "fullName": "Equipment-EX",
         "description": "Layering of clothing items",
-        "category": "Modder resource",
+        "category": "Mods - Tools",
+        "aliases": [
+            "equipment-ex",
+            "equipmentex"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/6945"
             }
-        ],
+        ]
+    },
+    "Earring": {
+        "description": "Earring",
+        "category": "Clothing items",
         "aliases": [
-            "equipmentex",
-            "equipment-ex"
+            "earrings"
+        ],
+        "relatedTags": [
+            "Head"
+        ],
+        "requiredTags": [
+            "Head"
         ]
     },
     "Emissive": {
@@ -763,23 +763,23 @@
         "description": "Full body clothing items",
         "category": "Clothing slots",
         "aliases": [
-            "fullbody",
-            "full-body"
+            "full-body",
+            "fullbody"
         ]
     },
     "GarmentSupport": {
         "description": "Clothing system that handles tucking pants into boots and shirts under jackets.",
         "category": "Item properties",
+        "aliases": [
+            "garment-support",
+            "garments-support",
+            "garmentssupport"
+        ],
         "links": [
             {
                 "label": "Modding Wiki article",
                 "url": "https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-creators-theory/3d-modelling/garment-support-how-does-it-work"
             }
-        ],
-        "aliases": [
-            "garmentssupport",
-            "garment-support",
-            "garments-support"
         ]
     },
     "Glasses": {
@@ -795,14 +795,14 @@
     "Gloves": {
         "description": "Gloves",
         "category": "Clothing items",
+        "aliases": [
+            "glove"
+        ],
         "relatedTags": [
             "Hands"
         ],
         "requiredTags": [
             "Hands"
-        ],
-        "aliases": [
-            "glove"
         ]
     },
     "Hair": {
@@ -819,29 +819,29 @@
     "Hat": {
         "description": "Hat",
         "category": "Clothing items",
+        "aliases": [
+            "hats"
+        ],
         "relatedTags": [
             "Head"
         ],
         "requiredTags": [
             "Head"
-        ],
-        "aliases": [
-            "hats"
         ]
     },
     "Head": {
         "description": "Head slot",
         "category": "Clothing slots",
         "aliases": [
-            "headgear",
-            "face"
+            "face",
+            "headgear"
         ],
         "relatedTags": [
-            "Hair",
-            "Mask",
-            "Glasses",
             "Earring",
-            "Hat"
+            "Glasses",
+            "Hair",
+            "Hat",
+            "Mask"
         ]
     },
     "Holo": {
@@ -856,44 +856,44 @@
     "Jacket": {
         "description": "Jacket, Blazer, Bolero",
         "category": "Clothing items",
+        "aliases": [
+            "blazer",
+            "blazers",
+            "bolero",
+            "boleros",
+            "jackets"
+        ],
         "relatedTags": [
             "Torso"
         ],
         "requiredTags": [
             "Torso"
-        ],
-        "aliases": [
-            "jackets",
-            "blazer",
-            "blazers",
-            "bolero",
-            "boleros"
         ]
     },
     "Jewelry": {
         "description": "Jewelry",
         "category": "Clothing items",
         "aliases": [
+            "jewelery",
             "jewellery",
-            "jewlery",
-            "jewelery"
+            "jewlery"
         ]
     },
     "Leggings": {
         "description": "Leggings, stretch pants",
         "category": "Clothing items",
+        "aliases": [
+            "legging",
+            "stretch-pant",
+            "stretch-pants",
+            "stretchpant",
+            "stretchpants"
+        ],
         "relatedTags": [
             "Legs"
         ],
         "requiredTags": [
             "Legs"
-        ],
-        "aliases": [
-            "legging",
-            "stretchpants",
-            "stretchpant",
-            "stretch-pants",
-            "stretch-pant"
         ]
     },
     "Legs": {
@@ -906,11 +906,22 @@
     "Lingerie": {
         "description": "Lingerie",
         "category": "Clothing items",
-        "relatedTags": [
-            "Skimpy"
-        ],
         "aliases": [
             "lingeries"
+        ],
+        "relatedTags": [
+            "Skimpy"
+        ]
+    },
+    "MIBL": {
+        "fullName": "Microblend Resource",
+        "description": "Collection of custom microblends that can be used when recoloring objects.",
+        "category": "Mods - Modder Resource",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4571"
+            }
         ]
     },
     "MaleV": {
@@ -920,35 +931,24 @@
     "Mask": {
         "description": "Mask",
         "category": "Clothing items",
+        "aliases": [
+            "masks"
+        ],
         "relatedTags": [
             "Head"
         ],
         "requiredTags": [
             "Head"
-        ],
-        "aliases": [
-            "masks"
         ]
     },
     "MatEX": {
         "fullName": "Multilayer Material Extender",
         "description": "Pure black and white colors for mods to use.",
-        "category": "Modder resource",
+        "category": "Mods - Modder Resource",
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/5570"
-            }
-        ]
-    },
-    "MIBL": {
-        "fullName": "Microblend Resource",
-        "description": "Collection of custom microblends that can be used when recoloring objects.",
-        "category": "Modder resource",
-        "links": [
-            {
-                "label": "Nexus",
-                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4571"
             }
         ]
     },
@@ -967,14 +967,14 @@
     "Necklace": {
         "description": "Necklace",
         "category": "Clothing items",
+        "aliases": [
+            "necklaces"
+        ],
         "relatedTags": [
             "Neck"
         ],
         "requiredTags": [
             "Neck"
-        ],
-        "aliases": [
-            "necklaces"
         ]
     },
     "Outfit": {
@@ -987,27 +987,27 @@
     "Panties": {
         "description": "Panties",
         "category": "Clothing items",
+        "aliases": [
+            "panty"
+        ],
         "relatedTags": [
             "Legs"
         ],
         "requiredTags": [
             "Legs"
-        ],
-        "aliases": [
-            "panty"
         ]
     },
     "Pants": {
         "description": "Pants",
         "category": "Clothing items",
+        "aliases": [
+            "jeans"
+        ],
         "relatedTags": [
             "Legs"
         ],
         "requiredTags": [
             "Legs"
-        ],
-        "aliases": [
-            "jeans"
         ]
     },
     "Physics": {
@@ -1024,75 +1024,75 @@
     "R4EX": {
         "fullName": "Red4Ext",
         "description": "A script extender for REDengine 4.",
-        "category": "Modder resource",
+        "category": "Mods - Modder Resource",
+        "aliases": [
+            "red-4",
+            "red-4-ext",
+            "red4",
+            "red4ext",
+            "redx"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/2380"
             }
-        ],
-        "aliases": [
-            "red4ext",
-            "red-4-ext",
-            "red4",
-            "red-4",
-            "redx"
         ]
     },
     "Reflective": {
         "description": "Items with reflective surfaces",
         "category": "Item properties",
         "aliases": [
+            "chrom",
+            "chromatic",
+            "chrome",
+            "chromed",
             "reflect",
             "reflection",
-            "chrome",
-            "chrom",
-            "chromed",
-            "chromatic",
             "reflections"
         ]
     },
     "Ring": {
         "description": "Ring",
         "category": "Clothing items",
+        "aliases": [
+            "rings"
+        ],
         "relatedTags": [
             "Hands"
         ],
         "requiredTags": [
             "Hands"
-        ],
-        "aliases": [
-            "rings"
         ]
     },
     "Shirt": {
         "description": "Shirt",
         "category": "Clothing items",
-        "relatedTags": [
-            "Torso"
-        ],
-        "requiredTags": [
-            "Torso"
-        ],
         "aliases": [
             "shirts",
             "t-shirt",
             "t-shirts",
             "tshirt",
             "tshirts"
+        ],
+        "relatedTags": [
+            "Torso"
+        ],
+        "requiredTags": [
+            "Torso"
         ]
     },
     "Shoes": {
         "description": "Shoes",
         "category": "Clothing items",
+        "aliases": [
+            "shoe"
+        ],
         "relatedTags": [
             "Feet"
         ],
         "requiredTags": [
             "Feet"
-        ],
-        "aliases": [
-            "shoe"
         ]
     },
     "Shorts": {
@@ -1109,36 +1109,36 @@
         "description": "Clothing items that are revealing",
         "category": "Item properties",
         "aliases": [
-            "sexy",
+            "nsfw",
             "nude",
             "nudity",
-            "nsfw"
+            "sexy"
         ]
     },
     "Skirt": {
         "description": "Skirt",
         "category": "Clothing items",
+        "aliases": [
+            "skirts"
+        ],
         "relatedTags": [
             "Legs"
         ],
         "requiredTags": [
             "Legs"
-        ],
-        "aliases": [
-            "skirts"
         ]
     },
     "Sleeves": {
         "description": "Sleeves",
         "category": "Clothing items",
+        "aliases": [
+            "sleeve"
+        ],
         "relatedTags": [
             "Arms"
         ],
         "requiredTags": [
             "Arms"
-        ],
-        "aliases": [
-            "sleeve"
         ]
     },
     "Stockings": {
@@ -1154,42 +1154,42 @@
     "Suit": {
         "description": "Suit",
         "category": "Clothing items",
+        "aliases": [
+            "suits"
+        ],
         "relatedTags": [
             "FullBody"
         ],
         "requiredTags": [
             "FullBody"
-        ],
-        "aliases": [
-            "suits"
         ]
     },
     "TXL": {
         "fullName": "Tweak XL",
         "description": "TweakDB modifications loader and script extensions",
-        "category": "Modder resource",
+        "category": "Mods - Modder Resource",
+        "aliases": [
+            "tweak-xl",
+            "tweakxl"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/4197"
             }
-        ],
-        "aliases": [
-            "tweakxl",
-            "tweak-xl"
         ]
     },
     "Top": {
         "description": "Top",
         "category": "Clothing items",
+        "aliases": [
+            "tops"
+        ],
         "relatedTags": [
             "Torso"
         ],
         "requiredTags": [
             "Torso"
-        ],
-        "aliases": [
-            "tops"
         ]
     },
     "Torso": {
@@ -1200,44 +1200,44 @@
         "description": "Items with transparency",
         "category": "Item properties",
         "aliases": [
+            "see-through",
+            "see-thru",
+            "seethrough",
+            "seethru",
             "translucent",
             "transparencies",
-            "transparency",
-            "see-through",
-            "seethrough",
-            "see-thru",
-            "seethru"
+            "transparency"
         ]
     },
     "Underwear": {
         "description": "Underwear",
         "category": "Clothing items",
-        "relatedTags": [
-            "Skimpy",
-            "Panties",
-            "Bra"
-        ],
         "aliases": [
             "undergarment",
             "undergarments"
+        ],
+        "relatedTags": [
+            "Bra",
+            "Panties",
+            "Skimpy"
         ]
     },
     "VAT": {
         "fullName": "Virtual Atelier",
         "description": "Adds clothing stores to the in-game browser.",
-        "category": "Mods",
+        "category": "Mods - Tools",
+        "aliases": [
+            "atelier",
+            "va",
+            "vat",
+            "virtual-atelier",
+            "virtualatelier"
+        ],
         "links": [
             {
                 "label": "Nexus",
                 "url": "https://www.nexusmods.com/cyberpunk2077/mods/2987"
             }
-        ],
-        "aliases": [
-            "virtual-atelier",
-            "virtualatelier",
-            "atelier",
-            "vat",
-            "va"
         ]
     },
     "Waist": {
