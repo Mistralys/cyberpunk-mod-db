@@ -14,6 +14,7 @@ function getTagsReferenceArg() : ?string
         $commands['tagsref'] ??
         $commands['tagref'] ??
         $commands['tags-ref'] ??
+        $commands['tag-reference'] ??
         $commands['tags-reference'] ??
         $commands['tr'] ??
         null;
@@ -30,6 +31,10 @@ function generateTagsReference() : void
             generateModLines($lines, $tagName, $tagDef);
         }
         $lines[] = '';
+    }
+
+    if(empty($lines)) {
+        die('Empty tags lists generated.');
     }
 
     $tagRefFile = FileInfo::factory(__DIR__.'/../../docs/tagging-reference.md');
