@@ -14,8 +14,11 @@
 - Mods: Added "Turtleneck Top" by apzurv.
 - Mods: Added "Turtleneck Top Camo" by apzurv.
 - Mods: Fixed a typo in the "Cute Zipper Top" mod.
+- Tags: Added the possibility to list required tags per tag.
+- Tools: Now doing required tag checks when normalizing tags.
 - Tools: Added constants for the tag JSON keys.
 - Tools: The `create` command no longer overwrites existing files.
+- Tools: Now collecting and displaying messages from the normalization process.
 
 ## v2.1.2 - Internal additions
 - Tools: Added constant for the screenshot sidecar JSON title.
