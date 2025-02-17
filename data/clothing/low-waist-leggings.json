@@ -1,0 +1,184 @@
+{
+    "mod": "Low Waist Leggings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19257",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12939",
+    "atelierName": "Mayo Virtual Atelier",
+    "authors": [
+        "Mayo",
+        "NotMayoSan"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Leggings",
+        "Legs"
+    ],
+    "linkedMods": [
+        "high-waist-leggings"
+    ],
+    "itemCategories": [
+        {
+            "label": "Fabric",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_low_waist_leggings_fabric_black"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "mayo_low_waist_leggings_fabric_black_pink"
+                },
+                {
+                    "name": "Black White",
+                    "code": "mayo_low_waist_leggings_fabric_black_white"
+                },
+                {
+                    "name": "Blue",
+                    "code": "mayo_low_waist_leggings_fabric_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "mayo_low_waist_leggings_fabric_green"
+                },
+                {
+                    "name": "MBlue",
+                    "code": "mayo_low_waist_leggings_fabric_mblue"
+                },
+                {
+                    "name": "Orange",
+                    "code": "mayo_low_waist_leggings_fabric_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "mayo_low_waist_leggings_fabric_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "mayo_low_waist_leggings_fabric_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_low_waist_leggings_fabric_red"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_low_waist_leggings_fabric_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "mayo_low_waist_leggings_fabric_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Latex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_low_waist_leggings_latex_black"
+                },
+                {
+                    "name": "Black White",
+                    "code": "mayo_low_waist_leggings_latex_black_white"
+                },
+                {
+                    "name": "Galaxy",
+                    "code": "mayo_low_waist_leggings_latex_galaxy"
+                },
+                {
+                    "name": "Hotpink",
+                    "code": "mayo_low_waist_leggings_latex_hotpink"
+                },
+                {
+                    "name": "Hotpink Purple",
+                    "code": "mayo_low_waist_leggings_latex_hotpink_purple"
+                },
+                {
+                    "name": "MBlue",
+                    "code": "mayo_low_waist_leggings_latex_mblue"
+                },
+                {
+                    "name": "Purple",
+                    "code": "mayo_low_waist_leggings_latex_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_low_waist_leggings_latex_red"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_low_waist_leggings_latex_white"
+                }
+            ]
+        },
+        {
+            "label": "Leather",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "mayo_low_waist_leggings_leather_black"
+                },
+                {
+                    "name": "Black White",
+                    "code": "mayo_low_waist_leggings_leather_black_white"
+                },
+                {
+                    "name": "MBlue",
+                    "code": "mayo_low_waist_leggings_leather_mblue"
+                },
+                {
+                    "name": "Red",
+                    "code": "mayo_low_waist_leggings_leather_red"
+                },
+                {
+                    "name": "Tan",
+                    "code": "mayo_low_waist_leggings_leather_tan"
+                },
+                {
+                    "name": "Tan MBlue",
+                    "code": "mayo_low_waist_leggings_leather_tan_mblue"
+                },
+                {
+                    "name": "White",
+                    "code": "mayo_low_waist_leggings_leather_white"
+                },
+                {
+                    "name": "Worn",
+                    "code": "mayo_low_waist_leggings_leather_worn"
+                }
+            ]
+        },
+        {
+            "label": "Special",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "mayo_low_waist_leggings_gold"
+                },
+                {
+                    "name": "Gold Rose",
+                    "code": "mayo_low_waist_leggings_gold_rose"
+                },
+                {
+                    "name": "Gold Silver",
+                    "code": "mayo_low_waist_leggings_gold_silver"
+                },
+                {
+                    "name": "Leopard",
+                    "code": "mayo_low_waist_leggings_leopard"
+                }
+            ]
+        }
+    ]
+}
