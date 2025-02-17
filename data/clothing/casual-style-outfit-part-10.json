@@ -164,7 +164,8 @@
             "label": "Glove Left",
             "tags": [
                 "Arms",
-                "Gloves"
+                "Gloves",
+                "Hands"
             ],
             "items": [
                 {
@@ -193,7 +194,8 @@
             "label": "Glove Right",
             "tags": [
                 "Arms",
-                "Gloves"
+                "Gloves",
+                "Hands"
             ],
             "items": [
                 {

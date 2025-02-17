@@ -18,6 +18,9 @@
         "Clothing",
         "FemV"
     ],
+    "linkedMods": [
+        "jinx-arcane-s2-top"
+    ],
     "seeAlso": [
         {
             "label": "E3 Haircut Collection",
@@ -28,9 +31,6 @@
             "url": "https://www.nexusmods.com/cyberpunk2077/mods/17877"
         }
     ],
-    "linkedMods": [
-        "jinx-arcane-s2-top"
-    ],
     "comments": "From the TV show 'Arcane'.",
     "searchTweaks": "arcane",
     "itemCategories": [
@@ -38,7 +38,8 @@
             "label": "Gauntlets",
             "tags": [
                 "Arms",
-                "Gloves"
+                "Gloves",
+                "Hands"
             ],
             "items": [
                 {

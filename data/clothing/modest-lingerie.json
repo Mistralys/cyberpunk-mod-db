@@ -124,6 +124,7 @@
             "tags": [
                 "Corset",
                 "Lingerie",
+                "Torso",
                 "Waist"
             ],
             "items": [
@@ -165,7 +166,8 @@
             "label": "XL Shirt",
             "tags": [
                 "FullBody",
-                "Shirt"
+                "Shirt",
+                "Torso"
             ],
             "items": [
                 {
