@@ -1,3 +1,11 @@
+## v2.2.1 - New mods and ateliers
+- Ateliers: Added the "Scofil Virtual Atelier".
+- Ateliers: Added the "Raetelier" Atelier.
+- Mods: Added the "Obscura Outfit" by SCOFIL.
+- Mods: Added "Knuckle Spikes" by Breezypunk.
+- Mods: Added "XRX Futuristic Top" by apzurv.
+- Mods: Added "Street Set" by Raenef.
+
 ## v2.2.0 - New mods and tagging update
 - Mods: Added "Jinx Arcane S2 Top" by apzurv.
 - Mods: Added "Mileena Hungry Hipster Outfit" by Dusty2077.
