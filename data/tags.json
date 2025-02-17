@@ -900,6 +900,16 @@
             "masks"
         ]
     },
+    "MatEX": {
+        "description": "Multilayer Material Extender",
+        "category": "Modder resource",
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/5570"
+            }
+        ]
+    },
     "MIBL": {
         "description": "Microblend Resource",
         "category": "Modder resource",
