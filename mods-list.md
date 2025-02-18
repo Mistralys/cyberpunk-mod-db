@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 165
+Total available mods: 167
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -22,6 +22,7 @@ Total available mods: 165
 * [Beaded Choker](https://www.nexusmods.com/cyberpunk2077/mods/6978) by complectedd and mistshield
 * [Bicep Biomonitor](https://www.nexusmods.com/cyberpunk2077/mods/16545) by 707 Tactical
 * [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
+* [Blade Outfit and Head](https://www.nexusmods.com/cyberpunk2077/mods/18226) by Tariqy
 * [Bladerunner Joi Leggings Reworked](https://www.nexusmods.com/cyberpunk2077/mods/15283) by EzioMaverick and apzurv
 * [Bladerunner Joi Top Reworked](https://www.nexusmods.com/cyberpunk2077/mods/15283) by EzioMaverick and apzurv
 * [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446) by AlvarixPT
@@ -143,6 +144,7 @@ Total available mods: 165
 * [Thigh Gun Holster](https://www.nexusmods.com/cyberpunk2077/mods/7304) by MONSTERaider
 * [Tied Crop](https://www.nexusmods.com/cyberpunk2077/mods/8533) by cubfan82
 * [Tight Shiny Pants](https://www.nexusmods.com/cyberpunk2077/mods/10546) by PinkyDude
+* [Trinity Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18811) by Tonydiz
 * [Turtleneck Top](https://www.nexusmods.com/cyberpunk2077/mods/4881) by EzioMaverick and apzurv
 * [Turtleneck Top Camo](https://www.nexusmods.com/cyberpunk2077/mods/19025) by EzioMaverick and apzurv
 * [V's Favorite Top](https://www.nexusmods.com/cyberpunk2077/mods/15130) by Rosapexa and sRosapexa
