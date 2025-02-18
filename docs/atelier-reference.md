@@ -47,6 +47,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [The Rvcoon Dumpster](#the-rvcoon-dumpster)
 - [The Rvcoon Dumpster 2](#the-rvcoon-dumpster-2)
 - [TLS and Mayo Virtual Atelier](#tls-and-mayo-virtual-atelier)
+- [Tony's Casual Store](#tonys-casual-store)
 - [Tottes Atelier Shop](#tottes-atelier-shop)
 - [TQMA](#tqma)
 - [Veegee Jewelry Shop](#veegee-jewelry-shop)
@@ -392,6 +393,12 @@ Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11171)
 Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15184)
 
 - [Comfy Dress](https://www.nexusmods.com/cyberpunk2077/mods/16026)
+
+### Tony's Casual Store
+
+Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/19563/)
+
+- [Trinity Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18811)
 
 ### Tottes Atelier Shop
 
