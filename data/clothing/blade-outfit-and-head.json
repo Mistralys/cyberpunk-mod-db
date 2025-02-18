@@ -1,0 +1,145 @@
+{
+    "mod": "Blade Outfit and Head",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18226",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/17572",
+    "atelierName": "TQMA",
+    "authors": [
+        "Tariqy"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "comments": "Inspired by the movie 'Blade'.",
+    "itemCategories": [
+        {
+            "label": "Blade's Head",
+            "tags": [
+                "Accessories",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "With Glasses",
+                    "code": "tq_blade_head_item"
+                },
+                {
+                    "name": "Without Glasses",
+                    "code": "tq_blade_head_item_no_glasses"
+                }
+            ]
+        },
+        {
+            "label": "Coat",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tq_blade_long_jacket_black"
+                },
+                {
+                    "name": "Black (No Vest)",
+                    "code": "tq_blade_long_jacket_no_vest_black"
+                },
+                {
+                    "name": "Grey and Red",
+                    "code": "tq_blade_long_jacket"
+                },
+                {
+                    "name": "Grey and Red (No Vest)",
+                    "code": "tq_blade_long_jacket_no_vest"
+                }
+            ]
+        },
+        {
+            "label": "Earrings",
+            "tags": [
+                "Earring",
+                "Head",
+                "Jewelry"
+            ],
+            "items": [
+                {
+                    "name": "Left ear",
+                    "code": "tq_blade_earrings"
+                }
+            ]
+        },
+        {
+            "label": "Glasses",
+            "tags": [
+                "Glasses",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tq_blade_glasses_blade"
+                },
+                {
+                    "name": "Reflective",
+                    "code": "tq_blade_glasses",
+                    "tags": [
+                        "Reflective"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Gloves",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tq_blade_gloves_black"
+                },
+                {
+                    "name": "Black and Red",
+                    "code": "tq_blade_gloves"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tq_blade_pants_black"
+                },
+                {
+                    "name": "Black and Red",
+                    "code": "tq_blade_pants"
+                }
+            ]
+        },
+        {
+            "label": "Sword",
+            "tags": [
+                "Accessories",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tq_blade_sword_black"
+                },
+                {
+                    "name": "Grey and Red",
+                    "code": "tq_blade_sword"
+                }
+            ]
+        }
+    ]
+}
