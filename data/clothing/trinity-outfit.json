@@ -1,0 +1,241 @@
+{
+    "mod": "Trinity Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18811",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/19563/",
+    "atelierName": "Tony's Casual Store",
+    "authors": [
+        "Tonydiz"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "comments": "Inspired by the character Trinity from the movie 'The Matrix'.",
+    "itemCategories": [
+        {
+            "label": "Bodysuit",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_overall_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "tony_trinity_overall_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "tony_trinity_overall_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "tony_trinity_overall_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "tony_trinity_overall_red"
+                },
+                {
+                    "name": "White",
+                    "code": "tony_trinity_overall_white"
+                }
+            ]
+        },
+        {
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_boots_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "tony_trinity_boots_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "tony_trinity_boots_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "tony_trinity_boots_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "tony_trinity_boots_red"
+                },
+                {
+                    "name": "White",
+                    "code": "tony_trinity_boots_white"
+                }
+            ]
+        },
+        {
+            "label": "Coat",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_coat_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "tony_trinity_coat_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "tony_trinity_coat_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "tony_trinity_coat_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "tony_trinity_coat_red"
+                },
+                {
+                    "name": "White",
+                    "code": "tony_trinity_coat_white"
+                }
+            ]
+        },
+        {
+            "label": "Glasses",
+            "tags": [
+                "Glasses",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_glasses_black"
+                }
+            ]
+        },
+        {
+            "label": "Gloves",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_gloves_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "tony_trinity_gloves_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "tony_trinity_gloves_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "tony_trinity_gloves_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "tony_trinity_gloves_red"
+                },
+                {
+                    "name": "White",
+                    "code": "tony_trinity_gloves_white"
+                }
+            ]
+        },
+        {
+            "label": "Hair",
+            "tags": [
+                "Hair",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Hair",
+                    "code": "tony_trinity_hair"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_pants_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "tony_trinity_pants_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "tony_trinity_pants_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "tony_trinity_pants_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "tony_trinity_pants_red"
+                },
+                {
+                    "name": "White",
+                    "code": "tony_trinity_pants_white"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tony_trinity_top_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "tony_trinity_top_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "tony_trinity_top_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "tony_trinity_top_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "tony_trinity_top_red"
+                },
+                {
+                    "name": "White",
+                    "code": "tony_trinity_top_white"
+                }
+            ]
+        }
+    ]
+}
