@@ -48,6 +48,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [The Rvcoon Dumpster 2](#the-rvcoon-dumpster-2)
 - [TLS and Mayo Virtual Atelier](#tls-and-mayo-virtual-atelier)
 - [Tottes Atelier Shop](#tottes-atelier-shop)
+- [TQMA](#tqma)
 - [Veegee Jewelry Shop](#veegee-jewelry-shop)
 - [Veegee Shop](#veegee-shop)
 - [Veegee Shop 2](#veegee-shop-2)
@@ -397,6 +398,12 @@ Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15184)
 Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13717)
 
 - [Night Top Vol. 1](https://www.nexusmods.com/cyberpunk2077/mods/16625)
+
+### TQMA
+
+Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17572)
+
+- [Blade Outfit and Head](https://www.nexusmods.com/cyberpunk2077/mods/18226)
 
 ### Veegee Jewelry Shop
 
