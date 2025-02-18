@@ -74,9 +74,11 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
         $found = false;
         foreach($sidecarFiles as $sidecarFile) {
             $data = $sidecarFile->getData();
-            if(in_array('MaleV', $data[KEY_SCREENSHOT_TAGS] ?? array())) {
-                $found = true;
-                break;
+            foreach($data as $value) {
+                if(!empty($value[KEY_SCREENSHOT_TAGS]) && in_array('MaleV', $value[KEY_SCREENSHOT_TAGS])) {
+                    $found = true;
+                    break;
+                }
             }
         }
 
