@@ -69,8 +69,9 @@ function generateAtelierReference(array &$lines, array $atelier) : void
     $lines[] = sprintf('### %s', $atelier[KEY_ATELIERS_NAME]);
     $lines[] = '';
     $lines[] = sprintf(
-        'Mods: %s | [Source](%s)',
+        'Mods: %s | Authors: %s | [Source](%s)',
         count($mods),
+        implode(', ', $atelier[KEY_ATELIERS_AUTHORS]),
         $url
     );
     $lines[] = '';

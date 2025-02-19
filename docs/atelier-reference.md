@@ -61,7 +61,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 
 ### AdShield Atelier Store
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8452)
+Mods: 3 | Authors: Adshield | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8452)
 
 - [Cyberdeck Collection](https://www.nexusmods.com/cyberpunk2077/mods/11093)
 - [Harness Top](https://www.nexusmods.com/cyberpunk2077/mods/11753)
@@ -69,7 +69,7 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8452)
 
 ### Alvarix Custom Store
 
-Mods: 8 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+Mods: 8 | Authors: AlvarixPT | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 
 - [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515)
 - [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446)
@@ -82,26 +82,26 @@ Mods: 8 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 
 ### Atelier for Flash Posers
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8886)
+Mods: 1 | Authors: jerinski | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8886)
 
 - [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886)
 
 ### Breezy's Accessory Alcove
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
+Mods: 2 | Authors: Breezypunk | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
 
 - [Keffiyeh](https://www.nexusmods.com/cyberpunk2077/mods/19475)
 - [Knuckle Spikes](https://www.nexusmods.com/cyberpunk2077/mods/17758)
 
 ### Breezy's Clothing Emporium
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14744)
+Mods: 1 | Authors: Breezypunk | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14744)
 
 - [Chic Skirt](https://www.nexusmods.com/cyberpunk2077/mods/16149)
 
 ### Complectedd Necklace Atelier
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7016)
+Mods: 3 | Authors: complectedd, mistshield | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7016)
 
 - [Alt Cunningham's Choker](https://www.nexusmods.com/cyberpunk2077/mods/6947)
 - [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122)
@@ -109,7 +109,7 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7016)
 
 ### CUB Atelier Store
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6949)
+Mods: 3 | Authors: cubfan82 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6949)
 
 - [Cute Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097)
 - [Lowrise Pants](https://www.nexusmods.com/cyberpunk2077/mods/8456)
@@ -117,14 +117,14 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6949)
 
 ### Cub's Closet
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15621)
+Mods: 2 | Authors: cubfan82 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15621)
 
 - [Camisole Top](https://www.nexusmods.com/cyberpunk2077/mods/17113)
 - [Long Sleeve Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/18510)
 
 ### Cyb3rbling Jeweller's
 
-Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14191)
+Mods: 4 | Authors: cyb3rsn4k3, cyb3rsn4k34li3n | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14191)
 
 - [Angel Heart Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14411)
 - [Liquid Heart Earrings](https://www.nexusmods.com/cyberpunk2077/mods/14190)
@@ -133,7 +133,7 @@ Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14191)
 
 ### DBRV n CO Virtual Store
 
-Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7848)
+Mods: 4 | Authors: DBRV | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7848)
 
 - [Rockergirl Pants Laces](https://www.nexusmods.com/cyberpunk2077/mods/9040)
 - [Techtopia Gloves](https://www.nexusmods.com/cyberpunk2077/mods/9000)
@@ -142,13 +142,13 @@ Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7848)
 
 ### Disco's Store
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8853)
+Mods: 1 | Authors: Disco, deadengine959 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8853)
 
 - [NPC Accessories](https://www.nexusmods.com/cyberpunk2077/mods/8985)
 
 ### Dusty Virtual Atelier
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14797)
+Mods: 3 | Authors: Dusty2077 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14797)
 
 - [Aria T'Loak Suit](https://www.nexusmods.com/cyberpunk2077/mods/14757)
 - [Mileena Hungry Hipster Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15401)
@@ -156,27 +156,27 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14797)
 
 ### Flower Shop
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6852)
+Mods: 1 | Authors: FrauBlume | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6852)
 
 - [Spiky Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/16664)
 
 ### Hyst Atelier Store
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6015)
+Mods: 2 | Authors: Hyst, LxRHyst | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6015)
 
 - [Evelyn Dress](https://www.nexusmods.com/cyberpunk2077/mods/6810)
 - [Short Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/6601)
 
 ### KMKC's Virtual Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16065/)
+Mods: 2 | Authors: Rosslin, Rosslinn | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16065/)
 
 - [Negan Jacket](https://www.nexusmods.com/cyberpunk2077/mods/17382)
 - [Neon Razor Outfit](https://www.nexusmods.com/cyberpunk2077/mods/17339)
 
 ### Kwek's Family Jewels
 
-Mods: 9 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6985)
+Mods: 9 | Authors: Kwek, kweknexuss | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6985)
 
 - [Elizabeth Peralez Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7048)
 - [Johnny Silverhand's String Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/6912)
@@ -190,14 +190,14 @@ Mods: 9 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6985)
 
 ### Kwek's Sartorial Omnibus Shop
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6779)
+Mods: 2 | Authors: Kwek | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6779)
 
 - [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130)
 - [Simple Elbow Pads](https://www.nexusmods.com/cyberpunk2077/mods/7681)
 
 ### Mayo Virtual Atelier
 
-Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
+Mods: 4 | Authors: Mayo, NotMayoSan | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
 
 - [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249)
 - [Goth Skirt Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15099)
@@ -206,7 +206,7 @@ Mods: 4 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12939)
 
 ### MONSTERaider Atelier Store
 
-Mods: 10 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
+Mods: 10 | Authors: MONSTERaider | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
 
 - [Aurore Modular Set](https://www.nexusmods.com/cyberpunk2077/mods/12099)
 - [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982)
@@ -221,7 +221,7 @@ Mods: 10 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
 
 ### NC Fashion
 
-Mods: 41 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+Mods: 41 | Authors: Apzurv, EzioMaverick | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 - [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027)
 - [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896)
@@ -267,28 +267,28 @@ Mods: 41 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
 ### Nemie's Closet
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13605)
+Mods: 2 | Authors: Nemiepies | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13605)
 
 - [Luxe Two-Piece](https://www.nexusmods.com/cyberpunk2077/mods/16011)
 - [Modest Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/17909)
 
 ### Neuromance
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16929)
+Mods: 2 | Authors: CaffeinatedRogue, CaffeineRogue | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16929)
 
 - [Lace-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/16927)
 - [Voronoi Cage Dress](https://www.nexusmods.com/cyberpunk2077/mods/15094)
 
 ### Nola Dreamer and Aquelyras Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8704)
+Mods: 2 | Authors: Aquelyras, NolaDreamer | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8704)
 
 - [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041)
 - [Summer Outfit](https://www.nexusmods.com/cyberpunk2077/mods/12331)
 
 ### Nola Dreamer Boutique
 
-Mods: 5 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+Mods: 5 | Authors: NolaDreamer | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5114)
 
 - [Alt Jacket and Pants](https://www.nexusmods.com/cyberpunk2077/mods/7701)
 - [Evelyn Coat and Fur](https://www.nexusmods.com/cyberpunk2077/mods/8319)
@@ -298,20 +298,20 @@ Mods: 5 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5114)
 
 ### Nola x Veegee Feminine Store
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11964)
+Mods: 2 | Authors: NolaDreamer, Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11964)
 
 - [Lethal Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15867)
 - [Rough Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15606)
 
 ### Peachu and Hyst Atelier Store
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6943)
+Mods: 1 | Authors: Hyst, LxRHyst, Peachu, PeachuHime | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6943)
 
 - [Peachu Top](https://www.nexusmods.com/cyberpunk2077/mods/7603)
 
 ### Peachu Atelier Store
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12233)
+Mods: 3 | Authors: Peachu, PeachuHime | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12233)
 
 - [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041)
 - [Evelyn Skirt](https://www.nexusmods.com/cyberpunk2077/mods/8024)
@@ -319,64 +319,64 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12233)
 
 ### Raem's Atelier Store
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14210)
+Mods: 1 | Authors: raem, raemaze | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14210)
 
 - [Chain Jewelry Collection](https://www.nexusmods.com/cyberpunk2077/mods/15861)
 
 ### Raetelier - Raenef's Atelier
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16681)
+Mods: 1 | Authors: Raenef, Raenef1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16681)
 
 - [Street Set](https://www.nexusmods.com/cyberpunk2077/mods/18746)
 
 ### Rosa's Shop
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8919)
+Mods: 1 | Authors: Rosapexa | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8919)
 
 - [V's Favorite Top](https://www.nexusmods.com/cyberpunk2077/mods/15130)
 
 ### Scofil Virtual Atelier
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17860)
+Mods: 1 | Authors: SCOFIL, Scofil1996 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17860)
 
 - [Obscura Outfit](https://www.nexusmods.com/cyberpunk2077/mods/19383)
 
 ### Se7en Virtual Atelier Store
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6360/)
+Mods: 1 | Authors: xBaebsae | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6360/)
 
 - [Lace Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/7711)
 
 ### Seawright Optometry Shop
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6505)
+Mods: 2 | Authors: Kwek, kweknexuss | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6505)
 
 - [Aviator Glasses](https://www.nexusmods.com/cyberpunk2077/mods/7803)
 - [Parasol Oversized Heart Glasses](https://www.nexusmods.com/cyberpunk2077/mods/6990)
 
 ### Subleader Virtual Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14747)
+Mods: 2 | Authors: Subleader, Subleader100 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14747)
 
 - [Hailey Outfit](https://www.nexusmods.com/cyberpunk2077/mods/16476)
 - [Nanosuit](https://www.nexusmods.com/cyberpunk2077/mods/14677)
 
 ### SumiStyle Corporate Atelier
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16261?tab=files)
+Mods: 1 | Authors: Sumi, SumiTerra | [Source](https://www.nexusmods.com/cyberpunk2077/mods/16261?tab=files)
 
 - [Corpo Clothing - Hanako Top](https://www.nexusmods.com/cyberpunk2077/mods/17586)
 
 ### The Bean Cup Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12223)
+Mods: 2 | Authors: beaniebby | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12223)
 
 - [Casino Aviators](https://www.nexusmods.com/cyberpunk2077/mods/18191)
 - [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130)
 
 ### The Rvcoon Dumpster
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5802)
+Mods: 3 | Authors: PinkyDude | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5802)
 
 - [Chromed Long Blouse](https://www.nexusmods.com/cyberpunk2077/mods/7609)
 - [Fancy Striped Dress](https://www.nexusmods.com/cyberpunk2077/mods/8843)
@@ -384,50 +384,50 @@ Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5802)
 
 ### The Rvcoon Dumpster 2
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11171)
+Mods: 1 | Authors: PinkyDude | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11171)
 
 - [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342)
 
 ### TLS and Mayo Virtual Atelier
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15184)
+Mods: 1 | Authors: Mayo, NotMayoSan, TheLoneStrider, TheLoneStrider13 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15184)
 
 - [Comfy Dress](https://www.nexusmods.com/cyberpunk2077/mods/16026)
 
 ### Tony's Casual Store
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/19563/)
+Mods: 1 | Authors: Tonydiz | [Source](https://www.nexusmods.com/cyberpunk2077/mods/19563/)
 
 - [Trinity Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18811)
 
 ### Tottes Atelier Shop
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13717)
+Mods: 1 | Authors: Tottes | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13717)
 
 - [Night Top Vol. 1](https://www.nexusmods.com/cyberpunk2077/mods/16625)
 
 ### TQMA
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17572)
+Mods: 1 | Authors: Tariqy | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17572)
 
 - [Blade Outfit and Head](https://www.nexusmods.com/cyberpunk2077/mods/18226)
 
 ### Veegee Jewelry Shop
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8688)
+Mods: 1 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8688)
 
 - [Glasses Pack](https://www.nexusmods.com/cyberpunk2077/mods/13095)
 
 ### Veegee Shop
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8183)
+Mods: 2 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8183)
 
 - [Chain Top](https://www.nexusmods.com/cyberpunk2077/mods/8327)
 - [Combat Pants](https://www.nexusmods.com/cyberpunk2077/mods/9016)
 
 ### Veegee Shop 2
 
-Mods: 9 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
+Mods: 9 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 - [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453)
 - [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996)
@@ -441,33 +441,33 @@ Mods: 9 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 ### Viktor Vektor Store
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7448)
+Mods: 1 | Authors: MONSTERaider | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7448)
 
 - [Psycho Cyber-Tubes](https://www.nexusmods.com/cyberpunk2077/mods/7860)
 
 ### Voidwear Virtual Atelier
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12637)
+Mods: 2 | Authors: yellingintothevoid | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12637)
 
 - [Casual T-Shirt with Pockets and Decals](https://www.nexusmods.com/cyberpunk2077/mods/14645)
 - [Shroud](https://www.nexusmods.com/cyberpunk2077/mods/15576)
 
 ### VV0LFDEN - Virtual Atelier Store
 
-Mods: 2 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6572)
+Mods: 2 | Authors: Halkuonn | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6572)
 
 - [Basic Tees](https://www.nexusmods.com/cyberpunk2077/mods/11309)
 - [Zip-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/13758)
 
 ### Yevgeniy's 2nd Hand
 
-Mods: 1 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15765)
+Mods: 1 | Authors: 707 Tactical | [Source](https://www.nexusmods.com/cyberpunk2077/mods/15765)
 
 - [Bicep Biomonitor](https://www.nexusmods.com/cyberpunk2077/mods/16545)
 
 ### Zenitex Atelier
 
-Mods: 3 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/10090)
+Mods: 3 | Authors: ScorpionTank | [Source](https://www.nexusmods.com/cyberpunk2077/mods/10090)
 
 - [Armor Pads Pack](https://www.nexusmods.com/cyberpunk2077/mods/12044)
 - [Military Boots](https://www.nexusmods.com/cyberpunk2077/mods/14781)
