@@ -3,6 +3,7 @@
 - Ateliers: Added the "Raetelier" Atelier by Raenef.
 - Ateliers: Added the "TQMA" Atelier by Tariqy.
 - Ateliers: Added "Tony's Casual Store" by Tonydiz.
+- Ateliers: Added the author names in the atelier reference.
 - Mods: Added the "Obscura Outfit" by SCOFIL.
 - Mods: Added "Knuckle Spikes" by Breezypunk.
 - Mods: Added "XRX Futuristic Top" by apzurv.
