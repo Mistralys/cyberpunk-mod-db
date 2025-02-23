@@ -1,0 +1,32 @@
+{
+    "mod": "Bayonetta 2 Earrings",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19042",
+    "atelier": "",
+    "atelierName": "",
+    "authors": [
+        "LeoBoy",
+        "LeoBoy88"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "Earring",
+        "FemV",
+        "Head",
+        "Jewelry"
+    ],
+    "comments": "Inspired by the video game 'Bayonetta 2'.",
+    "searchTweaks": "88 boy",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Default",
+                    "code": "BayonettaEarrings"
+                }
+            ]
+        }
+    ]
+}
