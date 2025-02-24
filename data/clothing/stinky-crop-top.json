@@ -1,0 +1,72 @@
+{
+    "mod": "Stinky Crop Top",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/14010",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/11171",
+    "atelierName": "The Rvcoon Dumpster 2",
+    "authors": [
+        "PinkyDude",
+        "PinkyHalk"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Lush",
+        "Body-Solo-Small",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Top",
+        "Torso"
+    ],
+    "searchTweaks": "dude raccoon",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Brick",
+                    "code": "PinkyDude_Stinky_CropTopF_Brick"
+                },
+                {
+                    "name": "Bronze",
+                    "code": "PinkyDude_Stinky_CropTopF_Bronze"
+                },
+                {
+                    "name": "Cacti",
+                    "code": "PinkyDude_Stinky_CropTopF_Cacti"
+                },
+                {
+                    "name": "Gold",
+                    "code": "PinkyDude_Stinky_CropTopF_Gold"
+                },
+                {
+                    "name": "Grease",
+                    "code": "PinkyDude_Stinky_CropTopF_Grease"
+                },
+                {
+                    "name": "Hibiscus",
+                    "code": "PinkyDude_Stinky_CropTopF_Hibiscus"
+                },
+                {
+                    "name": "Lavender",
+                    "code": "PinkyDude_Stinky_CropTopF_Lavender"
+                },
+                {
+                    "name": "Oil",
+                    "code": "PinkyDude_Stinky_CropTopF_Oil"
+                },
+                {
+                    "name": "Petrol",
+                    "code": "PinkyDude_Stinky_CropTopF_Petrol"
+                },
+                {
+                    "name": "Smoke",
+                    "code": "PinkyDude_Stinky_CropTopF_Smoke"
+                }
+            ]
+        }
+    ]
+}
