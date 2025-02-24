@@ -1,3 +1,7 @@
+## v2.2.2 - New mods
+- Mods: Added "Caged Bracelet" by Breezypunk.
+- Mods: Added "Bayonetta 2 Earrings" by LeoBoy.
+
 ## v2.2.1 - New mods and ateliers
 - Ateliers: Added the "Scofil Virtual Atelier" by SCOFIL.
 - Ateliers: Added the "Raetelier" Atelier by Raenef.
