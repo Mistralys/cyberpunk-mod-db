@@ -1,0 +1,89 @@
+{
+    "mod": "Elegant Dress",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19723",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6015",
+    "atelierName": "Hyst Atelier Store",
+    "authors": [
+        "Hyst",
+        "LxRHyst"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Baby Blue",
+                    "code": "hyst_elegant_dress_babyblue"
+                },
+                {
+                    "name": "Black",
+                    "code": "hyst_elegant_dress_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "hyst_elegant_dress_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "hyst_elegant_dress_burgundy"
+                },
+                {
+                    "name": "Green",
+                    "code": "hyst_elegant_dress_green"
+                },
+                {
+                    "name": "Nude",
+                    "code": "hyst_elegant_dress_nude"
+                },
+                {
+                    "name": "Red",
+                    "code": "hyst_elegant_dress_red"
+                },
+                {
+                    "name": "Sequin",
+                    "code": "hyst_elegant_dress_sequin"
+                },
+                {
+                    "name": "Sequin Black",
+                    "code": "hyst_elegant_dress_sequinblack"
+                },
+                {
+                    "name": "Sequin Blue",
+                    "code": "hyst_elegant_dress_sequinblue"
+                },
+                {
+                    "name": "Sequin Burgundy",
+                    "code": "hyst_elegant_dress_sequinburgundy"
+                },
+                {
+                    "name": "Sequin Gold",
+                    "code": "hyst_elegant_dress_sequingold"
+                },
+                {
+                    "name": "Sequin Green",
+                    "code": "hyst_elegant_dress_sequingreen"
+                },
+                {
+                    "name": "White",
+                    "code": "hyst_elegant_dress_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "hyst_elegant_dress_yellow"
+                }
+            ]
+        }
+    ]
+}
