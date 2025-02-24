@@ -1,0 +1,232 @@
+{
+    "mod": "Hoodie Vest",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19074",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/18465",
+    "atelierName": "Breezy's Thrift Shop",
+    "authors": [
+        "Breezypunk"
+    ],
+    "tags": [
+        "Body-Gymfiend",
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Solo",
+        "Body-VTK-Big",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Jacket",
+        "MaleV",
+        "Torso"
+    ],
+    "itemCategories": [
+        {
+            "label": "Hoodie",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Angel White",
+                    "code": "breezy_hoodie_angelwhite"
+                },
+                {
+                    "name": "Baja Blast",
+                    "code": "breezy_hoodie_bajablast"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "breezy_hoodie_barbie"
+                },
+                {
+                    "name": "Black Camo",
+                    "code": "breezy_hoodie_blackcamo"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "breezy_hoodie_blackgold"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "breezy_hoodie_blacksilver"
+                },
+                {
+                    "name": "Blush",
+                    "code": "breezy_hoodie_blush"
+                },
+                {
+                    "name": "Camo",
+                    "code": "breezy_hoodie_camo"
+                },
+                {
+                    "name": "Cherry Bomb",
+                    "code": "breezy_hoodie_cherrybomb"
+                },
+                {
+                    "name": "Cherry Frost",
+                    "code": "breezy_hoodie_cherryfrost"
+                },
+                {
+                    "name": "Cream",
+                    "code": "breezy_hoodie_cream"
+                },
+                {
+                    "name": "Cream Soda",
+                    "code": "breezy_hoodie_creamsoda"
+                },
+                {
+                    "name": "Crow",
+                    "code": "breezy_hoodie_crow"
+                },
+                {
+                    "name": "Electric Purple",
+                    "code": "breezy_hoodie_electricpurple"
+                },
+                {
+                    "name": "Hershey",
+                    "code": "breezy_hoodie_hershey"
+                },
+                {
+                    "name": "Jori",
+                    "code": "breezy_hoodie_jori"
+                },
+                {
+                    "name": "Lemon Meringue",
+                    "code": "breezy_hoodie_lemonmeringue"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "breezy_hoodie_lightblue"
+                },
+                {
+                    "name": "Paradise",
+                    "code": "breezy_hoodie_paradise"
+                },
+                {
+                    "name": "Rock Angelz",
+                    "code": "breezy_hoodie_rockangelz"
+                },
+                {
+                    "name": "Send Nudes",
+                    "code": "breezy_hoodie_sendnudes"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "breezy_hoodie_whitegold"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "breezy_hoodie_whitesilver"
+                },
+                {
+                    "name": "Zebra",
+                    "code": "breezy_hoodie_zebra"
+                }
+            ]
+        },
+        {
+            "label": "Vest",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Angel White",
+                    "code": "breezy_hoodie_vest_angelwhite"
+                },
+                {
+                    "name": "Baja Blast",
+                    "code": "breezy_hoodie_vest_bajablast"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "breezy_hoodie_vest_barbie"
+                },
+                {
+                    "name": "Black Camo",
+                    "code": "breezy_hoodie_vest_blackcamo"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "breezy_hoodie_vest_blackgold"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "breezy_hoodie_vest_blacksilver"
+                },
+                {
+                    "name": "Blush",
+                    "code": "breezy_hoodie_vest_blush"
+                },
+                {
+                    "name": "Camo",
+                    "code": "breezy_hoodie_vest_camo"
+                },
+                {
+                    "name": "Cherry Bomb",
+                    "code": "breezy_hoodie_vest_cherrybomb"
+                },
+                {
+                    "name": "Cherry Frost",
+                    "code": "breezy_hoodie_vest_cherryfrost"
+                },
+                {
+                    "name": "Cream",
+                    "code": "breezy_hoodie_vest_cream"
+                },
+                {
+                    "name": "Cream Soda",
+                    "code": "breezy_hoodie_vest_creamsoda"
+                },
+                {
+                    "name": "Crow",
+                    "code": "breezy_hoodie_vest_crow"
+                },
+                {
+                    "name": "Electric Purple",
+                    "code": "breezy_hoodie_vest_electricpurple"
+                },
+                {
+                    "name": "Hershey",
+                    "code": "breezy_hoodie_vest_hershey"
+                },
+                {
+                    "name": "Jori",
+                    "code": "breezy_hoodie_vest_jori"
+                },
+                {
+                    "name": "Lemon Meringue",
+                    "code": "breezy_hoodie_vest_lemonmeringue"
+                },
+                {
+                    "name": "Light Blue",
+                    "code": "breezy_hoodie_vest_lightblue"
+                },
+                {
+                    "name": "Paradise",
+                    "code": "breezy_hoodie_vest_paradise"
+                },
+                {
+                    "name": "Rock Angelz",
+                    "code": "breezy_hoodie_vest_rockangelz"
+                },
+                {
+                    "name": "Send Nudes",
+                    "code": "breezy_hoodie_vest_sendnudes"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "breezy_hoodie_vest_whitegold"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "breezy_hoodie_vest_whitesilver"
+                },
+                {
+                    "name": "Zebra",
+                    "code": "breezy_hoodie_vest_zebra"
+                }
+            ]
+        }
+    ]
+}
