@@ -3,6 +3,7 @@
 - Mods: Added "Bayonetta 2 Earrings" by LeoBoy.
 - Mods: Added "Hoodie Vest" by Breezypunk.
 - Mods: Added "Elegant Dress" by Hyst.
+- Mods: Added "Stinky Crop Top" by PinkyDude.
 - Ateliers: Added "Breezy's Thrift Shop" by Breezypunk.
 
 ## v2.2.1 - New mods and ateliers
