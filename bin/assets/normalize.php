@@ -256,7 +256,7 @@ function normalizeTags(array $tags, string $source) : array
 
     foreach($tags as $tag)
     {
-        $tag = strtolower($tag);
+        $tag = str_replace(array('_', ' '), '-', strtolower($tag));
         if(!isset($tagAliases[$tag])) {
             addMessage('Unknown tag [%s] in %s.', $tag, $source);
             logError('Unknown tag [%s]', $tag);
