@@ -13,7 +13,9 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [Atelier for Flash Posers](#atelier-for-flash-posers)
 - [Breezy's Accessory Alcove](#breezys-accessory-alcove)
 - [Breezy's Clothing Emporium](#breezys-clothing-emporium)
+- [Breezy's Thrift Shop](#breezys-thrift-shop)
 - [Complectedd Necklace Atelier](#complectedd-necklace-atelier)
+- [Corpo Clothing](#corpo-clothing)
 - [CUB Atelier Store](#cub-atelier-store)
 - [Cub's Closet](#cubs-closet)
 - [Cyb3rbling Jeweller's](#cyb3rbling-jewellers)
@@ -88,8 +90,9 @@ Mods: 1 | Authors: jerinski | [Source](https://www.nexusmods.com/cyberpunk2077/m
 
 ### Breezy's Accessory Alcove
 
-Mods: 2 | Authors: Breezypunk | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
+Mods: 3 | Authors: Breezypunk | [Source](https://www.nexusmods.com/cyberpunk2077/mods/17749)
 
+- [Caged Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/18724)
 - [Keffiyeh](https://www.nexusmods.com/cyberpunk2077/mods/19475)
 - [Knuckle Spikes](https://www.nexusmods.com/cyberpunk2077/mods/17758)
 
@@ -99,6 +102,12 @@ Mods: 1 | Authors: Breezypunk | [Source](https://www.nexusmods.com/cyberpunk2077
 
 - [Chic Skirt](https://www.nexusmods.com/cyberpunk2077/mods/16149)
 
+### Breezy's Thrift Shop
+
+Mods: 1 | Authors: Breezypunk | [Source](https://www.nexusmods.com/cyberpunk2077/mods/18465)
+
+- [Hoodie Vest](https://www.nexusmods.com/cyberpunk2077/mods/19074)
+
 ### Complectedd Necklace Atelier
 
 Mods: 3 | Authors: complectedd, mistshield | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7016)
@@ -106,6 +115,12 @@ Mods: 3 | Authors: complectedd, mistshield | [Source](https://www.nexusmods.com/
 - [Alt Cunningham's Choker](https://www.nexusmods.com/cyberpunk2077/mods/6947)
 - [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122)
 - [Beaded Choker](https://www.nexusmods.com/cyberpunk2077/mods/6978)
+
+### Corpo Clothing
+
+Mods: 1 | Authors: Sumi, SumiTerra | [Source](https://www.nexusmods.com/cyberpunk2077/mods/18044)
+
+- [Net Pozer Jacket and Cyberdeck Armband](https://www.nexusmods.com/cyberpunk2077/mods/18715)
 
 ### CUB Atelier Store
 
@@ -162,8 +177,9 @@ Mods: 1 | Authors: FrauBlume | [Source](https://www.nexusmods.com/cyberpunk2077/
 
 ### Hyst Atelier Store
 
-Mods: 2 | Authors: Hyst, LxRHyst | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6015)
+Mods: 3 | Authors: Hyst, LxRHyst | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6015)
 
+- [Elegant Dress](https://www.nexusmods.com/cyberpunk2077/mods/19723)
 - [Evelyn Dress](https://www.nexusmods.com/cyberpunk2077/mods/6810)
 - [Short Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/6601)
 
@@ -384,9 +400,10 @@ Mods: 3 | Authors: PinkyDude | [Source](https://www.nexusmods.com/cyberpunk2077/
 
 ### The Rvcoon Dumpster 2
 
-Mods: 1 | Authors: PinkyDude | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11171)
+Mods: 2 | Authors: PinkyDude | [Source](https://www.nexusmods.com/cyberpunk2077/mods/11171)
 
 - [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342)
+- [Stinky Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/14010)
 
 ### TLS and Mayo Virtual Atelier
 

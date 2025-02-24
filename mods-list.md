@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 167
+Total available mods: 173
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -19,6 +19,7 @@ Total available mods: 167
 * [Aviator Glasses](https://www.nexusmods.com/cyberpunk2077/mods/7803) by Kwek and kweknexuss
 * [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515) by AlvarixPT
 * [Basic Tees](https://www.nexusmods.com/cyberpunk2077/mods/11309) by Halkuonn
+* [Bayonetta 2 Earrings](https://www.nexusmods.com/cyberpunk2077/mods/19042) by LeoBoy and LeoBoy88
 * [Beaded Choker](https://www.nexusmods.com/cyberpunk2077/mods/6978) by complectedd and mistshield
 * [Bicep Biomonitor](https://www.nexusmods.com/cyberpunk2077/mods/16545) by 707 Tactical
 * [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
@@ -29,6 +30,7 @@ Total available mods: 167
 * [Bodysuit Spandex and Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/11050) by Apzurv and EzioMaverick
 * [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by Mayo and NotMayoSan
 * [Bullet Necklace](https://www.nexusmods.com/cyberpunk2077/mods/5077) by DJ_Kovrik and e256
+* [Caged Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/18724) by Breezypunk
 * [Camisole Top](https://www.nexusmods.com/cyberpunk2077/mods/17113) by Cubfan82
 * [Casino Aviators](https://www.nexusmods.com/cyberpunk2077/mods/18191) by Beanie and beaniebby
 * [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133) by Veegee and VeegeeAlvarez
@@ -55,6 +57,7 @@ Total available mods: 167
 * [Cyber Skull Mask](https://www.nexusmods.com/cyberpunk2077/mods/15086) by AAbdii
 * [Deus Ex Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4601) by AlvarixPT
 * [DS2 Jacket, Bodysuit and Necklace](https://www.nexusmods.com/cyberpunk2077/mods/16985) by EzioMaverick and apzurv
+* [Elegant Dress](https://www.nexusmods.com/cyberpunk2077/mods/19723) by Hyst and LxRHyst
 * [Elizabeth Peralez Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7048) by Kwek and kweknexuss
 * [Evangelion Misato Outfit](https://www.nexusmods.com/cyberpunk2077/mods/14653) by Apzurv and EzioMaverick
 * [Evangelion Plugsuits](https://www.nexusmods.com/cyberpunk2077/mods/11511) by AlvarixPT
@@ -70,6 +73,7 @@ Total available mods: 167
 * [Hanako Dress](https://www.nexusmods.com/cyberpunk2077/mods/6034) by Apzurv and EzioMaverick
 * [Harness Top](https://www.nexusmods.com/cyberpunk2077/mods/11753) by Adshield
 * [High Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/17045) by Mayo
+* [Hoodie Vest](https://www.nexusmods.com/cyberpunk2077/mods/19074) by Breezypunk
 * [J'adore Moon & Star Hoop Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7105) by Kwek and kweknexuss
 * [Jacket Bolero Hex](https://www.nexusmods.com/cyberpunk2077/mods/16378) by Apzurv and EzioMaverick
 * [Jin Kazam Tekken Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15049) by EzioMaverick and apzurv
@@ -104,6 +108,7 @@ Total available mods: 167
 * [Nanosuit](https://www.nexusmods.com/cyberpunk2077/mods/14677) by Subleader
 * [Negan Jacket](https://www.nexusmods.com/cyberpunk2077/mods/17382) by Rosslin
 * [Neon Razor Outfit](https://www.nexusmods.com/cyberpunk2077/mods/17339) by Rosslin and Rosslinn
+* [Net Pozer Jacket and Cyberdeck Armband](https://www.nexusmods.com/cyberpunk2077/mods/18715) by Sumi and SumiTerra
 * [Netrunner Combat Top](https://www.nexusmods.com/cyberpunk2077/mods/4939) by Apzurv and EzioMaverick
 * [Night Top Vol. 1](https://www.nexusmods.com/cyberpunk2077/mods/16625) by Tottes
 * [NPC Accessories](https://www.nexusmods.com/cyberpunk2077/mods/8985) by DISCO and deadengine959
@@ -134,6 +139,7 @@ Total available mods: 167
 * [Star Hairclips](https://www.nexusmods.com/cyberpunk2077/mods/15195) by cyb3rsn4k3 and cyb3rsn4k34li3n
 * [Starlight Dress](https://www.nexusmods.com/cyberpunk2077/mods/15638) by Dusty2077
 * [Stellar Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14553) by cyb3rsn4k3
+* [Stinky Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/14010) by PinkyDude and PinkyHalk
 * [Strap Dress](https://www.nexusmods.com/cyberpunk2077/mods/7270) by MONSTERaider
 * [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and NolaDreamer
 * [Street Set](https://www.nexusmods.com/cyberpunk2077/mods/18746) by Raenef and Raenef1
