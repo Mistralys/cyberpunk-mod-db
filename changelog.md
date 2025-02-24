@@ -4,7 +4,9 @@
 - Mods: Added "Hoodie Vest" by Breezypunk.
 - Mods: Added "Elegant Dress" by Hyst.
 - Mods: Added "Stinky Crop Top" by PinkyDude.
+- Mods: Added "Net Pozer Jacket and Cyberdeck Armband" by Sumi.
 - Ateliers: Added "Breezy's Thrift Shop" by Breezypunk.
+- Ateliers: Added "Corpo Clothing" by Sumi.
 
 ## v2.2.1 - New mods and ateliers
 - Ateliers: Added the "Scofil Virtual Atelier" by SCOFIL.
