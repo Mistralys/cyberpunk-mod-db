@@ -444,7 +444,7 @@ Mods: 2 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cy
 
 ### Veegee Shop 2
 
-Mods: 9 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
+Mods: 10 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 - [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453)
 - [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996)
@@ -454,6 +454,7 @@ Mods: 9 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cy
 - [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133)
 - [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504)
 - [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345)
+- [Chic and Elegant Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/18562)
 - [OverSized Blazer](https://www.nexusmods.com/cyberpunk2077/mods/17462)
 
 ### Viktor Vektor Store

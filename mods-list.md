@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 173
+Total available mods: 174
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -45,6 +45,7 @@ Total available mods: 173
 * [Celebrity Dress (Modular)](https://www.nexusmods.com/cyberpunk2077/mods/8299) by MONSTERaider
 * [Chain Jewelry Collection](https://www.nexusmods.com/cyberpunk2077/mods/15861) by raem and raemaze
 * [Chain Top](https://www.nexusmods.com/cyberpunk2077/mods/8327) by Veegee and VeegeeAlvarez
+* [Chic and Elegant Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/18562) by Veegee and VeegeeAlvarez
 * [Chic Skirt](https://www.nexusmods.com/cyberpunk2077/mods/16149) by Breezypunk
 * [Chromed Long Blouse](https://www.nexusmods.com/cyberpunk2077/mods/7609) by PinkyDude
 * [Combat Pants](https://www.nexusmods.com/cyberpunk2077/mods/9016) by Veegee and VeegeeAlvarez
