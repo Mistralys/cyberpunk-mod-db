@@ -1,0 +1,148 @@
+{
+    "mod": "Chic and Elegant Style Outfit - Part 2",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18562",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Belt",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_chic_elegant_pt2_belt_black"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_chic_elegant_pt2_belt_grey"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_chic_elegant_pt2_belt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_chic_elegant_pt2_belt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_chic_elegant_pt2_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_chic_elegant_pt2_jacket_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_chic_elegant_pt2_jacket_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_chic_elegant_pt2_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_chic_elegant_pt2_jacket_red"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_chic_elegant_pt2_jacket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_chic_elegant_pt2_shorts_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_chic_elegant_pt2_shorts_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_chic_elegant_pt2_shorts_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_chic_elegant_pt2_shorts_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_chic_elegant_pt2_shorts_red"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_chic_elegant_pt2_shorts_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Skirt",
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_chic_elegant_pt2_skirt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_chic_elegant_pt2_skirt_blue"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_chic_elegant_pt2_skirt_grey"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_chic_elegant_pt2_skirt_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_chic_elegant_pt2_skirt_red"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_chic_elegant_pt2_skirt_yellow"
+                }
+            ]
+        }
+    ]
+}
