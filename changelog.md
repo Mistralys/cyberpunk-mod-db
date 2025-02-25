@@ -5,6 +5,7 @@
 - Mods: Added "Elegant Dress" by Hyst.
 - Mods: Added "Stinky Crop Top" by PinkyDude.
 - Mods: Added "Net Pozer Jacket and Cyberdeck Armband" by Sumi.
+- Mods: Added "Chic and Elegant Style Outfit Part 2" by Veegee.
 - Ateliers: Added "Breezy's Thrift Shop" by Breezypunk.
 - Ateliers: Added "Corpo Clothing" by Sumi.
 
