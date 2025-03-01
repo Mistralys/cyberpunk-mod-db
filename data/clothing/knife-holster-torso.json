@@ -1,0 +1,61 @@
+{
+    "mod": "Knife Holster Torso",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15042",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "atelierName": "Voidwear Virtual Atelier",
+    "authors": [
+        "yellingintothevoid"
+    ],
+    "tags": [
+        "Accessories",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Torso"
+    ],
+    "searchTweaks": "into void",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "6th Gold",
+                    "code": "yv_knife_holster_torso_6th_gold"
+                },
+                {
+                    "name": "Blue Silver",
+                    "code": "yv_knife_holster_torso_blue_silver"
+                },
+                {
+                    "name": "Brown Gold",
+                    "code": "yv_knife_holster_torso_brown_gold"
+                },
+                {
+                    "name": "Default Black",
+                    "code": "yv_knife_holster_torso_default_black"
+                },
+                {
+                    "name": "Default Carbon",
+                    "code": "yv_knife_holster_torso_default_carbon"
+                },
+                {
+                    "name": "Default Silver",
+                    "code": "yv_knife_holster_torso_default_silver"
+                },
+                {
+                    "name": "Pink Silver",
+                    "code": "yv_knife_holster_torso_pink_silver"
+                },
+                {
+                    "name": "White Black",
+                    "code": "yv_knife_holster_torso_white_black"
+                },
+                {
+                    "name": "Zebra Gold",
+                    "code": "yv_knife_holster_torso_zebra_gold"
+                }
+            ]
+        }
+    ]
+}
