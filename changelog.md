@@ -6,8 +6,14 @@
 - Mods: Added "Stinky Crop Top" by PinkyDude.
 - Mods: Added "Net Pozer Jacket and Cyberdeck Armband" by Sumi.
 - Mods: Added "Chic and Elegant Style Outfit Part 2" by Veegee.
+- Mods: Added "Fox Ears" by Veegee.
+- Mods: Added "Daily Style Wear Part 3" by Veegee.
+- Mods: Added "Bomber Jackets" by Raem.
+- Mods: Added "Round Glasses" by yellingintothevoid.
+- Tags: Added the `Toggles` tag.
 - Ateliers: Added "Breezy's Thrift Shop" by Breezypunk.
 - Ateliers: Added "Corpo Clothing" by Sumi.
+- Tools: Added some tag recommendations.
 
 ## v2.2.1 - New mods and ateliers
 - Ateliers: Added the "Scofil Virtual Atelier" by SCOFIL.
