@@ -12,6 +12,7 @@
 - Mods: Added "Round Glasses" by yellingintothevoid.
 - Mods: Added "Knife Holster Torso" by yellingintothevoid.
 - Mods: Added "Turtleneck T-Shirt" by yellingintothevoid.
+- Mods: Added the `Outfit` tag that was missing from a number of mods.
 - Tags: Added the `Toggles` tag.
 - Ateliers: Added "Breezy's Thrift Shop" by Breezypunk.
 - Ateliers: Added "Corpo Clothing" by Sumi.
