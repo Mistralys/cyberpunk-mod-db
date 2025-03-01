@@ -10,6 +10,8 @@
 - Mods: Added "Daily Style Wear Part 3" by Veegee.
 - Mods: Added "Bomber Jackets" by Raem.
 - Mods: Added "Round Glasses" by yellingintothevoid.
+- Mods: Added "Knife Holster Torso" by yellingintothevoid.
+- Mods: Added "Turtleneck T-Shirt" by yellingintothevoid.
 - Tags: Added the `Toggles` tag.
 - Ateliers: Added "Breezy's Thrift Shop" by Breezypunk.
 - Ateliers: Added "Corpo Clothing" by Sumi.
