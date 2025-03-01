@@ -17,7 +17,8 @@
         "Clothing",
         "FemV",
         "MaleV",
-        "Modular"
+        "Modular",
+        "Outfit"
     ],
     "linkedMods": [
         "casual-style-outfit-part-2",

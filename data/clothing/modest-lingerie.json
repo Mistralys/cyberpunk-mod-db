@@ -28,7 +28,8 @@
             "tags": [
                 "Bodysuit",
                 "FullBody",
-                "Lingerie"
+                "Lingerie",
+                "Underwear"
             ],
             "items": [
                 {
@@ -78,7 +79,8 @@
             "tags": [
                 "Bra",
                 "Lingerie",
-                "Torso"
+                "Torso",
+                "Underwear"
             ],
             "items": [
                 {

@@ -17,7 +17,8 @@
         "Body-Vanilla",
         "Clothing",
         "FemV",
-        "Lingerie"
+        "Lingerie",
+        "Underwear"
     ],
     "comments": "No garment support, and not planned.",
     "itemCategories": [
@@ -29,6 +30,7 @@
                 "Body-Hyst-EBBRB",
                 "Body-Hyst-RB",
                 "Legs",
+                "Outfit",
                 "Panties"
             ],
             "items": [

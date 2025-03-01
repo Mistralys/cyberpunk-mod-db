@@ -12,7 +12,8 @@
         "Body-Hyst-EBBRB",
         "Body-Vanilla",
         "Clothing",
-        "FemV"
+        "FemV",
+        "Outfit"
     ],
     "comments": "Gloves do not show in first person perspective.",
     "itemCategories": [
@@ -58,7 +59,8 @@
                     "tags": [
                         "Legs",
                         "Panties",
-                        "Underwear"
+                        "Underwear",
+                        "Lingerie"
                     ]
                 },
                 {
