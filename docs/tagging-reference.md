@@ -159,3 +159,7 @@ is holographic. Searching for holographic items will return only the holographic
 ### Mods - Utilities
 
 - `BodyTags` - Vanilla small and big body tags [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/19286)
+
+### Utilities
+
+- `Toggles` - Toggles for clothing parts

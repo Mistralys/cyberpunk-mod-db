@@ -18,7 +18,7 @@ JSON files and with custom screenshots for each mod.
 
 ## Mods List
 
-Total available mods: 174
+Total available mods: 180
 
 See the [full list of included mods](mods-list.md).  
 

@@ -335,8 +335,9 @@ Mods: 3 | Authors: Peachu, PeachuHime | [Source](https://www.nexusmods.com/cyber
 
 ### Raem's Atelier Store
 
-Mods: 1 | Authors: raem, raemaze | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14210)
+Mods: 2 | Authors: raem, raemaze | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14210)
 
+- [Bomber Jackets](https://www.nexusmods.com/cyberpunk2077/mods/19132)
 - [Chain Jewelry Collection](https://www.nexusmods.com/cyberpunk2077/mods/15861)
 
 ### Raetelier - Raenef's Atelier
@@ -431,8 +432,9 @@ Mods: 1 | Authors: Tariqy | [Source](https://www.nexusmods.com/cyberpunk2077/mod
 
 ### Veegee Jewelry Shop
 
-Mods: 1 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8688)
+Mods: 2 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/8688)
 
+- [Fox Ears](https://www.nexusmods.com/cyberpunk2077/mods/19485)
 - [Glasses Pack](https://www.nexusmods.com/cyberpunk2077/mods/13095)
 
 ### Veegee Shop
@@ -444,7 +446,7 @@ Mods: 2 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cy
 
 ### Veegee Shop 2
 
-Mods: 10 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
+Mods: 11 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 - [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453)
 - [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996)
@@ -455,6 +457,7 @@ Mods: 10 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/c
 - [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504)
 - [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345)
 - [Chic and Elegant Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/18562)
+- [Daily Style Wear - Part 3](https://www.nexusmods.com/cyberpunk2077/mods/18512)
 - [OverSized Blazer](https://www.nexusmods.com/cyberpunk2077/mods/17462)
 
 ### Viktor Vektor Store
@@ -465,10 +468,13 @@ Mods: 1 | Authors: MONSTERaider | [Source](https://www.nexusmods.com/cyberpunk20
 
 ### Voidwear Virtual Atelier
 
-Mods: 2 | Authors: yellingintothevoid | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12637)
+Mods: 5 | Authors: yellingintothevoid | [Source](https://www.nexusmods.com/cyberpunk2077/mods/12637)
 
 - [Casual T-Shirt with Pockets and Decals](https://www.nexusmods.com/cyberpunk2077/mods/14645)
+- [Knife Holster Torso](https://www.nexusmods.com/cyberpunk2077/mods/15042)
+- [Round Glasses](https://www.nexusmods.com/cyberpunk2077/mods/15702)
 - [Shroud](https://www.nexusmods.com/cyberpunk2077/mods/15576)
+- [Turtleneck T-Shirt](https://www.nexusmods.com/cyberpunk2077/mods/17805)
 
 ### VV0LFDEN - Virtual Atelier Store
 
