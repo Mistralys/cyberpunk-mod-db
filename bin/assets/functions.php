@@ -215,8 +215,7 @@ function getCategorySkeleton(?string $label=null) : array
         'items' => array(
             array(
                 'name' => 'ItemName',
-                'code' => 'item_code',
-                'tags' => array()
+                'code' => 'item_code'
             )
         )
     );
