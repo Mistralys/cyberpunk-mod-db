@@ -182,7 +182,7 @@ function normalizeFile(JSONFile $file) : void
         $keep[] = $category;
     }
 
-    analyzeTagRecommendations($allTags, 'mod ['.$modID.']');
+    analyzeTagRecommendations($allTags, $modID, 'mod ['.$modID.']');
 
     $converted[KEY_ITEM_CATEGORIES] = $keep;
 
@@ -201,9 +201,70 @@ function normalizeFile(JSONFile $file) : void
     logEmptyLine();
 }
 
-function analyzeTagRecommendations(array $tags, string $source) : void
-{
+const TAG_SETS = array(
+    array(
+        'exclude' => array(
+            'armor-pads-pack',
+            'npc-accessories',
+        ),
+        'combinations' => array(
+            array('Torso', 'Legs'),
+            array('Torso', 'Feet'),
+            array('Arms', 'Legs'),
+            array('Arms', 'Feet'),
+        ),
+        'recommend' => 'Outfit',
+    ),
+    array(
+        'exclude' => array(),
+        'combinations' => array(
+            array('Panties'),
+            array('Bra'),
+        ),
+        'recommend' => 'Underwear',
+    ),
+    array(
+        'exclude' => array(),
+        'combinations' => array(
+            array('Panties', 'Bra'),
+        ),
+        'recommend' => 'Lingerie',
+    )
+);
 
+function analyzeTagRecommendations(array $tags, string $modID) : void
+{
+    $recommendations = array();
+    foreach(TAG_SETS as $set) {
+        if(in_array($set['recommend'], $tags) || in_array($modID, $set['exclude'])) {
+            continue;
+        }
+        foreach($set['combinations'] as $combination) {
+            $found = true;
+            foreach($combination as $tag) {
+                if(!in_array($tag, $tags)) {
+                    $found = false;
+                    break;
+                }
+            }
+
+            if($found) {
+                if(!isset($recommendations[$modID])) {
+                    $recommendations[$modID] = array();
+                }
+
+                if(!in_array($set['recommend'], $recommendations[$modID])) {
+                    $recommendations[$modID][] = $set['recommend'];
+                }
+            }
+        }
+    }
+
+    foreach($recommendations as $source => $recs) {
+        foreach($recs as $rec) {
+            addMessage('Tag [%s] recommended for mod [%s].', $rec, $source);
+        }
+    }
 }
 
 function resolveSearchTerms(array $modData) : string
