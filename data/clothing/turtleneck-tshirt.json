@@ -1,0 +1,71 @@
+{
+    "mod": "Turtleneck T-Shirt",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17805",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "atelierName": "Voidwear Virtual Atelier",
+    "authors": [
+        "yellingintothevoid"
+    ],
+    "tags": [
+        "Body-Flat",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Solo",
+        "Body-VTK-Small",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "GarmentSupport",
+        "Shirt",
+        "Torso"
+    ],
+    "searchTweaks": "into void",
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_turtleneck_tshirt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yv_turtleneck_tshirt_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "yv_turtleneck_tshirt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "yv_turtleneck_tshirt_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yv_turtleneck_tshirt_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_turtleneck_tshirt_red"
+                },
+                {
+                    "name": "Sky",
+                    "code": "yv_turtleneck_tshirt_sky"
+                },
+                {
+                    "name": "Slate",
+                    "code": "yv_turtleneck_tshirt_slate"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_turtleneck_tshirt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "yv_turtleneck_tshirt_yellow"
+                }
+            ]
+        }
+    ]
+}
