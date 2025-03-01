@@ -1188,6 +1188,13 @@
             }
         ]
     },
+    "Toggles": {
+        "description": "Toggles for clothing parts",
+        "category": "Utilities",
+        "aliases": [
+            "toggles"
+        ]
+    },
     "Top": {
         "description": "Top",
         "category": "Clothing items",
