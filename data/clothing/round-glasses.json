@@ -1,0 +1,107 @@
+{
+    "mod": "Round Glasses",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/15702",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
+    "atelierName": "Voidwear Virtual Atelier",
+    "authors": [
+        "yellingintothevoid"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "searchTweaks": "into void",
+    "itemCategories": [
+        {
+            "label": "Glasses",
+            "tags": [
+                "Glasses",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_round_glasses_black"
+                },
+                {
+                    "name": "Forest",
+                    "code": "yv_round_glasses_forest"
+                },
+                {
+                    "name": "Gold",
+                    "code": "yv_round_glasses_gold"
+                },
+                {
+                    "name": "Havana",
+                    "code": "yv_round_glasses_havana"
+                },
+                {
+                    "name": "Olive Gradient",
+                    "code": "yv_round_glasses_olive_gradient"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_round_glasses_red"
+                },
+                {
+                    "name": "Silver",
+                    "code": "yv_round_glasses_silver"
+                },
+                {
+                    "name": "Smoke",
+                    "code": "yv_round_glasses_smoke"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_round_glasses_white"
+                },
+                {
+                    "name": "Wood",
+                    "code": "yv_round_glasses_wood"
+                }
+            ]
+        },
+        {
+            "label": "Lenses",
+            "tags": [
+                "Glasses",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_round_glasses_lenses_glass_black"
+                },
+                {
+                    "name": "Clear",
+                    "code": "yv_round_glasses_lenses_glass_clear"
+                },
+                {
+                    "name": "Opaque",
+                    "code": "yv_round_glasses_lenses_glass_opaque"
+                },
+                {
+                    "name": "Shade",
+                    "code": "yv_round_glasses_lenses_glass_shade"
+                }
+            ]
+        },
+        {
+            "label": "Toggles",
+            "tags": [
+                "Toggles"
+            ],
+            "items": [
+                {
+                    "name": "Head",
+                    "code": "yv_round_glasses_switch_head_default"
+                },
+                {
+                    "name": "Lower Nose",
+                    "code": "yv_round_glasses_switch_lower_default"
+                }
+            ]
+        }
+    ]
+}
