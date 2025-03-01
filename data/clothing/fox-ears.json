@@ -1,0 +1,184 @@
+{
+    "mod": "Fox Ears",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19485",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8688",
+    "atelierName": "Veegee Jewelry Shop",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Ears, big size",
+            "tags": [
+                "Accessories",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_fox_ear_big_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_fox_ear_big_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_fox_ear_big_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_fox_ear_big_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_fox_ear_big_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_fox_ear_big_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_fox_ear_big_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_fox_ear_big_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Ears, normal size",
+            "tags": [
+                "Accessories",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_fox_ear_regular_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_fox_ear_regular_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_fox_ear_regular_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_fox_ear_regular_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_fox_ear_regular_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_fox_ear_regular_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_fox_ear_regular_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_fox_ear_regular_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Ears, small size",
+            "tags": [
+                "Accessories",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_fox_ear_small_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_fox_ear_small_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_fox_ear_small_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_fox_ear_small_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_fox_ear_small_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_fox_ear_small_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_fox_ear_small_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_fox_ear_small_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Tail, big size",
+            "tags": [
+                "Accessories",
+                "Legs",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_fox_tail_big_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_fox_tail_big_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_fox_tail_big_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_fox_tail_big_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_fox_tail_big_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_fox_tail_big_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_fox_tail_big_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_fox_tail_big_yellow"
+                }
+            ]
+        }
+    ]
+}
