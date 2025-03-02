@@ -1,0 +1,481 @@
+{
+    "mod": "Lizzy Wizzy Headset",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16467",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14523",
+    "atelierName": "LilyDelta Boutiques",
+    "authors": [
+        "LilyDelta"
+    ],
+    "tags": [
+        "Accessories",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Head",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Basic",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lilydelta_lizzy_headset_black_black"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "lilydelta_lizzy_headset_black_gold"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "lilydelta_lizzy_headset_black_pink"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lilydelta_lizzy_headset_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "lilydelta_lizzy_headset_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "lilydelta_lizzy_headset_black_white"
+                },
+                {
+                    "name": "Default",
+                    "code": "lilydelta_lizzy_headset_default_default"
+                },
+                {
+                    "name": "Gold",
+                    "code": "lilydelta_lizzy_headset_gold_gold"
+                },
+                {
+                    "name": "Gold Black",
+                    "code": "lilydelta_lizzy_headset_gold_black"
+                },
+                {
+                    "name": "Gold Pink",
+                    "code": "lilydelta_lizzy_headset_gold_pink"
+                },
+                {
+                    "name": "Gold Red",
+                    "code": "lilydelta_lizzy_headset_gold_red"
+                },
+                {
+                    "name": "Gold Silver",
+                    "code": "lilydelta_lizzy_headset_gold_silver"
+                },
+                {
+                    "name": "Gold White",
+                    "code": "lilydelta_lizzy_headset_gold_white"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lilydelta_lizzy_headset_pink_pink"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "lilydelta_lizzy_headset_pink_black"
+                },
+                {
+                    "name": "Pink Gold",
+                    "code": "lilydelta_lizzy_headset_pink_gold"
+                },
+                {
+                    "name": "Pink Red",
+                    "code": "lilydelta_lizzy_headset_pink_red"
+                },
+                {
+                    "name": "Pink Silver",
+                    "code": "lilydelta_lizzy_headset_pink_silver"
+                },
+                {
+                    "name": "Pink White",
+                    "code": "lilydelta_lizzy_headset_pink_white"
+                },
+                {
+                    "name": "Red",
+                    "code": "lilydelta_lizzy_headset_red_red"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "lilydelta_lizzy_headset_red_black"
+                },
+                {
+                    "name": "Red Gold",
+                    "code": "lilydelta_lizzy_headset_red_gold"
+                },
+                {
+                    "name": "Red Pink",
+                    "code": "lilydelta_lizzy_headset_red_pink"
+                },
+                {
+                    "name": "Red Silver",
+                    "code": "lilydelta_lizzy_headset_red_silver"
+                },
+                {
+                    "name": "Red White",
+                    "code": "lilydelta_lizzy_headset_red_white"
+                },
+                {
+                    "name": "Silver",
+                    "code": "lilydelta_lizzy_headset_silver_silver"
+                },
+                {
+                    "name": "Silver Black",
+                    "code": "lilydelta_lizzy_headset_silver_black"
+                },
+                {
+                    "name": "Silver Gold",
+                    "code": "lilydelta_lizzy_headset_silver_gold"
+                },
+                {
+                    "name": "Silver Pink",
+                    "code": "lilydelta_lizzy_headset_silver_pink"
+                },
+                {
+                    "name": "Silver Red",
+                    "code": "lilydelta_lizzy_headset_silver_red"
+                },
+                {
+                    "name": "Silver White",
+                    "code": "lilydelta_lizzy_headset_silver_white"
+                },
+                {
+                    "name": "White",
+                    "code": "lilydelta_lizzy_headset_white_white"
+                },
+                {
+                    "name": "White Black",
+                    "code": "lilydelta_lizzy_headset_white_black"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "lilydelta_lizzy_headset_white_gold"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "lilydelta_lizzy_headset_white_pink"
+                },
+                {
+                    "name": "White Red",
+                    "code": "lilydelta_lizzy_headset_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "lilydelta_lizzy_headset_white_silver"
+                }
+            ]
+        },
+        {
+            "label": "Front Tech",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lilydelta_lizzy_headset_front_black_black"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "lilydelta_lizzy_headset_front_black_gold"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "lilydelta_lizzy_headset_front_black_pink"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lilydelta_lizzy_headset_front_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "lilydelta_lizzy_headset_front_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "lilydelta_lizzy_headset_front_black_white"
+                },
+                {
+                    "name": "Default",
+                    "code": "lilydelta_lizzy_headset_front_default_default"
+                },
+                {
+                    "name": "Gold",
+                    "code": "lilydelta_lizzy_headset_front_gold_gold"
+                },
+                {
+                    "name": "Gold Black",
+                    "code": "lilydelta_lizzy_headset_front_gold_black"
+                },
+                {
+                    "name": "Gold Pink",
+                    "code": "lilydelta_lizzy_headset_front_gold_pink"
+                },
+                {
+                    "name": "Gold Red",
+                    "code": "lilydelta_lizzy_headset_front_gold_red"
+                },
+                {
+                    "name": "Gold Silver",
+                    "code": "lilydelta_lizzy_headset_front_gold_silver"
+                },
+                {
+                    "name": "Gold White",
+                    "code": "lilydelta_lizzy_headset_front_gold_white"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lilydelta_lizzy_headset_front_pink_pink"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "lilydelta_lizzy_headset_front_pink_black"
+                },
+                {
+                    "name": "Pink Gold",
+                    "code": "lilydelta_lizzy_headset_front_pink_gold"
+                },
+                {
+                    "name": "Pink Red",
+                    "code": "lilydelta_lizzy_headset_front_pink_red"
+                },
+                {
+                    "name": "Pink Silver",
+                    "code": "lilydelta_lizzy_headset_front_pink_silver"
+                },
+                {
+                    "name": "Pink White",
+                    "code": "lilydelta_lizzy_headset_front_pink_white"
+                },
+                {
+                    "name": "Red",
+                    "code": "lilydelta_lizzy_headset_front_red_red"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "lilydelta_lizzy_headset_front_red_black"
+                },
+                {
+                    "name": "Red Gold",
+                    "code": "lilydelta_lizzy_headset_front_red_gold"
+                },
+                {
+                    "name": "Red Pink",
+                    "code": "lilydelta_lizzy_headset_front_red_pink"
+                },
+                {
+                    "name": "Red Silver",
+                    "code": "lilydelta_lizzy_headset_front_red_silver"
+                },
+                {
+                    "name": "Red White",
+                    "code": "lilydelta_lizzy_headset_front_red_white"
+                },
+                {
+                    "name": "Silver",
+                    "code": "lilydelta_lizzy_headset_front_silver_silver"
+                },
+                {
+                    "name": "Silver Black",
+                    "code": "lilydelta_lizzy_headset_front_silver_black"
+                },
+                {
+                    "name": "Silver Gold",
+                    "code": "lilydelta_lizzy_headset_front_silver_gold"
+                },
+                {
+                    "name": "Silver Pink",
+                    "code": "lilydelta_lizzy_headset_front_silver_pink"
+                },
+                {
+                    "name": "Silver Red",
+                    "code": "lilydelta_lizzy_headset_front_silver_red"
+                },
+                {
+                    "name": "Silver White",
+                    "code": "lilydelta_lizzy_headset_front_silver_white"
+                },
+                {
+                    "name": "White",
+                    "code": "lilydelta_lizzy_headset_front_white_white"
+                },
+                {
+                    "name": "White Black",
+                    "code": "lilydelta_lizzy_headset_front_white_black"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "lilydelta_lizzy_headset_front_white_gold"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "lilydelta_lizzy_headset_front_white_pink"
+                },
+                {
+                    "name": "White Red",
+                    "code": "lilydelta_lizzy_headset_front_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "lilydelta_lizzy_headset_front_white_silver"
+                }
+            ]
+        },
+        {
+            "label": "Full Tech",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "lilydelta_lizzy_headset_tech_black_black"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "lilydelta_lizzy_headset_tech_black_gold"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "lilydelta_lizzy_headset_tech_black_pink"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "lilydelta_lizzy_headset_tech_black_red"
+                },
+                {
+                    "name": "Black Silver",
+                    "code": "lilydelta_lizzy_headset_tech_black_silver"
+                },
+                {
+                    "name": "Black White",
+                    "code": "lilydelta_lizzy_headset_tech_black_white"
+                },
+                {
+                    "name": "Default",
+                    "code": "lilydelta_lizzy_headset_tech_default_default"
+                },
+                {
+                    "name": "Gold",
+                    "code": "lilydelta_lizzy_headset_tech_gold_gold"
+                },
+                {
+                    "name": "Gold Black",
+                    "code": "lilydelta_lizzy_headset_tech_gold_black"
+                },
+                {
+                    "name": "Gold Pink",
+                    "code": "lilydelta_lizzy_headset_tech_gold_pink"
+                },
+                {
+                    "name": "Gold Red",
+                    "code": "lilydelta_lizzy_headset_tech_gold_red"
+                },
+                {
+                    "name": "Gold Silver",
+                    "code": "lilydelta_lizzy_headset_tech_gold_silver"
+                },
+                {
+                    "name": "Gold White",
+                    "code": "lilydelta_lizzy_headset_tech_gold_white"
+                },
+                {
+                    "name": "Pink",
+                    "code": "lilydelta_lizzy_headset_tech_pink_pink"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "lilydelta_lizzy_headset_tech_pink_black"
+                },
+                {
+                    "name": "Pink Gold",
+                    "code": "lilydelta_lizzy_headset_tech_pink_gold"
+                },
+                {
+                    "name": "Pink Red",
+                    "code": "lilydelta_lizzy_headset_tech_pink_red"
+                },
+                {
+                    "name": "Pink Silver",
+                    "code": "lilydelta_lizzy_headset_tech_pink_silver"
+                },
+                {
+                    "name": "Pink White",
+                    "code": "lilydelta_lizzy_headset_tech_pink_white"
+                },
+                {
+                    "name": "Red",
+                    "code": "lilydelta_lizzy_headset_tech_red_red"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "lilydelta_lizzy_headset_tech_red_black"
+                },
+                {
+                    "name": "Red Gold",
+                    "code": "lilydelta_lizzy_headset_tech_red_gold"
+                },
+                {
+                    "name": "Red Pink",
+                    "code": "lilydelta_lizzy_headset_tech_red_pink"
+                },
+                {
+                    "name": "Red Silver",
+                    "code": "lilydelta_lizzy_headset_tech_red_silver"
+                },
+                {
+                    "name": "Red White",
+                    "code": "lilydelta_lizzy_headset_tech_red_white"
+                },
+                {
+                    "name": "Silver",
+                    "code": "lilydelta_lizzy_headset_tech_silver_silver"
+                },
+                {
+                    "name": "Silver Black",
+                    "code": "lilydelta_lizzy_headset_tech_silver_black"
+                },
+                {
+                    "name": "Silver Gold",
+                    "code": "lilydelta_lizzy_headset_tech_silver_gold"
+                },
+                {
+                    "name": "Silver Pink",
+                    "code": "lilydelta_lizzy_headset_tech_silver_pink"
+                },
+                {
+                    "name": "Silver Red",
+                    "code": "lilydelta_lizzy_headset_tech_silver_red"
+                },
+                {
+                    "name": "Silver White",
+                    "code": "lilydelta_lizzy_headset_tech_silver_white"
+                },
+                {
+                    "name": "White",
+                    "code": "lilydelta_lizzy_headset_tech_white_white"
+                },
+                {
+                    "name": "White Black",
+                    "code": "lilydelta_lizzy_headset_tech_white_black"
+                },
+                {
+                    "name": "White Gold",
+                    "code": "lilydelta_lizzy_headset_tech_white_gold"
+                },
+                {
+                    "name": "White Pink",
+                    "code": "lilydelta_lizzy_headset_tech_white_pink"
+                },
+                {
+                    "name": "White Red",
+                    "code": "lilydelta_lizzy_headset_tech_white_red"
+                },
+                {
+                    "name": "White Silver",
+                    "code": "lilydelta_lizzy_headset_tech_white_silver"
+                }
+            ]
+        }
+    ]
+}
