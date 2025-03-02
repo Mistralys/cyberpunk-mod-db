@@ -1,0 +1,211 @@
+{
+    "mod": "Boudoir - Part 19",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/17240",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Matte Fabric, Textured",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_boudoir_pt19_dress_black_matt"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_boudoir_pt19_dress_blue_matt"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_boudoir_pt19_dress_brown_matt"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_boudoir_pt19_dress_green_matt"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_boudoir_pt19_dress_grey_matt"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_boudoir_pt19_dress_pink_matt"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_boudoir_pt19_dress_purple_matt"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_boudoir_pt19_dress_red_matt"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_boudoir_pt19_dress_white_matt"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_boudoir_pt19_dress_yellow_matt"
+                }
+            ]
+        },
+        {
+            "label": "Matte Fabric, Untextured",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_boudoir_pt19_dress_black_matt1"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_boudoir_pt19_dress_blue_matt1"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_boudoir_pt19_dress_brown_matt1"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_boudoir_pt19_dress_green_matt1"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_boudoir_pt19_dress_grey_matt1"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_boudoir_pt19_dress_pink_matt1"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_boudoir_pt19_dress_purple_matt1"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_boudoir_pt19_dress_red_matt1"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_boudoir_pt19_dress_white_matt1"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_boudoir_pt19_dress_yellow_matt1"
+                }
+            ]
+        },
+        {
+            "label": "Shiny Fabric, Textured",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_boudoir_pt19_dress_black_shiny"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_boudoir_pt19_dress_blue_shiny"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_boudoir_pt19_dress_brown_shiny"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_boudoir_pt19_dress_green_shiny"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_boudoir_pt19_dress_grey_shiny"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_boudoir_pt19_dress_pink_shiny"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_boudoir_pt19_dress_purple_shiny"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_boudoir_pt19_dress_red_shiny"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_boudoir_pt19_dress_white_shiny"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_boudoir_pt19_dress_yellow_shiny"
+                }
+            ]
+        },
+        {
+            "label": "Shiny Fabric, Untextured",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_boudoir_pt19_dress_black_shiny1"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_boudoir_pt19_dress_blue_shiny1"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_boudoir_pt19_dress_brown_shiny1"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_boudoir_pt19_dress_green_shiny1"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_boudoir_pt19_dress_grey_shiny1"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_boudoir_pt19_dress_pink_shiny1"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_boudoir_pt19_dress_purple_shiny1"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_boudoir_pt19_dress_red_shiny1"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_boudoir_pt19_dress_white_shiny1"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_boudoir_pt19_dress_yellow_shiny1"
+                }
+            ]
+        }
+    ]
+}
