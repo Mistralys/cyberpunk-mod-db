@@ -1,0 +1,219 @@
+{
+    "mod": "Tactical Style Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18059",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/13870",
+    "atelierName": "Veegee Shop 2",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Hyst-Angel",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Solo-Arms",
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "MaleV"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Gloves",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Veegee_tactical_gloves_color2"
+                },
+                {
+                    "name": "Black",
+                    "code": "Veegee_tactical_gloves_color4"
+                },
+                {
+                    "name": "Black",
+                    "code": "Veegee_tactical_gloves_color6"
+                },
+                {
+                    "name": "Desert Camo",
+                    "code": "Veegee_tactical_gloves_color3"
+                },
+                {
+                    "name": "Desert Camo 1",
+                    "code": "Veegee_tactical_gloves_color5"
+                },
+                {
+                    "name": "Gray",
+                    "code": "Veegee_tactical_gloves_color1"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Veegee_tactical_pants_color7"
+                },
+                {
+                    "name": "Dark Green Camo",
+                    "code": "Veegee_tactical_pants_color3"
+                },
+                {
+                    "name": "Desert Camo 1",
+                    "code": "Veegee_tactical_pants_color1"
+                },
+                {
+                    "name": "Desert Camo 2",
+                    "code": "Veegee_tactical_pants_color5"
+                },
+                {
+                    "name": "Gray Camo 1",
+                    "code": "Veegee_tactical_pants_color6"
+                },
+                {
+                    "name": "Gray Camo 2",
+                    "code": "Veegee_tactical_pants_color8"
+                },
+                {
+                    "name": "Light Gray",
+                    "code": "Veegee_tactical_pants_color4"
+                },
+                {
+                    "name": "Slate",
+                    "code": "Veegee_tactical_pants_color2"
+                }
+            ]
+        },
+        {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Desert Camo",
+                    "code": "Veegee_tactical_shoes_color1"
+                },
+                {
+                    "name": "Gray",
+                    "code": "Veegee_tactical_shoes_color2"
+                },
+                {
+                    "name": "Light Gray",
+                    "code": "Veegee_tactical_shoes_color4"
+                },
+                {
+                    "name": "Sable 1",
+                    "code": "Veegee_tactical_shoes_color3"
+                },
+                {
+                    "name": "Sable 2",
+                    "code": "Veegee_tactical_shoes_color5"
+                },
+                {
+                    "name": "Sable 3",
+                    "code": "Veegee_tactical_shoes_color6"
+                }
+            ]
+        },
+        {
+            "label": "Sleeves",
+            "tags": [
+                "Arms",
+                "Sleeves"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "Veegee_tactical_sleeves_color7"
+                },
+                {
+                    "name": "Dark Green Camo",
+                    "code": "Veegee_tactical_sleeves_color3"
+                },
+                {
+                    "name": "Desert Camo 1",
+                    "code": "Veegee_tactical_sleeves_color1"
+                },
+                {
+                    "name": "Desert Camo 2",
+                    "code": "Veegee_tactical_sleeves_color5"
+                },
+                {
+                    "name": "Gray Camo 1",
+                    "code": "Veegee_tactical_sleeves_color6"
+                },
+                {
+                    "name": "Gray Camo 2",
+                    "code": "Veegee_tactical_sleeves_color8"
+                },
+                {
+                    "name": "Light Gray",
+                    "code": "Veegee_tactical_sleeves_color4"
+                },
+                {
+                    "name": "Slate",
+                    "code": "Veegee_tactical_sleeves_color2"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Barghest",
+                    "code": "Veegee_tactical_top_color9"
+                },
+                {
+                    "name": "Black",
+                    "code": "Veegee_tactical_top_color7"
+                },
+                {
+                    "name": "Dark Green Camo",
+                    "code": "Veegee_tactical_top_color3"
+                },
+                {
+                    "name": "Desert Camo 1",
+                    "code": "Veegee_tactical_top_color1"
+                },
+                {
+                    "name": "Desert Camo 2",
+                    "code": "Veegee_tactical_top_color5"
+                },
+                {
+                    "name": "Gray Camo 1",
+                    "code": "Veegee_tactical_top_color6"
+                },
+                {
+                    "name": "Gray Camo 2",
+                    "code": "Veegee_tactical_top_color8"
+                },
+                {
+                    "name": "Light Gray",
+                    "code": "Veegee_tactical_top_color4"
+                },
+                {
+                    "name": "Slate",
+                    "code": "Veegee_tactical_top_color2"
+                }
+            ]
+        }
+    ]
+}
