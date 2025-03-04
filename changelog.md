@@ -2,7 +2,9 @@
 - Mods: Added "Boudoir Part 19" by Veegee.
 - Mods: Added "Lizzy Wizzy Headset" by LilyDelta.
 - Mods: Added "Tactical Style Outfit" by Veegee.
+- Mods: Added "Casual Style Outfit - Part 21" by Veegee.
 - Ateliers: Added "Lily Delta Boutiques" by LilyDelta.
+- Ateliers: Added "Veegee Shop 3" by Veegee.
 
 ## v2.2.2 - New mods
 - Mods: Added "Caged Bracelet" by Breezypunk.
