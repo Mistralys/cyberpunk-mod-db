@@ -1,3 +1,9 @@
+## v2.2.3 - New mods
+- Mods: Added "Boudoir Part 19" by Veegee.
+- Mods: Added "Lizzy Wizzy Headset" by LilyDelta.
+- Mods: Added "Tactical Style Outfit" by Veegee.
+- Ateliers: Added "Lily Delta Boutiques" by LilyDelta.
+
 ## v2.2.2 - New mods
 - Mods: Added "Caged Bracelet" by Breezypunk.
 - Mods: Added "Bayonetta 2 Earrings" by LeoBoy.
