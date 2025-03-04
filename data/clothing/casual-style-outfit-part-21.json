@@ -1,0 +1,224 @@
+{
+    "mod": "Casual Style Outfit - Part 21",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/18851",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/18890",
+    "atelierName": "Veegee Shop 3",
+    "authors": [
+        "Veegee",
+        "VeegeeAlvarez"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV",
+        "Outfit"
+    ],
+    "searchTweaks": "alvarez",
+    "itemCategories": [
+        {
+            "label": "Jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt21_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt21_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt21_jacket_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt21_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt21_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt21_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt21_jacket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt21_jacket_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Leg Belt and Dagger",
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt21_legbelt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt21_legbelt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt21_legbelt_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt21_legbelt_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt21_legbelt_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt21_legbelt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt21_legbelt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt21_legbelt_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt21_pants_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt21_pants_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt21_pants_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt21_pants_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt21_pants_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt21_pants_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt21_pants_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt21_pants_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt21_shoes_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt21_shoes_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt21_shoes_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt21_shoes_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt21_shoes_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt21_shoes_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt21_shoes_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt21_shoes_yellow"
+                }
+            ]
+        },
+        {
+            "label": "Top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt21_top_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt21_top_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt21_top_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt21_top_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt21_top_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt21_top_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt21_top_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt21_top_yellow"
+                }
+            ]
+        }
+    ]
+}
