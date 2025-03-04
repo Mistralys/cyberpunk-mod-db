@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 180
+Total available mods: 184
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -30,16 +30,18 @@ Total available mods: 180
 * [Bodysuit Spandex and Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/11050) by Apzurv and EzioMaverick
 * [Bomber Jackets](https://www.nexusmods.com/cyberpunk2077/mods/19132) by raem and raemaze
 * [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by Mayo and NotMayoSan
+* [Boudoir - Part 19](https://www.nexusmods.com/cyberpunk2077/mods/17240) by Veegee and VeegeeAlvarez
 * [Bullet Necklace](https://www.nexusmods.com/cyberpunk2077/mods/5077) by DJ_Kovrik and e256
 * [Caged Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/18724) by Breezypunk
 * [Camisole Top](https://www.nexusmods.com/cyberpunk2077/mods/17113) by Cubfan82
 * [Casino Aviators](https://www.nexusmods.com/cyberpunk2077/mods/18191) by Beanie and beaniebby
-* [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit Part 14](https://www.nexusmods.com/cyberpunk2077/mods/17501) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/14133) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 4](https://www.nexusmods.com/cyberpunk2077/mods/14504) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 8](https://www.nexusmods.com/cyberpunk2077/mods/16345) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 14](https://www.nexusmods.com/cyberpunk2077/mods/17501) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523) by Veegee and VeegeeAlvarez
+* [Casual Style Outfit - Part 21](https://www.nexusmods.com/cyberpunk2077/mods/18851) by Veegee and VeegeeAlvarez
 * [Casual T-Shirt with Pockets and Decals](https://www.nexusmods.com/cyberpunk2077/mods/14645) by yellingintothevoid
 * [Cat Antenna](https://www.nexusmods.com/cyberpunk2077/mods/8794) by Apzurv and EzioMaverick
 * [Catsuit](https://www.nexusmods.com/cyberpunk2077/mods/4917) by Apzurv and EzioMaverick
@@ -93,6 +95,7 @@ Total available mods: 180
 * [Leggings Spandex](https://www.nexusmods.com/cyberpunk2077/mods/10385) by Apzurv and EzioMaverick
 * [Lethal Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15867) by Aquelyras, NolaDreamer, Veegee and VeegeeAlvarez
 * [Liquid Heart Earrings](https://www.nexusmods.com/cyberpunk2077/mods/14190) by cyb3rsn4k3
+* [Lizzy Wizzy Headset](https://www.nexusmods.com/cyberpunk2077/mods/16467) by LilyDelta
 * [Long Sleeve Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/18510) by Cubfan82
 * [Lowrise Pants](https://www.nexusmods.com/cyberpunk2077/mods/8456) by Cubfan82
 * [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/19257) by Mayo and NotMayoSan
@@ -152,6 +155,7 @@ Total available mods: 180
 * [Summer Outfit](https://www.nexusmods.com/cyberpunk2077/mods/12331) by Aquelyras and NolaDreamer
 * [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548) by Apzurv and EzioMaverick
 * [Tactical Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/8406) by Adshield
+* [Tactical Style Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18059) by Veegee and VeegeeAlvarez
 * [Techtopia Gloves](https://www.nexusmods.com/cyberpunk2077/mods/9000) by DBRV
 * [Thigh Gun Holster](https://www.nexusmods.com/cyberpunk2077/mods/7304) by MONSTERaider
 * [Tied Crop](https://www.nexusmods.com/cyberpunk2077/mods/8533) by cubfan82

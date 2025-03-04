@@ -27,6 +27,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [KMKC's Virtual Atelier](#kmkcs-virtual-atelier)
 - [Kwek's Family Jewels](#kweks-family-jewels)
 - [Kwek's Sartorial Omnibus Shop](#kweks-sartorial-omnibus-shop)
+- [LilyDelta Boutiques](#lilydelta-boutiques)
 - [Mayo Virtual Atelier](#mayo-virtual-atelier)
 - [MONSTERaider Atelier Store](#monsteraider-atelier-store)
 - [NC Fashion](#nc-fashion)
@@ -55,6 +56,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [Veegee Jewelry Shop](#veegee-jewelry-shop)
 - [Veegee Shop](#veegee-shop)
 - [Veegee Shop 2](#veegee-shop-2)
+- [Veegee Shop 3](#veegee-shop-3)
 - [Viktor Vektor Store](#viktor-vektor-store)
 - [Voidwear Virtual Atelier](#voidwear-virtual-atelier)
 - [VV0LFDEN - Virtual Atelier Store](#vv0lfden-virtual-atelier-store)
@@ -210,6 +212,12 @@ Mods: 2 | Authors: Kwek | [Source](https://www.nexusmods.com/cyberpunk2077/mods/
 
 - [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130)
 - [Simple Elbow Pads](https://www.nexusmods.com/cyberpunk2077/mods/7681)
+
+### LilyDelta Boutiques
+
+Mods: 1 | Authors: LilyDelta | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14523)
+
+- [Lizzy Wizzy Headset](https://www.nexusmods.com/cyberpunk2077/mods/16467)
 
 ### Mayo Virtual Atelier
 
@@ -446,19 +454,27 @@ Mods: 2 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cy
 
 ### Veegee Shop 2
 
-Mods: 11 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
+Mods: 13 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/13870)
 
 - [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453)
 - [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996)
-- [Casual Style Outfit Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667)
-- [Casual Style Outfit Part 14](https://www.nexusmods.com/cyberpunk2077/mods/17501)
-- [Casual Style Outfit Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523)
-- [Casual Style Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/14133)
-- [Casual Style Outfit - Part IV](https://www.nexusmods.com/cyberpunk2077/mods/14504)
-- [Casual Style Outfit - Part VIII](https://www.nexusmods.com/cyberpunk2077/mods/16345)
+- [Boudoir - Part 19](https://www.nexusmods.com/cyberpunk2077/mods/17240)
+- [Casual Style Outfit - Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667)
+- [Casual Style Outfit - Part 14](https://www.nexusmods.com/cyberpunk2077/mods/17501)
+- [Casual Style Outfit - Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523)
+- [Casual Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/14133)
+- [Casual Style Outfit - Part 4](https://www.nexusmods.com/cyberpunk2077/mods/14504)
+- [Casual Style Outfit - Part 8](https://www.nexusmods.com/cyberpunk2077/mods/16345)
 - [Chic and Elegant Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/18562)
 - [Daily Style Wear - Part 3](https://www.nexusmods.com/cyberpunk2077/mods/18512)
 - [OverSized Blazer](https://www.nexusmods.com/cyberpunk2077/mods/17462)
+- [Tactical Style Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18059)
+
+### Veegee Shop 3
+
+Mods: 1 | Authors: Veegee, VeegeeAlvarez | [Source](https://www.nexusmods.com/cyberpunk2077/mods/18890)
+
+- [Casual Style Outfit - Part 21](https://www.nexusmods.com/cyberpunk2077/mods/18851)
 
 ### Viktor Vektor Store
 
