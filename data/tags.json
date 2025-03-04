@@ -375,7 +375,9 @@
         "description": "Athletic arms",
         "category": "Mods - Body Mods - FemV",
         "aliases": [
-            "body-soloarms"
+            "body-soloarms",
+            "solo-arms",
+            "soloarms"
         ],
         "relatedTags": [
             "Body-Solo",
