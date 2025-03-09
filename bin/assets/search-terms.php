@@ -10,6 +10,7 @@ const SEARCH_TERMS = array(
     'CaffeineRogue' => 'rogue',
     'Cyb3rbling' => 'cyber bling',
     'EzioMaverick' => 'maverick',
+    'EyeofCenter' => 'center',
     'MONSTERaider' => 'raider',
     'NolaDreamer' => 'dreamer',
     'PeachuHime' => 'hime',
