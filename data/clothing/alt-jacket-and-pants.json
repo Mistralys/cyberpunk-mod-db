@@ -21,7 +21,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "Jacket Set 1",
+            "label": "Jacket (Short)",
+            "icon": "jacket-short",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -66,7 +67,8 @@
             ]
         },
         {
-            "label": "Jacket Set 2",
+            "label": "Jacket",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -74,44 +76,45 @@
             "items": [
                 {
                     "name": "Black",
-                    "code": "nd_alt_jacket_black"
+                    "code": "nd_alt_jacket2_black"
                 },
                 {
                     "name": "Blue",
-                    "code": "nd_alt_jacket_blue"
+                    "code": "nd_alt_jacket2_blue"
                 },
                 {
                     "name": "Brown",
-                    "code": "nd_alt_jacket_brown"
+                    "code": "nd_alt_jacket2_brown"
                 },
                 {
                     "name": "Burgundy",
-                    "code": "nd_alt_jacket_burgundy"
+                    "code": "nd_alt_jacket2_burgundy"
                 },
                 {
                     "name": "Default",
-                    "code": "nd_alt_jacket_brown"
+                    "code": "nd_alt_jacket2_brown"
                 },
                 {
                     "name": "Green",
-                    "code": "nd_alt_jacket_green"
+                    "code": "nd_alt_jacket2_green"
                 },
                 {
                     "name": "Pink",
-                    "code": "nd_alt_jacket_pink"
+                    "code": "nd_alt_jacket2_pink"
                 },
                 {
                     "name": "Red",
-                    "code": "nd_alt_jacket_red"
+                    "code": "nd_alt_jacket2_red"
                 },
                 {
                     "name": "White",
-                    "code": "nd_alt_jacket_white"
+                    "code": "nd_alt_jacket2_white"
                 }
             ]
         },
         {
-            "label": "Pants Set 1",
+            "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -128,14 +131,6 @@
                 {
                     "name": "Burgundy",
                     "code": "nd_alt_pants_burgundy"
-                },
-                {
-                    "name": "Default Black",
-                    "code": "nd_alt_pants_defaultblack"
-                },
-                {
-                    "name": "Default Blue",
-                    "code": "nd_alt_pants_defaultblue"
                 },
                 {
                     "name": "Full Black",
@@ -160,10 +155,30 @@
             ]
         },
         {
-            "label": "Pants Set 2",
+            "label": "Pants with Cyberdeck",
+            "icon": "pants-cyberdeck",
             "tags": [
                 "Legs",
-                "Pants"
+                "Pants",
+                "Accessories"
+            ],
+            "items": [
+                {
+                    "name": "Default Black",
+                    "code": "nd_alt_pants_defaultblack"
+                },
+                {
+                    "name": "Default Blue",
+                    "code": "nd_alt_pants_defaultblue"
+                }
+            ]
+        },
+        {
+            "label": "Shorts",
+            "icon": "shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
             ],
             "items": [
                 {
@@ -177,14 +192,6 @@
                 {
                     "name": "Burgundy",
                     "code": "nd_alt_pants2_burgundy"
-                },
-                {
-                    "name": "Default Black",
-                    "code": "nd_alt_pants2_defaultblack"
-                },
-                {
-                    "name": "Default Blue",
-                    "code": "nd_alt_pants2_defaultblue"
                 },
                 {
                     "name": "Full Black",
@@ -205,6 +212,25 @@
                 {
                     "name": "White",
                     "code": "nd_alt_pants2_white"
+                }
+            ]
+        },
+        {
+            "label": "Shorts with Cyberdeck",
+            "icon": "shorts-cyberdeck",
+            "tags": [
+                "Legs",
+                "Shorts",
+                "Accessories"
+            ],
+            "items": [
+               {
+                    "name": "Default Black",
+                    "code": "nd_alt_pants2_defaultblack"
+                },
+                {
+                    "name": "Default Blue",
+                    "code": "nd_alt_pants2_defaultblue"
                 }
             ]
         }
