@@ -5,6 +5,9 @@
 - Mods: Added "Casual Style Outfit - Part 21" by Veegee.
 - Mods: Added "Concept Art Pants" by Eye of Center.
 - Mods: Added a link to a related mod for "Jacket Bolero Hex" by Apzurv.
+- Screenshots: Updated "Arasaka Sports Wear v2".
+- Screenshots: Updated "Arasaka Jacket".
+- Screenshots: Updated "Arasaka Corpo Shirt".
 - Ateliers: Added "Lily Delta Boutiques" by LilyDelta.
 - Ateliers: Added "Veegee Shop 3" by Veegee.
 
