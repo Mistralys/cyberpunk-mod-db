@@ -29,6 +29,7 @@
     "itemCategories": [
         {
             "label": "Patterns",
+            "icon": "pattern",
             "tags": [],
             "items": [
                 {
@@ -135,6 +136,7 @@
         },
         {
             "label": "Polyester",
+            "icon": "polyester",
             "tags": [],
             "items": [
                 {
@@ -209,6 +211,7 @@
         },
         {
             "label": "Velvet",
+            "icon": "velvet",
             "tags": [],
             "items": [
                 {
