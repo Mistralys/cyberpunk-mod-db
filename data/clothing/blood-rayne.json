@@ -17,76 +17,119 @@
     "searchTweaks": "rayne",
     "itemCategories": [
         {
-            "label": "",
-            "tags": [],
+            "label": "Corset",
+            "icon": "corset",
+            "tags": [
+                "Corset",
+                "Torso"
+            ],
             "items": [
                 {
                     "name": "Corset",
-                    "code": "rayne_corset",
-                    "tags": [
-                        "Corset",
-                        "Torso"
-                    ]
-                },
+                    "code": "rayne_corset"
+                }
+            ]
+        },
+        {
+            "label": "Dress",
+            "icon": "robe",
+            "tags": [
+                "FullBody",
+                "Dress"
+            ],
+            "items": [
                 {
                     "name": "Dress",
-                    "code": "rayne_dress",
-                    "tags": [
-                        "FullBody"
-                    ]
-                },
+                    "code": "rayne_dress"
+                }
+            ]
+        },
+        {
+            "label": "Dress Boots",
+            "icon": "boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
                 {
                     "name": "Dress Boots",
-                    "code": "rayne_dress_boots",
-                    "tags": [
-                        "Boots",
-                        "Feet"
-                    ]
-                },
+                    "code": "rayne_dress_boots"
+                }
+            ]
+        },
+        {
+            "label": "Dress Gloves",
+            "icon": "glove-silver",
+            "tags": [
+                "Arms",
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
                 {
                     "name": "Dress Gloves",
-                    "code": "rayne_dress_gloves",
-                    "tags": [
-                        "Arms",
-                        "Gloves",
-                        "Hands"
-                    ]
-                },
+                    "code": "rayne_dress_gloves"
+                }
+            ]
+        },
+        {
+            "label": "Dress Panties",
+            "icon": "panties",
+            "tags": [
+                "Legs",
+                "Panties",
+                "Underwear"
+            ],
+            "items": [
                 {
                     "name": "Dress Panties",
-                    "code": "rayne_dress_panties",
-                    "tags": [
-                        "Legs",
-                        "Panties",
-                        "Underwear"
-                    ]
-                },
+                    "code": "rayne_dress_panties"
+                }
+            ]
+        },
+        {
+            "label": "Gloves",
+            "icon": "glove-red",
+            "tags": [
+                "Arms",
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
                 {
                     "name": "Gloves",
-                    "code": "rayne_gloves",
-                    "tags": [
-                        "Arms",
-                        "Gloves",
-                        "Hands"
-                    ]
-                },
+                    "code": "rayne_gloves"
+                }
+            ]
+        },
+        {
+            "label": "Hair",
+            "icon": "hair",
+            "tags": [
+                "Hair",
+                "Head"
+            ],
+            "items": [
                 {
                     "name": "Hair",
-                    "code": "rayne_hair",
-                    "tags": [
-                        "Hair",
-                        "Head"
-                    ]
-                },
+                    "code": "rayne_hair"
+                }
+            ]
+        },
+        {
+            "label": "Necklace",
+            "icon": "choker",
+            "tags": [
+                "Choker",
+                "Jewelry",
+                "Neck",
+                "Necklace"
+            ],
+            "items": [
                 {
                     "name": "Necklace",
-                    "code": "rayne_necklace",
-                    "tags": [
-                        "Choker",
-                        "Jewelry",
-                        "Neck",
-                        "Necklace"
-                    ]
+                    "code": "rayne_necklace"
                 },
                 {
                     "name": "Pants",
@@ -95,6 +138,20 @@
                         "Legs",
                         "Pants"
                     ]
+                }
+            ]
+        },
+        {
+            "label": "Pants",
+            "icon": "pants",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Pants",
+                    "code": "rayne_pants"
                 }
             ]
         }
