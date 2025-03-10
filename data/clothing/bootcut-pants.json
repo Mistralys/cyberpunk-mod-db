@@ -21,6 +21,7 @@
     "itemCategories": [
         {
             "label": "Fabric",
+            "icon": "fabric",
             "tags": [],
             "items": [
                 {
@@ -67,6 +68,7 @@
         },
         {
             "label": "Latex",
+            "icon": "latex",
             "tags": [],
             "items": [
                 {
@@ -93,6 +95,7 @@
         },
         {
             "label": "Leather",
+            "icon": "leather",
             "tags": [],
             "items": [
                 {
@@ -119,6 +122,7 @@
         },
         {
             "label": "Special",
+            "icon": "special",
             "tags": [
                 "Reflective"
             ],
