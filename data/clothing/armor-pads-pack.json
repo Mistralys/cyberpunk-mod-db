@@ -26,6 +26,7 @@
     "itemCategories": [
         {
             "label": "Gugnir Shoulder Pad - Left",
+            "icon": "shoulder-guard",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -115,6 +116,7 @@
         },
         {
             "label": "Gugnir Shoulder Pad - Right",
+            "icon": "shoulder-guard",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -204,6 +206,7 @@
         },
         {
             "label": "Gugnir Thigh Pad - Left",
+            "icon": "thigh-guard",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -293,6 +296,7 @@
         },
         {
             "label": "Gugnir Thigh Pad - Right",
+            "icon": "thigh-guard",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -382,6 +386,7 @@
         },
         {
             "label": "Para Elbow Pad - Left",
+            "icon": "elbow-pad",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -471,6 +476,7 @@
         },
         {
             "label": "Para Elbow Pad - Right",
+            "icon": "elbow-pad",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -560,6 +566,7 @@
         },
         {
             "label": "Para Knee Pad - Left",
+            "icon": "knee-pad",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -649,6 +656,7 @@
         },
         {
             "label": "Para Knee Pad - Right",
+            "icon": "knee-pad",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -738,6 +746,7 @@
         },
         {
             "label": "Toggles",
+            "icon": "toggles",
             "tags": [
                 "Accessories",
                 "Toggles"
