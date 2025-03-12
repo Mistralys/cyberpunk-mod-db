@@ -1,0 +1,22 @@
+.image IMG{
+    border: solid 1px #000;
+    max-width: 100%;
+}
+.image INPUT[type="text"] {
+    width: 100%;
+}
+B.number{
+    font-size: 20pt;
+    color: #fff;
+}
+.filename{
+    font-family: monospace;
+    padding-left: 0.4rem;
+}
+
+.original-filename{
+    font-family: monospace;
+    font-size: 12pt;
+    text-align: right;
+    display:block;
+}
