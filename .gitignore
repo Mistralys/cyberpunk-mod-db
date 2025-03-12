@@ -3,4 +3,5 @@ composer.phar
 *.psd
 /.idea
 /data/clothing/normalized
-docs/Poses/zwei-fashion/Originals/*.png
+docs/Poses/zwei-fashion/Screens/*.png
+docs/Poses/xbaebsae-cute-and-sexy/Screens/*.png
