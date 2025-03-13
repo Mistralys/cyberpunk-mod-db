@@ -13,7 +13,7 @@ use function CPDM\Assets\getPosePackData;
 use function CPDM\Assets\getPosePackOriginalImagesData;
 use function CPDM\Assets\getPosePackScreensData;
 use function CPDM\Assets\getPosePackScreensFile;
-use function CPMDB\UI\getPosePackIDFromRequest;
+use function CPMDB\UI\Assets\requirePosePackFromRequest;
 
 if(!defined('CPMDB\UI\UI_ROOT')) {
     die('May not be accessed directly.');
@@ -22,11 +22,7 @@ if(!defined('CPMDB\UI\UI_ROOT')) {
 const IMAGE_SIZE = 600;
 
 $request = Request::getInstance();
-$posePackID = getPosePackIDFromRequest();
-
-if($posePackID === null) {
-    die('Invalid pose pack ID.');
-}
+$posePackID = requirePosePackFromRequest();
 
 if($request->getParam('save') === 'yes')
 {
@@ -86,6 +82,11 @@ $posePack = getPosePackData($posePackID);
 
 ?>
 <link rel="stylesheet" href="css/pose-pack-editor.css"/>
+<p style="float:right">
+    <a href="?page=pose-packs">
+        <?php echo t('Back to overview') ?>
+    </a>
+</p>
 <h1><?php pt('%1$s pose pack', $posePack['label']); ?></h1>
 <form method="post">
     <input type="hidden" name="save" value="yes"/>

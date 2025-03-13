@@ -12,18 +12,15 @@ if(!defined('CPMDB\UI\UI_ROOT')) {
 }
 
 ?>
-<p>
-    <?php pt('Please choose a pose pack to manage.'); ?>
-</p>
+<link rel="stylesheet" href="css/pose-pack-editor.css"/>
+<h1><?php pt('Available pose packs') ?></h1>
 <ul>
 <?php
 
 foreach(getPosePacksData() as $pack) {
     ?>
-    <li>
-        <a href="?page=pose-packs&pose-pack=<?php echo $pack['id']; ?>">
-            <?php echo $pack['label']; ?>
-        </a>
+    <li class="pose-pack-entry">
+        <a href="?page=pose-packs&action=edit-images&pose-pack=<?php echo $pack['id']; ?>"><?php echo $pack['label']; ?></a>
     </li>
     <?php
 }
