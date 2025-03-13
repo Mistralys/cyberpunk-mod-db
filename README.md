@@ -11,14 +11,16 @@ JSON files and with custom screenshots for each mod.
 
 ## Data included in the database
 
-- [Clothing mods](mods-list.md) with detailed information, including all items they add.
-- [Tags](docs/tagging-reference.md) used to categorize mods and items.
+- [JSON-based mod descriptions](data/clothing) with categorized items.
+- [Mods overview](mods-list.md) shows all mods included in the database.
 - [Virtual Atelier mods](docs/atelier-reference.md) used by the clothing mods.
 - [Custom screenshots](data/clothing/screens) for each mod.
+- [Pose pack references](docs/Poses/pose-reference.md) as screenshotting help.
+- [Tags](docs/tagging-reference.md) used to categorize mods and items.
 
 ## Mods List
 
-Total available mods: 184
+Total available mods: 185
 
 See the [full list of included mods](mods-list.md).  
 
@@ -36,6 +38,11 @@ This provides object-oriented access to the data, including a full text search.
 Please see the [contribution guide](docs/contributing.md). I am always happy to 
 receive error reports, new mods, tag suggestions, and any other kind of feedback.
 
+## Documentation
+
+- [Command line tools](docs/command-line-tools.md)
+- [Pose Pack Editing](docs/pose-pack-editing.md)
+- [Tagging Reference](docs/tagging-reference.md)
 
 [Cyberpunk 2077 Clothing Mods Database PHP]: https://github.com/Mistralys/cyberpunk-mod-db-php
 [Aeon's Cyberpunk Mods]: https://aeonoftime.com/?article=2024-08-06-cyberpunk-clothing-mods&page=article

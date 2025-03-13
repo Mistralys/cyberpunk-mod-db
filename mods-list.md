@@ -1,6 +1,6 @@
 ## Mods List
 
-Total available mods: 184
+Total available mods: 185
 
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
@@ -54,6 +54,7 @@ Total available mods: 184
 * [Combat Pants](https://www.nexusmods.com/cyberpunk2077/mods/9016) by Veegee and VeegeeAlvarez
 * [Comfy Dress](https://www.nexusmods.com/cyberpunk2077/mods/16026) by NotMayoSan, TheLoneStrider and TheLoneStrider13
 * [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041) by Peachu and PeachuHime
+* [Concept Art Pants](https://www.nexusmods.com/cyberpunk2077/mods/3874) by Eye of Center and EyeofCenter
 * [Corpo Clothing - Hanako Top](https://www.nexusmods.com/cyberpunk2077/mods/17586) by Sumi and SumiTerra
 * [Cute Dress](https://www.nexusmods.com/cyberpunk2077/mods/6193) by Apzurv and EzioMaverick
 * [Cute Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by Cubfan82
