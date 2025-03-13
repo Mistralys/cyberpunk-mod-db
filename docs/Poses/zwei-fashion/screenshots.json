@@ -2,7 +2,8 @@
     "photomode-11032025-064958-png": {
         "number": 1,
         "label": "Quid pro Quo",
-        "filename": "001-quid-pro-quo.png",
+        "outputName": "001-quid-pro-quo.png",
+        "originalName": "photomode_11032025_064958.png",
         "types": [
             "narrow"
         ]
@@ -10,7 +11,8 @@
     "photomode-11032025-065025-png": {
         "number": 2,
         "label": "Cold cold heart",
-        "filename": "002-cold-cold-heart.png",
+        "outputName": "002-cold-cold-heart.png",
+        "originalName": "photomode_11032025_065025.png",
         "types": [
             "medium"
         ]
@@ -18,7 +20,8 @@
     "photomode-11032025-065033-png": {
         "number": 3,
         "label": "Hot in the shade",
-        "filename": "003-hot-in-the-shade.png",
+        "outputName": "003-hot-in-the-shade.png",
+        "originalName": "photomode_11032025_065033.png",
         "types": [
             "medium"
         ]
@@ -26,7 +29,8 @@
     "photomode-11032025-065045-png": {
         "number": 4,
         "label": "Acta non verba",
-        "filename": "004-acta-non-verba.png",
+        "outputName": "004-acta-non-verba.png",
+        "originalName": "photomode_11032025_065045.png",
         "types": [
             "medium"
         ]
@@ -34,7 +38,8 @@
     "photomode-11032025-065058-png": {
         "number": 5,
         "label": "Once bitten twice shy",
-        "filename": "005-once-bitten-twice-shy.png",
+        "outputName": "005-once-bitten-twice-shy.png",
+        "originalName": "photomode_11032025_065058.png",
         "types": [
             "narrow"
         ]
@@ -42,7 +47,8 @@
     "photomode-11032025-065112-png": {
         "number": 6,
         "label": "La dolce vita",
-        "filename": "006-la-dolce-vita.png",
+        "outputName": "006-la-dolce-vita.png",
+        "originalName": "photomode_11032025_065112.png",
         "types": [
             "narrow"
         ]
@@ -50,7 +56,8 @@
     "photomode-11032025-065121-png": {
         "number": 7,
         "label": "Clueless",
-        "filename": "007-clueless.png",
+        "outputName": "007-clueless.png",
+        "originalName": "photomode_11032025_065121.png",
         "types": [
             "narrow"
         ]
@@ -58,7 +65,8 @@
     "photomode-11032025-065134-png": {
         "number": 8,
         "label": "Camera ready",
-        "filename": "008-camera-ready.png",
+        "outputName": "008-camera-ready.png",
+        "originalName": "photomode_11032025_065134.png",
         "types": [
             "medium"
         ]
@@ -66,7 +74,8 @@
     "photomode-11032025-065142-png": {
         "number": 9,
         "label": "Camera ready (remix)",
-        "filename": "009-camera-ready-remix.png",
+        "outputName": "009-camera-ready-remix.png",
+        "originalName": "photomode_11032025_065142.png",
         "types": [
             "medium"
         ]
@@ -74,7 +83,8 @@
     "photomode-11032025-065207-png": {
         "number": 10,
         "label": "Tearsheet",
-        "filename": "010-tearsheet.png",
+        "outputName": "010-tearsheet.png",
+        "originalName": "photomode_11032025_065207.png",
         "types": [
             "medium"
         ]
@@ -82,7 +92,8 @@
     "photomode-11032025-065221-png": {
         "number": 11,
         "label": "You better work",
-        "filename": "011-you-better-work.png",
+        "outputName": "011-you-better-work.png",
+        "originalName": "photomode_11032025_065221.png",
         "types": [
             "narrow"
         ]
@@ -90,7 +101,8 @@
     "photomode-11032025-065242-png": {
         "number": 12,
         "label": "Halcyon",
-        "filename": "012-halcyon.png",
+        "outputName": "012-halcyon.png",
+        "originalName": "photomode_11032025_065242.png",
         "types": [
             "narrow"
         ]
@@ -98,7 +110,8 @@
     "photomode-11032025-065302-png": {
         "number": 13,
         "label": "She's got the look",
-        "filename": "013-shes-got-the-look.png",
+        "outputName": "013-shes-got-the-look.png",
+        "originalName": "photomode_11032025_065302.png",
         "types": [
             "medium"
         ]
@@ -106,7 +119,8 @@
     "photomode-11032025-065319-png": {
         "number": 14,
         "label": "Force manipulation",
-        "filename": "014-force-manipulation.png",
+        "outputName": "014-force-manipulation.png",
+        "originalName": "photomode_11032025_065319.png",
         "types": [
             "medium"
         ]
@@ -114,7 +128,8 @@
     "photomode-11032025-065331-png": {
         "number": 15,
         "label": "Dressed to kill",
-        "filename": "015-dressed-to-kill.png",
+        "outputName": "015-dressed-to-kill.png",
+        "originalName": "photomode_11032025_065331.png",
         "types": [
             "medium"
         ]
@@ -122,7 +137,8 @@
     "photomode-11032025-065343-png": {
         "number": 16,
         "label": "Beauty shot",
-        "filename": "016-beauty-shot.png",
+        "outputName": "016-beauty-shot.png",
+        "originalName": "photomode_11032025_065343.png",
         "types": [
             "medium"
         ]
@@ -130,7 +146,8 @@
     "photomode-11032025-065354-png": {
         "number": 17,
         "label": "Devil in a tight dress",
-        "filename": "017-devil-in-a-tight-dress.png",
+        "outputName": "017-devil-in-a-tight-dress.png",
+        "originalName": "photomode_11032025_065354.png",
         "types": [
             "medium"
         ]
@@ -138,7 +155,8 @@
     "photomode-11032025-065515-png": {
         "number": 18,
         "label": "Devil in a tight dress (remix)",
-        "filename": "018-devil-in-a-tight-dress-remix.png",
+        "outputName": "018-devil-in-a-tight-dress-remix.png",
+        "originalName": "photomode_11032025_065515.png",
         "types": [
             "medium"
         ]
@@ -146,7 +164,8 @@
     "photomode-11032025-065527-png": {
         "number": 19,
         "label": "Hotter than hell",
-        "filename": "019-hotter-than-hell.png",
+        "outputName": "019-hotter-than-hell.png",
+        "originalName": "photomode_11032025_065527.png",
         "types": [
             "medium"
         ]
@@ -154,7 +173,8 @@
     "photomode-11032025-065537-png": {
         "number": 20,
         "label": "Nothin' but a good time",
-        "filename": "020-nothin-but-a-good-time.png",
+        "outputName": "020-nothin-but-a-good-time.png",
+        "originalName": "photomode_11032025_065537.png",
         "types": [
             "narrow"
         ]
@@ -162,7 +182,8 @@
     "photomode-11032025-065540-png": {
         "number": 21,
         "label": "It's a walk-off",
-        "filename": "021-its-a-walk-off.png",
+        "outputName": "021-its-a-walk-off.png",
+        "originalName": "photomode_11032025_065540.png",
         "types": [
             "narrow"
         ]
@@ -170,7 +191,8 @@
     "photomode-11032025-065622-png": {
         "number": 22,
         "label": "Mean streak",
-        "filename": "022-mean-streak.png",
+        "outputName": "022-mean-streak.png",
+        "originalName": "photomode_11032025_065622.png",
         "types": [
             "medium"
         ]
@@ -178,7 +200,8 @@
     "photomode-11032025-065631-png": {
         "number": 23,
         "label": "Avant garde",
-        "filename": "023-avant-garde.png",
+        "outputName": "023-avant-garde.png",
+        "originalName": "photomode_11032025_065631.png",
         "types": [
             "narrow"
         ]
@@ -186,7 +209,8 @@
     "photomode-11032025-065642-png": {
         "number": 24,
         "label": "Blue steel",
-        "filename": "024-blue-steel.png",
+        "outputName": "024-blue-steel.png",
+        "originalName": "photomode_11032025_065642.png",
         "types": [
             "medium"
         ]
@@ -194,7 +218,8 @@
     "photomode-11032025-065655-png": {
         "number": 25,
         "label": "No drama llama",
-        "filename": "025-no-drama-llama.png",
+        "outputName": "025-no-drama-llama.png",
+        "originalName": "photomode_11032025_065655.png",
         "types": [
             "medium"
         ]
@@ -202,7 +227,8 @@
     "photomode-11032025-065712-png": {
         "number": 26,
         "label": "Simple quad stretch",
-        "filename": "026-simple-quad-stretch.png",
+        "outputName": "026-simple-quad-stretch.png",
+        "originalName": "photomode_11032025_065712.png",
         "types": [
             "medium"
         ]
@@ -210,7 +236,8 @@
     "photomode-11032025-065732-png": {
         "number": 27,
         "label": "Welcome to the jungle",
-        "filename": "027-welcome-to-the-jungle.png",
+        "outputName": "027-welcome-to-the-jungle.png",
+        "originalName": "photomode_11032025_065732.png",
         "types": [
             "narrow"
         ]
@@ -218,7 +245,8 @@
     "photomode-11032025-065745-png": {
         "number": 28,
         "label": "Veni Vidi Vici",
-        "filename": "028-veni-vidi-vici.png",
+        "outputName": "028-veni-vidi-vici.png",
+        "originalName": "photomode_11032025_065745.png",
         "types": [
             "narrow"
         ]
@@ -226,7 +254,8 @@
     "photomode-11032025-065758-png": {
         "number": 29,
         "label": "Night City fashion week",
-        "filename": "029-night-city-fashion-week.png",
+        "outputName": "029-night-city-fashion-week.png",
+        "originalName": "photomode_11032025_065758.png",
         "types": [
             "narrow"
         ]
@@ -234,7 +263,8 @@
     "photomode-11032025-065814-png": {
         "number": 30,
         "label": "Strangers with candy",
-        "filename": "030-strangers-with-candy.png",
+        "outputName": "030-strangers-with-candy.png",
+        "originalName": "photomode_11032025_065814.png",
         "types": [
             "narrow"
         ]
@@ -242,7 +272,8 @@
     "photomode-11032025-065835-png": {
         "number": 31,
         "label": "Cover girl",
-        "filename": "031-cover-girl.png",
+        "outputName": "031-cover-girl.png",
+        "originalName": "photomode_11032025_065835.png",
         "types": [
             "wide"
         ]
@@ -250,7 +281,8 @@
     "photomode-11032025-065848-png": {
         "number": 32,
         "label": "Breakfast at Evelyn's",
-        "filename": "032-breakfast-at-evelyns.png",
+        "outputName": "032-breakfast-at-evelyns.png",
+        "originalName": "photomode_11032025_065848.png",
         "types": [
             "medium",
             "sitting"
@@ -259,7 +291,8 @@
     "photomode-11032025-065907-png": {
         "number": 33,
         "label": "I'm good luv, enjoy",
-        "filename": "033-im-good-luv-enjoy.png",
+        "outputName": "033-im-good-luv-enjoy.png",
+        "originalName": "photomode_11032025_065907.png",
         "types": [
             "wide"
         ]
@@ -267,7 +300,8 @@
     "photomode-11032025-065925-png": {
         "number": 34,
         "label": "House of Avante",
-        "filename": "034-house-of-avante.png",
+        "outputName": "034-house-of-avante.png",
+        "originalName": "photomode_11032025_065925.png",
         "types": [
             "medium"
         ]
@@ -275,7 +309,8 @@
     "photomode-11032025-065944-png": {
         "number": 35,
         "label": "Fxing fabulous",
-        "filename": "035-fxing-fabulous.png",
+        "outputName": "035-fxing-fabulous.png",
+        "originalName": "photomode_11032025_065944.png",
         "types": [
             "medium"
         ]
@@ -283,7 +318,8 @@
     "photomode-11032025-070000-png": {
         "number": 36,
         "label": "Spirit of extasy",
-        "filename": "036-spirit-of-extasy.png",
+        "outputName": "036-spirit-of-extasy.png",
+        "originalName": "photomode_11032025_070000.png",
         "types": [
             "wide"
         ]
@@ -291,7 +327,8 @@
     "photomode-11032025-070023-per-se-png": {
         "number": 37,
         "label": "Per se",
-        "filename": "037-per-se.png",
+        "outputName": "037-per-se.png",
+        "originalName": "photomode_11032025_070023 per se.png",
         "types": [
             "medium"
         ]
@@ -299,7 +336,8 @@
     "photomode-11032025-070035-neon-demon-png": {
         "number": 38,
         "label": "Neon demon",
-        "filename": "038-neon-demon.png",
+        "outputName": "038-neon-demon.png",
+        "originalName": "photomode_11032025_070035 neon demon.png",
         "types": [
             "medium"
         ]
@@ -307,7 +345,8 @@
     "photomode-11032025-070111-png": {
         "number": 39,
         "label": "Ace of spades",
-        "filename": "039-ace-of-spades.png",
+        "outputName": "039-ace-of-spades.png",
+        "originalName": "photomode_11032025_070111.png",
         "types": [
             "medium",
             "sitting"
@@ -316,7 +355,8 @@
     "photomode-11032025-070141-png": {
         "number": 40,
         "label": "Status quo",
-        "filename": "040-status-quo.png",
+        "outputName": "040-status-quo.png",
+        "originalName": "photomode_11032025_070141.png",
         "types": [
             "medium",
             "sitting"
@@ -325,7 +365,8 @@
     "photomode-11032025-070156-png": {
         "number": 41,
         "label": "Status quo (remix)",
-        "filename": "041-status-quo-remix.png",
+        "outputName": "041-status-quo-remix.png",
+        "originalName": "photomode_11032025_070156.png",
         "types": [
             "medium"
         ]
@@ -333,7 +374,8 @@
     "photomode-11032025-070210-png": {
         "number": 42,
         "label": "No touching",
-        "filename": "042-no-touching.png",
+        "outputName": "042-no-touching.png",
+        "originalName": "photomode_11032025_070210.png",
         "types": [
             "medium",
             "sitting"
@@ -342,7 +384,8 @@
     "photomode-11032025-070225-png": {
         "number": 43,
         "label": "Misunderstood",
-        "filename": "043-misunderstood.png",
+        "outputName": "043-misunderstood.png",
+        "originalName": "photomode_11032025_070225.png",
         "types": [
             "narrow",
             "sitting"
@@ -351,7 +394,8 @@
     "photomode-11032025-070305-png": {
         "number": 44,
         "label": "High maintenance",
-        "filename": "044-high-maintenance.png",
+        "outputName": "044-high-maintenance.png",
+        "originalName": "photomode_11032025_070305.png",
         "types": [
             "medium",
             "sitting"
@@ -360,7 +404,8 @@
     "photomode-11032025-070338-png": {
         "number": 45,
         "label": "Breaking the habit",
-        "filename": "045-breaking-the-habit.png",
+        "outputName": "045-breaking-the-habit.png",
+        "originalName": "photomode_11032025_070338.png",
         "types": [
             "medium",
             "sitting"
@@ -369,7 +414,8 @@
     "photomode-11032025-070356-png": {
         "number": 46,
         "label": "Flirtin' with disaster",
-        "filename": "046-flirtin-with-disaster.png",
+        "outputName": "046-flirtin-with-disaster.png",
+        "originalName": "photomode_11032025_070356.png",
         "types": [
             "narrow",
             "lying-down"
@@ -378,7 +424,8 @@
     "photomode-11032025-070418-png": {
         "number": 47,
         "label": "Nothing to wear",
-        "filename": "047-nothing-to-wear.png",
+        "outputName": "047-nothing-to-wear.png",
+        "originalName": "photomode_11032025_070418.png",
         "types": [
             "medium",
             "sitting"
@@ -387,7 +434,8 @@
     "photomode-11032025-070433-png": {
         "number": 48,
         "label": "Addicted to that rush",
-        "filename": "048-addicted-to-that-rush.png",
+        "outputName": "048-addicted-to-that-rush.png",
+        "originalName": "photomode_11032025_070433.png",
         "types": [
             "narrow",
             "lying-down"
@@ -396,7 +444,8 @@
     "photomode-11032025-070450-png": {
         "number": 49,
         "label": "The plot sickens",
-        "filename": "049-the-plot-sickens.png",
+        "outputName": "049-the-plot-sickens.png",
+        "originalName": "photomode_11032025_070450.png",
         "types": [
             "narrow",
             "lying-down"
@@ -405,7 +454,8 @@
     "photomode-11032025-070519-png": {
         "number": 50,
         "label": "That V's so hot right now",
-        "filename": "050-that-vs-so-hot-right-now.png",
+        "outputName": "050-that-vs-so-hot-right-now.png",
+        "originalName": "photomode_11032025_070519.png",
         "types": [
             "narrow",
             "sitting"
@@ -414,7 +464,8 @@
     "photomode-11032025-070536-png": {
         "number": 51,
         "label": "A work of art",
-        "filename": "051-a-work-of-art.png",
+        "outputName": "051-a-work-of-art.png",
+        "originalName": "photomode_11032025_070536.png",
         "types": [
             "wide",
             "sitting"
@@ -423,7 +474,8 @@
     "photomode-11032025-070549-png": {
         "number": 52,
         "label": "Bona fide",
-        "filename": "052-bona-fide.png",
+        "outputName": "052-bona-fide.png",
+        "originalName": "photomode_11032025_070549.png",
         "types": [
             "narrow",
             "sitting"
@@ -432,7 +484,8 @@
     "photomode-11032025-070601-png": {
         "number": 53,
         "label": "Life's a beach",
-        "filename": "053-lifes-a-beach.png",
+        "outputName": "053-lifes-a-beach.png",
+        "originalName": "photomode_11032025_070601.png",
         "types": [
             "medium",
             "sitting"
@@ -441,7 +494,8 @@
     "photomode-11032025-070629-png": {
         "number": 54,
         "label": "Too glam to give a damn",
-        "filename": "054-too-glam-to-give-a-damn.png",
+        "outputName": "054-too-glam-to-give-a-damn.png",
+        "originalName": "photomode_11032025_070629.png",
         "types": [
             "wide",
             "sitting"
@@ -450,7 +504,8 @@
     "photomode-11032025-070638-png": {
         "number": 55,
         "label": "Bed of roses",
-        "filename": "055-bed-of-roses.png",
+        "outputName": "055-bed-of-roses.png",
+        "originalName": "photomode_11032025_070638.png",
         "types": [
             "wide",
             "lying-down"
@@ -459,7 +514,8 @@
     "photomode-11032025-070653-png": {
         "number": 56,
         "label": "Down to earth",
-        "filename": "056-down-to-earth.png",
+        "outputName": "056-down-to-earth.png",
+        "originalName": "photomode_11032025_070653.png",
         "types": [
             "narrow",
             "sitting"
@@ -468,7 +524,8 @@
     "photomode-11032025-070670-png": {
         "number": 57,
         "label": "Sittin' pretty",
-        "filename": "057-sittin-pretty.png",
+        "outputName": "057-sittin-pretty.png",
+        "originalName": "photomode_11032025_070670.png",
         "types": [
             "medium",
             "sitting"
@@ -477,7 +534,8 @@
     "photomode-11032025-073633-png": {
         "number": 58,
         "label": "Awake and dreaming",
-        "filename": "058-awake-and-dreaming.png",
+        "outputName": "058-awake-and-dreaming.png",
+        "originalName": "photomode_11032025_073633.png",
         "types": [
             "narrow",
             "lying-down"
@@ -486,7 +544,8 @@
     "photomode-11032025-073701-png": {
         "number": 59,
         "label": "Awake and dreaming (remix)",
-        "filename": "059-awake-and-dreaming-remix.png",
+        "outputName": "059-awake-and-dreaming-remix.png",
+        "originalName": "photomode_11032025_073701.png",
         "types": [
             "narrow",
             "lying-down"

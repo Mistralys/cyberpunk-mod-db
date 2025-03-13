@@ -2,7 +2,8 @@
     "001-whoopsie-png": {
         "number": 1,
         "label": "Whoopsie!",
-        "filename": "001-whoopsie.png",
+        "outputName": "001-whoopsie.png",
+        "originalName": "001-whoopsie.png",
         "types": [
             "medium"
         ]
@@ -10,7 +11,8 @@
     "002-shoutout-png": {
         "number": 2,
         "label": "Shoutout",
-        "filename": "002-shoutout.png",
+        "outputName": "002-shoutout.png",
+        "originalName": "002-shoutout.png",
         "types": [
             "medium"
         ]
@@ -18,7 +20,8 @@
     "003-salute-png": {
         "number": 3,
         "label": "Salute",
-        "filename": "003-salute.png",
+        "outputName": "003-salute.png",
+        "originalName": "003-salute.png",
         "types": [
             "medium"
         ]
@@ -26,7 +29,8 @@
     "004-cutie-clap-png": {
         "number": 4,
         "label": "Cutie clap",
-        "filename": "004-cutie-clap.png",
+        "outputName": "004-cutie-clap.png",
+        "originalName": "004-cutie-clap.png",
         "types": [
             "narrow"
         ]
@@ -34,7 +38,8 @@
     "005-cutie-step-png": {
         "number": 5,
         "label": "Cutie step",
-        "filename": "005-cutie-step.png",
+        "outputName": "005-cutie-step.png",
+        "originalName": "005-cutie-step.png",
         "types": [
             "medium"
         ]
@@ -42,7 +47,8 @@
     "006-beauty-png": {
         "number": 6,
         "label": "Beauty",
-        "filename": "006-beauty.png",
+        "outputName": "006-beauty.png",
+        "originalName": "006-beauty.png",
         "types": [
             "medium"
         ]
@@ -50,7 +56,8 @@
     "007-cutie-wave-png": {
         "number": 7,
         "label": "Cutie wave",
-        "filename": "007-cutie-wave.png",
+        "outputName": "007-cutie-wave.png",
+        "originalName": "007-cutie-wave.png",
         "types": [
             "medium"
         ]
@@ -58,7 +65,8 @@
     "008-oh-you-mean-me-png": {
         "number": 8,
         "label": "Oh you mean me?",
-        "filename": "008-oh-you-mean-me.png",
+        "outputName": "008-oh-you-mean-me.png",
+        "originalName": "008-oh-you-mean-me.png",
         "types": [
             "narrow"
         ]
@@ -66,7 +74,8 @@
     "009-show-is-starting-png": {
         "number": 9,
         "label": "Show is starting",
-        "filename": "009-show-is-starting.png",
+        "outputName": "009-show-is-starting.png",
+        "originalName": "009-show-is-starting.png",
         "types": [
             "medium"
         ]
@@ -74,7 +83,8 @@
     "010-relaxed-but-cooler-png": {
         "number": 10,
         "label": "Relaxed but cooler",
-        "filename": "010-relaxed-but-cooler.png",
+        "outputName": "010-relaxed-but-cooler.png",
+        "originalName": "010-relaxed-but-cooler.png",
         "types": [
             "medium"
         ]
@@ -82,7 +92,8 @@
     "011-what-did-you-say-png": {
         "number": 11,
         "label": "What did you say?",
-        "filename": "011-what-did-you-say.png",
+        "outputName": "011-what-did-you-say.png",
+        "originalName": "011-what-did-you-say.png",
         "types": [
             "medium"
         ]
@@ -90,7 +101,8 @@
     "012-jumpy-png": {
         "number": 12,
         "label": "Jumpy",
-        "filename": "012-jumpy.png",
+        "outputName": "012-jumpy.png",
+        "originalName": "012-jumpy.png",
         "types": [
             "wide"
         ]
@@ -98,7 +110,8 @@
     "013-fixing-glasses-png": {
         "number": 13,
         "label": "Fixing glasses",
-        "filename": "013-fixing-glasses.png",
+        "outputName": "013-fixing-glasses.png",
+        "originalName": "013-fixing-glasses.png",
         "types": [
             "medium"
         ]
@@ -106,7 +119,8 @@
     "014-it-is-that-easy-png": {
         "number": 14,
         "label": "It is that easy",
-        "filename": "014-it-is-that-easy.png",
+        "outputName": "014-it-is-that-easy.png",
+        "originalName": "014-it-is-that-easy.png",
         "types": [
             "medium"
         ]
@@ -114,7 +128,8 @@
     "015-strike-a-pose-png": {
         "number": 15,
         "label": "Strike a pose",
-        "filename": "015-strike-a-pose.png",
+        "outputName": "015-strike-a-pose.png",
+        "originalName": "015-strike-a-pose.png",
         "types": [
             "medium"
         ]
@@ -122,7 +137,8 @@
     "016-talk-to-my-back-png": {
         "number": 16,
         "label": "Talk to my back",
-        "filename": "016-talk-to-my-back.png",
+        "outputName": "016-talk-to-my-back.png",
+        "originalName": "016-talk-to-my-back.png",
         "types": [
             "narrow"
         ]
@@ -130,7 +146,8 @@
     "017-legs-crossed-png": {
         "number": 17,
         "label": "Legs crossed",
-        "filename": "017-legs-crossed.png",
+        "outputName": "017-legs-crossed.png",
+        "originalName": "017-legs-crossed.png",
         "types": [
             "narrow"
         ]
@@ -138,7 +155,8 @@
     "018-youre-dead-png": {
         "number": 18,
         "label": "You're dead!",
-        "filename": "018-youre-dead.png",
+        "outputName": "018-youre-dead.png",
+        "originalName": "018-youre-dead.png",
         "types": [
             "medium"
         ]
@@ -146,7 +164,8 @@
     "019-oops-png": {
         "number": 19,
         "label": "Oops",
-        "filename": "019-oops.png",
+        "outputName": "019-oops.png",
+        "originalName": "019-oops.png",
         "types": [
             "medium"
         ]
@@ -154,7 +173,8 @@
     "020-blow-a-kiss-png": {
         "number": 20,
         "label": "Blow a kiss",
-        "filename": "020-blow-a-kiss.png",
+        "outputName": "020-blow-a-kiss.png",
+        "originalName": "020-blow-a-kiss.png",
         "types": [
             "narrow"
         ]
@@ -162,7 +182,8 @@
     "021-show-off-png": {
         "number": 21,
         "label": "Show-off",
-        "filename": "021-show-off.png",
+        "outputName": "021-show-off.png",
+        "originalName": "021-show-off.png",
         "types": [
             "medium"
         ]
@@ -170,7 +191,8 @@
     "022-cutie-hop-png": {
         "number": 22,
         "label": "Cutie hop",
-        "filename": "022-cutie-hop.png",
+        "outputName": "022-cutie-hop.png",
+        "originalName": "022-cutie-hop.png",
         "types": [
             "wide"
         ]
@@ -178,7 +200,8 @@
     "023-the-badass-png": {
         "number": 23,
         "label": "The Badass",
-        "filename": "023-the-badass.png",
+        "outputName": "023-the-badass.png",
+        "originalName": "023-the-badass.png",
         "types": [
             "narrow"
         ]
@@ -186,7 +209,8 @@
     "024-oh-dear-png": {
         "number": 24,
         "label": "Oh dear!",
-        "filename": "024-oh-dear.png",
+        "outputName": "024-oh-dear.png",
+        "originalName": "024-oh-dear.png",
         "types": [
             "medium"
         ]
@@ -194,7 +218,8 @@
     "025-rocker-png": {
         "number": 25,
         "label": "Rocker",
-        "filename": "025-rocker.png",
+        "outputName": "025-rocker.png",
+        "originalName": "025-rocker.png",
         "types": [
             "narrow"
         ]
@@ -202,7 +227,8 @@
     "026-hey-you-png": {
         "number": 26,
         "label": "Hey you!",
-        "filename": "026-hey-you.png",
+        "outputName": "026-hey-you.png",
+        "originalName": "026-hey-you.png",
         "types": [
             "narrow"
         ]
@@ -210,7 +236,8 @@
     "027-looking-for-me-png": {
         "number": 27,
         "label": "Looking for me?",
-        "filename": "027-looking-for-me.png",
+        "outputName": "027-looking-for-me.png",
+        "originalName": "027-looking-for-me.png",
         "types": [
             "medium"
         ]
@@ -218,7 +245,8 @@
     "028-huh-png": {
         "number": 28,
         "label": "Huh",
-        "filename": "028-huh.png",
+        "outputName": "028-huh.png",
+        "originalName": "028-huh.png",
         "types": [
             "narrow"
         ]
@@ -226,7 +254,8 @@
     "029-dont-talk-to-me-png": {
         "number": 29,
         "label": "Don't talk to me",
-        "filename": "029-dont-talk-to-me.png",
+        "outputName": "029-dont-talk-to-me.png",
+        "originalName": "029-dont-talk-to-me.png",
         "types": [
             "narrow"
         ]
@@ -234,7 +263,8 @@
     "030-casual-png": {
         "number": 30,
         "label": "Casual",
-        "filename": "030-casual.png",
+        "outputName": "030-casual.png",
+        "originalName": "030-casual.png",
         "types": [
             "medium"
         ]
@@ -242,7 +272,8 @@
     "031-bunny-ears-png": {
         "number": 31,
         "label": "Bunny ears",
-        "filename": "031-bunny-ears.png",
+        "outputName": "031-bunny-ears.png",
+        "originalName": "031-bunny-ears.png",
         "types": [
             "medium"
         ]
@@ -250,7 +281,8 @@
     "032-2000s-skater-pose-png": {
         "number": 32,
         "label": "2000s skater pose",
-        "filename": "032-2000s-skater-pose.png",
+        "outputName": "032-2000s-skater-pose.png",
+        "originalName": "032-2000s-skater-pose.png",
         "types": [
             "wide"
         ]
@@ -258,7 +290,8 @@
     "033-shy-girl-png": {
         "number": 33,
         "label": "Shy girl",
-        "filename": "033-shy-girl.png",
+        "outputName": "033-shy-girl.png",
+        "originalName": "033-shy-girl.png",
         "types": [
             "narrow"
         ]
@@ -266,7 +299,8 @@
     "034-oops-was-that-me-png": {
         "number": 34,
         "label": "Opps, was that me?",
-        "filename": "034-opps-was-that-me.png",
+        "outputName": "034-opps-was-that-me.png",
+        "originalName": "034-oops-was-that-me.png",
         "types": [
             "narrow"
         ]
@@ -274,7 +308,8 @@
     "035-flamingo-png": {
         "number": 35,
         "label": "Flamingo",
-        "filename": "035-flamingo.png",
+        "outputName": "035-flamingo.png",
+        "originalName": "035-flamingo.png",
         "types": [
             "medium"
         ]
@@ -282,7 +317,8 @@
     "036-beats-me-png": {
         "number": 36,
         "label": "Beats me.",
-        "filename": "036-beats-me.png",
+        "outputName": "036-beats-me.png",
+        "originalName": "036-beats-me.png",
         "types": [
             "medium"
         ]
@@ -290,7 +326,8 @@
     "037-fashionable-png": {
         "number": 37,
         "label": "Fashionable",
-        "filename": "037-fashionable.png",
+        "outputName": "037-fashionable.png",
+        "originalName": "037-fashionable.png",
         "types": [
             "medium"
         ]
@@ -298,7 +335,8 @@
     "038-dirt-on-my-boots-png": {
         "number": 38,
         "label": "Dirt on my boots",
-        "filename": "038-dirt-on-my-boots.png",
+        "outputName": "038-dirt-on-my-boots.png",
+        "originalName": "038-dirt-on-my-boots.png",
         "types": [
             "medium"
         ]
@@ -306,7 +344,8 @@
     "039-whatcha-doing-png": {
         "number": 39,
         "label": "Whatcha doing?",
-        "filename": "039-whatcha-doing.png",
+        "outputName": "039-whatcha-doing.png",
+        "originalName": "039-whatcha-doing.png",
         "types": [
             "medium"
         ]
@@ -314,7 +353,8 @@
     "040-stretching-png": {
         "number": 40,
         "label": "Stretching",
-        "filename": "040-stretching.png",
+        "outputName": "040-stretching.png",
+        "originalName": "040-stretching.png",
         "types": [
             "medium"
         ]
@@ -322,7 +362,8 @@
     "041-sexy-sit-png": {
         "number": 41,
         "label": "Sexy sit",
-        "filename": "041-sexy-sit.png",
+        "outputName": "041-sexy-sit.png",
+        "originalName": "041-sexy-sit.png",
         "types": [
             "wide",
             "sitting"
@@ -331,7 +372,8 @@
     "042-hot-seat-png": {
         "number": 42,
         "label": "Hot seat",
-        "filename": "042-hot-seat.png",
+        "outputName": "042-hot-seat.png",
+        "originalName": "042-hot-seat.png",
         "types": [
             "wide",
             "sitting"
@@ -340,7 +382,8 @@
     "043-walking-over-png": {
         "number": 43,
         "label": "Walking over",
-        "filename": "043-walking-over.png",
+        "outputName": "043-walking-over.png",
+        "originalName": "043-walking-over.png",
         "types": [
             "medium"
         ]
@@ -348,7 +391,8 @@
     "044-power-pose-png": {
         "number": 44,
         "label": "Power pose",
-        "filename": "044-power-pose.png",
+        "outputName": "044-power-pose.png",
+        "originalName": "044-power-pose.png",
         "types": [
             "medium"
         ]
@@ -356,7 +400,8 @@
     "045-thinking-png": {
         "number": 45,
         "label": "Thinking",
-        "filename": "045-thinking.png",
+        "outputName": "045-thinking.png",
+        "originalName": "045-thinking.png",
         "types": [
             "narrow"
         ]
@@ -364,7 +409,8 @@
     "046-sexy-showoff-png": {
         "number": 46,
         "label": "Sexy showoff",
-        "filename": "046-sexy-showoff.png",
+        "outputName": "046-sexy-showoff.png",
+        "originalName": "046-sexy-showoff.png",
         "types": [
             "narrow"
         ]
@@ -372,7 +418,8 @@
     "047-kitty-png": {
         "number": 47,
         "label": "Kitty",
-        "filename": "047-kitty.png",
+        "outputName": "047-kitty.png",
+        "originalName": "047-kitty.png",
         "types": [
             "narrow"
         ]
@@ -380,7 +427,8 @@
     "048-pitiful-png": {
         "number": 48,
         "label": "Pitiful",
-        "filename": "048-pitiful.png",
+        "outputName": "048-pitiful.png",
+        "originalName": "048-pitiful.png",
         "types": [
             "medium"
         ]
@@ -388,7 +436,8 @@
     "049-peace-png": {
         "number": 49,
         "label": "Peace",
-        "filename": "049-peace.png",
+        "outputName": "049-peace.png",
+        "originalName": "049-peace.png",
         "types": [
             "narrow"
         ]
@@ -396,7 +445,8 @@
     "050-posing-time-png": {
         "number": 50,
         "label": "Posing time",
-        "filename": "050-posing-time.png",
+        "outputName": "050-posing-time.png",
+        "originalName": "050-posing-time.png",
         "types": [
             "medium"
         ]
@@ -404,7 +454,8 @@
     "051-what-are-you-waiting-for-png": {
         "number": 51,
         "label": "What are you waiting for?",
-        "filename": "051-what-are-you-waiting-for.png",
+        "outputName": "051-what-are-you-waiting-for.png",
+        "originalName": "051-what-are-you-waiting-for.png",
         "types": [
             "wide",
             "lying-down"
@@ -413,7 +464,8 @@
     "052-blasphemy-png": {
         "number": 52,
         "label": "Blasphemy!",
-        "filename": "052-blasphemy.png",
+        "outputName": "052-blasphemy.png",
+        "originalName": "052-blasphemy.png",
         "types": [
             "narrow"
         ]
@@ -421,7 +473,8 @@
     "053-all-okay-png": {
         "number": 53,
         "label": "All okay!",
-        "filename": "053-all-okay.png",
+        "outputName": "053-all-okay.png",
+        "originalName": "053-all-okay.png",
         "types": [
             "narrow"
         ]
@@ -429,7 +482,8 @@
     "054-jacko-challenge-png": {
         "number": 54,
         "label": "Jacko challenge",
-        "filename": "054-jacko-challenge.png",
+        "outputName": "054-jacko-challenge.png",
+        "originalName": "054-jacko-challenge.png",
         "types": [
             "wide",
             "lying-down"
@@ -438,7 +492,8 @@
     "055-so-exhausting-png": {
         "number": 55,
         "label": "So exhausting",
-        "filename": "055-so-exhausting.png",
+        "outputName": "055-so-exhausting.png",
+        "originalName": "055-so-exhausting.png",
         "types": [
             "medium"
         ]
