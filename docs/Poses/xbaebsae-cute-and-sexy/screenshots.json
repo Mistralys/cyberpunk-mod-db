@@ -298,8 +298,8 @@
     },
     "034-oops-was-that-me-png": {
         "number": 34,
-        "label": "Opps, was that me?",
-        "outputName": "034-opps-was-that-me.png",
+        "label": "Oops, was that me?",
+        "outputName": "034-oops-was-that-me.png",
         "originalName": "034-oops-was-that-me.png",
         "types": [
             "narrow"
