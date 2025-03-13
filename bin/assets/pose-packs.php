@@ -15,6 +15,7 @@ use AppUtils\FileHelper\FileInfo;
 use AppUtils\FileHelper\FolderInfo;
 use AppUtils\FileHelper\JSONFile;
 use function AppUtils\t;
+use const CPMDB\Config\CPMDB_SOURCES_FOLDER;
 
 function getImageTypes() : array
 {
@@ -113,7 +114,7 @@ function getPosePackOriginalImagesData(string $posePackID) : array
         $entry = array(
             'id' => $id,
             'number' => $number,
-            'url' => '../docs/Poses/'.$posePackID.'/'.ORIGINAL_SCREENS_FOLDER.'/' . $image->getName(),
+            'url' => '?page=pose-packs&pose-pack='.$posePackID.'&action=view-screenshot&screenshot-name=' . $image->getName(),
             'label' => '',
             'types' => array(''),
             'outputName' => '(' . t('save to generate file name') . ')',
@@ -155,17 +156,22 @@ function getPosePackOutputImages(string $posePackID) : array
 
 function getPosePackImagesOutputFolder(string $posePackID) : FolderInfo
 {
-    return FolderInfo::factory(getPosePackFolder($posePackID).'/'.BUILD_SCREENS_FOLDER);
+    return FolderInfo::factory(getPosePackSourceFolder($posePackID).'/'.BUILD_SCREENS_FOLDER);
 }
 
 function getPosePackOriginalImagesFolder(string $posePackID) : FolderInfo
 {
-    return FolderInfo::factory(getPosePackFolder($posePackID).'/'.ORIGINAL_SCREENS_FOLDER);
+    return FolderInfo::factory(getPosePackSourceFolder($posePackID).'/'.ORIGINAL_SCREENS_FOLDER);
 }
 
 function getPosePackFolder(string $posePackID) : FolderInfo
 {
     return FolderInfo::factory(getPosesFolder().'/'.$posePackID);
+}
+
+function getPosePackSourceFolder(string $posePackID) : FolderInfo
+{
+    return FolderInfo::factory(CPMDB_SOURCES_FOLDER.'/Poses/'.$posePackID);
 }
 
 function getPosesFolder() : FolderInfo
