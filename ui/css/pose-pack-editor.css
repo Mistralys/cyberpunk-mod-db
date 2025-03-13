@@ -18,5 +18,9 @@ B.number{
     font-family: monospace;
     font-size: 12pt;
     text-align: right;
-    display:block;
+    display: block;
+}
+
+.pose-pack-entry{
+    padding-bottom: 0.8rem;
 }
