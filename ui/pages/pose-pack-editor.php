@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace CPMDB\UI\Pages;
 
 use AppUtils\ConvertHelper;
+use AppUtils\JSHelper;
 use AppUtils\Request;
 use function AppLocalize\pt;
 use function AppUtils\t;
@@ -32,7 +33,7 @@ if($request->getParam('save') === 'yes')
 }
 
 /**
- * @return array<string,array{id:string,number:int,filename:string,label:string,types:string[]}>
+ * @return array<string,array{id:string,number:int,outputName:string,originalName:string,label:string,types:string[]}>
  */
 function getSubmittedImages(string $posePackID) : array
 {
@@ -43,6 +44,7 @@ function getSubmittedImages(string $posePackID) : array
     }
 
     $existing = getPosePackScreensData($posePackID);
+    $originals = getPosePackOriginalImagesData($posePackID);
 
     $number = 0;
     foreach($data as $id => $def) {
@@ -55,7 +57,8 @@ function getSubmittedImages(string $posePackID) : array
         $entry = array(
             'number' => $number,
             'label' => $def['label'],
-            'filename' => sprintf('%03d', $number).'-'.ConvertHelper::transliterate($def['label']).'.png',
+            'outputName' => sprintf('%03d', $number).'-'.ConvertHelper::transliterate($def['label']).'.png',
+            'originalName' => $originals[$id]['originalName'],
             'types' => $def['types']
         );
 
@@ -105,7 +108,7 @@ $posePack = getPosePackData($posePackID);
             </p>
             <p>
                 <b class="number"><?php echo sprintf('%02d', $image['number']) ?></b>
-                <span class="filename"><?php echo $image['filename'] ?></span>
+                <span class="filename"><?php echo $image['outputName'] ?></span>
             </p>
             <p>
                 <input
