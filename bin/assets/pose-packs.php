@@ -1,4 +1,9 @@
 <?php
+/**
+ * Functions for accessing pose pack data.
+ *
+ * @package CPDM
+ */
 
 declare(strict_types=1);
 
@@ -33,7 +38,26 @@ function getPosePackScreensFile(string $posePackID) : JSONFile
 
 /**
  * @param string $posePackID
- * @return array<string,array{number:int,filename:string,label:string,types:string[]}>
+ * @return string[]
+ */
+function getPosePackScreenIDs(string $posePackID) : array
+{
+    return array_keys(getPosePackScreensData($posePackID));
+}
+
+/**
+ * @param string $posePackID
+ * @param string $screenID
+ * @return array{number:int,outputName:string,originalName:string,label:string,types:string[]}
+ */
+function getPosePackScreenData(string $posePackID, string $screenID) : array
+{
+    return getPosePackScreensData($posePackID)[$screenID] ?? array();
+}
+
+/**
+ * @param string $posePackID
+ * @return array<string,array{number:int,outputName:string,originalName:string,label:string,types:string[]}>
  */
 function getPosePackScreensData(string $posePackID) : array
 {
@@ -92,15 +116,15 @@ function getPosePackOriginalImagesData(string $posePackID) : array
             'url' => '../docs/Poses/'.$posePackID.'/'.ORIGINAL_SCREENS_FOLDER.'/' . $image->getName(),
             'label' => '',
             'types' => array(''),
-            'filename' => '(' . t('save to generate file name') . ')',
-            'originalName' => $image->getBaseName()
+            'outputName' => '(' . t('save to generate file name') . ')',
+            'originalName' => $image->getName()
         );
 
         if (isset($existing[$id])) {
             $entry['number'] = $existing[$id]['number'] ?? $number;
             $entry['label'] = $existing[$id]['label'] ?? '';
             $entry['types'] = $existing[$id]['types'] ?? array();
-            $entry['filename'] = $existing[$id]['filename'] ?? '';
+            $entry['outputName'] = $existing[$id]['outputName'] ?? '';
         }
 
         $result[$id] = $entry;
@@ -109,7 +133,27 @@ function getPosePackOriginalImagesData(string $posePackID) : array
     return $result;
 }
 
-function getPosePackImagesFolder(string $posePackID) : FolderInfo
+/**
+ * Gets all image files from the Pose Pack's output folder.
+ *
+ * @param string $posePackID
+ * @return FileInfo[]
+ */
+function getPosePackOutputImages(string $posePackID) : array
+{
+    $folder = getPosePackImagesOutputFolder($posePackID);
+    if(!$folder->exists()) {
+        return array();
+    }
+
+    return $folder
+        ->createFileFinder()
+        ->includeExtension('png')
+        ->getFiles()
+        ->typeANY();
+}
+
+function getPosePackImagesOutputFolder(string $posePackID) : FolderInfo
 {
     return FolderInfo::factory(getPosePackFolder($posePackID).'/'.BUILD_SCREENS_FOLDER);
 }
@@ -155,7 +199,7 @@ function getPosePackIDs() : array
 
 /**
  * @param string $posePackID
- * @return array{id:string,label:string,cutLeft:int,cutRight:int}
+ * @return array{id:string,label:string,cutX:int,cutY:int,cutHeight:int}
  * @throws BaseException {@see ERROR_POSE_PACK_NOT_FOUND}
  */
 function getPosePackData(string $posePackID) : array
@@ -179,7 +223,7 @@ const ERROR_POSE_PACK_NOT_FOUND = 175401;
 
 /**
  * Gets all pose packs data.
- * @return array<int,array{id:string,label:string,cutLeft:int,cutRight:int}>
+ * @return array<int,array{id:string,label:string,cutX:int,cutY:int,cutHeight:int}>
  */
 function getPosePacksData() : array
 {
@@ -193,14 +237,37 @@ function getPosePacksData() : array
         $result[] = array(
             'id' => $id,
             'label' => $entry['label'] ?? '',
-            'cutLeft' => $entry['cutLeft'] ?? 0,
-            'cutRight' => $entry['cutRight'] ?? 0
+            'cutX' => $entry['cutX'] ?? 0,
+            'cutY' => $entry['cutY'] ?? 0,
+            'cutHeight' => $entry['cutHeight'] ?? 0
         );
     }
 
     usort($result, function (array $a, array $b) : int {
         return strnatcasecmp($a['label'], $b['label']);
     });
+
+    return $result;
+}
+
+/**
+ * @return array<int,array{label:string,images:FileInfo[]}>
+ */
+function getPoseReferencePosterImages() : array
+{
+    $result = array();
+    foreach(getPosePacksData() as $posePack) {
+        $folder = getPosePackFolder($posePack['id']);
+        $result[] = array(
+            'posePackID' => $posePack['id'],
+            'label' => $posePack['label'],
+            'images' => $folder
+                ->createFileFinder()
+                ->includeExtension('jpg')
+                ->getFiles()
+                ->typeANY()
+        );
+    }
 
     return $result;
 }
