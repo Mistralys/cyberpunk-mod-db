@@ -1,6 +1,8 @@
 # Pose Reference
 
-## Xbaebsae - Cute and Sexy
+## Angy Pose Packs - Cute and Sexy
+
+[Pose pack mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/6871)
 
 ![01-05](xbaebsae-cute-and-sexy/01-05.jpg)
 ![05-10](xbaebsae-cute-and-sexy/05-10.jpg)
@@ -15,6 +17,8 @@
 ![50-55](xbaebsae-cute-and-sexy/50-55.jpg)
 
 ## Zwei x Rev - Fashion
+
+[Pose pack mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/7156)
 
 ![01-05](zwei-fashion/01-05.jpg)
 ![05-10](zwei-fashion/05-10.jpg)

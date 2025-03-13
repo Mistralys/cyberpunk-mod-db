@@ -223,7 +223,7 @@ const ERROR_POSE_PACK_NOT_FOUND = 175401;
 
 /**
  * Gets all pose packs data.
- * @return array<int,array{id:string,label:string,cutX:int,cutY:int,cutHeight:int}>
+ * @return array<int,array{id:string,label:string,url:string,cutX:int,cutY:int,cutHeight:int}>
  */
 function getPosePacksData() : array
 {
@@ -237,6 +237,7 @@ function getPosePacksData() : array
         $result[] = array(
             'id' => $id,
             'label' => $entry['label'] ?? '',
+            'url' => $entry['url'] ?? '',
             'cutX' => $entry['cutX'] ?? 0,
             'cutY' => $entry['cutY'] ?? 0,
             'cutHeight' => $entry['cutHeight'] ?? 0
@@ -261,6 +262,7 @@ function getPoseReferencePosterImages() : array
         $result[] = array(
             'posePackID' => $posePack['id'],
             'label' => $posePack['label'],
+            'url' => $posePack['url'],
             'images' => $folder
                 ->createFileFinder()
                 ->includeExtension('jpg')

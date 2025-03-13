@@ -244,6 +244,7 @@ function generatePoseReferenceDoc() : void
         logInfo('- Pose pack %s', $pack['label']);
 
         $markdown .= "## {$pack['label']}\n\n";
+        $markdown .= "[Pose pack mod homepage]({$pack['url']})\n\n";
         foreach($pack['images'] as $image) {
             $markdown .= "![{$image->getBaseName()}]({$pack['posePackID']}/{$image->getName()})\n";
         }
