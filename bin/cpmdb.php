@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace CPMDB\Bin;
+
 use function CPMB\Assets\buildRelease;
 use function CPMB\Assets\getBuildReleaseArg;
 use function CPMDB\Assets\addCategory;
@@ -44,9 +46,7 @@ use function CPMDB\Assets\normalizeFile;
 use function CPMDB\Assets\normalizeTagDefs;
 use function CPMDB\Assets\showUsage;
 
-require_once __DIR__ . '/../vendor/autoload.php';
-
-$commands = getCLICommands();
+require_once __DIR__ . '/../boostrap.php';
 
 if(getHelpArg() !== null) {
     showUsage();
