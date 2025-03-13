@@ -6,20 +6,27 @@ use function CPMB\Assets\buildRelease;
 use function CPMB\Assets\getBuildReleaseArg;
 use function CPMDB\Assets\addCategory;
 use function CPMDB\Assets\addScreenshot;
+use function CPMDB\Assets\buildPoses;
 use function CPMDB\Assets\checkScreenshots;
 use function CPMDB\Assets\createNew;
 use function CPMDB\Assets\displayMessages;
 use function CPMDB\Assets\generateAteliersReference;
 use function CPMDB\Assets\generateCETCodes;
 use function CPMDB\Assets\generateModsList;
+use function CPMDB\Assets\generatePoseReferenceDoc;
+use function CPMDB\Assets\generatePosePosters;
+use function CPMDB\Assets\cropPosePackImages;
 use function CPMDB\Assets\generateTagsReference;
 use function CPMDB\Assets\getAddCategoryArg;
 use function CPMDB\Assets\getAddScreenshotArg;
 use function CPMDB\Assets\getAteliersReferenceArg;
+use function CPMDB\Assets\getBuildPosesArg;
 use function CPMDB\Assets\getCETCodesArg;
 use function CPMDB\Assets\getCheckScreenshotsArg;
 use function CPMDB\Assets\getCLICommands;
 use function CPMDB\Assets\getCreateArg;
+use function CPMDB\Assets\getGeneratePosterRowsArg;
+use function CPMDB\Assets\getCropPoseImagesArg;
 use function CPMDB\Assets\getHelpArg;
 use function CPMDB\Assets\getModArg;
 use function CPMDB\Assets\getModFile;
@@ -28,6 +35,8 @@ use function CPMDB\Assets\getNormalizeAllArg;
 use function CPMDB\Assets\getNormalizeArg;
 use function CPMDB\Assets\getNormalizeAteliersArg;
 use function CPMDB\Assets\getNormalizeTagsArg;
+use function CPMDB\Assets\getPosePackArg;
+use function CPMDB\Assets\getPoseReferenceDocArg;
 use function CPMDB\Assets\getTagsReferenceArg;
 use function CPMDB\Assets\normalizeAllMods;
 use function CPMDB\Assets\normalizeAteliers;
@@ -45,6 +54,7 @@ if(getHelpArg() !== null) {
 }
 
 $modID = getModArg();
+$posePackID = getPosePackArg();
 
 if(!empty($modID))
 {
@@ -122,6 +132,31 @@ else
     if (getNormalizeTagsArg() !== null) {
         normalizeTagDefs();
         displayMessages();
+        exit;
+    }
+}
+
+if(!empty($posePackID))
+{
+    if(getCropPoseImagesArg() !== null) {
+        cropPosePackImages($posePackID);
+        exit;
+    }
+
+    if(getGeneratePosterRowsArg() !== null) {
+        generatePosePosters($posePackID);
+        exit;
+    }
+}
+else
+{
+    if(getPoseReferenceDocArg() !== null) {
+        generatePoseReferenceDoc();
+        exit;
+    }
+
+    if(getBuildPosesArg() !== null) {
+        buildPoses();
         exit;
     }
 }
