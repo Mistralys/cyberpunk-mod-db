@@ -21,52 +21,6 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "Jacket (Short)",
-            "icon": "jacket-short",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "nd_alt_jacket_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "nd_alt_jacket_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "nd_alt_jacket_brown"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "nd_alt_jacket_burgundy"
-                },
-                {
-                    "name": "Default",
-                    "code": "nd_alt_jacket_default"
-                },
-                {
-                    "name": "Green",
-                    "code": "nd_alt_jacket_green"
-                },
-                {
-                    "name": "Pink",
-                    "code": "nd_alt_jacket_pink"
-                },
-                {
-                    "name": "Red",
-                    "code": "nd_alt_jacket_red"
-                },
-                {
-                    "name": "White",
-                    "code": "nd_alt_jacket_white"
-                }
-            ]
-        },
-        {
             "label": "Jacket",
             "icon": "jacket",
             "tags": [
@@ -109,6 +63,52 @@
                 {
                     "name": "White",
                     "code": "nd_alt_jacket2_white"
+                }
+            ]
+        },
+        {
+            "label": "Jacket (Short)",
+            "icon": "jacket-short",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_alt_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_alt_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "nd_alt_jacket_brown"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_alt_jacket_burgundy"
+                },
+                {
+                    "name": "Default",
+                    "code": "nd_alt_jacket_default"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_alt_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_alt_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_alt_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_alt_jacket_white"
                 }
             ]
         },
@@ -158,9 +158,9 @@
             "label": "Pants with Cyberdeck",
             "icon": "pants-cyberdeck",
             "tags": [
+                "Accessories",
                 "Legs",
-                "Pants",
-                "Accessories"
+                "Pants"
             ],
             "items": [
                 {
@@ -219,12 +219,12 @@
             "label": "Shorts with Cyberdeck",
             "icon": "shorts-cyberdeck",
             "tags": [
+                "Accessories",
                 "Legs",
-                "Shorts",
-                "Accessories"
+                "Shorts"
             ],
             "items": [
-               {
+                {
                     "name": "Default Black",
                     "code": "nd_alt_pants2_defaultblack"
                 },

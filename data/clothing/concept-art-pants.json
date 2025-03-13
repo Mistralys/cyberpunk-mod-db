@@ -2,19 +2,21 @@
     "mod": "Concept Art Pants",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/3874",
     "atelier": "",
+    "atelierName": "",
     "authors": [
         "Eye of Center",
         "EyeofCenter"
     ],
     "tags": [
-        "Clothing",
         "Body-Vanilla",
+        "Clothing",
         "FemV",
+        "Legs",
         "MaleV",
-        "Pants",
-        "Legs"
+        "Pants"
     ],
     "comments": "The original leather pants we saw E3 Female V wearing in the 48 Minute Gameplay Trailer.",
+    "searchTweaks": "center",
     "itemCategories": [
         {
             "label": "",
