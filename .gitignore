@@ -5,3 +5,4 @@ composer.phar
 /data/clothing/normalized
 docs/Poses/zwei-fashion/Screens/*.png
 docs/Poses/xbaebsae-cute-and-sexy/Screens/*.png
+config.php
