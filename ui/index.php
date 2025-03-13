@@ -23,6 +23,9 @@ switch($request->registerParam('page')->getString())
         $id = getPosePackIDFromRequest();
         if($id !== null) {
             switch(resolveAction()) {
+                case 'view-screenshot':
+                    require_once __DIR__ . '/pages/pose-pack-screenshot.php';
+                    break;
                 case 'generate':
                     require_once __DIR__ . '/pages/pose-pack-generator.php';
                     break;
