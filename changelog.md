@@ -1,4 +1,4 @@
-## v2.2.3 - New mods
+## v2.2.3 - New mods and Pose Pack references
 - Mods: Added "Boudoir Part 19" by Veegee.
 - Mods: Added "Lizzy Wizzy Headset" by LilyDelta.
 - Mods: Added "Tactical Style Outfit" by Veegee.
@@ -13,6 +13,10 @@
 - Screenshots: Updated "Arasaka Corpo Shirt".
 - Ateliers: Added "Lily Delta Boutiques" by LilyDelta.
 - Ateliers: Added "Veegee Shop 3" by Veegee.
+- Poses: Added some JSON data files to describe pose packs.
+- Poses: Added the "Zwei x Rev - Fashion" pose pack reference.
+- Poses: Added a UI to edit pose screenshot information.
+- Poses: Added command line commands to crop, label and generate pose images.
 
 ## v2.2.2 - New mods
 - Mods: Added "Caged Bracelet" by Breezypunk.
