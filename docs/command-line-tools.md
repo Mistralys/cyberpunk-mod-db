@@ -117,20 +117,3 @@ Building / preparing the release involves:
 ```bash
 php bin/cpmdb.php build
 ```
-
-## Screenshotting
-
-### Step 1: Create the outfits
-
-In the wardrobe, create and save the outfits you want to screenshot.
-This way they can be switched without having to reconfigure the
-photo mode setup every time.
-
-> It also makes it possible to take screenshots with the character
-> staying in the exact same pose and position.
-
-### Step 2: Set up the photo mode
-
-- Turn off Depth of Field
-- Set time to approximately 15:20
- 
