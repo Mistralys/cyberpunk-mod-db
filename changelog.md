@@ -7,10 +7,7 @@
 - Mods: Added a link to a related mod for "Jacket Bolero Hex" by Apzurv.
 - Mods: Fixed wrong item codes for the Jacket 2 in "Alt Jacket and Pants".
 - Mods: Improved item categories in "Alt Jacket and Pants".
-- Screenshots: Updated "Alt Jacket and Pants".
-- Screenshots: Updated "Arasaka Sports Wear v2".
-- Screenshots: Updated "Arasaka Jacket".
-- Screenshots: Updated "Arasaka Corpo Shirt".
+- Screenshots: Updated a number of older screenshots to improve them.
 - Ateliers: Added "Lily Delta Boutiques" by LilyDelta.
 - Ateliers: Added "Veegee Shop 3" by Veegee.
 - Poses: Added some JSON data files to describe pose packs.
