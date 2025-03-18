@@ -1,7 +1,8 @@
 ## Mods List
 
-Total available mods: 185
+Total available mods: 188
 
+* [Ada Wong Outfit Reworked](https://www.nexusmods.com/cyberpunk2077/mods/7234) by Apzurv and EzioMaverick
 * [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
 * [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
 * [Alt Cunningham's Choker](https://www.nexusmods.com/cyberpunk2077/mods/6947) by complectedd and mistshield
@@ -118,6 +119,7 @@ Total available mods: 185
 * [Negan Jacket](https://www.nexusmods.com/cyberpunk2077/mods/17382) by Rosslin
 * [Neon Razor Outfit](https://www.nexusmods.com/cyberpunk2077/mods/17339) by Rosslin and Rosslinn
 * [Net Pozer Jacket and Cyberdeck Armband](https://www.nexusmods.com/cyberpunk2077/mods/18715) by Sumi and SumiTerra
+* [Netrunner Coat](https://www.nexusmods.com/cyberpunk2077/mods/6231) by mynameisfive
 * [Netrunner Combat Top](https://www.nexusmods.com/cyberpunk2077/mods/4939) by Apzurv and EzioMaverick
 * [Night Top Vol. 1](https://www.nexusmods.com/cyberpunk2077/mods/16625) by Tottes
 * [NPC Accessories](https://www.nexusmods.com/cyberpunk2077/mods/8985) by DISCO and deadengine959
@@ -166,6 +168,7 @@ Total available mods: 185
 * [Turtleneck Top](https://www.nexusmods.com/cyberpunk2077/mods/4881) by EzioMaverick and apzurv
 * [Turtleneck Top Camo](https://www.nexusmods.com/cyberpunk2077/mods/19025) by EzioMaverick and apzurv
 * [V's Favorite Top](https://www.nexusmods.com/cyberpunk2077/mods/15130) by Rosapexa and sRosapexa
+* [Valby Outfit](https://www.nexusmods.com/cyberpunk2077/mods/16187) by Subleader and Subleader100
 * [Vi Jacket and Gauntlet](https://www.nexusmods.com/cyberpunk2077/mods/17842) by Dusty2077
 * [Voronoi Cage Dress](https://www.nexusmods.com/cyberpunk2077/mods/15094) by CaffeinatedRogue
 * [Wrap Around Dress](https://www.nexusmods.com/cyberpunk2077/mods/8894) by AlvarixPT

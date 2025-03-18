@@ -53,6 +53,7 @@ is holographic. Searching for holographic items will return only the holographic
 - `Glasses`
 - `Gloves`
 - `Hat`
+- `Helmet`
 - `Jacket` - Jacket, Blazer, Bolero
 - `Jewelry`
 - `Leggings` - Leggings, stretch pants

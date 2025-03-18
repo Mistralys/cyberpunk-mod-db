@@ -23,6 +23,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [Disco's Store](#discos-store)
 - [Dusty Virtual Atelier](#dusty-virtual-atelier)
 - [Flower Shop](#flower-shop)
+- [Frail Inc](#frail-inc)
 - [Hyst Atelier Store](#hyst-atelier-store)
 - [KMKC's Virtual Atelier](#kmkcs-virtual-atelier)
 - [Kwek's Family Jewels](#kweks-family-jewels)
@@ -177,6 +178,12 @@ Mods: 1 | Authors: FrauBlume | [Source](https://www.nexusmods.com/cyberpunk2077/
 
 - [Spiky Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/16664)
 
+### Frail Inc
+
+Mods: 1 | Authors: mynameisfive | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6232)
+
+- [Netrunner Coat](https://www.nexusmods.com/cyberpunk2077/mods/6231)
+
 ### Hyst Atelier Store
 
 Mods: 3 | Authors: Hyst, LxRHyst | [Source](https://www.nexusmods.com/cyberpunk2077/mods/6015)
@@ -245,8 +252,9 @@ Mods: 10 | Authors: MONSTERaider | [Source](https://www.nexusmods.com/cyberpunk2
 
 ### NC Fashion
 
-Mods: 41 | Authors: Apzurv, EzioMaverick | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+Mods: 42 | Authors: Apzurv, EzioMaverick | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
+- [Ada Wong Outfit Reworked](https://www.nexusmods.com/cyberpunk2077/mods/7234)
 - [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027)
 - [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896)
 - [Arasaka Sports Wear V2](https://www.nexusmods.com/cyberpunk2077/mods/4890)
@@ -381,10 +389,11 @@ Mods: 2 | Authors: Kwek, kweknexuss | [Source](https://www.nexusmods.com/cyberpu
 
 ### Subleader Virtual Atelier
 
-Mods: 2 | Authors: Subleader, Subleader100 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14747)
+Mods: 3 | Authors: Subleader, Subleader100 | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14747)
 
 - [Hailey Outfit](https://www.nexusmods.com/cyberpunk2077/mods/16476)
 - [Nanosuit](https://www.nexusmods.com/cyberpunk2077/mods/14677)
+- [Valby Outfit](https://www.nexusmods.com/cyberpunk2077/mods/16187)
 
 ### SumiStyle Corporate Atelier
 
