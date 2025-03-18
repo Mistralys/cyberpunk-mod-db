@@ -855,6 +855,16 @@
             "Mask"
         ]
     },
+    "Helmet": {
+        "description": "Helmet",
+        "category": "Clothing items",
+        "aliases": [
+            "helmets"
+        ],
+        "requiredTags": [
+            "Head"
+        ]
+    },
     "Holo": {
         "description": "Holographic items",
         "category": "Item properties",
