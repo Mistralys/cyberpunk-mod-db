@@ -1,0 +1,295 @@
+{
+    "mod": "Valby Outfit",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/16187",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14747",
+    "atelierName": "Subleader Virtual Atelier",
+    "authors": [
+        "Subleader",
+        "Subleader100"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "comments": "Inspired by Valby's outfit from the game 'The First Descendant'.",
+    "itemCategories": [
+        {
+            "label": "Helmet",
+            "icon": "helmet",
+            "tags": [
+                "Head",
+                "Helmet"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_valby_helmet_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_valby_helmet_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_valby_helmet_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_valby_helmet_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "sub_valby_helmet_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_valby_helmet_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_valby_helmet_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_valby_helmet_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_valby_helmet_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_valby_helmet_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_valby_helmet_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_valby_helmet_tan"
+                }
+            ]
+        },
+        {
+            "label": "Helmet, Wide",
+            "tags": [
+                "Head",
+                "Helmet"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_valby_helmet_wide_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_valby_helmet_wide_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_valby_helmet_wide_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_valby_helmet_wide_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "sub_valby_helmet_wide_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_valby_helmet_wide_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_valby_helmet_wide_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_valby_helmet_wide_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_valby_helmet_wide_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_valby_helmet_wide_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_valby_helmet_wide_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_valby_helmet_wide_tan"
+                }
+            ]
+        },
+        {
+            "label": "Jacket",
+            "icon": "jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_valby_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_valby_jacket_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_valby_jacket_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_valby_jacket_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "sub_valby_jacket_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_valby_jacket_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_valby_jacket_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_valby_jacket_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_valby_jacket_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_valby_jacket_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_valby_jacket_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_valby_jacket_tan"
+                }
+            ]
+        },
+        {
+            "label": "Suit, Single Color",
+            "icon": "suit",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_valby_bodysuit_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sub_valby_bodysuit_blue"
+                },
+                {
+                    "name": "Gray",
+                    "code": "sub_valby_bodysuit_gray"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_valby_bodysuit_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "sub_valby_bodysuit_orange"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sub_valby_bodysuit_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_valby_bodysuit_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_valby_bodysuit_rose"
+                },
+                {
+                    "name": "Skin 01",
+                    "code": "sub_valby_bodysuit_skin_01"
+                },
+                {
+                    "name": "Skin 02",
+                    "code": "sub_valby_bodysuit_skin_02"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_valby_bodysuit_standard"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_valby_bodysuit_tan"
+                }
+            ]
+        },
+        {
+            "label": "Suit, Two-Colored",
+            "icon": "suit",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black & Gold",
+                    "code": "sub_valby_bodysuit_skin_01_black"
+                },
+                {
+                    "name": "Black & White",
+                    "code": "sub_valby_bodysuit_skin_01_black_white"
+                },
+                {
+                    "name": "Blue & Black",
+                    "code": "sub_valby_bodysuit_skin_01_blue_black"
+                },
+                {
+                    "name": "Green & Black",
+                    "code": "sub_valby_bodysuit_skin_01_green_black"
+                },
+                {
+                    "name": "Purple & White",
+                    "code": "sub_valby_bodysuit_skin_01_purple_white"
+                },
+                {
+                    "name": "Red & Black",
+                    "code": "sub_valby_bodysuit_skin_01_red_black"
+                },
+                {
+                    "name": "Rose & White",
+                    "code": "sub_valby_bodysuit_skin_01_rose_white"
+                },
+                {
+                    "name": "Tan & Black",
+                    "code": "sub_valby_bodysuit_skin_01_tan_black"
+                },
+                {
+                    "name": "White & Gray",
+                    "code": "sub_valby_bodysuit_skin_01_white"
+                }
+            ]
+        }
+    ]
+}
