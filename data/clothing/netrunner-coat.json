@@ -1,0 +1,126 @@
+{
+    "mod": "Netrunner Coat",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/6231",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/6232",
+    "atelierName": "Frail Inc",
+    "authors": [
+        "mynameisfive"
+    ],
+    "tags": [
+        "Body-Gymfiend",
+        "Body-Vanilla",
+        "Clothing",
+        "Coat",
+        "FullBody",
+        "GarmentSupport",
+        "MaleV"
+    ],
+    "itemCategories": [
+        {
+            "label": "",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Albino",
+                    "code": "gh0st_NetrunnerCoat_Albino"
+                },
+                {
+                    "name": "Arasaka 01",
+                    "code": "gh0st_NetrunnerCoat_Arasaka_01"
+                },
+                {
+                    "name": "Arasaka Glossy",
+                    "code": "gh0st_NetrunnerCoat_Arasaka_Glossy"
+                },
+                {
+                    "name": "Canvas Beige",
+                    "code": "gh0st_NetrunnerCoat_Canvas_Beige"
+                },
+                {
+                    "name": "Canvas Black",
+                    "code": "gh0st_NetrunnerCoat_Canvas_Black"
+                },
+                {
+                    "name": "Canvas White",
+                    "code": "gh0st_NetrunnerCoat_Canvas_White"
+                },
+                {
+                    "name": "Denim",
+                    "code": "gh0st_NetrunnerCoat_Denim"
+                },
+                {
+                    "name": "Leather Black",
+                    "code": "gh0st_NetrunnerCoat_Leather_Black"
+                },
+                {
+                    "name": "Leather White",
+                    "code": "gh0st_NetrunnerCoat_Leather_White"
+                },
+                {
+                    "name": "Neokitsch",
+                    "code": "gh0st_NetrunnerCoat_Neokitsch"
+                },
+                {
+                    "name": "Rich 01",
+                    "code": "gh0st_NetrunnerCoat_Rich_01"
+                },
+                {
+                    "name": "Rich 02",
+                    "code": "gh0st_NetrunnerCoat_Rich_02"
+                },
+                {
+                    "name": "Rich 03",
+                    "code": "gh0st_NetrunnerCoat_Rich_03"
+                },
+                {
+                    "name": "Rich 04",
+                    "code": "gh0st_NetrunnerCoat_Rich_04"
+                },
+                {
+                    "name": "Rockerboy 01",
+                    "code": "gh0st_NetrunnerCoat_Rockerboy_01"
+                },
+                {
+                    "name": "Rockerboy 02",
+                    "code": "gh0st_NetrunnerCoat_Rockerboy_02"
+                },
+                {
+                    "name": "Rockerboy 03",
+                    "code": "gh0st_NetrunnerCoat_Rockerboy_03"
+                },
+                {
+                    "name": "Rockerboy 04",
+                    "code": "gh0st_NetrunnerCoat_Rockerboy_04"
+                },
+                {
+                    "name": "Sombra 01",
+                    "code": "gh0st_NetrunnerCoat_Sombra_01"
+                },
+                {
+                    "name": "Sombra 02",
+                    "code": "gh0st_NetrunnerCoat_Sombra_02"
+                },
+                {
+                    "name": "Sombra 03",
+                    "code": "gh0st_NetrunnerCoat_Sombra_03"
+                },
+                {
+                    "name": "Sombra 04",
+                    "code": "gh0st_NetrunnerCoat_Sombra_04"
+                },
+                {
+                    "name": "Vintage",
+                    "code": "gh0st_NetrunnerCoat_Vintage"
+                },
+                {
+                    "name": "Worn",
+                    "code": "gh0st_NetrunnerCoat_Worn"
+                },
+                {
+                    "name": "Worn Vintage",
+                    "code": "gh0st_NetrunnerCoat_Worn_Vintage"
+                }
+            ]
+        }
+    ]
+}
