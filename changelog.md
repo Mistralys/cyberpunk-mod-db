@@ -1,7 +1,9 @@
 ## v2.2.4 - New mods
 - Mods: Added "Ada Wong Outfit Reworked" by apzurv.
 - Mods: Added "Netrunner Coat" by mynameisfive.
+- Mods: Added "Valby Outfit" by Subleader.
 - Ateliers: Added "FRAIL Inc" Atelier by mynameisfive.
+- Tags: Added the `Helmet` tag.
 
 ## v2.2.3 - New mods and Pose Pack references
 - Mods: Added "Boudoir Part 19" by Veegee.
