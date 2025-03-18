@@ -1,0 +1,54 @@
+{
+    "mod": "Ada Wong Outfit Reworked",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/7234",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/4805",
+    "atelierName": "NC Fashion",
+    "authors": [
+        "Apzurv",
+        "EzioMaverick"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Vanilla",
+        "Clothing",
+        "Dress",
+        "FemV",
+        "FullBody",
+        "Legs",
+        "Outfit",
+        "Stockings"
+    ],
+    "searchTweaks": "maverick",
+    "itemCategories": [
+        {
+            "label": "High Heels",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "ada_outfit_black_hh"
+                },
+                {
+                    "name": "Red",
+                    "code": "ada_outfit_red_hh"
+                }
+            ]
+        },
+        {
+            "label": "Regular",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "ada_outfit_black"
+                },
+                {
+                    "name": "Red",
+                    "code": "ada_outfit_red"
+                }
+            ]
+        }
+    ]
+}
