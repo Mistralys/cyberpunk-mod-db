@@ -56,7 +56,7 @@ function generateAteliersReference() : void
 
     $parts[1] = PHP_EOL.PHP_EOL.implode(PHP_EOL, $lines);
 
-    $atelierRefFile->putContents(implode($searchText, $parts));
+    $atelierRefFile->putContents(implode($searchText."\n\nClick an atelier to jump to the list of mods it contains.", $parts));
 
     logInfo('Atelier reference generated.');
 }
