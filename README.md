@@ -19,20 +19,19 @@ screenshots.
 - [Pose pack references](docs/Poses/pose-reference.md) as screenshotting help.
 - [Tags](docs/tagging-reference.md) used to categorize mods and items.
 
-## Mods List
-
-Total available mods: 190
-
-See the [full list of included mods](mods-list.md).  
-
 ## Accessing the Database
 
 At its simplest level, you can include the project as a submodule in your own
 project, and load the JSON files manually.
 
 The database was initially created to be used in a PHP project, so if you have 
-access to PHP, you can use the separate project [Cyberpunk 2077 Clothing Mods Database PHP][].
-This provides object-oriented access to the data, including a full text search.
+access to PHP, you can use the separate project [Cyberpunk 2077 Clothing Mods Database PHP][]
+for object-oriented access to the data. This includes a full text search, which
+is not available out of the box here.
+
+> NOTE: GitHub shows the project as a PHP project, but those PHP files are only
+> what I use as helpers to author the database. The main database parts are the 
+> JSON files and the screenshots.
 
 ## Contributing
 
