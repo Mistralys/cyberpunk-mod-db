@@ -1,0 +1,77 @@
+{
+    "mod": "Kitty Over Knee Socks",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/8091",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
+    "atelierName": "Nola Dreamer Boutique",
+    "authors": [
+        "NolaDreamer"
+    ],
+    "tags": [
+        "Body-Hyst-EBB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-Vanilla",
+        "Clothing",
+        "Feet",
+        "FemV",
+        "Legs"
+    ],
+    "searchTweaks": "dreamer",
+    "itemCategories": [
+        {
+            "label": "",
+            "icon": "socks",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "nd_overknee_socks_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "nd_overknee_socks_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "nd_overknee_socks_burgundy"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "nd_overknee_socks_cyan"
+                },
+                {
+                    "name": "Green",
+                    "code": "nd_overknee_socks_green"
+                },
+                {
+                    "name": "Orange",
+                    "code": "nd_overknee_socks_orange"
+                },
+                {
+                    "name": "Pink",
+                    "code": "nd_overknee_socks_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "nd_overknee_socks_red"
+                },
+                {
+                    "name": "Teal",
+                    "code": "nd_overknee_socks_teal"
+                },
+                {
+                    "name": "Violet",
+                    "code": "nd_overknee_socks_violet"
+                },
+                {
+                    "name": "White",
+                    "code": "nd_overknee_socks_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "nd_overknee_socks_yellow"
+                }
+            ]
+        }
+    ]
+}
