@@ -2,7 +2,9 @@
 - Mods: Added "Ada Wong Outfit Reworked" by apzurv.
 - Mods: Added "Netrunner Coat" by mynameisfive.
 - Mods: Added "Valby Outfit" by Subleader.
+- Mods: Added "Karyna's Heart Choker" by meluminary.
 - Ateliers: Added "FRAIL Inc" Atelier by mynameisfive.
+- Ateliers: Added "Mel's Online Catalogue" by meluminary.
 - Tags: Added the `Helmet` tag.
 
 ## v2.2.3 - New mods and Pose Pack references
