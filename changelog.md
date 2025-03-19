@@ -7,6 +7,7 @@
 - Ateliers: Added "FRAIL Inc" Atelier by mynameisfive.
 - Ateliers: Added "Mel's Online Catalogue" by meluminary.
 - Tags: Added the `Helmet` tag.
+- Mods: Updated the mod overview to link to the files by default.
 - Screenshots: Category icons now always need a name.
 
 ## v2.2.3 - New mods and Pose Pack references
