@@ -1,0 +1,76 @@
+{
+    "mod": "Karyna Heart Choker Set",
+    "url": "https://www.nexusmods.com/cyberpunk2077/mods/19811",
+    "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14248",
+    "atelierName": "",
+    "authors": [
+        "meluminary"
+    ],
+    "tags": [
+        "Body-Vanilla",
+        "Clothing",
+        "FemV"
+    ],
+    "itemCategories": [
+        {
+            "label": "Choker",
+            "icon": "choker",
+            "tags": [
+                "Choker",
+                "Neck"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "meluminary_heart_choker_black"
+                },
+                {
+                    "name": "Brass",
+                    "code": "meluminary_heart_choker_brass"
+                },
+                {
+                    "name": "Gold",
+                    "code": "meluminary_heart_choker_gold"
+                },
+                {
+                    "name": "Pink",
+                    "code": "meluminary_heart_choker_pink"
+                },
+                {
+                    "name": "Silver",
+                    "code": "meluminary_heart_choker_silver"
+                }
+            ]
+        },
+        {
+            "label": "Earring",
+            "icon": "earring",
+            "tags": [
+                "Earring",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "meluminary_heart_dangle_black"
+                },
+                {
+                    "name": "Brass",
+                    "code": "meluminary_heart_dangle_brass"
+                },
+                {
+                    "name": "Gold",
+                    "code": "meluminary_heart_dangle_gold"
+                },
+                {
+                    "name": "Pink",
+                    "code": "meluminary_heart_dangle_pink"
+                },
+                {
+                    "name": "Silver",
+                    "code": "meluminary_heart_dangle_silver"
+                }
+            ]
+        }
+    ]
+}
