@@ -31,6 +31,7 @@ function generateModsList() : void
     foreach (getModFiles() as $file) {
         $data = $file->parse();
         $list[] = array(
+            'file' => $file->getName(),
             'label' => $data['mod'],
             'url' => $data['url'],
             'authors' => $data['authors']
@@ -45,17 +46,18 @@ function generateModsList() : void
 
     foreach ($list as $entry) {
         $lines[] = sprintf(
-            '* [%s](%s) by %s',
+            '* [%s](%s) by %s ([source](%s))',
             $entry['label'],
-            $entry['url'],
-            ConvertHelper::implodeWithAnd($entry['authors'], ', ', ' and ')
+            'data/clothing/'.$entry['file'],
+            ConvertHelper::implodeWithAnd($entry['authors'], ', ', ' and '),
+            $entry['url']
         );
     }
 
     file_put_contents(
         __DIR__ . '/../../mods-list.md',
-        '## Mods List' . PHP_EOL . PHP_EOL .
-        'Total available mods: '. count($list) . PHP_EOL . PHP_EOL .
+        '# Mod JSON files' . PHP_EOL . PHP_EOL .
+        'Total available files: '. count($list) . PHP_EOL . PHP_EOL .
         implode(PHP_EOL, $lines) . PHP_EOL
     );
 
