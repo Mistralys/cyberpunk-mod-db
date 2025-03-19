@@ -22,6 +22,7 @@
     "itemCategories": [
         {
             "label": "",
+            "icon": "jacket",
             "tags": [],
             "items": [
                 {

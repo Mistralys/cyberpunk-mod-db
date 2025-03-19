@@ -16,6 +16,7 @@
     "itemCategories": [
         {
             "label": "",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"

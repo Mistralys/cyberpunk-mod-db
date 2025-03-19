@@ -20,6 +20,7 @@
     "itemCategories": [
         {
             "label": "",
+            "icon": "pants",
             "tags": [],
             "items": [
                 {

@@ -18,6 +18,7 @@
     "itemCategories": [
         {
             "label": "",
+            "icon": "coat",
             "tags": [],
             "items": [
                 {

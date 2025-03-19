@@ -13,6 +13,7 @@
     "itemCategories": [
         {
             "label": "",
+            "icon": "glove",
             "tags": [
                 "Gloves",
                 "Hands"
