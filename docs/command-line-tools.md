@@ -112,7 +112,9 @@ Building / preparing the release involves:
 2. Generating the mod list
 3. Generating the atelier reference
 4. Generating the tag reference
-5. Injecting the mod count into the `README.md` file
+
+The end of the build process will display a list of 
+messages and recommendations detected in the files.
 
 ```bash
 php bin/cpmdb.php build
