@@ -2,8 +2,9 @@
 
 # Cyberpunk 2077 Clothing Mods Database
 
-This is a curated database of Cyberpunk 2077 clothing mods, stored in individual 
-JSON files and with custom screenshots for each mod.
+This is a curated database of detailed Cyberpunk 2077 clothing 
+mod descriptions stored in individual JSON files, and with custom 
+screenshots.
 
 ## Live examples
 
@@ -20,7 +21,7 @@ JSON files and with custom screenshots for each mod.
 
 ## Mods List
 
-Total available mods: 188
+Total available mods: 190
 
 See the [full list of included mods](mods-list.md).  
 

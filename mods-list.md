@@ -1,192 +1,194 @@
-## Mods List
+# Mod JSON files
 
-Total available mods: 188
+Total available files: 190
 
-* [Ada Wong Outfit Reworked](https://www.nexusmods.com/cyberpunk2077/mods/7234) by Apzurv and EzioMaverick
-* [Alt's Actual Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7130) by Kwek
-* [Alt's Necklaces](https://www.nexusmods.com/cyberpunk2077/mods/7122) by mistshield
-* [Alt Cunningham's Choker](https://www.nexusmods.com/cyberpunk2077/mods/6947) by complectedd and mistshield
-* [Alt Jacket and Pants](https://www.nexusmods.com/cyberpunk2077/mods/7701) by NolaDreamer
-* [Angel Heart Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14411) by cyb3rsn4k3
-* [Arasaka Corpo Shirt](https://www.nexusmods.com/cyberpunk2077/mods/5027) by Apzurv and EzioMaverick
-* [Arasaka Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7896) by Apzurv and EzioMaverick
-* [Arasaka Sports Wear V2](https://www.nexusmods.com/cyberpunk2077/mods/4890) by Apzurv and EzioMaverick
-* [Aria T'Loak Suit](https://www.nexusmods.com/cyberpunk2077/mods/14757) by Dusty2077
-* [Armor Pads Pack](https://www.nexusmods.com/cyberpunk2077/mods/12044) by ScorpionTank
-* [Assassin Outfit](https://www.nexusmods.com/cyberpunk2077/mods/13996) by Veegee and VeegeeAlvarez
-* [Assassin Outfit - Part II](https://www.nexusmods.com/cyberpunk2077/mods/15453) by Veegee and VeegeeAlvarez
-* [Atelier for Flash Posers](https://www.nexusmods.com/cyberpunk2077/mods/8886) by jerinski
-* [Aurore Modular Set](https://www.nexusmods.com/cyberpunk2077/mods/12099) by MONSTERaider
-* [Aviator Glasses](https://www.nexusmods.com/cyberpunk2077/mods/7803) by Kwek and kweknexuss
-* [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515) by AlvarixPT
-* [Basic Tees](https://www.nexusmods.com/cyberpunk2077/mods/11309) by Halkuonn
-* [Bayonetta 2 Earrings](https://www.nexusmods.com/cyberpunk2077/mods/19042) by LeoBoy and LeoBoy88
-* [Beaded Choker](https://www.nexusmods.com/cyberpunk2077/mods/6978) by complectedd and mistshield
-* [Bicep Biomonitor](https://www.nexusmods.com/cyberpunk2077/mods/16545) by 707 Tactical
-* [Biker Boots](https://www.nexusmods.com/cyberpunk2077/mods/7982) by MONSTERaider
-* [Blade Outfit and Head](https://www.nexusmods.com/cyberpunk2077/mods/18226) by Tariqy
-* [Bladerunner Joi Leggings Reworked](https://www.nexusmods.com/cyberpunk2077/mods/15283) by EzioMaverick and apzurv
-* [Bladerunner Joi Top Reworked](https://www.nexusmods.com/cyberpunk2077/mods/15283) by EzioMaverick and apzurv
-* [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446) by AlvarixPT
-* [Bodysuit Spandex and Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/11050) by Apzurv and EzioMaverick
-* [Bomber Jackets](https://www.nexusmods.com/cyberpunk2077/mods/19132) by raem and raemaze
-* [Bootcut Pants](https://www.nexusmods.com/cyberpunk2077/mods/16249) by Mayo and NotMayoSan
-* [Boudoir - Part 19](https://www.nexusmods.com/cyberpunk2077/mods/17240) by Veegee and VeegeeAlvarez
-* [Bullet Necklace](https://www.nexusmods.com/cyberpunk2077/mods/5077) by DJ_Kovrik and e256
-* [Caged Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/18724) by Breezypunk
-* [Camisole Top](https://www.nexusmods.com/cyberpunk2077/mods/17113) by Cubfan82
-* [Casino Aviators](https://www.nexusmods.com/cyberpunk2077/mods/18191) by Beanie and beaniebby
-* [Casual Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/14133) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part 4](https://www.nexusmods.com/cyberpunk2077/mods/14504) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part 8](https://www.nexusmods.com/cyberpunk2077/mods/16345) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part 10](https://www.nexusmods.com/cyberpunk2077/mods/16667) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part 14](https://www.nexusmods.com/cyberpunk2077/mods/17501) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part 15](https://www.nexusmods.com/cyberpunk2077/mods/17523) by Veegee and VeegeeAlvarez
-* [Casual Style Outfit - Part 21](https://www.nexusmods.com/cyberpunk2077/mods/18851) by Veegee and VeegeeAlvarez
-* [Casual T-Shirt with Pockets and Decals](https://www.nexusmods.com/cyberpunk2077/mods/14645) by yellingintothevoid
-* [Cat Antenna](https://www.nexusmods.com/cyberpunk2077/mods/8794) by Apzurv and EzioMaverick
-* [Catsuit](https://www.nexusmods.com/cyberpunk2077/mods/4917) by Apzurv and EzioMaverick
-* [Celebrity Dress (Modular)](https://www.nexusmods.com/cyberpunk2077/mods/8299) by MONSTERaider
-* [Chain Jewelry Collection](https://www.nexusmods.com/cyberpunk2077/mods/15861) by raem and raemaze
-* [Chain Top](https://www.nexusmods.com/cyberpunk2077/mods/8327) by Veegee and VeegeeAlvarez
-* [Chic and Elegant Style Outfit - Part 2](https://www.nexusmods.com/cyberpunk2077/mods/18562) by Veegee and VeegeeAlvarez
-* [Chic Skirt](https://www.nexusmods.com/cyberpunk2077/mods/16149) by Breezypunk
-* [Chromed Long Blouse](https://www.nexusmods.com/cyberpunk2077/mods/7609) by PinkyDude
-* [Combat Pants](https://www.nexusmods.com/cyberpunk2077/mods/9016) by Veegee and VeegeeAlvarez
-* [Comfy Dress](https://www.nexusmods.com/cyberpunk2077/mods/16026) by NotMayoSan, TheLoneStrider and TheLoneStrider13
-* [Comfy Set](https://www.nexusmods.com/cyberpunk2077/mods/12041) by Peachu and PeachuHime
-* [Concept Art Pants](https://www.nexusmods.com/cyberpunk2077/mods/3874) by Eye of Center and EyeofCenter
-* [Corpo Clothing - Hanako Top](https://www.nexusmods.com/cyberpunk2077/mods/17586) by Sumi and SumiTerra
-* [Cute Dress](https://www.nexusmods.com/cyberpunk2077/mods/6193) by Apzurv and EzioMaverick
-* [Cute Zipper Top](https://www.nexusmods.com/cyberpunk2077/mods/7097) by Cubfan82
-* [Cyberdeck Collection](https://www.nexusmods.com/cyberpunk2077/mods/11093) by Adshield
-* [Cyber Skull Mask](https://www.nexusmods.com/cyberpunk2077/mods/15086) by AAbdii
-* [Daily Style Wear - Part 3](https://www.nexusmods.com/cyberpunk2077/mods/18512) by Veegee and VeegeeAlvarez
-* [Deus Ex Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4601) by AlvarixPT
-* [DS2 Jacket, Bodysuit and Necklace](https://www.nexusmods.com/cyberpunk2077/mods/16985) by EzioMaverick and apzurv
-* [Elegant Dress](https://www.nexusmods.com/cyberpunk2077/mods/19723) by Hyst and LxRHyst
-* [Elizabeth Peralez Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7048) by Kwek and kweknexuss
-* [Evangelion Misato Outfit](https://www.nexusmods.com/cyberpunk2077/mods/14653) by Apzurv and EzioMaverick
-* [Evangelion Plugsuits](https://www.nexusmods.com/cyberpunk2077/mods/11511) by AlvarixPT
-* [Evelyn Coat and Fur](https://www.nexusmods.com/cyberpunk2077/mods/8319) by NolaDreamer
-* [Evelyn Dress](https://www.nexusmods.com/cyberpunk2077/mods/6810) by Hyst and LxRHyst
-* [Evelyn Skirt](https://www.nexusmods.com/cyberpunk2077/mods/8024) by Peachu and PeachuHime
-* [Fancy Striped Dress](https://www.nexusmods.com/cyberpunk2077/mods/8843) by PinkyDude
-* [Formal Corpo Dress](https://www.nexusmods.com/cyberpunk2077/mods/8641) by MONSTERaider
-* [Fox Ears](https://www.nexusmods.com/cyberpunk2077/mods/19485) by Veegee and VeegeeAlvarez
-* [Full Body Fashionware](https://www.nexusmods.com/cyberpunk2077/mods/5039) by AlvarixPT
-* [Glasses Pack](https://www.nexusmods.com/cyberpunk2077/mods/13095) by Veegee and VeegeeAlvarez
-* [Goth Skirt Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15099) by Mayo and NotMayoSan
-* [Hailey Outfit](https://www.nexusmods.com/cyberpunk2077/mods/16476) by Subleader and Subleader100
-* [Hanako Dress](https://www.nexusmods.com/cyberpunk2077/mods/6034) by Apzurv and EzioMaverick
-* [Harness Top](https://www.nexusmods.com/cyberpunk2077/mods/11753) by Adshield
-* [High Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/17045) by Mayo
-* [Hoodie Vest](https://www.nexusmods.com/cyberpunk2077/mods/19074) by Breezypunk
-* [J'adore Moon & Star Hoop Earrings](https://www.nexusmods.com/cyberpunk2077/mods/7105) by Kwek and kweknexuss
-* [Jacket Bolero Hex](https://www.nexusmods.com/cyberpunk2077/mods/16378) by Apzurv and EzioMaverick
-* [Jin Kazam Tekken Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15049) by EzioMaverick and apzurv
-* [Jinx Arcane S2 Top](https://www.nexusmods.com/cyberpunk2077/mods/18038) by EzioMaverick and apzurv
-* [Johnny Silverhand's String Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/6912) by Kwek and kweknexuss
-* [Judy's Platform Shoes](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
-* [Keffiyeh](https://www.nexusmods.com/cyberpunk2077/mods/19475) by Breezypunk
-* [Knife Holster Torso](https://www.nexusmods.com/cyberpunk2077/mods/15042) by yellingintothevoid
-* [Knuckle Spikes](https://www.nexusmods.com/cyberpunk2077/mods/17758) by Breezypunk
-* [Lace-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/16927) by CaffeinatedRogue
-* [Lace Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/7711) by xBaebsae
-* [Leather Boots](https://www.nexusmods.com/cyberpunk2077/mods/15749) by Apzurv and EzioMaverick
-* [Leggings Spandex](https://www.nexusmods.com/cyberpunk2077/mods/10385) by Apzurv and EzioMaverick
-* [Lethal Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15867) by Aquelyras, NolaDreamer, Veegee and VeegeeAlvarez
-* [Liquid Heart Earrings](https://www.nexusmods.com/cyberpunk2077/mods/14190) by cyb3rsn4k3
-* [Lizzy Wizzy Headset](https://www.nexusmods.com/cyberpunk2077/mods/16467) by LilyDelta
-* [Long Sleeve Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/18510) by Cubfan82
-* [Lowrise Pants](https://www.nexusmods.com/cyberpunk2077/mods/8456) by Cubfan82
-* [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/19257) by Mayo and NotMayoSan
-* [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/8627) by Apzurv and EzioMaverick
-* [Lucy Edgerunners Jacket](https://www.nexusmods.com/cyberpunk2077/mods/5248) by Apzurv and EzioMaverick
-* [Lucy Edgerunners Pants](https://www.nexusmods.com/cyberpunk2077/mods/5342) by Apzurv and EzioMaverick
-* [Lucy Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5273) by Apzurv and EzioMaverick
-* [Luxe Two-Piece](https://www.nexusmods.com/cyberpunk2077/mods/16011) by Nemipies
-* [Manta Ray Glasses](https://www.nexusmods.com/cyberpunk2077/mods/16130) by beanie and beaniebby
-* [Michiko Dress with Fur](https://www.nexusmods.com/cyberpunk2077/mods/6885) by NolaDreamer
-* [Mileena Hungry Hipster Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15401) by Dusty2077
-* [Military Boots](https://www.nexusmods.com/cyberpunk2077/mods/14781) by ScorpionTank
-* [Military Combat Armor](https://www.nexusmods.com/cyberpunk2077/mods/13212) by Gorefiend and ScorpionTank
-* [Mirror's Edge - Faith Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4599) by Apzurv and EzioMaverick
-* [Modest Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/17909) by Nemiepies
-* [Motoko Kusanagi Jacket and Bodysuit](https://www.nexusmods.com/cyberpunk2077/mods/4853) by Apzurv and Eziomaverick
-* [Motoko Kusanagi Outfit Reworked](https://www.nexusmods.com/cyberpunk2077/mods/7613) by Apzurv and EzioMaverick
-* [Nanosuit](https://www.nexusmods.com/cyberpunk2077/mods/14677) by Subleader
-* [Negan Jacket](https://www.nexusmods.com/cyberpunk2077/mods/17382) by Rosslin
-* [Neon Razor Outfit](https://www.nexusmods.com/cyberpunk2077/mods/17339) by Rosslin and Rosslinn
-* [Net Pozer Jacket and Cyberdeck Armband](https://www.nexusmods.com/cyberpunk2077/mods/18715) by Sumi and SumiTerra
-* [Netrunner Coat](https://www.nexusmods.com/cyberpunk2077/mods/6231) by mynameisfive
-* [Netrunner Combat Top](https://www.nexusmods.com/cyberpunk2077/mods/4939) by Apzurv and EzioMaverick
-* [Night Top Vol. 1](https://www.nexusmods.com/cyberpunk2077/mods/16625) by Tottes
-* [NPC Accessories](https://www.nexusmods.com/cyberpunk2077/mods/8985) by DISCO and deadengine959
-* [Obscura Outfit](https://www.nexusmods.com/cyberpunk2077/mods/19383) by SCOFIL and Scofil1996
-* [One-Shoulder Shirt](https://www.nexusmods.com/cyberpunk2077/mods/7267) by NolaDreamer
-* [OverSized Blazer](https://www.nexusmods.com/cyberpunk2077/mods/17462) by Veegee and VeegeeAlvarez
-* [Panam Jeans Spandex](https://www.nexusmods.com/cyberpunk2077/mods/5119) by Apzurv and EzioMaverick
-* [Parasol Oversized Heart Glasses](https://www.nexusmods.com/cyberpunk2077/mods/6990) by Kwek and kweknexuss
-* [Peachu Top](https://www.nexusmods.com/cyberpunk2077/mods/7603) by Peachu and PeachuHime
-* [Psycho Cyber-Tubes](https://www.nexusmods.com/cyberpunk2077/mods/7860) by MONSTERaider
-* [Quiet Outfit and Hair](https://www.nexusmods.com/cyberpunk2077/mods/5194) by AlvarixPT
-* [Quipao Dress](https://www.nexusmods.com/cyberpunk2077/mods/8823) by Peachu and PeachuHime
-* [Rockergirl Pants Laces](https://www.nexusmods.com/cyberpunk2077/mods/9040) by DBRV
-* [Rough Outfit](https://www.nexusmods.com/cyberpunk2077/mods/15606) by NolaDreamer and Veegee
-* [Round Glasses](https://www.nexusmods.com/cyberpunk2077/mods/15702) by yellingintothevoid
-* [Salander's Earplugs](https://www.nexusmods.com/cyberpunk2077/mods/7600) by Kwek and kewknexuss
-* [Sasha Edgerunners Suit](https://www.nexusmods.com/cyberpunk2077/mods/5393) by Apzurv and EzioMaverick
-* [Short Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/6601) by Hyst and LxRHyst
-* [Shroud](https://www.nexusmods.com/cyberpunk2077/mods/15576) by yellingintothevoid
-* [Simple Chain Bracelet](https://www.nexusmods.com/cyberpunk2077/mods/7500) by Kwek and kewknexuss
-* [Simple Elbow Pads](https://www.nexusmods.com/cyberpunk2077/mods/7681) by Kwek
-* [Skirts Expansion Part 1](https://www.nexusmods.com/cyberpunk2077/mods/7387) by MONSTERaider
-* [Skirts Expansion Part 2](https://www.nexusmods.com/cyberpunk2077/mods/7402?tab=files) by MONSTERaider
-* [Slim Bolero Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7278) by MONSTERaider
-* [Spiky Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/16664) by FrauBlume
-* [Split Dress and Bikini](https://www.nexusmods.com/cyberpunk2077/mods/8999) by AlvarixPT
-* [Sports Leggings](https://www.nexusmods.com/cyberpunk2077/mods/4716) by Apzurv and EzioMaverick
-* [Spy Long Coat](https://www.nexusmods.com/cyberpunk2077/mods/13342) by PinkyDude
-* [Star Hairclips](https://www.nexusmods.com/cyberpunk2077/mods/15195) by cyb3rsn4k3 and cyb3rsn4k34li3n
-* [Starlight Dress](https://www.nexusmods.com/cyberpunk2077/mods/15638) by Dusty2077
-* [Stellar Navel Piercing](https://www.nexusmods.com/cyberpunk2077/mods/14553) by cyb3rsn4k3
-* [Stinky Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/14010) by PinkyDude and PinkyHalk
-* [Strap Dress](https://www.nexusmods.com/cyberpunk2077/mods/7270) by MONSTERaider
-* [Street Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9041) by Aquelyras and NolaDreamer
-* [Street Set](https://www.nexusmods.com/cyberpunk2077/mods/18746) by Raenef and Raenef1
-* [Summer Outfit](https://www.nexusmods.com/cyberpunk2077/mods/12331) by Aquelyras and NolaDreamer
-* [Tactical Belt](https://www.nexusmods.com/cyberpunk2077/mods/15548) by Apzurv and EzioMaverick
-* [Tactical Crop Top](https://www.nexusmods.com/cyberpunk2077/mods/8406) by Adshield
-* [Tactical Style Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18059) by Veegee and VeegeeAlvarez
-* [Techtopia Gloves](https://www.nexusmods.com/cyberpunk2077/mods/9000) by DBRV
-* [Thigh Gun Holster](https://www.nexusmods.com/cyberpunk2077/mods/7304) by MONSTERaider
-* [Tied Crop](https://www.nexusmods.com/cyberpunk2077/mods/8533) by cubfan82
-* [Tight Shiny Pants](https://www.nexusmods.com/cyberpunk2077/mods/10546) by PinkyDude
-* [Trinity Outfit](https://www.nexusmods.com/cyberpunk2077/mods/18811) by Tonydiz
-* [Turtleneck T-Shirt](https://www.nexusmods.com/cyberpunk2077/mods/17805) by yellingintothevoid
-* [Turtleneck Top](https://www.nexusmods.com/cyberpunk2077/mods/4881) by EzioMaverick and apzurv
-* [Turtleneck Top Camo](https://www.nexusmods.com/cyberpunk2077/mods/19025) by EzioMaverick and apzurv
-* [V's Favorite Top](https://www.nexusmods.com/cyberpunk2077/mods/15130) by Rosapexa and sRosapexa
-* [Valby Outfit](https://www.nexusmods.com/cyberpunk2077/mods/16187) by Subleader and Subleader100
-* [Vi Jacket and Gauntlet](https://www.nexusmods.com/cyberpunk2077/mods/17842) by Dusty2077
-* [Voronoi Cage Dress](https://www.nexusmods.com/cyberpunk2077/mods/15094) by CaffeinatedRogue
-* [Wrap Around Dress](https://www.nexusmods.com/cyberpunk2077/mods/8894) by AlvarixPT
-* [XRX Asymmetric Top](https://www.nexusmods.com/cyberpunk2077/mods/14920) by EzioMaverick and apzurv
-* [XRX Dress](https://www.nexusmods.com/cyberpunk2077/mods/7444) by Apzurv and EzioMaverick
-* [XRX Futuristic Top](https://www.nexusmods.com/cyberpunk2077/mods/19176) by EzioMaverick and apzurv
-* [XRX Latex Gloves](https://www.nexusmods.com/cyberpunk2077/mods/7662) by Apzurv and EzioMaverick
-* [XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661) by Apzurv and EzioMaverick
-* [XRX Led Leotard](https://www.nexusmods.com/cyberpunk2077/mods/8367) by Apzurv and EzioMaverick
-* [XRX Leggings](https://www.nexusmods.com/cyberpunk2077/mods/15635) by Apzurv and EzioMaverick
-* [XRX Puffer Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7722) by Apzurv and EzioMaverick
-* [XRX RME Jacket](https://www.nexusmods.com/cyberpunk2077/mods/10902) by Apzurv and EzioMaverick
-* [XRX Stockings](https://www.nexusmods.com/cyberpunk2077/mods/17278) by Apzurv and EzioMaverick
-* [XRX Victorian Gloves](https://www.nexusmods.com/cyberpunk2077/mods/17421) by EzioMaverick and apzurv
-* [XTX Sneakers](https://www.nexusmods.com/cyberpunk2077/mods/17067) by DBRV
-* [Yaahl Tech Tank Top](https://www.nexusmods.com/cyberpunk2077/mods/7847) by DBRV
-* [Zip-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/13758) by Halkuonn
-* [Zipped Suit](https://www.nexusmods.com/cyberpunk2077/mods/8484) by MONSTERaider
-* [Ziva Cross Cut Dress](https://www.nexusmods.com/cyberpunk2077/mods/16620) by Apzurv and EzioMaverick
-* [Ziva Dress](https://www.nexusmods.com/cyberpunk2077/mods/8256) by Apzurv and EzioMaverick
-* [Ziva Navel Chains](https://www.nexusmods.com/cyberpunk2077/mods/15181) by Apzurv and EzioMaverick
+* [Ada Wong Outfit Reworked](data/clothing/ada-wong-outfit-reworked.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7234))
+* [Alt's Actual Gloves](data/clothing/alts-gloves.json) by Kwek ([source](https://www.nexusmods.com/cyberpunk2077/mods/7130))
+* [Alt's Necklaces](data/clothing/alts-necklaces.json) by mistshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/7122))
+* [Alt Cunningham's Choker](data/clothing/alts-choker.json) by complectedd and mistshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/6947))
+* [Alt Jacket and Pants](data/clothing/alt-jacket-and-pants.json) by NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/7701))
+* [Angel Heart Navel Piercing](data/clothing/angel-heart-navel-piercing.json) by cyb3rsn4k3 ([source](https://www.nexusmods.com/cyberpunk2077/mods/14411))
+* [Arasaka Corpo Shirt](data/clothing/arasaka-corpo-shirt.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/5027))
+* [Arasaka Jacket](data/clothing/arasaka-jacket.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7896))
+* [Arasaka Sports Wear V2](data/clothing/arasaka-sports-wear-v2.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4890))
+* [Aria T'Loak Suit](data/clothing/aria-tloak-suit.json) by Dusty2077 ([source](https://www.nexusmods.com/cyberpunk2077/mods/14757))
+* [Armor Pads Pack](data/clothing/armor-pads-pack.json) by ScorpionTank ([source](https://www.nexusmods.com/cyberpunk2077/mods/12044))
+* [Assassin Outfit](data/clothing/assassin-outfit.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/13996))
+* [Assassin Outfit - Part II](data/clothing/assassin-outfit-part-2.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/15453))
+* [Atelier for Flash Posers](data/clothing/flash-posers-atelier.json) by jerinski ([source](https://www.nexusmods.com/cyberpunk2077/mods/8886))
+* [Aurore Modular Set](data/clothing/aurore-modular-set.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/12099))
+* [Aviator Glasses](data/clothing/aviator-glasses.json) by Kwek and kweknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/7803))
+* [Bad Cop Outfit](data/clothing/bad-cop-outfit.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/9515))
+* [Basic Tees](data/clothing/basic-tees.json) by Halkuonn ([source](https://www.nexusmods.com/cyberpunk2077/mods/11309))
+* [Bayonetta 2 Earrings](data/clothing/bayonetta-2-earrings.json) by LeoBoy and LeoBoy88 ([source](https://www.nexusmods.com/cyberpunk2077/mods/19042))
+* [Beaded Choker](data/clothing/beaded-choker.json) by complectedd and mistshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/6978))
+* [Bicep Biomonitor](data/clothing/bicep-biomonitor.json) by 707 Tactical ([source](https://www.nexusmods.com/cyberpunk2077/mods/16545))
+* [Biker Boots](data/clothing/biker-boots.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7982))
+* [Blade Outfit and Head](data/clothing/blade-outfit-and-head.json) by Tariqy ([source](https://www.nexusmods.com/cyberpunk2077/mods/18226))
+* [Bladerunner Joi Leggings Reworked](data/clothing/bladerunner-joi-leggings-reworked.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/15283))
+* [Bladerunner Joi Top Reworked](data/clothing/bladerunner-joi-top-reworked.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/15283))
+* [BloodRayne Outfits and Hair](data/clothing/blood-rayne.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/8446))
+* [Bodysuit Spandex and Sleeves](data/clothing/bodysuit-spandex-and-sleeves.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/11050))
+* [Bomber Jackets](data/clothing/bomber-jackets.json) by raem and raemaze ([source](https://www.nexusmods.com/cyberpunk2077/mods/19132))
+* [Bootcut Pants](data/clothing/bootcut-pants.json) by Mayo and NotMayoSan ([source](https://www.nexusmods.com/cyberpunk2077/mods/16249))
+* [Boudoir - Part 19](data/clothing/boudoir-part-19.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/17240))
+* [Bullet Necklace](data/clothing/bullet-necklace.json) by DJ_Kovrik and e256 ([source](https://www.nexusmods.com/cyberpunk2077/mods/5077))
+* [Caged Bracelet](data/clothing/caged-bracelet.json) by Breezypunk ([source](https://www.nexusmods.com/cyberpunk2077/mods/18724))
+* [Camisole Top](data/clothing/camisole-top.json) by Cubfan82 ([source](https://www.nexusmods.com/cyberpunk2077/mods/17113))
+* [Casino Aviators](data/clothing/casino-aviators.json) by Beanie and beaniebby ([source](https://www.nexusmods.com/cyberpunk2077/mods/18191))
+* [Casual Style Outfit - Part 2](data/clothing/casual-style-outfit-part-2.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/14133))
+* [Casual Style Outfit - Part 4](data/clothing/casual-style-outfit-part-4.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/14504))
+* [Casual Style Outfit - Part 8](data/clothing/casual-style-outfit-part-8.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/16345))
+* [Casual Style Outfit - Part 10](data/clothing/casual-style-outfit-part-10.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/16667))
+* [Casual Style Outfit - Part 14](data/clothing/casual-style-outfit-part-14.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/17501))
+* [Casual Style Outfit - Part 15](data/clothing/casual-style-outfit-part-15.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/17523))
+* [Casual Style Outfit - Part 21](data/clothing/casual-style-outfit-part-21.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/18851))
+* [Casual T-Shirt with Pockets and Decals](data/clothing/casual-tshirt-pockets-and-decals.json) by yellingintothevoid ([source](https://www.nexusmods.com/cyberpunk2077/mods/14645))
+* [Cat Antenna](data/clothing/cat-antenna.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/8794))
+* [Catsuit](data/clothing/catsuit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4917))
+* [Celebrity Dress (Modular)](data/clothing/celebrity-dress-modular.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/8299))
+* [Chain Jewelry Collection](data/clothing/chain-jewelry-collection.json) by raem and raemaze ([source](https://www.nexusmods.com/cyberpunk2077/mods/15861))
+* [Chain Top](data/clothing/chain-top.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/8327))
+* [Chic and Elegant Style Outfit - Part 2](data/clothing/chic-and-elegant-style-outfit-part-2.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/18562))
+* [Chic Skirt](data/clothing/chic-skirt.json) by Breezypunk ([source](https://www.nexusmods.com/cyberpunk2077/mods/16149))
+* [Chromed Long Blouse](data/clothing/chromed-long-blouse.json) by PinkyDude ([source](https://www.nexusmods.com/cyberpunk2077/mods/7609))
+* [Combat Pants](data/clothing/combat-pants.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/9016))
+* [Comfy Dress](data/clothing/comfy-dress.json) by NotMayoSan, TheLoneStrider and TheLoneStrider13 ([source](https://www.nexusmods.com/cyberpunk2077/mods/16026))
+* [Comfy Set](data/clothing/comfy-set.json) by Peachu and PeachuHime ([source](https://www.nexusmods.com/cyberpunk2077/mods/12041))
+* [Concept Art Pants](data/clothing/concept-art-pants.json) by Eye of Center and EyeofCenter ([source](https://www.nexusmods.com/cyberpunk2077/mods/3874))
+* [Corpo Clothing - Hanako Top](data/clothing/corpo-clothing-hanako-top.json) by Sumi and SumiTerra ([source](https://www.nexusmods.com/cyberpunk2077/mods/17586))
+* [Cute Dress](data/clothing/cute-dress.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/6193))
+* [Cute Zipper Top](data/clothing/cute-zipper-top.json) by Cubfan82 ([source](https://www.nexusmods.com/cyberpunk2077/mods/7097))
+* [Cyberdeck Collection](data/clothing/cyberdeck-collection.json) by Adshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/11093))
+* [Cyber Skull Mask](data/clothing/cyber-skull-mask.json) by AAbdii ([source](https://www.nexusmods.com/cyberpunk2077/mods/15086))
+* [Daily Style Wear - Part 3](data/clothing/daily-style-wear-part-3.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/18512))
+* [Deus Ex Outfit](data/clothing/deus-ex-outfit.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/4601))
+* [DS2 Jacket, Bodysuit and Necklace](data/clothing/ds2-jacket-bodysuit-necklace.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/16985))
+* [Elegant Dress](data/clothing/elegant-dress.json) by Hyst and LxRHyst ([source](https://www.nexusmods.com/cyberpunk2077/mods/19723))
+* [Elizabeth Peralez Earrings](data/clothing/elizabeth-peralez-earrings.json) by Kwek and kweknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/7048))
+* [Evangelion Misato Outfit](data/clothing/evangelion-misato-outfit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/14653))
+* [Evangelion Plugsuits](data/clothing/evangelion-plugsuits.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/11511))
+* [Evelyn Coat and Fur](data/clothing/evelyn-coat-and-fur.json) by NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/8319))
+* [Evelyn Dress](data/clothing/evelyn-dress.json) by Hyst and LxRHyst ([source](https://www.nexusmods.com/cyberpunk2077/mods/6810))
+* [Evelyn Skirt](data/clothing/evelyn-skirt.json) by Peachu and PeachuHime ([source](https://www.nexusmods.com/cyberpunk2077/mods/8024))
+* [Fancy Striped Dress](data/clothing/fancy-striped-dress.json) by PinkyDude ([source](https://www.nexusmods.com/cyberpunk2077/mods/8843))
+* [Formal Corpo Dress](data/clothing/formal-corpo-dress.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/8641))
+* [Fox Ears](data/clothing/fox-ears.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/19485))
+* [Full Body Fashionware](data/clothing/full-body-fashionware.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/5039))
+* [Glasses Pack](data/clothing/glasses-pack.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/13095))
+* [Goth Skirt Outfit](data/clothing/goth-skirt-outfit.json) by Mayo and NotMayoSan ([source](https://www.nexusmods.com/cyberpunk2077/mods/15099))
+* [Hailey Outfit](data/clothing/hailey-outfit.json) by Subleader and Subleader100 ([source](https://www.nexusmods.com/cyberpunk2077/mods/16476))
+* [Hanako Dress](data/clothing/hanako-dress.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/6034))
+* [Harness Top](data/clothing/harness-top.json) by Adshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/11753))
+* [High Waist Leggings](data/clothing/high-waist-leggings.json) by Mayo ([source](https://www.nexusmods.com/cyberpunk2077/mods/17045))
+* [Hoodie Vest](data/clothing/hoodie-vest.json) by Breezypunk ([source](https://www.nexusmods.com/cyberpunk2077/mods/19074))
+* [J'adore Moon & Star Hoop Earrings](data/clothing/moon-and-star-earrings.json) by Kwek and kweknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/7105))
+* [Jacket Bolero Hex](data/clothing/jacket-bolero-hex.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/16378))
+* [Jin Kazam Tekken Outfit](data/clothing/jin-kazam-outfit.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/15049))
+* [Jinx Arcane S2 Top](data/clothing/jinx-arcane-s2-top.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/18038))
+* [Johnny Silverhand's String Bracelet](data/clothing/johnny-silverhands-string-bracelet.json) by Kwek and kweknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/6912))
+* [Judy's Platform Shoes](data/clothing/judy-platform-shoes.json) by NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/6885))
+* [Karyna Heart Choker Set](data/clothing/karyna-heart-choker.json) by meluminary ([source](https://www.nexusmods.com/cyberpunk2077/mods/19811))
+* [Keffiyeh](data/clothing/keffiyeh.json) by Breezypunk ([source](https://www.nexusmods.com/cyberpunk2077/mods/19475))
+* [Kitty Over Knee Socks](data/clothing/kitty-over-knee-socks.json) by NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/8091))
+* [Knife Holster Torso](data/clothing/knife-holster-torso.json) by yellingintothevoid ([source](https://www.nexusmods.com/cyberpunk2077/mods/15042))
+* [Knuckle Spikes](data/clothing/knuckle-spikes.json) by Breezypunk ([source](https://www.nexusmods.com/cyberpunk2077/mods/17758))
+* [Lace-Up Dress](data/clothing/lace-up-dress.json) by CaffeinatedRogue ([source](https://www.nexusmods.com/cyberpunk2077/mods/16927))
+* [Lace Lingerie](data/clothing/lace-lingerie.json) by xBaebsae ([source](https://www.nexusmods.com/cyberpunk2077/mods/7711))
+* [Leather Boots](data/clothing/leather-boots.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/15749))
+* [Leggings Spandex](data/clothing/spandex-leggins.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/10385))
+* [Lethal Outfit](data/clothing/lethal-outfit.json) by Aquelyras, NolaDreamer, Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/15867))
+* [Liquid Heart Earrings](data/clothing/liquid-heart-earrings.json) by cyb3rsn4k3 ([source](https://www.nexusmods.com/cyberpunk2077/mods/14190))
+* [Lizzy Wizzy Headset](data/clothing/lizzy-wizzy-headset.json) by LilyDelta ([source](https://www.nexusmods.com/cyberpunk2077/mods/16467))
+* [Long Sleeve Bodysuit](data/clothing/long-sleeve-bodysuit.json) by Cubfan82 ([source](https://www.nexusmods.com/cyberpunk2077/mods/18510))
+* [Lowrise Pants](data/clothing/lowrise-pants.json) by Cubfan82 ([source](https://www.nexusmods.com/cyberpunk2077/mods/8456))
+* [Low Waist Leggings](data/clothing/low-waist-leggings.json) by Mayo and NotMayoSan ([source](https://www.nexusmods.com/cyberpunk2077/mods/19257))
+* [Low Waist Leggings](data/clothing/xrx-low-waist-leggings.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/8627))
+* [Lucy Edgerunners Jacket](data/clothing/lucy-edgerunners-jacket.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/5248))
+* [Lucy Edgerunners Pants](data/clothing/lucy-edgerunners-pants.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/5342))
+* [Lucy Edgerunners Suit](data/clothing/lucy-edgerunners-suit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/5273))
+* [Luxe Two-Piece](data/clothing/luxe-two-piece.json) by Nemipies ([source](https://www.nexusmods.com/cyberpunk2077/mods/16011))
+* [Manta Ray Glasses](data/clothing/manta-ray-glasses.json) by beanie and beaniebby ([source](https://www.nexusmods.com/cyberpunk2077/mods/16130))
+* [Michiko Dress with Fur](data/clothing/michiko-dress-with-fur.json) by NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/6885))
+* [Mileena Hungry Hipster Outfit](data/clothing/mileena-hungry-hipster-outfit.json) by Dusty2077 ([source](https://www.nexusmods.com/cyberpunk2077/mods/15401))
+* [Military Boots](data/clothing/military-boots.json) by ScorpionTank ([source](https://www.nexusmods.com/cyberpunk2077/mods/14781))
+* [Military Combat Armor](data/clothing/military-combat-armor.json) by Gorefiend and ScorpionTank ([source](https://www.nexusmods.com/cyberpunk2077/mods/13212))
+* [Mirror's Edge - Faith Outfit](data/clothing/mirrors-edge-faith-outfit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4599))
+* [Modest Lingerie](data/clothing/modest-lingerie.json) by Nemiepies ([source](https://www.nexusmods.com/cyberpunk2077/mods/17909))
+* [Motoko Kusanagi Jacket and Bodysuit](data/clothing/motoko-kusanagi-jacket-and-bodysuit.json) by Apzurv and Eziomaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4853))
+* [Motoko Kusanagi Outfit Reworked](data/clothing/motoko-kusanagi-outfit-reworked.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7613))
+* [Nanosuit](data/clothing/nanosuit.json) by Subleader ([source](https://www.nexusmods.com/cyberpunk2077/mods/14677))
+* [Negan Jacket](data/clothing/negan-jacket.json) by Rosslin ([source](https://www.nexusmods.com/cyberpunk2077/mods/17382))
+* [Neon Razor Outfit](data/clothing/neon-razor-outfit.json) by Rosslin and Rosslinn ([source](https://www.nexusmods.com/cyberpunk2077/mods/17339))
+* [Net Pozer Jacket and Cyberdeck Armband](data/clothing/pozer-jacket-and-cyberdeck.json) by Sumi and SumiTerra ([source](https://www.nexusmods.com/cyberpunk2077/mods/18715))
+* [Netrunner Coat](data/clothing/netrunner-coat.json) by mynameisfive ([source](https://www.nexusmods.com/cyberpunk2077/mods/6231))
+* [Netrunner Combat Top](data/clothing/netrunner-combat-top.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4939))
+* [Night Top Vol. 1](data/clothing/night-top-vol-1.json) by Tottes ([source](https://www.nexusmods.com/cyberpunk2077/mods/16625))
+* [NPC Accessories](data/clothing/npc-accessories.json) by DISCO and deadengine959 ([source](https://www.nexusmods.com/cyberpunk2077/mods/8985))
+* [Obscura Outfit](data/clothing/obscura-outfit.json) by SCOFIL and Scofil1996 ([source](https://www.nexusmods.com/cyberpunk2077/mods/19383))
+* [One-Shoulder Shirt](data/clothing/one-shoulder-shirt.json) by NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/7267))
+* [OverSized Blazer](data/clothing/oversized-blazer.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/17462))
+* [Panam Jeans Spandex](data/clothing/panam-jeans-spandex.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/5119))
+* [Parasol Oversized Heart Glasses](data/clothing/parasol-oversized-heart-glasses.json) by Kwek and kweknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/6990))
+* [Peachu Top](data/clothing/peachu-top.json) by Peachu and PeachuHime ([source](https://www.nexusmods.com/cyberpunk2077/mods/7603))
+* [Psycho Cyber-Tubes](data/clothing/psycho-cyber-tubes.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7860))
+* [Quiet Outfit and Hair](data/clothing/quiet-outfit.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/5194))
+* [Quipao Dress](data/clothing/qipao-peachu.json) by Peachu and PeachuHime ([source](https://www.nexusmods.com/cyberpunk2077/mods/8823))
+* [Rockergirl Pants Laces](data/clothing/rockergirl-pants-laces.json) by DBRV ([source](https://www.nexusmods.com/cyberpunk2077/mods/9040))
+* [Rough Outfit](data/clothing/rough-outfit.json) by NolaDreamer and Veegee ([source](https://www.nexusmods.com/cyberpunk2077/mods/15606))
+* [Round Glasses](data/clothing/round-glasses.json) by yellingintothevoid ([source](https://www.nexusmods.com/cyberpunk2077/mods/15702))
+* [Salander's Earplugs](data/clothing/salander-earplugs.json) by Kwek and kewknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/7600))
+* [Sasha Edgerunners Suit](data/clothing/sasha-edgerunners-suit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/5393))
+* [Short Tank Top](data/clothing/short-tank.json) by Hyst and LxRHyst ([source](https://www.nexusmods.com/cyberpunk2077/mods/6601))
+* [Shroud](data/clothing/shroud.json) by yellingintothevoid ([source](https://www.nexusmods.com/cyberpunk2077/mods/15576))
+* [Simple Chain Bracelet](data/clothing/simple-chain-bracelet.json) by Kwek and kewknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/7500))
+* [Simple Elbow Pads](data/clothing/simple-elbow-pads.json) by Kwek ([source](https://www.nexusmods.com/cyberpunk2077/mods/7681))
+* [Skirts Expansion Part 1](data/clothing/skirts-expansion-part1.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7387))
+* [Skirts Expansion Part 2](data/clothing/skirts-expansion-part2.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7402?tab=files))
+* [Slim Bolero Jacket](data/clothing/slim-bolero-jacket.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7278))
+* [Spiky Leather Jacket](data/clothing/spiky-leather-jacket.json) by FrauBlume ([source](https://www.nexusmods.com/cyberpunk2077/mods/16664))
+* [Split Dress and Bikini](data/clothing/split-dress-bikini.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/8999))
+* [Sports Leggings](data/clothing/sports-leggings.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4716))
+* [Spy Long Coat](data/clothing/spy-long-coat.json) by PinkyDude ([source](https://www.nexusmods.com/cyberpunk2077/mods/13342))
+* [Star Hairclips](data/clothing/star-hairclips.json) by cyb3rsn4k3 and cyb3rsn4k34li3n ([source](https://www.nexusmods.com/cyberpunk2077/mods/15195))
+* [Starlight Dress](data/clothing/starlight-dress.json) by Dusty2077 ([source](https://www.nexusmods.com/cyberpunk2077/mods/15638))
+* [Stellar Navel Piercing](data/clothing/stellar-navel-piercing.json) by cyb3rsn4k3 ([source](https://www.nexusmods.com/cyberpunk2077/mods/14553))
+* [Stinky Crop Top](data/clothing/stinky-crop-top.json) by PinkyDude and PinkyHalk ([source](https://www.nexusmods.com/cyberpunk2077/mods/14010))
+* [Strap Dress](data/clothing/strap-dress.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7270))
+* [Street Outfit](data/clothing/street-outfit.json) by Aquelyras and NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/9041))
+* [Street Set](data/clothing/street-set.json) by Raenef and Raenef1 ([source](https://www.nexusmods.com/cyberpunk2077/mods/18746))
+* [Summer Outfit](data/clothing/summer-outfit.json) by Aquelyras and NolaDreamer ([source](https://www.nexusmods.com/cyberpunk2077/mods/12331))
+* [Tactical Belt](data/clothing/tactical-belt.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/15548))
+* [Tactical Crop Top](data/clothing/tactical-crop-top.json) by Adshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/8406))
+* [Tactical Style Outfit](data/clothing/tactical-style-outfit.json) by Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/18059))
+* [Techtopia Gloves](data/clothing/techtopia-gloves.json) by DBRV ([source](https://www.nexusmods.com/cyberpunk2077/mods/9000))
+* [Thigh Gun Holster](data/clothing/thigh-gun-holster.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/7304))
+* [Tied Crop](data/clothing/tied-crop.json) by cubfan82 ([source](https://www.nexusmods.com/cyberpunk2077/mods/8533))
+* [Tight Shiny Pants](data/clothing/tight-shiny-pants.json) by PinkyDude ([source](https://www.nexusmods.com/cyberpunk2077/mods/10546))
+* [Trinity Outfit](data/clothing/trinity-outfit.json) by Tonydiz ([source](https://www.nexusmods.com/cyberpunk2077/mods/18811))
+* [Turtleneck T-Shirt](data/clothing/turtleneck-tshirt.json) by yellingintothevoid ([source](https://www.nexusmods.com/cyberpunk2077/mods/17805))
+* [Turtleneck Top](data/clothing/turtleneck-top.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/4881))
+* [Turtleneck Top Camo](data/clothing/turtleneck-top-camo.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/19025))
+* [V's Favorite Top](data/clothing/vs-favorite-top.json) by Rosapexa and sRosapexa ([source](https://www.nexusmods.com/cyberpunk2077/mods/15130))
+* [Valby Outfit](data/clothing/valby-outfit.json) by Subleader and Subleader100 ([source](https://www.nexusmods.com/cyberpunk2077/mods/16187))
+* [Vi Jacket and Gauntlet](data/clothing/vi-jacket-and-gauntlets.json) by Dusty2077 ([source](https://www.nexusmods.com/cyberpunk2077/mods/17842))
+* [Voronoi Cage Dress](data/clothing/voronoi-cage-dress.json) by CaffeinatedRogue ([source](https://www.nexusmods.com/cyberpunk2077/mods/15094))
+* [Wrap Around Dress](data/clothing/wrap-around-dress.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/8894))
+* [XRX Asymmetric Top](data/clothing/xrx-asymmetric-top.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/14920))
+* [XRX Dress](data/clothing/xrx-dress.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7444))
+* [XRX Futuristic Top](data/clothing/xrx-futuristic-top.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/19176))
+* [XRX Latex Gloves](data/clothing/xrx-latex-gloves.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7662))
+* [XRX Leather Jacket](data/clothing/xrx-leather-jacket.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7661))
+* [XRX Led Leotard](data/clothing/xrx-led-leotard.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/8367))
+* [XRX Leggings](data/clothing/xrx-leggings.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/15635))
+* [XRX Puffer Jacket](data/clothing/xrx-puffer-jacket.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7722))
+* [XRX RME Jacket](data/clothing/xrx-rme-jacket.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/10902))
+* [XRX Stockings](data/clothing/xrx-stockings.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/17278))
+* [XRX Victorian Gloves](data/clothing/xrx-victorian-gloves.json) by EzioMaverick and apzurv ([source](https://www.nexusmods.com/cyberpunk2077/mods/17421))
+* [XTX Sneakers](data/clothing/xtx-sneakers.json) by DBRV ([source](https://www.nexusmods.com/cyberpunk2077/mods/17067))
+* [Yaahl Tech Tank Top](data/clothing/yaahl-tech-tank-top.json) by DBRV ([source](https://www.nexusmods.com/cyberpunk2077/mods/7847))
+* [Zip-Up Dress](data/clothing/zip-up-dress.json) by Halkuonn ([source](https://www.nexusmods.com/cyberpunk2077/mods/13758))
+* [Zipped Suit](data/clothing/zipped-suit.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/8484))
+* [Ziva Cross Cut Dress](data/clothing/ziva-cross-cut-dress.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/16620))
+* [Ziva Dress](data/clothing/ziva-dress.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/8256))
+* [Ziva Navel Chains](data/clothing/ziva-navel-chains.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/15181))

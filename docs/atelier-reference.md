@@ -8,6 +8,8 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 
 ## Available Virtual Ateliers
 
+Click an atelier to jump to the list of mods it contains.
+
 - [AdShield Atelier Store](#adshield-atelier-store)
 - [Alvarix Custom Store](#alvarix-custom-store)
 - [Atelier for Flash Posers](#atelier-for-flash-posers)
@@ -30,6 +32,7 @@ separate JSON file, [ateliers.json](../data/ateliers.json).
 - [Kwek's Sartorial Omnibus Shop](#kweks-sartorial-omnibus-shop)
 - [LilyDelta Boutiques](#lilydelta-boutiques)
 - [Mayo Virtual Atelier](#mayo-virtual-atelier)
+- [Mel's Online Catalogue](#mels-online-catalogue)
 - [MONSTERaider Atelier Store](#monsteraider-atelier-store)
 - [NC Fashion](#nc-fashion)
 - [Nemie's Closet](#nemies-closet)
@@ -235,6 +238,12 @@ Mods: 4 | Authors: Mayo, NotMayoSan | [Source](https://www.nexusmods.com/cyberpu
 - [High Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/17045)
 - [Low Waist Leggings](https://www.nexusmods.com/cyberpunk2077/mods/19257)
 
+### Mel's Online Catalogue
+
+Mods: 1 | Authors: meluminary | [Source](https://www.nexusmods.com/cyberpunk2077/mods/14248)
+
+- [Karyna Heart Choker Set](https://www.nexusmods.com/cyberpunk2077/mods/19811)
+
 ### MONSTERaider Atelier Store
 
 Mods: 10 | Authors: MONSTERaider | [Source](https://www.nexusmods.com/cyberpunk2077/mods/7269)
@@ -320,11 +329,12 @@ Mods: 2 | Authors: Aquelyras, NolaDreamer | [Source](https://www.nexusmods.com/c
 
 ### Nola Dreamer Boutique
 
-Mods: 5 | Authors: NolaDreamer | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+Mods: 6 | Authors: NolaDreamer | [Source](https://www.nexusmods.com/cyberpunk2077/mods/5114)
 
 - [Alt Jacket and Pants](https://www.nexusmods.com/cyberpunk2077/mods/7701)
 - [Evelyn Coat and Fur](https://www.nexusmods.com/cyberpunk2077/mods/8319)
 - [Judy's Platform Shoes](https://www.nexusmods.com/cyberpunk2077/mods/6885)
+- [Kitty Over Knee Socks](https://www.nexusmods.com/cyberpunk2077/mods/8091)
 - [Michiko Dress with Fur](https://www.nexusmods.com/cyberpunk2077/mods/6885)
 - [One-Shoulder Shirt](https://www.nexusmods.com/cyberpunk2077/mods/7267)
 
