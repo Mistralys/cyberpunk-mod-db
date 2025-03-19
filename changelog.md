@@ -3,6 +3,7 @@
 - Mods: Added "Netrunner Coat" by mynameisfive.
 - Mods: Added "Valby Outfit" by Subleader.
 - Mods: Added "Karyna's Heart Choker" by meluminary.
+- Mods: Added "Kitty Over-Knee Socks" by NolaDreamer.
 - Ateliers: Added "FRAIL Inc" Atelier by mynameisfive.
 - Ateliers: Added "Mel's Online Catalogue" by meluminary.
 - Tags: Added the `Helmet` tag.
