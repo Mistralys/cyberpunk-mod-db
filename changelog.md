@@ -4,10 +4,14 @@
 - Mods: Added "Valby Outfit" by Subleader.
 - Mods: Added "Karyna's Heart Choker" by meluminary.
 - Mods: Added "Kitty Over-Knee Socks" by NolaDreamer.
+- Mods: Properly categorized items in `bad-cop-outfit`.
+- Mods: Updated the mod overview to link to the files by default.
+- Mods: Filled the labels for all categories.
+- Mods: Added the category IDs for all item categories.
+- Mods: Category labels are now consistently plural.
 - Ateliers: Added "FRAIL Inc" Atelier by mynameisfive.
 - Ateliers: Added "Mel's Online Catalogue" by meluminary.
 - Tags: Added the `Helmet` tag.
-- Mods: Updated the mod overview to link to the files by default.
 - Screenshots: Category icons now always need a name.
 - Tools: Added the constant `KEY_CAT_ICON` for the category icons.
 
