@@ -30,7 +30,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "Cotton",
+            "id": "cotton-tops",
+            "label": "Cotton Tops",
             "tags": [],
             "items": [
                 {
@@ -52,7 +53,8 @@
             ]
         },
         {
-            "label": "Latex",
+            "id": "latex-tops",
+            "label": "Latex Tops",
             "tags": [],
             "items": [
                 {
@@ -62,7 +64,8 @@
             ]
         },
         {
-            "label": "Sheer",
+            "id": "sheer-tops",
+            "label": "Sheer Tops",
             "tags": [],
             "items": [
                 {
@@ -84,7 +87,8 @@
             ]
         },
         {
-            "label": "Shiny Sheer",
+            "id": "shiny-sheer-tops",
+            "label": "Shiny Sheer Tops",
             "tags": [],
             "items": [
                 {
@@ -98,7 +102,8 @@
             ]
         },
         {
-            "label": "Spandex",
+            "id": "spandex-tops",
+            "label": "Spandex Tops",
             "tags": [],
             "items": [
                 {

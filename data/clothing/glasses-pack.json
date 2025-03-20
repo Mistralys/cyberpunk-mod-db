@@ -15,7 +15,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Butterfly",
+            "id": "glasses-butterfly",
+            "label": "Glasses - Butterfly",
             "tags": [],
             "items": [
                 {
@@ -69,7 +70,8 @@
             ]
         },
         {
-            "label": "Cloud",
+            "id": "glasses-cloud",
+            "label": "Glasses - Cloud",
             "tags": [],
             "items": [
                 {
@@ -123,7 +125,8 @@
             ]
         },
         {
-            "label": "Fire",
+            "id": "glasses-fire",
+            "label": "Glasses - Fire",
             "tags": [],
             "items": [
                 {
@@ -177,7 +180,8 @@
             ]
         },
         {
-            "label": "Leaves",
+            "id": "glasses-leaves",
+            "label": "Glasses - Leaves",
             "tags": [],
             "items": [
                 {
@@ -231,7 +235,8 @@
             ]
         },
         {
-            "label": "Wing",
+            "id": "glasses-wing",
+            "label": "Glasses - Wing",
             "tags": [],
             "items": [
                 {

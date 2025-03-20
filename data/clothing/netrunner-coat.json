@@ -17,7 +17,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "coats",
+            "label": "Coats",
             "icon": "coat",
             "tags": [],
             "items": [

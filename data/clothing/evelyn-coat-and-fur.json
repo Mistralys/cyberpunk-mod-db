@@ -27,7 +27,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "Cropped Coat",
+            "id": "coats-cropped",
+            "label": "Coats - Cropped",
             "tags": [
                 "Coat",
                 "FullBody"
@@ -146,7 +147,8 @@
             ]
         },
         {
-            "label": "Fur",
+            "id": "furs",
+            "label": "Furs",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -267,7 +269,8 @@
             ]
         },
         {
-            "label": "Long Coat",
+            "id": "coats-long",
+            "label": "Coats - Long",
             "tags": [
                 "Coat",
                 "FullBody"

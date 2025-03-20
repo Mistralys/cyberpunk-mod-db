@@ -13,7 +13,8 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
-            "label": "",
+            "id": "necklaces",
+            "label": "Necklaces",
             "tags": [
                 "Jewelry",
                 "Neck",

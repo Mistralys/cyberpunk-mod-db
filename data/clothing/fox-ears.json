@@ -16,7 +16,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Ears, big size",
+            "id": "ears-big",
+            "label": "Ears - Big",
             "tags": [
                 "Accessories",
                 "Head"
@@ -57,7 +58,8 @@
             ]
         },
         {
-            "label": "Ears, normal size",
+            "id": "ears-normal",
+            "label": "Ears - Normal",
             "tags": [
                 "Accessories",
                 "Head"
@@ -98,7 +100,8 @@
             ]
         },
         {
-            "label": "Ears, small size",
+            "id": "ears-small",
+            "label": "Ears - Small",
             "tags": [
                 "Accessories",
                 "Head"
@@ -139,7 +142,8 @@
             ]
         },
         {
-            "label": "Tail, big size",
+            "id": "tail-big",
+            "label": "Tails - Big",
             "tags": [
                 "Accessories",
                 "Legs",

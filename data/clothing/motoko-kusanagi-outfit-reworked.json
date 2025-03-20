@@ -20,7 +20,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "outfits",
+            "label": "Outfits",
             "items": [
                 {
                     "name": "Full Outfit",
@@ -29,7 +30,13 @@
                         "FullBody",
                         "Suit"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "jackets",
+            "label": "Jackets",
+            "items": [
                 {
                     "name": "Top Only",
                     "code": "mototp_a",
@@ -38,8 +45,7 @@
                         "Torso"
                     ]
                 }
-            ],
-            "tags": []
+            ]
         }
     ]
 }

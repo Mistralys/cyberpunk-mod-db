@@ -15,7 +15,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "outfits",
+            "label": "Outfits",
             "tags": [
                 "FullBody",
                 "Outfit"

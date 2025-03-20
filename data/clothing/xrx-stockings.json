@@ -22,7 +22,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "stockings",
+            "label": "Stockings",
             "tags": [],
             "items": [
                 {

@@ -39,7 +39,8 @@
     "comments": "Check out the optional files for body-specific refits.",
     "itemCategories": [
         {
-            "label": "Patterned",
+            "id": "bodysuits-patterned",
+            "label": "Bodysuits - Patterned",
             "tags": [],
             "items": [
                 {
@@ -141,7 +142,8 @@
             ]
         },
         {
-            "label": "Plain Colors",
+            "id": "bodysuits-plain",
+            "label": "Bodysuits - Plain",
             "tags": [],
             "items": [
                 {
@@ -215,7 +217,8 @@
             ]
         },
         {
-            "label": "Poly",
+            "id": "bodysuits-poly",
+            "label": "Bodysuits - Poly",
             "tags": [],
             "items": [
                 {

@@ -23,6 +23,7 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
+            "id": "boots",
             "label": "Boots",
             "tags": [
                 "Boots",
@@ -72,6 +73,7 @@
             ]
         },
         {
+            "id": "holsters-magazines",
             "label": "Holsters and Magazines",
             "tags": [
                 "Accessories",
@@ -90,7 +92,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -139,6 +142,7 @@
             ]
         },
         {
+            "id": "overalls",
             "label": "Overalls",
             "tags": [
                 "FullBody",
@@ -188,6 +192,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -237,7 +242,8 @@
             ]
         },
         {
-            "label": "Shirt",
+            "id": "shirts",
+            "label": "Shirts",
             "tags": [
                 "Shirt",
                 "Torso"
@@ -286,6 +292,7 @@
             ]
         },
         {
+            "id": "suspenders",
             "label": "Suspenders",
             "tags": [
                 "Accessories",

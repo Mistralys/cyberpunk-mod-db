@@ -26,6 +26,7 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -75,7 +76,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -124,7 +126,8 @@
             ]
         },
         {
-            "label": "Jacket (Short Variant)",
+            "id": "jackets-short",
+            "label": "Jackets - Short",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -173,7 +176,8 @@
             ]
         },
         {
-            "label": "Knife Holster",
+            "id": "knife-holsters",
+            "label": "Knife Holsters",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -222,6 +226,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -271,6 +276,7 @@
             ]
         },
         {
+            "id": "shoes",
             "label": "Shoes",
             "tags": [
                 "Feet",
@@ -320,6 +326,7 @@
             ]
         },
         {
+            "id": "stockings",
             "label": "Stockings",
             "tags": [
                 "Legs",
@@ -345,7 +352,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

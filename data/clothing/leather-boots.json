@@ -16,7 +16,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "boots",
+            "label": "Boots",
             "tags": [
                 "Boots",
                 "Feet"

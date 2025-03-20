@@ -28,7 +28,8 @@
     "comments": "Regarding clipping: This is a ported model. As such, clipping is inevitable in some poses.",
     "itemCategories": [
         {
-            "label": "Patterns",
+            "id": "patterned-tops",
+            "label": "Patterned Tops",
             "icon": "pattern",
             "tags": [],
             "items": [
@@ -135,7 +136,8 @@
             ]
         },
         {
-            "label": "Polyester",
+            "id": "polyester-tops",
+            "label": "Polyester Tops",
             "icon": "polyester",
             "tags": [],
             "items": [
@@ -210,7 +212,8 @@
             ]
         },
         {
-            "label": "Velvet",
+            "id": "velvet-tops",
+            "label": "Velvet Tops",
             "icon": "velvet",
             "tags": [],
             "items": [

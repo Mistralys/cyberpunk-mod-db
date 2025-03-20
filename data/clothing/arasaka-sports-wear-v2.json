@@ -15,7 +15,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "tops",
+            "label": "Tops",
             "icon": "top",
             "tags": [
                 "Top",

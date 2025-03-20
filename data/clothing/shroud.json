@@ -15,7 +15,8 @@
     "searchTweaks": "into void wear",
     "itemCategories": [
         {
-            "label": "With hair",
+            "id": "shroud-with-hair",
+            "label": "Shroud - With hair",
             "tags": [
                 "Hair"
             ],
@@ -59,6 +60,7 @@
             ]
         },
         {
+            "id": "shroud-without-hair",
             "label": "Without hair",
             "tags": [],
             "items": [

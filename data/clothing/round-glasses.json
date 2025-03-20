@@ -14,6 +14,7 @@
     "searchTweaks": "into void",
     "itemCategories": [
         {
+            "id": "glasses",
             "label": "Glasses",
             "tags": [
                 "Glasses",
@@ -63,6 +64,7 @@
             ]
         },
         {
+            "id": "lenses",
             "label": "Lenses",
             "tags": [
                 "Glasses",
@@ -88,6 +90,7 @@
             ]
         },
         {
+            "id": "toggles",
             "label": "Toggles",
             "tags": [
                 "Toggles"

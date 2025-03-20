@@ -20,7 +20,8 @@
     "searchTweaks": "maverick suit",
     "itemCategories": [
         {
-            "label": "",
+            "id": "bodysuits",
+            "label": "Bodysuits",
             "tags": [],
             "items": [
                 {
@@ -30,7 +31,14 @@
                         "FullBody",
                         "Suit"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "jackets",
+            "label": "Jackets",
+            "tags": [],
+            "items": [
                 {
                     "name": "Jacket",
                     "code": "motoko_jack_motoj",

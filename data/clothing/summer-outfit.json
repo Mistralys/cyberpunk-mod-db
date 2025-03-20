@@ -16,7 +16,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

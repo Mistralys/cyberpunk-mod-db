@@ -20,6 +20,7 @@
     ],
     "itemCategories": [
         {
+            "id": "boots",
             "label": "Boots",
             "tags": [
                 "Boots",
@@ -53,7 +54,8 @@
             ]
         },
         {
-            "label": "Choker",
+            "id": "chokers",
+            "label": "Chokers",
             "tags": [
                 "Choker",
                 "Neck"
@@ -86,6 +88,7 @@
             ]
         },
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -119,7 +122,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -152,7 +156,8 @@
             ]
         },
         {
-            "label": "Mask",
+            "id": "masks",
+            "label": "Masks",
             "tags": [
                 "Head",
                 "Mask"
@@ -185,7 +190,8 @@
             ]
         },
         {
-            "label": "Shirt",
+            "id": "shirts",
+            "label": "Shirts",
             "tags": [
                 "Shirt",
                 "Torso"
@@ -218,6 +224,7 @@
             ]
         },
         {
+            "id": "shorts",
             "label": "Shorts",
             "tags": [
                 "Legs",
@@ -251,7 +258,8 @@
             ]
         },
         {
-            "label": "Shorts, Alternate",
+            "id": "shorts-alt",
+            "label": "Shorts - Alternate",
             "tags": [
                 "Legs",
                 "Shorts"

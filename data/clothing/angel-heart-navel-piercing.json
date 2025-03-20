@@ -14,7 +14,8 @@
     "searchTweaks": "bling cyber snake",
     "itemCategories": [
         {
-            "label": "",
+            "id": "navel-piercing",
+            "label": "Navel Piercing",
             "tags": [
                 "Jewelry",
                 "Navel",

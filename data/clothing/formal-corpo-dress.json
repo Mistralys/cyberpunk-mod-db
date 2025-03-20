@@ -18,7 +18,8 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "label": "Full Dress",
+            "id": "dresses",
+            "label": "Dresses",
             "tags": [],
             "items": [
                 {
@@ -86,7 +87,8 @@
             ]
         },
         {
-            "label": "Mini Dress",
+            "id": "mini-dresses",
+            "label": "Mini Dresses",
             "tags": [],
             "items": [
                 {

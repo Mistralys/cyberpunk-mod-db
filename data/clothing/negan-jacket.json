@@ -14,7 +14,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Female V",
+            "id": "jackets-femv",
+            "label": "Jackets - Female V",
             "tags": [
                 "Body-Hyst-Angel",
                 "Body-Hyst-EBB",
@@ -61,7 +62,8 @@
             ]
         },
         {
-            "label": "Male V",
+            "id": "jackets-malev",
+            "label": "Jackets - Male V",
             "tags": [
                 "MaleV"
             ],

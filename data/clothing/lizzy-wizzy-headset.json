@@ -16,7 +16,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Basic",
+            "id": "headsets-basic",
+            "label": "Headsets - Basic",
             "tags": [],
             "items": [
                 {
@@ -170,7 +171,8 @@
             ]
         },
         {
-            "label": "Front Tech",
+            "id": "headsets-front-tech",
+            "label": "Headsets - Front Tech",
             "tags": [],
             "items": [
                 {
@@ -324,7 +326,8 @@
             ]
         },
         {
-            "label": "Full Tech",
+            "id": "headsets-full-tech",
+            "label": "Headsets - Full Tech",
             "tags": [],
             "items": [
                 {

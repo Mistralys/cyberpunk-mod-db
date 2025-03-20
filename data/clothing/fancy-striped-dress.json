@@ -14,7 +14,8 @@
     "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
-            "label": "",
+            "id": "dresses",
+            "label": "Dresses",
             "tags": [
                 "Dress",
                 "FullBody"

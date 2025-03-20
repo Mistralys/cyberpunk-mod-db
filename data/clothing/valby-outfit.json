@@ -15,7 +15,8 @@
     "comments": "Inspired by Valby's outfit from the game 'The First Descendant'.",
     "itemCategories": [
         {
-            "label": "Helmet",
+            "id": "helmets",
+            "label": "Helmets",
             "icon": "helmet",
             "tags": [
                 "Head",
@@ -73,7 +74,8 @@
             ]
         },
         {
-            "label": "Helmet, Wide",
+            "id": "helmets-wide",
+            "label": "Helmets - Wide",
             "tags": [
                 "Head",
                 "Helmet"
@@ -130,7 +132,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "icon": "jacket",
             "tags": [
                 "Jacket",
@@ -188,7 +191,8 @@
             ]
         },
         {
-            "label": "Suit, Single Color",
+            "id": "suits-single-color",
+            "label": "Suits - Single Color",
             "icon": "suit",
             "tags": [
                 "Bodysuit",
@@ -246,7 +250,8 @@
             ]
         },
         {
-            "label": "Suit, Two-Colored",
+            "id": "suits-two-colored",
+            "label": "Suits - Two-Colored",
             "icon": "suit",
             "tags": [
                 "Bodysuit",

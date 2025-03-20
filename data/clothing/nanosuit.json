@@ -22,7 +22,8 @@
     "searchTweaks": "leader suit",
     "itemCategories": [
         {
-            "label": "Lingerie Bottom",
+            "id": "lingerie-bottoms",
+            "label": "Lingerie Bottoms",
             "tags": [
                 "Legs",
                 "Lingerie",
@@ -81,7 +82,8 @@
             ]
         },
         {
-            "label": "Lingerie Top",
+            "id": "lingerie-tops",
+            "label": "Lingerie Tops",
             "tags": [
                 "Bra",
                 "Lingerie",
@@ -116,7 +118,8 @@
             ]
         },
         {
-            "label": "Suit",
+            "id": "suits",
+            "label": "Suits",
             "tags": [
                 "FullBody",
                 "Suit"

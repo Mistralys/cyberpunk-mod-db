@@ -23,7 +23,8 @@
     "searchTweaks": "topia",
     "itemCategories": [
         {
-            "label": "",
+            "id": "gloves",
+            "label": "Gloves",
             "tags": [
                 "Gloves",
                 "Hands"

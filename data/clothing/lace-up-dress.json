@@ -27,7 +27,8 @@
     "searchTweaks": "rogue romance",
     "itemCategories": [
         {
-            "label": "Floral Pattern Dress",
+            "id": "dresses-floral-pattern",
+            "label": "Dresses - Floral Pattern",
             "tags": [],
             "items": [
                 {
@@ -77,7 +78,8 @@
             ]
         },
         {
-            "label": "Regular Dress",
+            "id": "dresses-regular",
+            "label": "Dresses - Regular",
             "tags": [],
             "items": [
                 {

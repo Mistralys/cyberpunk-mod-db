@@ -25,7 +25,8 @@
     "searchTweaks": "tank",
     "itemCategories": [
         {
-            "label": "Gugnir Shoulder Pad - Left",
+            "id": "shoulder-pads-left",
+            "label": "Gugnir Shoulder Pads - Left",
             "icon": "shoulder-guard",
             "tags": [
                 "Accessories",
@@ -115,7 +116,8 @@
             ]
         },
         {
-            "label": "Gugnir Shoulder Pad - Right",
+            "id": "shoulder-pads-right",
+            "label": "Gugnir Shoulder Pads - Right",
             "icon": "shoulder-guard",
             "tags": [
                 "Accessories",
@@ -205,7 +207,8 @@
             ]
         },
         {
-            "label": "Gugnir Thigh Pad - Left",
+            "id": "thigh-pads-left",
+            "label": "Gugnir Thigh Pads - Left",
             "icon": "thigh-guard",
             "tags": [
                 "Accessories",
@@ -295,7 +298,8 @@
             ]
         },
         {
-            "label": "Gugnir Thigh Pad - Right",
+            "id": "thigh-pads-right",
+            "label": "Gugnir Thigh Pads - Right",
             "icon": "thigh-guard",
             "tags": [
                 "Accessories",
@@ -385,7 +389,8 @@
             ]
         },
         {
-            "label": "Para Elbow Pad - Left",
+            "id": "elbow-pads-left",
+            "label": "Para Elbow Pads - Left",
             "icon": "elbow-pad",
             "tags": [
                 "Accessories",
@@ -475,7 +480,8 @@
             ]
         },
         {
-            "label": "Para Elbow Pad - Right",
+            "id": "elbow-pads-right",
+            "label": "Para Elbow Pads - Right",
             "icon": "elbow-pad",
             "tags": [
                 "Accessories",
@@ -565,7 +571,8 @@
             ]
         },
         {
-            "label": "Para Knee Pad - Left",
+            "id": "knee-pads-left",
+            "label": "Para Knee Pads - Left",
             "icon": "knee-pad",
             "tags": [
                 "Accessories",
@@ -655,6 +662,7 @@
             ]
         },
         {
+            "id": "knee-pads-right",
             "label": "Para Knee Pad - Right",
             "icon": "knee-pad",
             "tags": [
@@ -745,6 +753,7 @@
             ]
         },
         {
+            "id": "toggles",
             "label": "Toggles",
             "icon": "toggles",
             "tags": [

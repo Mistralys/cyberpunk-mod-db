@@ -21,6 +21,7 @@
     "searchTweaks": "into void",
     "itemCategories": [
         {
+            "id": "decals",
             "label": "Decals",
             "tags": [
                 "Accessories",
@@ -230,7 +231,8 @@
             ]
         },
         {
-            "label": "T-Shirt",
+            "id": "tshirts",
+            "label": "T-Shirts",
             "tags": [
                 "GarmentSupport",
                 "Shirt",
@@ -288,7 +290,8 @@
             ]
         },
         {
-            "label": "T-Shirt with Pockets",
+            "id": "tshirts-pockets",
+            "label": "T-Shirts - With Pockets",
             "tags": [
                 "GarmentSupport",
                 "Shirt",

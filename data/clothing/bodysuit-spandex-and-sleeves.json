@@ -20,7 +20,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "Bodysuit",
+            "id": "bodysuits",
+            "label": "Bodysuits",
             "icon": "bodysuit",
             "tags": [
                 "Bodysuit",
@@ -70,6 +71,7 @@
             ]
         },
         {
+            "id": "sleeves",
             "label": "Sleeves",
             "item": "sleeves",
             "tags": [

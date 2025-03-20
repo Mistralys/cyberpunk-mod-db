@@ -23,7 +23,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Body Suit",
+            "id": "body-suits",
+            "label": "Body Suits",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -64,6 +65,7 @@
             ]
         },
         {
+            "id": "boots",
             "label": "Boots",
             "tags": [
                 "Boots",
@@ -105,7 +107,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Arms",
                 "Sleeves",
@@ -148,7 +151,8 @@
             ]
         },
         {
-            "label": "Visor",
+            "id": "visors",
+            "label": "Visors",
             "tags": [
                 "Glasses",
                 "Head"

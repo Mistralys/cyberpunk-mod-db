@@ -27,7 +27,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Hoodie",
+            "id": "hoodies",
+            "label": "Hoodies",
             "tags": [
                 "Head"
             ],
@@ -123,7 +124,8 @@
             ]
         },
         {
-            "label": "Mask",
+            "id": "masks",
+            "label": "Masks",
             "tags": [
                 "Head",
                 "Mask"
@@ -220,6 +222,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -317,7 +320,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Arms",
                 "Sleeves",

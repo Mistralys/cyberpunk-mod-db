@@ -16,7 +16,8 @@
     "searchTweaks": "hime",
     "itemCategories": [
         {
-            "label": "",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Arms",
                 "Sleeves",

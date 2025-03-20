@@ -39,7 +39,8 @@
     "searchTweaks": "fiend tank",
     "itemCategories": [
         {
-            "label": "Chestplate",
+            "id": "chestplates",
+            "label": "Chestplates",
             "tags": [
                 "Torso"
             ],
@@ -127,7 +128,8 @@
             ]
         },
         {
-            "label": "Neck Cover",
+            "id": "neck-covers",
+            "label": "Neck Covers",
             "tags": [
                 "Accessories",
                 "Choker",
@@ -217,7 +219,8 @@
             ]
         },
         {
-            "label": "Shoulder Strap A - Left",
+            "id": "shoulder-straps-a-left",
+            "label": "Shoulder Straps A - Left",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -274,7 +277,8 @@
             ]
         },
         {
-            "label": "Shoulder Strap A - Right",
+            "id": "shoulder-straps-a-right",
+            "label": "Shoulder Straps A - Right",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -331,7 +335,8 @@
             ]
         },
         {
-            "label": "Shoulder Strap B - Left",
+            "id": "shoulder-straps-b-left",
+            "label": "Shoulder Straps B - Left",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -388,7 +393,8 @@
             ]
         },
         {
-            "label": "Shoulder Strap B - Right",
+            "id": "shoulder-straps-b-right",
+            "label": "Shoulder Straps B - Right",
             "tags": [
                 "Accessories",
                 "Arms"

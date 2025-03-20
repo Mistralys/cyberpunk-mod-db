@@ -14,7 +14,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Closed, Camo",
+            "id": "closed-jackets-camo",
+            "label": "Closed Jackets - Camo",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -43,7 +44,8 @@
             ]
         },
         {
-            "label": "Closed, Combo 1",
+            "id": "closed-jackets-combo-1",
+            "label": "Closed Jackets - Combo 1",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -72,7 +74,8 @@
             ]
         },
         {
-            "label": "Closed, Combo 2",
+            "id": "closed-jackets-combo-2",
+            "label": "Closed Jackets - Combo 2",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -121,7 +124,8 @@
             ]
         },
         {
-            "label": "Closed, Flannel",
+            "id": "closed-jackets-flannel",
+            "label": "Closed Jackets - Flannel",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -150,7 +154,8 @@
             ]
         },
         {
-            "label": "Closed, Leather",
+            "id": "closed-jackets-leather",
+            "label": "Closed Jackets - Leather",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -199,7 +204,8 @@
             ]
         },
         {
-            "label": "Closed, Plaid",
+            "id": "closed-jackets-plaid",
+            "label": "Closed Jackets - Plaid",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -248,7 +254,8 @@
             ]
         },
         {
-            "label": "Closed, Solid",
+            "id": "closed-jackets-solid-color",
+            "label": "Closed Jackets - Solid color",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -277,7 +284,8 @@
             ]
         },
         {
-            "label": "Closed, Two-tone",
+            "id": "closed-jackets-two-tone",
+            "label": "Closed Jackets - Two-tone",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -326,7 +334,8 @@
             ]
         },
         {
-            "label": "Open, Camo",
+            "id": "open-jackets-camo",
+            "label": "Open Jackets - Camo",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -355,7 +364,8 @@
             ]
         },
         {
-            "label": "Open, Combo 1",
+            "id": "open-jackets-combo-1",
+            "label": "Open Jackets - Combo 1",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -384,7 +394,8 @@
             ]
         },
         {
-            "label": "Open, Combo 2",
+            "id": "open-jackets-combo-2",
+            "label": "Open Jackets - Combo 2",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -433,7 +444,8 @@
             ]
         },
         {
-            "label": "Open, Flannel",
+            "id": "open-jackets-flannel",
+            "label": "Open Jackets - Flannel",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -462,7 +474,8 @@
             ]
         },
         {
-            "label": "Open, Leather",
+            "id": "open-jackets-leather",
+            "label": "Open Jackets - Leather",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -511,7 +524,8 @@
             ]
         },
         {
-            "label": "Open, Plaid",
+            "id": "open-jackets-plaid",
+            "label": "Open Jackets - Plaid",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -560,7 +574,8 @@
             ]
         },
         {
-            "label": "Open, Solid",
+            "id": "open-jackets-solid-color",
+            "label": "Open Jackets - Solid color",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -589,7 +604,8 @@
             ]
         },
         {
-            "label": "Open, Two-tone",
+            "id": "open-jackets-two-tone",
+            "label": "Open Jackets - Two-tone",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -638,6 +654,7 @@
             ]
         },
         {
+            "id": "toggles",
             "label": "Toggles",
             "tags": [
                 "Accessories",

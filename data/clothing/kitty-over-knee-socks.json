@@ -19,7 +19,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "",
+            "id": "socks",
+            "label": "Socks",
             "icon": "socks",
             "tags": [],
             "items": [

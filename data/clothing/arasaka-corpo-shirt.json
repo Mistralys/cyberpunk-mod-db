@@ -13,7 +13,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "shirts",
+            "label": "Shirts",
             "icon": "shirt",
             "tags": [
                 "Shirt",

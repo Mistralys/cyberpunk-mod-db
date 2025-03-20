@@ -15,7 +15,8 @@
     "searchTweaks": "alvarez sized",
     "itemCategories": [
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "FemV",
                 "Jacket",
@@ -90,6 +91,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "FemV",
@@ -137,6 +139,7 @@
             ]
         },
         {
+            "id": "shoes",
             "label": "Shoes",
             "tags": [
                 "Feet",
@@ -184,7 +187,8 @@
             ]
         },
         {
-            "label": "Skirt",
+            "id": "skirts",
+            "label": "Skirts",
             "tags": [
                 "FemV",
                 "Legs",
@@ -226,6 +230,7 @@
             ]
         },
         {
+            "id": "stockings",
             "label": "Stockings",
             "tags": [
                 "FemV",

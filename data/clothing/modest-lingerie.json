@@ -24,7 +24,8 @@
     "searchTweaks": "pies",
     "itemCategories": [
         {
-            "label": "Bodysuit",
+            "id": "bodysuits",
+            "label": "Bodysuits",
             "tags": [
                 "Bodysuit",
                 "FullBody",
@@ -75,7 +76,8 @@
             ]
         },
         {
-            "label": "Bra",
+            "id": "bras",
+            "label": "Bras",
             "tags": [
                 "Bra",
                 "Lingerie",
@@ -122,7 +124,8 @@
             ]
         },
         {
-            "label": "Corset",
+            "id": "corsets",
+            "label": "Corsets",
             "tags": [
                 "Corset",
                 "Lingerie",
@@ -165,7 +168,8 @@
             ]
         },
         {
-            "label": "XL Shirt",
+            "id": "xl-shirts",
+            "label": "XL Shirts",
             "tags": [
                 "FullBody",
                 "Shirt",

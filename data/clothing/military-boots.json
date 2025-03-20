@@ -22,7 +22,8 @@
     "searchTweaks": "tank",
     "itemCategories": [
         {
-            "label": "",
+            "id": "boots",
+            "label": "Boots",
             "tags": [],
             "items": [
                 {

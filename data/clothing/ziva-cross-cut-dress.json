@@ -20,7 +20,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "Dress",
+            "id": "dresses",
+            "label": "Dresses",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -77,6 +78,7 @@
             ]
         },
         {
+            "id": "straps",
             "label": "Straps",
             "tags": [
                 "Accessories",

@@ -16,7 +16,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Combat Shirt",
+            "id": "combat-shirts",
+            "label": "Combat Shirts",
             "tags": [
                 "Shirt",
                 "Torso"
@@ -73,7 +74,8 @@
             ]
         },
         {
-            "label": "Combat Shirt, Emissive",
+            "id": "combat-shirts-emissive",
+            "label": "Combat Shirts - Emissive",
             "tags": [
                 "Emissive",
                 "Shirt",
@@ -131,7 +133,8 @@
             ]
         },
         {
-            "label": "Holstered Shirt",
+            "id": "holstered-shirts",
+            "label": "Holstered Shirts",
             "tags": [
                 "Shirt",
                 "Torso"
@@ -188,6 +191,7 @@
             ]
         },
         {
+            "id": "neotac-shirts",
             "label": "Neotac Pants",
             "tags": [
                 "Legs",
@@ -245,6 +249,7 @@
             ]
         },
         {
+            "id": "riding-pants",
             "label": "Riding Pants",
             "tags": [
                 "Legs",

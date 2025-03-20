@@ -16,35 +16,47 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
-            "tags": [],
+            "id": "belts",
+            "label": "Belts",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Waist"
+            ],
             "items": [
                 {
                     "name": "Cat Belt",
-                    "code": "cbelt_cbcx",
-                    "tags": [
-                        "Accessories",
-                        "Belt",
-                        "Waist"
-                    ]
-                },
+                    "code": "cbelt_cbcx"
+                }
+            ]
+        },
+        {
+            "id": "collars",
+            "label": "Collars",
+            "tags": [
+                "Accessories",
+                "Choker",
+                "Choker",
+                "Neck"
+            ],
+            "items": [
                 {
                     "name": "Cat Collar",
-                    "code": "ccol_ccat",
-                    "tags": [
-                        "Accessories",
-                        "Choker",
-                        "Choker",
-                        "Neck"
-                    ]
-                },
+                    "code": "ccol_ccat"
+                }
+            ]
+        },
+        {
+            "id": "suits",
+            "label": "Suits",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
+            "items": [
                 {
                     "name": "Cat Suit",
-                    "code": "cat_top",
-                    "tags": [
-                        "Bodysuit",
-                        "FullBody"
-                    ]
+                    "code": "cat_top"
                 }
             ]
         }

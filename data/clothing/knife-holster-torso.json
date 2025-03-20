@@ -16,7 +16,8 @@
     "searchTweaks": "into void",
     "itemCategories": [
         {
-            "label": "",
+            "id": "knife-holsters",
+            "label": "Knife Holsters",
             "tags": [],
             "items": [
                 {

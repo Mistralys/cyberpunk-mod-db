@@ -32,7 +32,8 @@
     "searchTweaks": "comfortable lone strider",
     "itemCategories": [
         {
-            "label": "",
+            "id": "dresses",
+            "label": "Dresses",
             "tags": [],
             "items": [
                 {

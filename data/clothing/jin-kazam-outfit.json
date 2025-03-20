@@ -19,6 +19,7 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -48,7 +49,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

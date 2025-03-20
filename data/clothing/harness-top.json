@@ -20,6 +20,9 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
+            "id": "harness-tops",
+            "label": "Harness Tops",
+            "tags": [],
             "items": [
                 {
                     "name": "Arasaka Academy",
@@ -61,8 +64,7 @@
                     "name": "Where's Johnny?",
                     "code": "Adshield_Harness_Top_Johnny"
                 }
-            ],
-            "tags": []
+            ]
         }
     ]
 }

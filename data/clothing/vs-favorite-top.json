@@ -24,7 +24,8 @@
     "searchTweaks": "pexa",
     "itemCategories": [
         {
-            "label": "",
+            "id": "tops",
+            "label": "Tops",
             "tags": [],
             "items": [
                 {

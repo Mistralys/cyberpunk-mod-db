@@ -23,7 +23,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "",
+            "id": "shirts",
+            "label": "Shirts",
             "tags": [],
             "items": [
                 {

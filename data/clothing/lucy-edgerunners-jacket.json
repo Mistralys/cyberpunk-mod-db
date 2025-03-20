@@ -20,7 +20,8 @@
     "searchTweaks": "maverick runners",
     "itemCategories": [
         {
-            "label": "",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"

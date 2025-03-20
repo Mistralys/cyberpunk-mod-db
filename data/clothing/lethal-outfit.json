@@ -26,7 +26,8 @@
     "searchTweaks": "alvarez dreamer",
     "itemCategories": [
         {
-            "label": "Bag",
+            "id": "bags",
+            "label": "Bags",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -76,7 +77,8 @@
             ]
         },
         {
-            "label": "Belt",
+            "id": "belts",
+            "label": "Belts",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -126,7 +128,8 @@
             ]
         },
         {
-            "label": "Mask",
+            "id": "masks",
+            "label": "Masks",
             "tags": [
                 "Head",
                 "Mask"
@@ -175,6 +178,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -224,7 +228,8 @@
             ]
         },
         {
-            "label": "Sleeve",
+            "id": "sleeves",
+            "label": "Sleeves",
             "tags": [
                 "Arms"
             ],
@@ -272,7 +277,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

@@ -21,7 +21,8 @@
     "searchTweaks": "hime",
     "itemCategories": [
         {
-            "label": "",
+            "id": "skirts",
+            "label": "Skirts",
             "tags": [
                 "Legs",
                 "Skirt"

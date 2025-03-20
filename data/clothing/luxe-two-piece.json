@@ -23,6 +23,7 @@
     "comments": "No garment support, and not planned.",
     "itemCategories": [
         {
+            "id": "luxe-shorts",
             "label": "Luxe Shorts",
             "tags": [
                 "Body-Hyst-EBBNRB",
@@ -109,7 +110,8 @@
             ]
         },
         {
-            "label": "Luxe Top",
+            "id": "luxe-tops",
+            "label": "Luxe Tops",
             "tags": [
                 "Bra",
                 "Torso"

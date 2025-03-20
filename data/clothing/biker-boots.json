@@ -18,6 +18,7 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
+            "id": "long-boots",
             "label": "Long Boots",
             "tags": [
                 "Boots",
@@ -72,6 +73,7 @@
             ]
         },
         {
+            "id": "short-boots",
             "label": "Short Boots",
             "tags": [
                 "Boots",

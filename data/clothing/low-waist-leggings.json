@@ -25,7 +25,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Fabric",
+            "id": "leggings-fabric",
+            "label": "Leggings - Fabric",
             "tags": [],
             "items": [
                 {
@@ -79,7 +80,8 @@
             ]
         },
         {
-            "label": "Latex",
+            "id": "leggings-latex",
+            "label": "Leggings - Latex",
             "tags": [],
             "items": [
                 {
@@ -121,7 +123,8 @@
             ]
         },
         {
-            "label": "Leather",
+            "id": "leggings-leather",
+            "label": "Leggings - Leather",
             "tags": [],
             "items": [
                 {
@@ -159,7 +162,8 @@
             ]
         },
         {
-            "label": "Special",
+            "id": "leggings-special",
+            "label": "Leggings - Special",
             "tags": [],
             "items": [
                 {

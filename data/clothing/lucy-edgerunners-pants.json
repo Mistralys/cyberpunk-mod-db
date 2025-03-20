@@ -20,7 +20,8 @@
     "searchTweaks": "maverick runners",
     "itemCategories": [
         {
-            "label": "",
+            "id": "pants",
+            "label": "Pants",
             "tags": [
                 "Legs",
                 "Pants"

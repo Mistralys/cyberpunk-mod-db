@@ -24,7 +24,8 @@
     "searchTweaks": "rogue romance",
     "itemCategories": [
         {
-            "label": "Bracer",
+            "id": "bracers",
+            "label": "Bracers",
             "tags": [
                 "Arms",
                 "Sleeves"
@@ -124,7 +125,8 @@
             ]
         },
         {
-            "label": "Cage Top",
+            "id": "cage-tops",
+            "label": "Cage Tops",
             "tags": [
                 "Top",
                 "Torso"
@@ -224,7 +226,8 @@
             ]
         },
         {
-            "label": "Dress, Latex",
+            "id": "dresses-latex",
+            "label": "Dresses - Latex",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -277,7 +280,8 @@
             ]
         },
         {
-            "label": "Dress, Leather",
+            "id": "dresses-leather",
+            "label": "Dresses - Leather",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -330,7 +334,8 @@
             ]
         },
         {
-            "label": "Dress, Silk",
+            "id": "dresses-silk",
+            "label": "Dresses - Silk",
             "tags": [
                 "Dress",
                 "FullBody"

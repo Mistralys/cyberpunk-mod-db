@@ -17,7 +17,8 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
-            "label": "",
+            "id": "chokers",
+            "label": "Chokers",
             "tags": [],
             "items": [
                 {

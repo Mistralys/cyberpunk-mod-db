@@ -16,7 +16,8 @@
     "comments": "Inspired by the movie 'Blade'.",
     "itemCategories": [
         {
-            "label": "Blade's Head",
+            "id": "blade-heads",
+            "label": "Blade Heads",
             "tags": [
                 "Accessories",
                 "Head"
@@ -33,7 +34,8 @@
             ]
         },
         {
-            "label": "Coat",
+            "id": "coats",
+            "label": "Coats",
             "tags": [
                 "Coat",
                 "FullBody"
@@ -58,6 +60,7 @@
             ]
         },
         {
+            "id": "earrings",
             "label": "Earrings",
             "tags": [
                 "Earring",
@@ -72,6 +75,7 @@
             ]
         },
         {
+            "id": "glasses",
             "label": "Glasses",
             "tags": [
                 "Glasses",
@@ -92,6 +96,7 @@
             ]
         },
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -109,6 +114,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -126,7 +132,8 @@
             ]
         },
         {
-            "label": "Sword",
+            "id": "swords",
+            "label": "Swords",
             "tags": [
                 "Accessories",
                 "Torso"

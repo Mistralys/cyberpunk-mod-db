@@ -20,7 +20,8 @@
     "searchTweaks": "monitor",
     "itemCategories": [
         {
-            "label": "",
+            "id": "bicep-monitors",
+            "label": "Bicep Monitors",
             "tags": [],
             "items": [
                 {

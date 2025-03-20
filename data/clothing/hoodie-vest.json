@@ -25,7 +25,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Hoodie",
+            "id": "hoodies",
+            "label": "Hoodies",
             "tags": [],
             "items": [
                 {
@@ -127,7 +128,8 @@
             ]
         },
         {
-            "label": "Vest",
+            "id": "vests",
+            "label": "Vests",
             "tags": [],
             "items": [
                 {

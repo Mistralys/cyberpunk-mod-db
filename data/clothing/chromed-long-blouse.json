@@ -15,7 +15,8 @@
     "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
-            "label": "",
+            "id": "blouses",
+            "label": "Blouses",
             "tags": [],
             "items": [
                 {

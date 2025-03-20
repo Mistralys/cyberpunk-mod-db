@@ -16,6 +16,7 @@
     ],
     "itemCategories": [
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -33,7 +34,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -54,6 +56,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",

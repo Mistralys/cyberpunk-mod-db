@@ -12,7 +12,8 @@
     "searchTweaks": "bling cyber snake",
     "itemCategories": [
         {
-            "label": "",
+            "id": "earrings",
+            "label": "Earrings",
             "tags": [
                 "Earring",
                 "Head",

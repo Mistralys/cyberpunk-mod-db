@@ -17,7 +17,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "bracelets",
+            "label": "Bracelets",
             "tags": [],
             "items": [
                 {

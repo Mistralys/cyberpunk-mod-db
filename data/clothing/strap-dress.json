@@ -15,7 +15,8 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "label": "Full Straps",
+            "id": "dresses-full-straps",
+            "label": "Dresses - Full Straps",
             "tags": [
                 "Accessories",
                 "FullBody",
@@ -48,7 +49,8 @@
             ]
         },
         {
-            "label": "Revealing Straps",
+            "id": "dresses-revealing-straps",
+            "label": "Dresses - Revealing Straps",
             "tags": [
                 "Accessories",
                 "FullBody",

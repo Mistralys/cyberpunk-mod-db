@@ -19,7 +19,8 @@
     "comments": "Necklaces 1-4 do not work in ACM due to the physics.",
     "itemCategories": [
         {
-            "label": "Bracelet 1, Left",
+            "id": "bracelets-1-left",
+            "label": "Bracelets Nr 1 - Left",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -148,7 +149,8 @@
             ]
         },
         {
-            "label": "Bracelet 1, Right",
+            "id": "bracelets-1-right",
+            "label": "Bracelets Nr 1 - Right",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -277,7 +279,8 @@
             ]
         },
         {
-            "label": "Bracelet 2, Left",
+            "id": "bracelet-2-left",
+            "label": "Bracelets Nr 2 - Left",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -406,7 +409,8 @@
             ]
         },
         {
-            "label": "Bracelet 2, Right",
+            "id": "bracelet-2-right",
+            "label": "Bracelets Nr 2 - Right",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -535,7 +539,8 @@
             ]
         },
         {
-            "label": "Necklace 1",
+            "id": "necklaces-1",
+            "label": "Necklaces Nr 1",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -665,7 +670,8 @@
             ]
         },
         {
-            "label": "Necklace 2",
+            "id": "necklaces-2",
+            "label": "Necklaces Nr 2",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -795,7 +801,8 @@
             ]
         },
         {
-            "label": "Necklace 3",
+            "id": "necklaces-3",
+            "label": "Necklaces Nr 3",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -925,7 +932,8 @@
             ]
         },
         {
-            "label": "Necklace 4",
+            "id": "necklaces-4",
+            "label": "Necklaces Nr 4",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -1055,7 +1063,8 @@
             ]
         },
         {
-            "label": "Necklace 5",
+            "id": "necklaces-5",
+            "label": "Necklaces Nr 5",
             "tags": [
                 "Neck",
                 "Necklace"
@@ -1184,7 +1193,8 @@
             ]
         },
         {
-            "label": "Necklace 6",
+            "id": "necklaces-6",
+            "label": "Necklaces Nr 6",
             "tags": [
                 "Neck",
                 "Necklace"

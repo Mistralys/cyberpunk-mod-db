@@ -15,7 +15,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Regular",
+            "id": "tops-regular",
+            "label": "Tops - Regular",
             "tags": [
                 "Bra",
                 "Torso",
@@ -53,7 +54,8 @@
             ]
         },
         {
-            "label": "Slim",
+            "id": "tops-slim",
+            "label": "Tops - Slim",
             "tags": [
                 "Bra",
                 "Torso",

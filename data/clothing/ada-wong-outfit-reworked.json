@@ -23,6 +23,7 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
+            "id": "high_heels",
             "label": "For high heels",
             "icon": "suit",
             "tags": [],
@@ -38,6 +39,7 @@
             ]
         },
         {
+            "id": "regular",
             "label": "Regular",
             "icon": "suit",
             "tags": [],

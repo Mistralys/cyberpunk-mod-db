@@ -19,6 +19,7 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
+            "id": "decals",
             "label": "Decals",
             "tags": [
                 "Accessories"
@@ -47,6 +48,7 @@
             ]
         },
         {
+            "id": "sleeves",
             "label": "Sleeves",
             "tags": [
                 "Arms"
@@ -113,6 +115,7 @@
             ]
         },
         {
+            "id": "zipper-shorts",
             "label": "Zipper Shorts",
             "tags": [
                 "Legs",
@@ -218,6 +221,7 @@
             ]
         },
         {
+            "id": "zipper-suits",
             "label": "Zipper Suits",
             "tags": [
                 "FullBody"
@@ -322,6 +326,7 @@
             ]
         },
         {
+            "id": "zipper-tops",
             "label": "Zipper Tops",
             "tags": [
                 "Top",

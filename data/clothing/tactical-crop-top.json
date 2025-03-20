@@ -19,7 +19,8 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
-            "label": "BDSM",
+            "id": "tops-bdsm",
+            "label": "Tops - BDSM",
             "tags": [
                 "Skimpy",
                 "Skimpy"
@@ -111,7 +112,8 @@
             ]
         },
         {
-            "label": "NSFW",
+            "id": "tops-nsfw",
+            "label": "Tops - NSFW",
             "tags": [
                 "Skimpy",
                 "Skimpy"
@@ -203,7 +205,8 @@
             ]
         },
         {
-            "label": "Standard",
+            "id": "tops-standard",
+            "label": "Tops - Standard",
             "tags": [],
             "items": [
                 {

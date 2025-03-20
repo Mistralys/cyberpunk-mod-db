@@ -18,7 +18,8 @@
     "comments": "Gloves do not show in first person perspective.",
     "itemCategories": [
         {
-            "label": "",
+            "id": "boots",
+            "label": "Boots",
             "tags": [],
             "items": [
                 {
@@ -28,7 +29,14 @@
                         "Boots",
                         "Feet"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "gloves",
+            "label": "Gloves",
+            "tags": [],
+            "items": [
                 {
                     "name": "Gloves",
                     "code": "quiet_gloves",
@@ -36,7 +44,14 @@
                         "Gloves",
                         "Hands"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "hairs",
+            "label": "Hairs",
+            "tags": [],
+            "items": [
                 {
                     "name": "Hair",
                     "code": "quiet_hair",
@@ -44,7 +59,14 @@
                         "Hair",
                         "Head"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "holsters",
+            "label": "Holsters",
+            "tags": [],
+            "items": [
                 {
                     "name": "Holsters",
                     "code": "quiet_holsters",
@@ -52,7 +74,14 @@
                         "Accessories",
                         "Legs"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "panties",
+            "label": "Panties",
+            "tags": [],
+            "items": [
                 {
                     "name": "Panties",
                     "code": "quiet_panties",
@@ -62,7 +91,14 @@
                         "Panties",
                         "Underwear"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "pants",
+            "label": "Pants",
+            "tags": [],
+            "items": [
                 {
                     "name": "Pants",
                     "code": "quiet_pants",
@@ -70,7 +106,14 @@
                         "Legs",
                         "Pants"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "tops",
+            "label": "Tops",
+            "tags": [],
+            "items": [
                 {
                     "name": "Tank Top",
                     "code": "quiet_tank",

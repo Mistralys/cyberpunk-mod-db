@@ -18,7 +18,8 @@
     "searchTweaks": "959 engine",
     "itemCategories": [
         {
-            "label": "Biomonitor",
+            "id": "biomonitors",
+            "label": "Biomonitors",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -31,7 +32,8 @@
             ]
         },
         {
-            "label": "Calf Baton",
+            "id": "calf-batons",
+            "label": "Calf Batons",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -44,7 +46,8 @@
             ]
         },
         {
-            "label": "Fanny Bag",
+            "id": "fanny-bags",
+            "label": "Fanny Bags",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -57,7 +60,8 @@
             ]
         },
         {
-            "label": "Gun Harness",
+            "id": "gun-harnesses",
+            "label": "Gun Harnesses",
             "tags": [
                 "Accessories",
                 "Waist"
@@ -94,7 +98,8 @@
             ]
         },
         {
-            "label": "Mechanic's Belt",
+            "id": "mechanics-belts",
+            "label": "Mechanic's Belts",
             "tags": [
                 "Accessories",
                 "Waist"
@@ -107,7 +112,8 @@
             ]
         },
         {
-            "label": "Mox Belt",
+            "id": "mox-belts",
+            "label": "Mox Belts",
             "tags": [
                 "Belt",
                 "Waist"
@@ -132,6 +138,7 @@
             ]
         },
         {
+            "id": "necklaces",
             "label": "Necklaces",
             "tags": [
                 "Jewelry",

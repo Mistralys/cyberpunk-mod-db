@@ -20,7 +20,8 @@
     "searchTweaks": "maverick runners",
     "itemCategories": [
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -45,7 +46,8 @@
             ]
         },
         {
-            "label": "Suit",
+            "id": "suits",
+            "label": "Suits",
             "tags": [
                 "FullBody",
                 "Reflective",

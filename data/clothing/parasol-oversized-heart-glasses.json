@@ -19,7 +19,8 @@
     "searchTweaks": "sized",
     "itemCategories": [
         {
-            "label": "Clear Lens with Grille",
+            "id": "glasses-clear-lens-with-grille",
+            "label": "Glasses - Clear Lens - With Grille",
             "tags": [],
             "items": [
                 {
@@ -41,7 +42,8 @@
             ]
         },
         {
-            "label": "Clear Lens without Grille",
+            "id": "glasses-clear-lens-no-grille",
+            "label": "Glasses - Clear Lens - No Grille",
             "tags": [],
             "items": [
                 {
@@ -63,7 +65,8 @@
             ]
         },
         {
-            "label": "Sunglasses with Grille",
+            "id": "glasses-sunglasses-no-grille",
+            "label": "Glasses - Sunglasses - With Grille",
             "tags": [],
             "items": [
                 {

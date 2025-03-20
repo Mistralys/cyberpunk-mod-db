@@ -27,7 +27,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "sneakers",
+            "label": "Sneakers",
             "tags": [],
             "items": [
                 {

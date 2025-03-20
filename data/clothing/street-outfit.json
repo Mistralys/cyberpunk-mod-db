@@ -18,7 +18,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "Street Jacket",
+            "id": "street-jackets",
+            "label": "Street Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -59,6 +60,7 @@
             ]
         },
         {
+            "id": "street-jeans",
             "label": "Street Jeans",
             "tags": [
                 "Legs",
@@ -108,7 +110,8 @@
             ]
         },
         {
-            "label": "Street Top",
+            "id": "street-tops",
+            "label": "Street Tops",
             "tags": [
                 "Top",
                 "Torso"

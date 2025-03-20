@@ -18,7 +18,8 @@
     "searchTweaks": "den wolf",
     "itemCategories": [
         {
-            "label": "",
+            "id": "shirts",
+            "label": "Shirts",
             "tags": [
                 "Shirt",
                 "Torso"

@@ -22,7 +22,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Belt",
+            "id": "belts",
+            "label": "Belts",
             "tags": [
                 "Belt",
                 "Waist"
@@ -47,7 +48,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -80,6 +82,7 @@
             ]
         },
         {
+            "id": "shorts",
             "label": "Shorts",
             "tags": [
                 "Legs",
@@ -113,7 +116,8 @@
             ]
         },
         {
-            "label": "Skirt",
+            "id": "skirts",
+            "label": "Skirts",
             "tags": [
                 "Legs",
                 "Skirt"

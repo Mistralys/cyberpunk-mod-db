@@ -19,7 +19,8 @@
     "searchTweaks": "center",
     "itemCategories": [
         {
-            "label": "",
+            "id": "pants",
+            "label": "Pants",
             "icon": "pants",
             "tags": [],
             "items": [

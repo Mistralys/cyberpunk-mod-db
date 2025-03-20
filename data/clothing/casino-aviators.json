@@ -18,7 +18,8 @@
     "searchTweaks": "baby",
     "itemCategories": [
         {
-            "label": "On Face - Black Frames",
+            "id": "glasses-black-frames",
+            "label": "Glasses - Black Frames",
             "tags": [],
             "items": [
                 {
@@ -56,7 +57,8 @@
             ]
         },
         {
-            "label": "On Face - White Frames",
+            "id": "glasses-white-frames",
+            "label": "Glasses - White Frames",
             "tags": [],
             "items": [
                 {
@@ -94,7 +96,8 @@
             ]
         },
         {
-            "label": "On Head - Black Frames",
+            "id": "glasses-head-black-frames",
+            "label": "Glasses - On Head - Black Frames",
             "tags": [],
             "items": [
                 {
@@ -132,7 +135,8 @@
             ]
         },
         {
-            "label": "On Head - White Frames",
+            "id": "glasses-head-white-frames",
+            "label": "Glasses - On Head - White Frames",
             "tags": [],
             "items": [
                 {

@@ -21,6 +21,7 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
+            "id": "jacket",
             "label": "Jacket",
             "icon": "jacket",
             "tags": [
@@ -67,6 +68,7 @@
             ]
         },
         {
+            "id": "jacket-short",
             "label": "Jacket (Short)",
             "icon": "jacket-short",
             "tags": [
@@ -113,6 +115,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "icon": "pants",
             "tags": [
@@ -155,6 +158,7 @@
             ]
         },
         {
+            "id": "pants-cyberdeck",
             "label": "Pants with Cyberdeck",
             "icon": "pants-cyberdeck",
             "tags": [
@@ -174,6 +178,7 @@
             ]
         },
         {
+            "id": "shorts",
             "label": "Shorts",
             "icon": "shorts",
             "tags": [
@@ -216,6 +221,7 @@
             ]
         },
         {
+            "id": "shorts-cyberdeck",
             "label": "Shorts with Cyberdeck",
             "icon": "shorts-cyberdeck",
             "tags": [

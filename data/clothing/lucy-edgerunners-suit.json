@@ -21,7 +21,8 @@
     "searchTweaks": "maverick runners",
     "itemCategories": [
         {
-            "label": "",
+            "id": "suits",
+            "label": "Suits",
             "tags": [
                 "FullBody",
                 "Reflective",

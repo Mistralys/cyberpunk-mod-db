@@ -19,7 +19,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "leggings",
+            "label": "Leggings",
             "tags": [],
             "items": [
                 {

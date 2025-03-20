@@ -2,7 +2,7 @@
     "mod": "Karyna Heart Choker Set",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/19811",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14248",
-    "atelierName": "",
+    "atelierName": "Mel's Online Catalogue",
     "authors": [
         "meluminary"
     ],
@@ -13,7 +13,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Choker",
+            "id": "chokers",
+            "label": "Chokers",
             "icon": "choker",
             "tags": [
                 "Choker",
@@ -43,7 +44,8 @@
             ]
         },
         {
-            "label": "Earring",
+            "id": "earrings",
+            "label": "Earrings",
             "icon": "earring",
             "tags": [
                 "Earring",

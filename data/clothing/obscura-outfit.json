@@ -29,7 +29,8 @@
     "searchTweaks": "1996",
     "itemCategories": [
         {
-            "label": "Blazer",
+            "id": "blazers",
+            "label": "Blazers",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -50,7 +51,8 @@
             ]
         },
         {
-            "label": "Bodysuit",
+            "id": "bodysuits",
+            "label": "Bodysuits",
             "tags": [
                 "Bodysuit",
                 "FullBody"

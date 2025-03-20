@@ -14,50 +14,74 @@
     ],
     "itemCategories": [
         {
-            "label": "",
-            "tags": [],
+            "id": "body-suits",
+            "label": "Body suits",
+            "tags": [
+                "Choker",
+                "FullBody",
+                "Neck",
+                "Skimpy"
+            ],
             "items": [
                 {
                     "name": "Body",
-                    "code": "bad_cop_body",
-                    "tags": [
-                        "Choker",
-                        "FullBody",
-                        "Neck",
-                        "Skimpy"
-                    ]
-                },
+                    "code": "bad_cop_body"
+                }
+            ]
+        },
+        {
+            "id": "gloves",
+            "label": "Gloves",
+            "tags": [
+                "Gloves",
+                "Hands"
+            ],
+            "items": [
                 {
                     "name": "Gloves",
-                    "code": "bad_cop_gloves",
-                    "tags": [
-                        "Gloves",
-                        "Hands"
-                    ]
-                },
+                    "code": "bad_cop_gloves"
+                }
+            ]
+        },
+        {
+            "id": "hats",
+            "label": "Hats",
+            "tags": [
+                "Hat",
+                "Head"
+            ],
+            "items": [
                 {
                     "name": "Hat",
-                    "code": "bad_cop_hat",
-                    "tags": [
-                        "Hat",
-                        "Head"
-                    ]
-                },
+                    "code": "bad_cop_hat"
+                }
+            ]
+        },
+        {
+            "id": "holsters",
+            "label": "Holsters",
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
+            "items": [
                 {
                     "name": "Holster",
-                    "code": "bad_cop_holster",
-                    "tags": [
-                        "Accessories",
-                        "Legs"
-                    ]
-                },
+                    "code": "bad_cop_holster"
+                }
+            ]
+        },
+        {
+            "id": "shoes",
+            "label": "Shoes",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
                 {
                     "name": "Shoes",
-                    "code": "bad_cop_shoes",
-                    "tags": [
-                        "Feet",
-                        "Shoes"
-                    ]
+                    "code": "bad_cop_shoes"
                 }
             ]
         }

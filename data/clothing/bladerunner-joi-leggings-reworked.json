@@ -28,7 +28,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "Cotton",
+            "id": "cotton-leggings",
+            "label": "Cotton Leggings",
             "tags": [],
             "items": [
                 {
@@ -50,7 +51,8 @@
             ]
         },
         {
-            "label": "Latex",
+            "id": "latex-leggings",
+            "label": "Latex Leggings",
             "tags": [],
             "items": [
                 {
@@ -60,7 +62,8 @@
             ]
         },
         {
-            "label": "Sheer",
+            "id": "sheer-leggings",
+            "label": "Sheer Leggings",
             "tags": [],
             "items": [
                 {
@@ -82,7 +85,8 @@
             ]
         },
         {
-            "label": "Shiny Sheer",
+            "id": "shiny-sheer-leggings",
+            "label": "Shiny Sheer Leggings",
             "tags": [],
             "items": [
                 {
@@ -96,7 +100,8 @@
             ]
         },
         {
-            "label": "Spandex",
+            "id": "spandex-leggings",
+            "label": "Spandex Leggings",
             "tags": [],
             "items": [
                 {

@@ -19,7 +19,8 @@
     "searchTweaks": "88 boy",
     "itemCategories": [
         {
-            "label": "",
+            "id": "earrings",
+            "label": "Earrings",
             "tags": [],
             "items": [
                 {

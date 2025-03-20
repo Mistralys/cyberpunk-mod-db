@@ -36,6 +36,7 @@
     "searchTweaks": "arcane",
     "itemCategories": [
         {
+            "id": "gauntlets",
             "label": "Gauntlets",
             "tags": [
                 "Arms",
@@ -54,7 +55,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"

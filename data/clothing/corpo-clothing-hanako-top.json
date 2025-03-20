@@ -20,7 +20,8 @@
     "comments": "The atelier is a separate download in another mod's files.",
     "itemCategories": [
         {
-            "label": "Cropped Long Sleeves",
+            "id": "long-sleeved-tops-cropped",
+            "label": "Long Sleeved Tops - Cropped",
             "tags": [
                 "Arms",
                 "Sleeves"
@@ -145,7 +146,8 @@
             ]
         },
         {
-            "label": "Cropped Long Sleeves with Sequins",
+            "id": "long-sleeved-tops-sequins",
+            "label": "Long Sleeved Tops - Sequins",
             "tags": [
                 "Arms",
                 "Sleeves"
@@ -218,7 +220,8 @@
             ]
         },
         {
-            "label": "Cropped Sleeveless",
+            "id": "sleeveless-tops-cropped",
+            "label": "Sleeveless Tops - Cropped",
             "tags": [],
             "items": [
                 {
@@ -340,7 +343,8 @@
             ]
         },
         {
-            "label": "Cropped Sleeveless with Sequins",
+            "id": "sleeveless-tops-cropped-sequins",
+            "label": "Sleeveless Tops - Cropped - Sequins",
             "tags": [],
             "items": [
                 {
@@ -410,7 +414,8 @@
             ]
         },
         {
-            "label": "Cropped Tank",
+            "id": "cropped-tank",
+            "label": "Cropped Tanks",
             "tags": [],
             "items": [
                 {
@@ -508,7 +513,8 @@
             ]
         },
         {
-            "label": "Cropped Tank with Sequins",
+            "id": "cropped-tank-sequins",
+            "label": "Cropped Tank - Sequins",
             "tags": [],
             "items": [
                 {
@@ -578,7 +584,8 @@
             ]
         },
         {
-            "label": "Full Long Sleeves",
+            "id": "long-sleeves-full",
+            "label": "Long Sleeves - Full",
             "tags": [],
             "items": [
                 {
@@ -700,7 +707,8 @@
             ]
         },
         {
-            "label": "Full Long Sleeves with Sequins",
+            "id": "long-sleeves-full-sequins",
+            "label": "Long Sleeves - Full - Sequins",
             "tags": [],
             "items": [
                 {
@@ -770,7 +778,8 @@
             ]
         },
         {
-            "label": "Full Sleeveless",
+            "id": "sleeveless-full",
+            "label": "Sleeveless - Full",
             "tags": [],
             "items": [
                 {
@@ -892,7 +901,8 @@
             ]
         },
         {
-            "label": "Full Sleeveless with Sequins",
+            "id": "sleeveless-full-sequins",
+            "label": "Sleeveless - Full - Sequins",
             "tags": [],
             "items": [
                 {
@@ -962,7 +972,8 @@
             ]
         },
         {
-            "label": "Full Tank",
+            "id": "tanks-full",
+            "label": "Tanks - Full",
             "tags": [],
             "items": [
                 {
@@ -1060,7 +1071,8 @@
             ]
         },
         {
-            "label": "Full Tank with Sequins",
+            "id": "tanks-full-sequins",
+            "label": "Tanks - Full -Sequins",
             "tags": [],
             "items": [
                 {

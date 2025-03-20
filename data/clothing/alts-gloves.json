@@ -12,7 +12,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "gloves",
+            "label": "Gloves",
             "icon": "glove",
             "tags": [
                 "Gloves",

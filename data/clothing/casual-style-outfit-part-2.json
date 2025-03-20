@@ -26,7 +26,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -75,6 +76,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -124,7 +126,8 @@
             ]
         },
         {
-            "label": "Pants Belt",
+            "id": "belts-pants",
+            "label": "Belts - Pants",
             "tags": [
                 "Belt",
                 "Waist"
@@ -173,7 +176,8 @@
             ]
         },
         {
-            "label": "Shoes (Glossy)",
+            "id": "shoes-glossy",
+            "label": "Shoes - Glossy",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -222,7 +226,8 @@
             ]
         },
         {
-            "label": "Shoes (Matte)",
+            "id": "shoes-matte",
+            "label": "Shoes - Matte",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -271,6 +276,7 @@
             ]
         },
         {
+            "id": "shorts",
             "label": "Shorts",
             "tags": [
                 "Legs",
@@ -320,7 +326,8 @@
             ]
         },
         {
-            "label": "Shorts Belt",
+            "id": "belts-shorts",
+            "label": "Belts - Shorts",
             "tags": [
                 "Belt",
                 "Waist"
@@ -369,7 +376,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

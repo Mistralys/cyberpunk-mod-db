@@ -15,7 +15,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Bikini",
+            "id": "bikinis",
+            "label": "Bikinis",
             "tags": [
                 "Skimpy",
                 "Torso"
@@ -52,7 +53,8 @@
             ]
         },
         {
-            "label": "Dress",
+            "id": "dresses",
+            "label": "Dresses",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -89,6 +91,7 @@
             ]
         },
         {
+            "id": "panties",
             "label": "Panties",
             "tags": [
                 "Legs",
@@ -127,7 +130,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

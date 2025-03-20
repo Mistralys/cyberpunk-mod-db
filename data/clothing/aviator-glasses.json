@@ -16,7 +16,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "glasses",
+            "label": "Glasses",
             "tags": [],
             "items": [
                 {

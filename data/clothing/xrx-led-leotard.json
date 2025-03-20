@@ -18,7 +18,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "leotards",
+            "label": "Leotards",
             "tags": [],
             "items": [
                 {

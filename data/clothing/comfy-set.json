@@ -20,6 +20,7 @@
     "searchTweaks": "comfortable hime",
     "itemCategories": [
         {
+            "id": "shorts",
             "label": "Shorts",
             "tags": [
                 "Legs",
@@ -53,7 +54,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

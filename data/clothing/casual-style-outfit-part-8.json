@@ -27,7 +27,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Gloves (Left)",
+            "id": "gloves-left",
+            "label": "Gloves - Left",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -56,7 +57,8 @@
             ]
         },
         {
-            "label": "Gloves (Right)",
+            "id": "gloves-right",
+            "label": "Gloves - Right",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -85,7 +87,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -114,7 +117,8 @@
             ]
         },
         {
-            "label": "Mask",
+            "id": "masks",
+            "label": "Masks",
             "tags": [
                 "Head",
                 "Mask"
@@ -143,6 +147,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -172,6 +177,7 @@
             ]
         },
         {
+            "id": "shoes",
             "label": "Shoes",
             "tags": [
                 "Feet",
@@ -201,7 +207,8 @@
             ]
         },
         {
-            "label": "Sleeves (Left)",
+            "id": "sleeves-left",
+            "label": "Sleeves - Left",
             "tags": [
                 "Arms"
             ],
@@ -229,7 +236,8 @@
             ]
         },
         {
-            "label": "Sleeves (Right)",
+            "id": "sleeves-right",
+            "label": "Sleeves - Right",
             "tags": [
                 "Arms"
             ],
@@ -257,7 +265,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

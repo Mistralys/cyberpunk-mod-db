@@ -13,7 +13,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

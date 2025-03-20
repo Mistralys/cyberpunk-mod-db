@@ -13,7 +13,8 @@
     "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
-            "label": "",
+            "id": "coats",
+            "label": "Coats",
             "tags": [
                 "Coat",
                 "FullBody"

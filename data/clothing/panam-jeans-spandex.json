@@ -18,7 +18,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "jeans",
+            "label": "Jeans",
             "tags": [],
             "items": [
                 {

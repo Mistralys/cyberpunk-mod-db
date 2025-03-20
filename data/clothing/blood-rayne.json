@@ -17,7 +17,8 @@
     "searchTweaks": "rayne",
     "itemCategories": [
         {
-            "label": "Corset",
+            "id": "corsets",
+            "label": "Corsets",
             "icon": "corset",
             "tags": [
                 "Corset",
@@ -31,7 +32,8 @@
             ]
         },
         {
-            "label": "Dress",
+            "id": "dresses",
+            "label": "Dresses",
             "icon": "robe",
             "tags": [
                 "Dress",
@@ -45,6 +47,7 @@
             ]
         },
         {
+            "id": "dress-boots",
             "label": "Dress Boots",
             "icon": "boots",
             "tags": [
@@ -59,6 +62,7 @@
             ]
         },
         {
+            "id": "dress-gloves",
             "label": "Dress Gloves",
             "icon": "glove-silver",
             "tags": [
@@ -74,6 +78,7 @@
             ]
         },
         {
+            "id": "dress-panties",
             "label": "Dress Panties",
             "icon": "panties",
             "tags": [
@@ -89,6 +94,7 @@
             ]
         },
         {
+            "id": "gloves",
             "label": "Gloves",
             "icon": "glove-red",
             "tags": [
@@ -104,7 +110,8 @@
             ]
         },
         {
-            "label": "Hair",
+            "id": "hairs",
+            "label": "Hairs",
             "icon": "hair",
             "tags": [
                 "Hair",
@@ -118,7 +125,8 @@
             ]
         },
         {
-            "label": "Necklace",
+            "id": "necklaces",
+            "label": "Necklaces",
             "icon": "choker",
             "tags": [
                 "Choker",
@@ -142,6 +150,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "icon": "pants",
             "tags": [

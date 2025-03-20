@@ -15,7 +15,8 @@
     "comments": "Inspired by the character Trinity from the movie 'The Matrix'.",
     "itemCategories": [
         {
-            "label": "Bodysuit",
+            "id": "bodysuits",
+            "label": "Bodysuits",
             "tags": [
                 "Bodysuit",
                 "FullBody"
@@ -48,6 +49,7 @@
             ]
         },
         {
+            "id": "boots",
             "label": "Boots",
             "tags": [
                 "Boots",
@@ -81,7 +83,8 @@
             ]
         },
         {
-            "label": "Coat",
+            "id": "coats",
+            "label": "Coats",
             "tags": [
                 "Coat",
                 "FullBody"
@@ -114,6 +117,7 @@
             ]
         },
         {
+            "id": "glasses",
             "label": "Glasses",
             "tags": [
                 "Glasses",
@@ -127,6 +131,7 @@
             ]
         },
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -160,7 +165,8 @@
             ]
         },
         {
-            "label": "Hair",
+            "id": "hairs",
+            "label": "Hairs",
             "tags": [
                 "Hair",
                 "Head"
@@ -173,6 +179,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -206,7 +213,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

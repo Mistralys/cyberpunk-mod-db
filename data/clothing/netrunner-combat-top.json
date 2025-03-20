@@ -18,7 +18,8 @@
     "searchTweaks": "maverick runner",
     "itemCategories": [
         {
-            "label": "",
+            "id": "tops",
+            "label": "Tops",
             "tags": [],
             "items": [
                 {

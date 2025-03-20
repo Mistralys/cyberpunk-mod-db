@@ -19,7 +19,8 @@
     "searchTweaks": "dreamer",
     "itemCategories": [
         {
-            "label": "Leather",
+            "id": "shoes-leather",
+            "label": "Shoes - Leather",
             "tags": [],
             "items": [
                 {
@@ -57,7 +58,8 @@
             ]
         },
         {
-            "label": "Standard",
+            "id": "shoes-standard",
+            "label": "Shoes - Standard",
             "tags": [],
             "items": [
                 {
@@ -83,7 +85,8 @@
             ]
         },
         {
-            "label": "Velvet",
+            "id": "shoes-velvet",
+            "label": "Shoes - Velvet",
             "tags": [],
             "items": [
                 {

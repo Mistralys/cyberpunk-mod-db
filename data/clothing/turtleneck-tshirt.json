@@ -22,7 +22,8 @@
     "searchTweaks": "into void",
     "itemCategories": [
         {
-            "label": "",
+            "id": "t-shirts",
+            "label": "T-Shirts",
             "tags": [],
             "items": [
                 {

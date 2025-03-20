@@ -24,6 +24,7 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -57,6 +58,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -98,6 +100,7 @@
             ]
         },
         {
+            "id": "shoes",
             "label": "Shoes",
             "tags": [
                 "Feet",
@@ -131,6 +134,7 @@
             ]
         },
         {
+            "id": "sleeves",
             "label": "Sleeves",
             "tags": [
                 "Arms",
@@ -172,7 +176,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

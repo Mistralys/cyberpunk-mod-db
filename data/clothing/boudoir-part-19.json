@@ -24,7 +24,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Matte Fabric, Textured",
+            "id": "matte-textured-dresses",
+            "label": "Matte and Textured Dresses",
             "tags": [],
             "items": [
                 {
@@ -70,7 +71,8 @@
             ]
         },
         {
-            "label": "Matte Fabric, Untextured",
+            "id": "matte-plain-dresses",
+            "label": "Matte Plain Dresses",
             "tags": [],
             "items": [
                 {
@@ -116,7 +118,8 @@
             ]
         },
         {
-            "label": "Shiny Fabric, Textured",
+            "id": "shiny-textured-dresses",
+            "label": "Shiny and Textured Dresses",
             "tags": [],
             "items": [
                 {
@@ -162,7 +165,8 @@
             ]
         },
         {
-            "label": "Shiny Fabric, Untextured",
+            "id": "shiny-plain-dresses",
+            "label": "Shiny Plain Dresses",
             "tags": [],
             "items": [
                 {

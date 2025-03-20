@@ -20,7 +20,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Fabric",
+            "id": "fabric-pants",
+            "label": "Fabric Pants",
             "icon": "fabric",
             "tags": [],
             "items": [
@@ -67,7 +68,8 @@
             ]
         },
         {
-            "label": "Latex",
+            "id": "latex-pants",
+            "label": "Latex Pants",
             "icon": "latex",
             "tags": [],
             "items": [
@@ -94,7 +96,8 @@
             ]
         },
         {
-            "label": "Leather",
+            "id": "leather-pants",
+            "label": "Leather Pants",
             "icon": "leather",
             "tags": [],
             "items": [
@@ -121,7 +124,8 @@
             ]
         },
         {
-            "label": "Special",
+            "id": "special-pants",
+            "label": "Special Pants",
             "icon": "special",
             "tags": [
                 "Reflective"

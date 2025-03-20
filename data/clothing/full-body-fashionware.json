@@ -15,7 +15,8 @@
     "searchTweaks": "ware",
     "itemCategories": [
         {
-            "label": "Emissive",
+            "id": "fashionware-emissive",
+            "label": "Fashionware - Emissive",
             "tags": [
                 "Emissive",
                 "FullBody"
@@ -64,7 +65,8 @@
             ]
         },
         {
-            "label": "Moving",
+            "id": "fashionware-moving",
+            "label": "Fashionware - Moving",
             "tags": [
                 "Animated",
                 "Emissive",
@@ -82,7 +84,8 @@
             ]
         },
         {
-            "label": "Pulse",
+            "id": "fashionware-pulse",
+            "label": "Fashionware - Pulse",
             "tags": [
                 "Animated",
                 "Emissive",
@@ -132,7 +135,8 @@
             ]
         },
         {
-            "label": "Regular",
+            "id": "fashionware-regular",
+            "label": "Fashionware - Regular",
             "tags": [
                 "FullBody"
             ],

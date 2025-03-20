@@ -19,6 +19,7 @@
     "searchTweaks": "seven",
     "itemCategories": [
         {
+            "id": "lace-panties",
             "label": "Lace Panties",
             "tags": [
                 "Legs",
@@ -45,7 +46,8 @@
             ]
         },
         {
-            "label": "Lace Top",
+            "id": "lace-tops",
+            "label": "Lace Tops",
             "tags": [
                 "Bra",
                 "Torso",

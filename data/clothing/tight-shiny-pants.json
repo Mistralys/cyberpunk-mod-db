@@ -13,7 +13,8 @@
     "searchTweaks": "dude raccoon",
     "itemCategories": [
         {
-            "label": "",
+            "id": "pants",
+            "label": "Pants",
             "tags": [
                 "Legs",
                 "Pants"

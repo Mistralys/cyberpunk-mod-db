@@ -22,7 +22,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Harness",
+            "id": "harnesses",
+            "label": "Harnesses",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -55,6 +56,7 @@
             ]
         },
         {
+            "id": "shoes",
             "label": "Shoes",
             "tags": [
                 "Feet",
@@ -88,7 +90,8 @@
             ]
         },
         {
-            "label": "Shoulder Rope",
+            "id": "shoulder-ropes",
+            "label": "Shoulder Ropes",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -121,7 +124,8 @@
             ]
         },
         {
-            "label": "Suit",
+            "id": "suits",
+            "label": "Suits",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -158,7 +162,8 @@
             ]
         },
         {
-            "label": "Tactical Belt with back Pouch",
+            "id": "tactical-belts",
+            "label": "Tactical Belts",
             "tags": [
                 "Belt",
                 "Waist"
@@ -191,7 +196,8 @@
             ]
         },
         {
-            "label": "Waist Band with side Pouch",
+            "id": "waist-bands",
+            "label": "Waist Bands",
             "tags": [
                 "Belt",
                 "Waist"
@@ -224,7 +230,8 @@
             ]
         },
         {
-            "label": "Waist Rope",
+            "id": "waist-ropes",
+            "label": "Waist Ropes",
             "tags": [
                 "Belt",
                 "Waist"

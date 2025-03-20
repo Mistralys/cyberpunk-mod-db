@@ -17,7 +17,8 @@
     "searchTweaks": "deck shield",
     "itemCategories": [
         {
-            "label": "Alt - Black",
+            "id": "alt-cyberdecks-black",
+            "label": "Alt Cyberdecks - Black",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -51,7 +52,8 @@
             ]
         },
         {
-            "label": "Alt - Default",
+            "id": "alt-cyberdecks-default",
+            "label": "Alt Cyberdecks - Default",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -85,7 +87,8 @@
             ]
         },
         {
-            "label": "Alt - Orange",
+            "id": "alt-cyberdecks-orange",
+            "label": "Alt Cyberdecks - Orange",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -119,7 +122,8 @@
             ]
         },
         {
-            "label": "Arm deck",
+            "id": "arm-decks",
+            "label": "Arm Decks",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -164,7 +168,8 @@
             ]
         },
         {
-            "label": "SongBird - Black",
+            "id": "songbird-cyberdecks-black",
+            "label": "SongBird Cyberdecks - Black",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -222,7 +227,8 @@
             ]
         },
         {
-            "label": "SongBird - Default",
+            "id": "songbird-cyberdecks-default",
+            "label": "SongBird Cyberdecks - Default",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -280,7 +286,8 @@
             ]
         },
         {
-            "label": "SongBird - Orange",
+            "id": "songbird-cyberdecks-orange",
+            "label": "SongBird Cyberdecks - Orange",
             "tags": [
                 "Accessories",
                 "Belt",

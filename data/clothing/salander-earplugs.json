@@ -13,7 +13,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "earplugs",
+            "label": "Earplugs",
             "tags": [
                 "Earring",
                 "Head",

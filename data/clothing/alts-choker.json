@@ -14,7 +14,8 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
-            "label": "",
+            "id": "choker",
+            "label": "Choker",
             "icon": "choker",
             "tags": [
                 "Accessories",

@@ -15,6 +15,7 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
+            "id": "belts",
             "label": "Belts",
             "tags": [
                 "Accessories",
@@ -58,7 +59,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -107,6 +109,7 @@
             ]
         },
         {
+            "id": "jacket-back-plugs",
             "label": "Jacket Back-Plugs",
             "tags": [
                 "Accessories",
@@ -156,6 +159,7 @@
             ]
         },
         {
+            "id": "jacket-lines",
             "label": "Jacket Lines",
             "tags": [
                 "Accessories",
@@ -229,6 +233,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -278,6 +283,7 @@
             ]
         },
         {
+            "id": "pants-lines",
             "label": "Pants Lines",
             "tags": [
                 "Accessories",
@@ -351,6 +357,7 @@
             ]
         },
         {
+            "id": "shorts",
             "label": "Shorts",
             "tags": [
                 "Legs",
@@ -400,6 +407,7 @@
             ]
         },
         {
+            "id": "shorts-lines",
             "label": "Shorts Lines",
             "tags": [
                 "Accessories",

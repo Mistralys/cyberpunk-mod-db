@@ -20,40 +20,58 @@
     ],
     "itemCategories": [
         {
-            "label": "",
-            "tags": [],
+            "id": "boots",
+            "label": "Boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
             "items": [
                 {
                     "name": "Boots",
-                    "code": "deusx_boots",
-                    "tags": [
-                        "Boots",
-                        "Feet"
-                    ]
-                },
+                    "code": "deusx_boots"
+                }
+            ]
+        },
+        {
+            "id": "shorts",
+            "label": "Shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
+            "items": [
                 {
                     "name": "Shorts",
-                    "code": "deusx_shorts",
-                    "tags": [
-                        "Legs",
-                        "Shorts"
-                    ]
-                },
+                    "code": "deusx_shorts"
+                }
+            ]
+        },
+        {
+            "id": "specs",
+            "label": "Specs",
+            "tags": [
+                "Accessories",
+                "Waist"
+            ],
+            "items": [
                 {
                     "name": "Specs",
-                    "code": "deusx_specs",
-                    "tags": [
-                        "Accessories",
-                        "Waist"
-                    ]
-                },
+                    "code": "deusx_specs"
+                }
+            ]
+        },
+        {
+            "id": "vests",
+            "label": "Vests",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
                 {
                     "name": "Vest",
-                    "code": "deusx_vest",
-                    "tags": [
-                        "Jacket",
-                        "Torso"
-                    ]
+                    "code": "deusx_vest"
                 }
             ]
         }

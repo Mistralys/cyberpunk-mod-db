@@ -13,7 +13,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "bracelets",
+            "label": "Bracelets",
             "tags": [
                 "Accessories",
                 "Arms",

@@ -18,7 +18,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Both Arms",
+            "id": "bracelets-both-arms",
+            "label": "Bracelets - Both Arms",
             "tags": [],
             "items": [
                 {
@@ -64,7 +65,8 @@
             ]
         },
         {
-            "label": "Left Arm",
+            "id": "bracelets-left-arm",
+            "label": "Bracelets - Left Arm",
             "tags": [],
             "items": [
                 {
@@ -110,7 +112,8 @@
             ]
         },
         {
-            "label": "Right Arm",
+            "id": "bracelets-right-arm",
+            "label": "Bracelets - Right Arm",
             "tags": [],
             "items": [
                 {

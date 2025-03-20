@@ -17,7 +17,8 @@
     ],
     "itemCategories": [
         {
-            "label": "",
+            "id": "elbow-pads",
+            "label": "Elbow Pads",
             "tags": [],
             "items": [
                 {

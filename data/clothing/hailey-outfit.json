@@ -26,6 +26,7 @@
     "comments": "Hailey from 'The First Descendant'.",
     "itemCategories": [
         {
+            "id": "boots",
             "label": "Boots",
             "tags": [
                 "Boots",
@@ -51,6 +52,7 @@
             ]
         },
         {
+            "id": "bracelets",
             "label": "Bracelets",
             "tags": [
                 "Accessories",
@@ -68,7 +70,8 @@
             ]
         },
         {
-            "label": "Earpiece",
+            "id": "earpieces",
+            "label": "Earpieces",
             "tags": [
                 "Accessories",
                 "Head"
@@ -81,6 +84,7 @@
             ]
         },
         {
+            "id": "gloves",
             "label": "Gloves",
             "tags": [
                 "Gloves",
@@ -138,7 +142,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -195,7 +200,8 @@
             ]
         },
         {
-            "label": "Jacket with Bra",
+            "id": "jackets-with-bra",
+            "label": "Jackets - With Bra",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -252,6 +258,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -309,6 +316,7 @@
             ]
         },
         {
+            "id": "pouches",
             "label": "Pouches",
             "tags": [
                 "Accessories"

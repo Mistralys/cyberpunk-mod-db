@@ -17,7 +17,8 @@
     "searchTweaks": "rise",
     "itemCategories": [
         {
-            "label": "Regular",
+            "id": "pants-regular",
+            "label": "Pants - Regular",
             "tags": [
                 "Legs",
                 "Pants"
@@ -82,7 +83,8 @@
             ]
         },
         {
-            "label": "Silk",
+            "id": "pants-silk",
+            "label": "Pants - Silk",
             "tags": [
                 "Legs",
                 "Pants"

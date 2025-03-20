@@ -20,7 +20,8 @@
     ],
     "itemCategories": [
         {
-            "label": "Shirt",
+            "id": "shirts",
+            "label": "Shirts",
             "tags": [
                 "Shirt",
                 "Torso"
@@ -77,7 +78,8 @@
             ]
         },
         {
-            "label": "Skirt",
+            "id": "skirts",
+            "label": "Skirts",
             "tags": [
                 "Legs",
                 "Skirt"
@@ -134,6 +136,7 @@
             ]
         },
         {
+            "id": "stockings",
             "label": "Stockings",
             "tags": [
                 "Legs",
@@ -151,7 +154,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Top",
                 "Torso"

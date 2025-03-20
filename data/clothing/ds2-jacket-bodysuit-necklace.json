@@ -15,7 +15,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "Body Suit",
+            "id": "bodysuits",
+            "label": "Body Suits",
             "tags": [
                 "AutoScale",
                 "Body-Gymfiend",
@@ -63,7 +64,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "AutoScale",
                 "Body-Gymfiend",
@@ -139,7 +141,8 @@
             ]
         },
         {
-            "label": "Necklace",
+            "id": "necklaces",
+            "label": "Necklaces",
             "tags": [
                 "FemV",
                 "Jewelry",

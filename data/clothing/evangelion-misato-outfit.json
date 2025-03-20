@@ -20,7 +20,8 @@
     "searchTweaks": "lion maverick",
     "itemCategories": [
         {
-            "label": "Dress",
+            "id": "dresses",
+            "label": "Dresses",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -49,7 +50,8 @@
             ]
         },
         {
-            "label": "Jacket",
+            "id": "jackets",
+            "label": "Jackets",
             "tags": [
                 "Jacket",
                 "Torso"

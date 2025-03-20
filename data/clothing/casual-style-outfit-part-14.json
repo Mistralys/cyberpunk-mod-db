@@ -22,7 +22,8 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "label": "Cotton Jacket",
+            "id": "jackets-cotton",
+            "label": "Jackets - Cotton",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -63,7 +64,8 @@
             ]
         },
         {
-            "label": "Cotton Skirt",
+            "id": "skirts-cotton",
+            "label": "Skirts - Cotton",
             "tags": [
                 "Legs",
                 "Skirt"
@@ -104,7 +106,8 @@
             ]
         },
         {
-            "label": "Leather Jacket",
+            "id": "jackets-leather",
+            "label": "Jackets - Leather",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -145,7 +148,8 @@
             ]
         },
         {
-            "label": "Leather Skirt",
+            "id": "skirts-leather",
+            "label": "Skirts - Leather",
             "tags": [
                 "Legs",
                 "Skirt"

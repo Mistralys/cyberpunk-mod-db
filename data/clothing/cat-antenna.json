@@ -16,7 +16,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "",
+            "id": "antennae",
+            "label": "Antennae",
             "tags": [],
             "items": [
                 {

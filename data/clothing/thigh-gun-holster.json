@@ -17,7 +17,8 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "label": "",
+            "id": "holsters",
+            "label": "Holsters",
             "tags": [],
             "items": [
                 {

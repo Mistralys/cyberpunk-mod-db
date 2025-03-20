@@ -17,7 +17,8 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "label": "Left Hand",
+            "id": "gloves-left",
+            "label": "Gloves - Left",
             "tags": [],
             "items": [
                 {
@@ -61,7 +62,8 @@
             ]
         },
         {
-            "label": "Right Hand",
+            "id": "gloves-right",
+            "label": "Gloves - Right",
             "tags": [],
             "items": [
                 {

@@ -17,7 +17,8 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "label": "Both Arms (Combined Version)",
+            "id": "cyber-tubes-both-arms",
+            "label": "Cyber-Tubes - Both Arms",
             "tags": [],
             "items": [
                 {
@@ -104,7 +105,8 @@
             ]
         },
         {
-            "label": "Left Arm (Separated Version)",
+            "id": "cyber-tubes-left-arm",
+            "label": "Cyber-Tubes - Left Arm",
             "tags": [],
             "items": [
                 {
@@ -191,7 +193,8 @@
             ]
         },
         {
-            "label": "Right Arm (Separated Version)",
+            "id": "cyber-tubes-right-arm",
+            "label": "Cyber-Tubes - Right Arm",
             "tags": [],
             "items": [
                 {

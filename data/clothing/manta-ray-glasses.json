@@ -16,7 +16,8 @@
     "searchTweaks": "baby",
     "itemCategories": [
         {
-            "label": "Black Frames",
+            "id": "glasses-black-frames",
+            "label": "Glasses - Regular - Black Frames",
             "tags": [],
             "items": [
                 {
@@ -70,7 +71,8 @@
             ]
         },
         {
-            "label": "Black Frames (On Head)",
+            "id": "glasses-head-black-frames",
+            "label": "Glasses - On Head - Black Frames",
             "tags": [],
             "items": [
                 {
@@ -124,7 +126,8 @@
             ]
         },
         {
-            "label": "Black Frames (Pulled down)",
+            "id": "glasses-pulled-black-frames",
+            "label": "Glasses - Pulled Down - Black Frames",
             "tags": [],
             "items": [
                 {
@@ -178,7 +181,8 @@
             ]
         },
         {
-            "label": "Golden Frames",
+            "id": "glasses-golden-frames",
+            "label": "Glasses - Regular - Golden Frames",
             "tags": [],
             "items": [
                 {
@@ -232,7 +236,8 @@
             ]
         },
         {
-            "label": "Gold Frames (On Head)",
+            "id": "glasses-head-golden-frames",
+            "label": "Glasses - On Head - Gold Frames",
             "tags": [],
             "items": [
                 {
@@ -286,7 +291,8 @@
             ]
         },
         {
-            "label": "Gold Frames (Pulled down)",
+            "id": "glasses-pulled-golden-frames",
+            "label": "Glasses - Pulled Down - Gold Frames",
             "tags": [],
             "items": [
                 {
@@ -340,7 +346,8 @@
             ]
         },
         {
-            "label": "Pink Frames",
+            "id": "glasses-pink-frames",
+            "label": "Glasses - Regular - Pink Frames",
             "tags": [],
             "items": [
                 {
@@ -394,7 +401,8 @@
             ]
         },
         {
-            "label": "Pink Frames (On Head)",
+            "id": "glasses-head-pink-frames",
+            "label": "Glasses - On Head - Pink Frames",
             "tags": [],
             "items": [
                 {
@@ -448,7 +456,8 @@
             ]
         },
         {
-            "label": "Pink Frames (Pulled down)",
+            "id": "glasses-pulled-pink-frames",
+            "label": "Glasses - Pulled Down - Pink Frames",
             "tags": [],
             "items": [
                 {
@@ -502,7 +511,8 @@
             ]
         },
         {
-            "label": "Red Frames",
+            "id": "glasses-red-frames",
+            "label": "Glasses - Regular - Red Frames",
             "tags": [],
             "items": [
                 {
@@ -556,7 +566,8 @@
             ]
         },
         {
-            "label": "Red Frames (On Head)",
+            "id": "glasses-head-red-frames",
+            "label": "Glasses - On Head - Red Frames",
             "tags": [],
             "items": [
                 {
@@ -610,7 +621,8 @@
             ]
         },
         {
-            "label": "Red Frames (Pulled down)",
+            "id": "glasses-pulled-red-frames",
+            "label": "Glasses - Pulled Down - Red Frames",
             "tags": [],
             "items": [
                 {
@@ -664,7 +676,8 @@
             ]
         },
         {
-            "label": "Silver Frames",
+            "id": "glasses-silver-frames",
+            "label": "Glasses - Regular - Silver Frames",
             "tags": [],
             "items": [
                 {
@@ -718,7 +731,8 @@
             ]
         },
         {
-            "label": "Silver Frames (On Head)",
+            "id": "glasses-head-silver-frames",
+            "label": "Glasses - On Head - Silver Frames",
             "tags": [],
             "items": [
                 {
@@ -772,7 +786,8 @@
             ]
         },
         {
-            "label": "Silver Frames (Pulled down)",
+            "id": "glasses-pulled-silver-frames",
+            "label": "Glasses - Pulled Down - Silver Frames",
             "tags": [],
             "items": [
                 {
@@ -826,7 +841,8 @@
             ]
         },
         {
-            "label": "White Frames",
+            "id": "glasses-white-frames",
+            "label": "Glasses - Regular - White Frames",
             "tags": [],
             "items": [
                 {
@@ -880,7 +896,8 @@
             ]
         },
         {
-            "label": "White Frames (On Head)",
+            "id": "glasses-head-white-frames",
+            "label": "Glasses - On Head - White Frames",
             "tags": [],
             "items": [
                 {
@@ -934,7 +951,8 @@
             ]
         },
         {
-            "label": "White Frames (Pulled down)",
+            "id": "glasses-pulled-white-frames",
+            "label": "Glasses - Pulled Down - White Frames",
             "tags": [],
             "items": [
                 {

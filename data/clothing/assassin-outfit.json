@@ -19,6 +19,7 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
+            "id": "blades",
             "label": "Blades",
             "tags": [
                 "Accessories",
@@ -48,6 +49,7 @@
             ]
         },
         {
+            "id": "pants",
             "label": "Pants",
             "tags": [
                 "Legs",
@@ -77,6 +79,7 @@
             ]
         },
         {
+            "id": "shoes-single-collar",
             "label": "Shoes: Single Collar",
             "tags": [
                 "Feet",
@@ -110,6 +113,7 @@
             ]
         },
         {
+            "id": "shoes-single-collar-heel-straps",
             "label": "Shoes: Single Collar and Heel Straps",
             "tags": [
                 "Feet",
@@ -143,6 +147,7 @@
             ]
         },
         {
+            "id": "shoes-three-collars",
             "label": "Shoes: Three Collars",
             "tags": [
                 "Feet",
@@ -176,6 +181,7 @@
             ]
         },
         {
+            "id": "shoes-three-collars-heel-straps",
             "label": "Shoes: Three Collars and Heel Straps",
             "tags": [
                 "Feet",
@@ -209,6 +215,7 @@
             ]
         },
         {
+            "id": "sleeves",
             "label": "Sleeves",
             "tags": [
                 "Arms"
@@ -237,7 +244,8 @@
             ]
         },
         {
-            "label": "Top",
+            "id": "tops",
+            "label": "Tops",
             "tags": [
                 "Bra",
                 "Torso",

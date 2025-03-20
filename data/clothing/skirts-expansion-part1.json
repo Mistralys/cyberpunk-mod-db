@@ -22,7 +22,8 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "label": "Regular and micro skirts",
+            "id": "skirts-regular-micro",
+            "label": "Skirts - Regular and micro",
             "tags": [
                 "Skimpy"
             ],
@@ -85,7 +86,8 @@
             ]
         },
         {
-            "label": "Short and mini skirts",
+            "id": "skirts-short-mini",
+            "label": "Skirts - Short and mini",
             "tags": [],
             "items": [
                 {
