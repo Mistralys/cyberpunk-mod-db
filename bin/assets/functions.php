@@ -209,13 +209,19 @@ function getModFile(string $id) : JSONFile
 
 function getCategorySkeleton(?string $label=null) : array
 {
+    $id = '';
+    if(!empty($label)) {
+        $id = ConvertHelper::transliterate($label);
+    }
+
     return array(
-        'label' => $label ?? '',
-        'tags' => array(),
-        'items' => array(
+        KEY_CAT_ID => $id,
+        KEY_CAT_LABEL => $label ?? '',
+        KEY_CAT_TAGS => array(),
+        KEY_CAT_ITEMS => array(
             array(
-                'name' => 'ItemName',
-                'code' => 'item_code'
+                KEY_ITEM_NAME => 'ItemName',
+                KEY_ITEM_CODE => 'item_code'
             )
         )
     );
