@@ -16,6 +16,7 @@ const KEY_ATELIER = 'atelier';
 const KEY_ATELIER_NAME = 'atelierName';
 const KEY_SEARCH_TERMS = 'searchTweaks';
 const KEY_CAT_TAGS = 'tags';
+const KEY_CAT_ID = 'id';
 const KEY_CAT_ITEMS = 'items';
 const KEY_CAT_ICON = 'icon';
 const KEY_SEE_ALSO_LABEL = 'label';
