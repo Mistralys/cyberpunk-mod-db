@@ -9,6 +9,7 @@
 - Tags: Added the `Helmet` tag.
 - Mods: Updated the mod overview to link to the files by default.
 - Screenshots: Category icons now always need a name.
+- Tools: Added the constant `KEY_CAT_ICON` for the category icons.
 
 ## v2.2.3 - New mods and Pose Pack references
 - Mods: Added "Boudoir Part 19" by Veegee.
