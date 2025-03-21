@@ -1,4 +1,4 @@
-## v2.2.4 - New mods
+## v2.2.4 - New mods and category updates
 - Mods: Added "Ada Wong Outfit Reworked" by apzurv.
 - Mods: Added "Netrunner Coat" by mynameisfive.
 - Mods: Added "Valby Outfit" by Subleader.
