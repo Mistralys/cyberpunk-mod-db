@@ -14,6 +14,8 @@
 - Tags: Added the `Helmet` tag.
 - Screenshots: Category icons now always need a name.
 - Tools: Added the constant `KEY_CAT_ICON` for the category icons.
+- Stats: Added the statistics collection and generation tooling.
+- Stats: Added the `/data/statistics.json` file with general-purpose stats.
 
 ## v2.2.3 - New mods and Pose Pack references
 - Mods: Added "Boudoir Part 19" by Veegee.
