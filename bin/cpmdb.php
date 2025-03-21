@@ -18,6 +18,7 @@ use function CPMDB\Assets\generateModsList;
 use function CPMDB\Assets\generatePoseReferenceDoc;
 use function CPMDB\Assets\generatePosePosters;
 use function CPMDB\Assets\cropPosePackImages;
+use function CPMDB\Assets\generateStatistics;
 use function CPMDB\Assets\generateTagsReference;
 use function CPMDB\Assets\getAddCategoryArg;
 use function CPMDB\Assets\getAddScreenshotArg;
@@ -25,7 +26,6 @@ use function CPMDB\Assets\getAteliersReferenceArg;
 use function CPMDB\Assets\getBuildPosesArg;
 use function CPMDB\Assets\getCETCodesArg;
 use function CPMDB\Assets\getCheckScreenshotsArg;
-use function CPMDB\Assets\getCLICommands;
 use function CPMDB\Assets\getCreateArg;
 use function CPMDB\Assets\getGeneratePosterRowsArg;
 use function CPMDB\Assets\getCropPoseImagesArg;
@@ -39,6 +39,7 @@ use function CPMDB\Assets\getNormalizeAteliersArg;
 use function CPMDB\Assets\getNormalizeTagsArg;
 use function CPMDB\Assets\getPosePackArg;
 use function CPMDB\Assets\getPoseReferenceDocArg;
+use function CPMDB\Assets\getStatisticsArg;
 use function CPMDB\Assets\getTagsReferenceArg;
 use function CPMDB\Assets\normalizeAllMods;
 use function CPMDB\Assets\normalizeAteliers;
@@ -54,7 +55,6 @@ if(getHelpArg() !== null) {
 }
 
 $modID = getModArg();
-$posePackID = getPosePackArg();
 
 if(!empty($modID))
 {
@@ -87,54 +87,8 @@ if(!empty($modID))
         exit;
     }
 }
-else
-{
-    if(getCheckScreenshotsArg() !== null) {
-        checkScreenshots();
-        exit;
-    }
 
-    if (getModListArg() !== null) {
-        generateModsList();
-        exit;
-    }
-
-    if(getTagsReferenceArg() !== null) {
-        generateTagsReference();
-        exit;
-    }
-
-    if(getAteliersReferenceArg() !== null) {
-        generateAteliersReference();
-        exit;
-    }
-
-    if(getBuildReleaseArg() !== null) {
-        buildRelease();
-        displayMessages();
-        exit;
-    }
-
-    if(getNormalizeAllArg() !== null) {
-        normalizeAllMods();
-        displayMessages();
-        exit;
-    }
-
-    // Normalize the atelier definitions file
-    if(getNormalizeAteliersArg() !== null) {
-        normalizeAteliers();
-        displayMessages();
-        exit;
-    }
-
-    // Normalize the tag definitions file
-    if (getNormalizeTagsArg() !== null) {
-        normalizeTagDefs();
-        displayMessages();
-        exit;
-    }
-}
+$posePackID = getPosePackArg();
 
 if(!empty($posePackID))
 {
@@ -148,17 +102,66 @@ if(!empty($posePackID))
         exit;
     }
 }
-else
-{
-    if(getPoseReferenceDocArg() !== null) {
-        generatePoseReferenceDoc();
-        exit;
-    }
 
-    if(getBuildPosesArg() !== null) {
-        buildPoses();
-        exit;
-    }
+if(getCheckScreenshotsArg() !== null) {
+    checkScreenshots();
+    exit;
+}
+
+if (getModListArg() !== null) {
+    generateModsList();
+    exit;
+}
+
+if(getTagsReferenceArg() !== null) {
+    generateTagsReference();
+    exit;
+}
+
+if(getAteliersReferenceArg() !== null) {
+    generateAteliersReference();
+    exit;
+}
+
+if(getBuildReleaseArg() !== null) {
+    buildRelease();
+    displayMessages();
+    exit;
+}
+
+if(getNormalizeAllArg() !== null) {
+    normalizeAllMods();
+    displayMessages();
+    exit;
+}
+
+// Normalize the atelier definitions file
+if(getNormalizeAteliersArg() !== null) {
+    normalizeAteliers();
+    displayMessages();
+    exit;
+}
+
+// Normalize the tag definitions file
+if (getNormalizeTagsArg() !== null) {
+    normalizeTagDefs();
+    displayMessages();
+    exit;
+}
+
+if(getPoseReferenceDocArg() !== null) {
+    generatePoseReferenceDoc();
+    exit;
+}
+
+if(getBuildPosesArg() !== null) {
+    buildPoses();
+    exit;
+}
+
+if(getStatisticsArg() !== null) {
+    generateStatistics();
+    exit;
 }
 
 showUsage();
