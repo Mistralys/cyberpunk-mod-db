@@ -7,6 +7,7 @@ namespace CPMB\Assets;
 use function CPMDB\Assets\checkScreenshots;
 use function CPMDB\Assets\generateAteliersReference;
 use function CPMDB\Assets\generateModsList;
+use function CPMDB\Assets\generateStatistics;
 use function CPMDB\Assets\generateTagsReference;
 use function CPMDB\Assets\getCLICommands;
 use function CPMDB\Assets\normalizeAllMods;
@@ -34,6 +35,7 @@ function buildRelease() : void
     generateModsList();
     generateTagsReference();
     generateAteliersReference();
+    generateStatistics();
 
     checkScreenshots();
 }
