@@ -19,6 +19,16 @@ screenshots.
 - [Pose pack references](docs/Poses/pose-reference.md) as screenshotting help.
 - [Tags](docs/tagging-reference.md) used to categorize mods and items.
 
+## Some statistics
+
+- 190 clothing mod details collected
+- 569 item categories
+- 5434 individual items
+- 261 individually crafted screenshots
+- 56 known virtual atelier mods
+- 102 tags to categorize mods and items
+- 72 known mod authors
+
 ## Accessing the Database
 
 At its simplest level, you can include the project as a submodule in your own
