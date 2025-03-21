@@ -1,0 +1,26 @@
+{
+    "name": "cyberpunk-mod-db",
+    "version": "2.2.4",
+    "description": "JSON-based Cyberpunk 2077 Clothing Mod Database",
+    "keywords": [
+        "cyberpunk",
+        "2077",
+        "clothing",
+        "mods",
+        "screenshots",
+        "json",
+        "database"
+    ],
+    "homepage": "https://github.com/Mistralys/cyberpunk-mod-db",
+    "author": {
+        "name": "Sebastian Mordziol",
+        "email": "s.mordziol@mistralys.eu",
+        "url": "https://aeonoftime.com"
+    },
+    "bugs": "https://github.com/Mistralys/cyberpunk-mod-db/issues",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mistralys/cyberpunk-mod-db.git"
+    }
+}
