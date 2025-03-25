@@ -28,6 +28,7 @@
         {
             "id": "arm-rings-left",
             "label": "Arm Rings (Left)",
+            "icon": "arm-rings",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -78,6 +79,7 @@
         {
             "id": "arm-rings-right",
             "label": "Arm Rings (Right)",
+            "icon": "arm-rings",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -128,6 +130,7 @@
         {
             "id": "bras",
             "label": "Bras",
+            "icon": "bras",
             "tags": [
                 "Bra",
                 "Torso",
@@ -231,6 +234,7 @@
         {
             "id": "elbow-sleeves-left",
             "label": "Elbow Sleeves (Left)",
+            "icon": "elbow-sleeves",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -281,6 +285,7 @@
         {
             "id": "elbow-sleeves-right",
             "label": "Elbow Sleeves (Right)",
+            "icon": "elbow-sleeves",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -331,6 +336,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "glove",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -381,6 +387,7 @@
         {
             "id": "harnesses",
             "label": "Harnesses",
+            "icon": "harness",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -430,7 +437,8 @@
         },
         {
             "id": "shoes",
-            "label": "Shoes",
+            "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -480,7 +488,8 @@
         },
         {
             "id": "suits-half-closed",
-            "label": "Suits (Half Closed)",
+            "label": "Suits - Half Open",
+            "icon": "suit-half-open",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -582,7 +591,8 @@
         },
         {
             "id": "suits-open",
-            "label": "Suits (Open)",
+            "label": "Suits - Open",
+            "icon": "suit-open",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -685,6 +695,7 @@
         {
             "id": "swords",
             "label": "Swords",
+            "icon": "sword",
             "tags": [
                 "Accessories"
             ],
@@ -698,6 +709,7 @@
         {
             "id": "vests",
             "label": "Vests",
+            "icon": "vest",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -788,6 +800,7 @@
         {
             "id": "waist-paddings",
             "label": "Waist Paddings",
+            "icon": "waist-padding",
             "tags": [
                 "Accessories",
                 "Waist"

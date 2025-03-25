@@ -15,6 +15,7 @@
         {
             "id": "necklaces",
             "label": "Necklaces",
+            "icon": "double",
             "tags": [
                 "Jewelry",
                 "Neck",

@@ -18,6 +18,7 @@
         {
             "id": "glasses",
             "label": "Glasses",
+            "icon": "glasses",
             "tags": [],
             "items": [
                 {

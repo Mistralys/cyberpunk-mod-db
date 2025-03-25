@@ -15,8 +15,38 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "id": "belts",
-            "label": "Belts",
+            "id": "belts-short",
+            "label": "Belts - Short",
+            "icon": "belt-short",
+            "tags": [
+                "Accessories",
+                "Belt",
+                "Physics",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_belts_black"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_belts_gold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_belts_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_belts_white"
+                }
+            ]
+        },
+        {
+            "id": "belts-long",
+            "label": "Belts - Long",
+            "icon": "belt-long",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -29,38 +59,23 @@
                     "code": "raid_gzel_beltl_black"
                 },
                 {
-                    "name": "Black",
-                    "code": "raid_gzel_belts_black"
-                },
-                {
                     "name": "Gold",
                     "code": "raid_gzel_beltl_gold"
-                },
-                {
-                    "name": "Gold",
-                    "code": "raid_gzel_belts_gold"
                 },
                 {
                     "name": "Silver",
                     "code": "raid_gzel_beltl_silver"
                 },
                 {
-                    "name": "Silver",
-                    "code": "raid_gzel_belts_silver"
-                },
-                {
                     "name": "White",
                     "code": "raid_gzel_beltl_white"
-                },
-                {
-                    "name": "White",
-                    "code": "raid_gzel_belts_white"
                 }
             ]
         },
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -111,6 +126,7 @@
         {
             "id": "jacket-back-plugs",
             "label": "Jacket Back-Plugs",
+            "icon": "jacket-back-plugs",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -161,6 +177,7 @@
         {
             "id": "jacket-lines",
             "label": "Jacket Lines",
+            "icon": "jacket-lines",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -235,6 +252,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -285,6 +303,7 @@
         {
             "id": "pants-lines",
             "label": "Pants Lines",
+            "icon": "pants-lines",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -359,6 +378,7 @@
         {
             "id": "shorts",
             "label": "Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -409,6 +429,7 @@
         {
             "id": "shorts-lines",
             "label": "Shorts Lines",
+            "icon": "shorts-lines",
             "tags": [
                 "Accessories",
                 "Legs"

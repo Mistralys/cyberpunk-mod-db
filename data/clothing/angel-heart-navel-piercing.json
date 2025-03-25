@@ -16,6 +16,7 @@
         {
             "id": "navel-piercing",
             "label": "Navel Piercing",
+            "icon": "piercing",
             "tags": [
                 "Jewelry",
                 "Navel",

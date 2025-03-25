@@ -21,6 +21,7 @@
         {
             "id": "blades",
             "label": "Blades",
+            "icon": "blades",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -51,6 +52,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -81,6 +83,7 @@
         {
             "id": "shoes-single-collar",
             "label": "Shoes: Single Collar",
+            "icon": "shoes-single-collar",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -115,6 +118,7 @@
         {
             "id": "shoes-single-collar-heel-straps",
             "label": "Shoes: Single Collar and Heel Straps",
+            "icon": "shoes-single-collar-heel-straps",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -149,6 +153,7 @@
         {
             "id": "shoes-three-collars",
             "label": "Shoes: Three Collars",
+            "icon": "shoes-three-collars",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -183,6 +188,7 @@
         {
             "id": "shoes-three-collars-heel-straps",
             "label": "Shoes: Three Collars and Heel Straps",
+            "icon": "shoes-three-collars-heel-straps",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -217,6 +223,7 @@
         {
             "id": "sleeves",
             "label": "Sleeves",
+            "icon": "sleeves",
             "tags": [
                 "Arms"
             ],
@@ -246,6 +253,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Bra",
                 "Torso",
