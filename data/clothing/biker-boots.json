@@ -20,6 +20,7 @@
         {
             "id": "long-boots",
             "label": "Long Boots",
+            "icon": "long-boots",
             "tags": [
                 "Boots",
                 "Emissive",
@@ -75,6 +76,7 @@
         {
             "id": "short-boots",
             "label": "Short Boots",
+            "icon": "short-boots",
             "tags": [
                 "Boots",
                 "Emissive",

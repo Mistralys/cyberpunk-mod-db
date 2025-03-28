@@ -19,6 +19,7 @@
         {
             "id": "chokers",
             "label": "Chokers",
+            "icon": "choker",
             "tags": [],
             "items": [
                 {

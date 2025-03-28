@@ -20,6 +20,7 @@
         {
             "id": "shirts",
             "label": "Shirts",
+            "icon": "shirt",
             "tags": [
                 "Shirt",
                 "Torso"

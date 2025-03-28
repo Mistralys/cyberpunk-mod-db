@@ -21,6 +21,7 @@
         {
             "id": "earrings",
             "label": "Earrings",
+            "icon": "earring",
             "tags": [],
             "items": [
                 {

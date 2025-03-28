@@ -25,11 +25,12 @@
         "bladerunner-joi-top-reworked"
     ],
     "comments": "Inspired by the outfit worn by Joi in the movie 'Bladerunner'. See the downloads section for body refit files.",
-    "searchTweaks": "maverick",
+    "searchTweaks": "maverick runner",
     "itemCategories": [
         {
             "id": "cotton-leggings",
             "label": "Cotton Leggings",
+            "icon": "cotton",
             "tags": [],
             "items": [
                 {
@@ -53,6 +54,7 @@
         {
             "id": "latex-leggings",
             "label": "Latex Leggings",
+            "icon": "latex",
             "tags": [],
             "items": [
                 {
@@ -64,6 +66,7 @@
         {
             "id": "sheer-leggings",
             "label": "Sheer Leggings",
+            "icon": "sheer",
             "tags": [],
             "items": [
                 {
@@ -87,6 +90,7 @@
         {
             "id": "shiny-sheer-leggings",
             "label": "Shiny Sheer Leggings",
+            "icon": "shiny-sheer",
             "tags": [],
             "items": [
                 {
@@ -102,6 +106,7 @@
         {
             "id": "spandex-leggings",
             "label": "Spandex Leggings",
+            "icon": "spandex",
             "tags": [],
             "items": [
                 {
