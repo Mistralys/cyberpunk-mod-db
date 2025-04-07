@@ -23,6 +23,7 @@
     "searchTweaks": "loak tloak",
     "itemCategories": [
         {
+            "id": "boots",
             "label": "Boots",
             "icon": "boots",
             "tags": [
@@ -45,6 +46,7 @@
             ]
         },
         {
+            "id": "jackets",
             "label": "Jackets",
             "icon": "jacket",
             "tags": [
@@ -67,6 +69,7 @@
             ]
         },
         {
+            "id": "suits",
             "label": "Suits",
             "icon": "suit",
             "tags": [

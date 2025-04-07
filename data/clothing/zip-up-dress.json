@@ -26,6 +26,7 @@
     "searchTweaks": "den wolf",
     "itemCategories": [
         {
+            "id": "dresses-floral-pattern",
             "label": "Dresses - Floral Pattern",
             "tags": [],
             "items": [
@@ -72,6 +73,7 @@
             ]
         },
         {
+            "id": "dresses-regular",
             "label": "Dresses - Regular",
             "tags": [],
             "items": [
@@ -118,6 +120,7 @@
             ]
         },
         {
+            "id": "dresses-rose-pattern",
             "label": "Dresses - Rose Pattern",
             "tags": [],
             "items": [
