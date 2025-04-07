@@ -119,3 +119,16 @@ messages and recommendations detected in the files.
 ```bash
 php bin/cpmdb.php build
 ```
+
+## Displaying messages
+
+The `show-messages` switch can be used with any command, and will
+display messages collected during the process. This is especially
+useful when building a release, as it will display all notices and
+errors that may have been detected in the files.
+
+Example:
+
+```bash
+php bin/cpmdb.php check-screenshots show-messages
+```
