@@ -132,7 +132,8 @@ function logInfo(string $message, ...$args) : void
 
 function logError(string $message, ...$args) : void
 {
-    echo '...! '.sprintf($message, ...$args).PHP_EOL;
+    $text = sprintf($message, ...$args);
+    echo '[!] '.$text.PHP_EOL;
 }
 
 function addMessage(string $message, ...$args) : void
@@ -161,6 +162,8 @@ function displayMessages() : void
  */
 function getMessages() : array
 {
+    sort($GLOBALS[KEY_MESSAGES]);
+
     return $GLOBALS[KEY_MESSAGES];
 }
 
@@ -297,6 +300,10 @@ function getModTags(string $modID) : array
 
     if(!empty($data[KEY_ITEM_CATEGORIES])) {
         foreach($data[KEY_ITEM_CATEGORIES] as $category) {
+            if(empty($category[KEY_TAGS])) {
+                $category[KEY_TAGS] = array();
+            }
+
             array_push($tags, ...$category[KEY_TAGS]);
 
             if(!empty($category[KEY_CAT_ITEMS])) {
