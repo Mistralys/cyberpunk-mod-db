@@ -32,6 +32,7 @@
         {
             "id": "cotton-tops",
             "label": "Cotton Tops",
+            "icon": "top-cotton",
             "tags": [],
             "items": [
                 {
@@ -55,6 +56,7 @@
         {
             "id": "latex-tops",
             "label": "Latex Tops",
+            "icon": "top-latex",
             "tags": [],
             "items": [
                 {
@@ -66,6 +68,7 @@
         {
             "id": "sheer-tops",
             "label": "Sheer Tops",
+            "icon": "top-sheer",
             "tags": [],
             "items": [
                 {
@@ -89,6 +92,7 @@
         {
             "id": "shiny-sheer-tops",
             "label": "Shiny Sheer Tops",
+            "icon": "top-sheer-shiny",
             "tags": [],
             "items": [
                 {
@@ -104,6 +108,7 @@
         {
             "id": "spandex-tops",
             "label": "Spandex Tops",
+            "icon": "top-spandex",
             "tags": [],
             "items": [
                 {
