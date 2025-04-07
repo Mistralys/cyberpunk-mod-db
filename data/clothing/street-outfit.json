@@ -20,6 +20,7 @@
         {
             "id": "street-jackets",
             "label": "Street Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -62,6 +63,7 @@
         {
             "id": "street-jeans",
             "label": "Street Jeans",
+            "icon": "jeans",
             "tags": [
                 "Legs",
                 "Pants"
@@ -112,6 +114,7 @@
         {
             "id": "street-tops",
             "label": "Street Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
