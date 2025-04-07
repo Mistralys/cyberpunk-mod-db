@@ -26,6 +26,7 @@ use function CPMDB\Assets\getAteliersReferenceArg;
 use function CPMDB\Assets\getBuildPosesArg;
 use function CPMDB\Assets\getCETCodesArg;
 use function CPMDB\Assets\getCheckScreenshotsArg;
+use function CPMDB\Assets\getCLICommands;
 use function CPMDB\Assets\getCreateArg;
 use function CPMDB\Assets\getGeneratePosterRowsArg;
 use function CPMDB\Assets\getCropPoseImagesArg;
@@ -61,30 +62,30 @@ if(!empty($modID))
     if(getNormalizeArg() !== null)
     {
         normalizeFile(getModFile($modID));
-        exit;
+        done();
     }
 
     $cmd = getCreateArg();
     if($cmd !== null) {
         createNew($modID, $cmd);
-        exit;
+        done();
     }
 
     $cmd = getAddCategoryArg();
     if($cmd !== null) {
         addCategory($modID, $cmd);
-        exit;
+        done();
     }
 
     $cmd = getAddScreenshotArg();
     if($cmd !== null) {
         addScreenshot($modID, $cmd);
-        exit;
+        done();
     }
 
     if(getCETCodesArg() !== null) {
         generateCETCodes($modID);
-        exit;
+        done();
     }
 }
 
@@ -94,75 +95,91 @@ if(!empty($posePackID))
 {
     if(getCropPoseImagesArg() !== null) {
         cropPosePackImages($posePackID);
-        exit;
+        done();
     }
 
     if(getGeneratePosterRowsArg() !== null) {
         generatePosePosters($posePackID);
-        exit;
+        done();
     }
 }
 
 if(getCheckScreenshotsArg() !== null) {
     checkScreenshots();
-    exit;
+    done();
 }
 
 if (getModListArg() !== null) {
     generateModsList();
-    exit;
+    done();
 }
 
 if(getTagsReferenceArg() !== null) {
     generateTagsReference();
-    exit;
+    done();
 }
 
 if(getAteliersReferenceArg() !== null) {
     generateAteliersReference();
-    exit;
+    done();
 }
 
 if(getBuildReleaseArg() !== null) {
     buildRelease();
-    displayMessages();
-    exit;
+    done();
 }
 
 if(getNormalizeAllArg() !== null) {
     normalizeAllMods();
-    displayMessages();
-    exit;
+    done();
 }
 
 // Normalize the atelier definitions file
 if(getNormalizeAteliersArg() !== null) {
     normalizeAteliers();
-    displayMessages();
-    exit;
+    done();
 }
 
 // Normalize the tag definitions file
 if (getNormalizeTagsArg() !== null) {
     normalizeTagDefs();
-    displayMessages();
-    exit;
+    done();
 }
 
 if(getPoseReferenceDocArg() !== null) {
     generatePoseReferenceDoc();
-    exit;
+    done();
 }
 
 if(getBuildPosesArg() !== null) {
     buildPoses();
-    exit;
+    done();
 }
 
 if(getStatisticsArg() !== null) {
     generateStatistics();
-    exit;
+    done();
 }
 
 showUsage();
 exit;
+
+function done() : never
+{
+    $commands = getCLICommands();
+
+    $show =
+        $commands['show-messages'] ??
+        $commands['showmessages'] ??
+        $commands['showmsg'] ??
+        $commands['messages'] ??
+        $commands['msg'] ??
+        null;
+
+    if($show !== null) {
+        displayMessages();
+
+    }
+
+    exit;
+}
