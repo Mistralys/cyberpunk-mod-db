@@ -40,11 +40,62 @@ function checkScreenshots() : void
     $screenshotPath = __DIR__ . '/../../data/clothing/screens';
 
     foreach(getModFiles() as $file) {
-        checkModScreenshots($file->getBaseName(), $screenshotPath);
+        $modID = $file->getBaseName();
+        checkModScreenshots($modID, $screenshotPath);
+        checkModItemScreenshots($modID, $screenshotPath);
     }
 
     logInfo('DONE.');
     logEmptyLine();
+}
+
+function checkModItemScreenshots(string $modID, string $screenshotPath) : void
+{
+    $data = getModFile($modID)->getData();
+
+    foreach($data[KEY_ITEM_CATEGORIES] as $category) {
+        if(!isset($category[KEY_CAT_ID])) {
+            addMessage('ERROR | Mod [%s] | Missing category ID.', $modID);
+            logError('  ...Missing category ID.', $modID);
+            continue;
+        }
+
+        $categoryID = $category[KEY_CAT_ID];
+
+        $icon = $category[KEY_CAT_ICON] ?? '';
+        if(empty($icon)) {
+            addMessage('ItemIcons | Mod [%s] | Category [%s] No icon specified.', $modID, $categoryID);
+            logInfo('  ...Missing icon for [%s].', $categoryID);
+            continue;
+        }
+
+        checkItemIcon($modID, $categoryID, $icon, $screenshotPath);
+    }
+}
+
+function checkItemIcon(string $modID, string $categoryID, string $iconName, $screenshotPath) : void
+{
+    $path = sprintf(
+        '%s/%s-item-%s',
+        $screenshotPath,
+        $modID,
+        $iconName
+    );
+
+    foreach(array('jpg', 'png') as $ext) {
+        if(file_exists($path.'.'.$ext)) {
+            return;
+        }
+    }
+
+    addMessage(
+        'MissingImages | Mod [%s] | Category [%s] | Icon image [%s] is missing.',
+        $modID,
+        $categoryID,
+        basename($path)
+    );
+
+    logInfo('  ...Missing icon image [%s].', $iconName);
 }
 
 function checkModScreenshots(string $modID, string $screenshotPath) : void
@@ -58,10 +109,7 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
     );
 
     if(!file_exists($path)) {
-        addMessage(
-            'Missing screenshot',
-            'mod ['.$modID.']'
-        );
+        addMessage('ModScreenshots | Mod [%s] | Screenshot image is missing.', $modID);
         logInfo('  ...the screenshot is missing.');
         return;
     }
@@ -84,7 +132,7 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
 
         if(!$found) {
             addMessage(
-                'No screenshot detected for the MaleV version for mod [%s].',
+                'ModScreenshots | Mod [%s] | No screenshot detected for the MaleV version.',
                 $modID
             );
 
