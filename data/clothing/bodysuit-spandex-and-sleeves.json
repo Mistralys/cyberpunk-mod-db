@@ -73,7 +73,7 @@
         {
             "id": "sleeves",
             "label": "Sleeves",
-            "item": "sleeves",
+            "icon": "sleeves",
             "tags": [
                 "Arms",
                 "Sleeves"
