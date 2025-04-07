@@ -137,60 +137,15 @@ function normalizeFile(JSONFile $file) : void
         $converted[KEY_ATELIER_NAME] = getAtelierName($converted[KEY_ATELIER], 'mod ['.$modID.']');
     }
 
-    $categories = $data[KEY_ITEM_CATEGORIES];
-
-    // Sort categories by label
-    usort($categories, function(array $a, array$b) : int {
-        return strnatcasecmp($a[KEY_CAT_LABEL], $b[KEY_CAT_LABEL]);
-    });
-
-    $keep = array();
-    foreach($categories as $category)
-    {
-        // Prune empty categories
-        if(empty($category[KEY_CAT_ITEMS])) {
-            continue;
-        }
-
-        // Add tags if not present
-        if(!isset($category[KEY_CAT_TAGS])) {
-            $category[KEY_CAT_TAGS] = array();
-        }
-
-        $category[KEY_CAT_TAGS] = normalizeTags($category[KEY_CAT_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].']');
-        array_push($allTags, ...$category[KEY_CAT_TAGS]);
-
-        foreach($category[KEY_CAT_ITEMS] as $idx => $item) {
-            $normalizedItem = array(
-                KEY_ITEM_NAME => $item['label'] ?? $item[KEY_ITEM_NAME] ?? '',
-                KEY_ITEM_CODE => $item[KEY_ITEM_CODE] ?? ''
-            );
-
-            if(!empty($item[KEY_ITEM_TAGS])) {
-                $normalizedItem[KEY_ITEM_TAGS] = normalizeTags($item[KEY_ITEM_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].'] item ['.$normalizedItem[KEY_ITEM_NAME].']');
-                array_push($allTags, ...$normalizedItem[KEY_ITEM_TAGS]);
-            }
-
-            $category[KEY_CAT_ITEMS][$idx] = $normalizedItem;
-        }
-
-        // Sort items by name
-        usort($category[KEY_CAT_ITEMS], function(array $a, array$b) : int {
-            return strnatcasecmp($a[KEY_ITEM_NAME], $b[KEY_ITEM_NAME]);
-        });
-
-        $keep[] = $category;
-    }
-
-    analyzeTagRecommendations($allTags, $modID, 'mod ['.$modID.']');
-
-    $converted[KEY_ITEM_CATEGORIES] = $keep;
+    $converted[KEY_ITEM_CATEGORIES] = normalizeCategories($modID, $data[KEY_ITEM_CATEGORIES] ?? array(), $allTags);
 
     $converted[KEY_SEARCH_TERMS] = resolveSearchTerms($converted);
 
     if(empty($converted[KEY_SEARCH_TERMS])) {
         unset($converted[KEY_SEARCH_TERMS]);
     }
+
+    analyzeTagRecommendations($allTags, $modID);
 
     $file
         ->setEscapeSlashes(false)
@@ -199,6 +154,65 @@ function normalizeFile(JSONFile $file) : void
 
     logInfo('File normalized successfully.');
     logEmptyLine();
+}
+
+/**
+ * @param string $modID
+ * @param array<int,mixed> $categories
+ * @param string[] $allTags
+ * @return array<int,mixed>
+ */
+function normalizeCategories(string $modID, array $categories, array &$allTags) : array
+{
+    $keep = array();
+    foreach($categories as $category)
+    {
+        // Prune empty categories
+        if(empty($category[KEY_CAT_ITEMS])) {
+            continue;
+        }
+
+        $keep[] = normalizeCategory($modID, $category, $allTags);
+    }
+
+    // Sort categories by label
+    usort($keep, function(array $a, array$b) : int {
+        return strnatcasecmp($a[KEY_CAT_LABEL], $b[KEY_CAT_LABEL]);
+    });
+
+    return $keep;
+}
+
+function normalizeCategory(string $modID, array $category, array &$allTags) : array
+{
+    // Add tags if not present
+    if(!isset($category[KEY_CAT_TAGS])) {
+        $category[KEY_CAT_TAGS] = array();
+    }
+
+    $category[KEY_CAT_TAGS] = normalizeTags($category[KEY_CAT_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].']');
+    array_push($allTags, ...$category[KEY_CAT_TAGS]);
+
+    foreach($category[KEY_CAT_ITEMS] as $idx => $item) {
+        $normalizedItem = array(
+            KEY_ITEM_NAME => $item['label'] ?? $item[KEY_ITEM_NAME] ?? '',
+            KEY_ITEM_CODE => $item[KEY_ITEM_CODE] ?? ''
+        );
+
+        if(!empty($item[KEY_ITEM_TAGS])) {
+            $normalizedItem[KEY_ITEM_TAGS] = normalizeTags($item[KEY_ITEM_TAGS], 'mod ['.$modID.'] category ['.$category[KEY_CAT_LABEL].'] item ['.$normalizedItem[KEY_ITEM_NAME].']');
+            array_push($allTags, ...$normalizedItem[KEY_ITEM_TAGS]);
+        }
+
+        $category[KEY_CAT_ITEMS][$idx] = $normalizedItem;
+    }
+
+    // Sort items by name
+    usort($category[KEY_CAT_ITEMS], function(array $a, array$b) : int {
+        return strnatcasecmp($a[KEY_ITEM_NAME], $b[KEY_ITEM_NAME]);
+    });
+
+    return $category;
 }
 
 const TAG_SETS = array(
