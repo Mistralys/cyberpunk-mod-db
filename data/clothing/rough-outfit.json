@@ -25,6 +25,7 @@
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Boots",
                 "Feet"
@@ -75,6 +76,7 @@
         {
             "id": "holsters-magazines",
             "label": "Holsters and Magazines",
+            "icon": "holster",
             "tags": [
                 "Accessories",
                 "Legs",
@@ -94,6 +96,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -144,6 +147,7 @@
         {
             "id": "overalls",
             "label": "Overalls",
+            "icon": "overall",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -194,6 +198,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -244,6 +249,7 @@
         {
             "id": "shirts",
             "label": "Shirts",
+            "icon": "shirt",
             "tags": [
                 "Shirt",
                 "Torso"
@@ -294,6 +300,7 @@
         {
             "id": "suspenders",
             "label": "Suspenders",
+            "icon": "suspender",
             "tags": [
                 "Accessories",
                 "Torso"
