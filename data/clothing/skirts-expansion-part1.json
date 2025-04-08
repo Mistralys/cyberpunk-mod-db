@@ -24,6 +24,7 @@
         {
             "id": "skirts-regular-micro",
             "label": "Skirts - Regular and micro",
+            "icon": "skirt-regular-micro",
             "tags": [
                 "Skimpy"
             ],
@@ -88,6 +89,7 @@
         {
             "id": "skirts-short-mini",
             "label": "Skirts - Short and mini",
+            "icon": "skirt-short-mini",
             "tags": [],
             "items": [
                 {
