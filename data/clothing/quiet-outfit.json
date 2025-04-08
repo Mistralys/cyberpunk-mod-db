@@ -20,6 +20,7 @@
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [],
             "items": [
                 {
@@ -35,6 +36,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [],
             "items": [
                 {
@@ -50,6 +52,7 @@
         {
             "id": "hairs",
             "label": "Hairs",
+            "icon": "hair",
             "tags": [],
             "items": [
                 {
@@ -65,6 +68,7 @@
         {
             "id": "holsters",
             "label": "Holsters",
+            "icon": "holster",
             "tags": [],
             "items": [
                 {
@@ -80,6 +84,7 @@
         {
             "id": "panties",
             "label": "Panties",
+            "icon": "panties",
             "tags": [],
             "items": [
                 {
@@ -97,6 +102,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [],
             "items": [
                 {
@@ -112,6 +118,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "bra",
             "tags": [],
             "items": [
                 {
