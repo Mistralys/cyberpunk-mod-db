@@ -18,6 +18,7 @@
         {
             "id": "glasses-black-frames",
             "label": "Glasses - Regular - Black Frames",
+            "icon": "face-black",
             "tags": [],
             "items": [
                 {
@@ -73,6 +74,7 @@
         {
             "id": "glasses-head-black-frames",
             "label": "Glasses - On Head - Black Frames",
+            "icon": "head-black",
             "tags": [],
             "items": [
                 {
@@ -128,6 +130,7 @@
         {
             "id": "glasses-pulled-black-frames",
             "label": "Glasses - Pulled Down - Black Frames",
+            "icon": "pulled-black",
             "tags": [],
             "items": [
                 {
@@ -183,6 +186,7 @@
         {
             "id": "glasses-golden-frames",
             "label": "Glasses - Regular - Golden Frames",
+            "icon": "face-golden",
             "tags": [],
             "items": [
                 {
@@ -238,6 +242,7 @@
         {
             "id": "glasses-head-golden-frames",
             "label": "Glasses - On Head - Gold Frames",
+            "icon": "head-golden",
             "tags": [],
             "items": [
                 {
@@ -293,6 +298,7 @@
         {
             "id": "glasses-pulled-golden-frames",
             "label": "Glasses - Pulled Down - Gold Frames",
+            "icon": "pulled-golden",
             "tags": [],
             "items": [
                 {
@@ -348,6 +354,7 @@
         {
             "id": "glasses-pink-frames",
             "label": "Glasses - Regular - Pink Frames",
+            "icon": "face-pink",
             "tags": [],
             "items": [
                 {
@@ -403,6 +410,7 @@
         {
             "id": "glasses-head-pink-frames",
             "label": "Glasses - On Head - Pink Frames",
+            "icon": "head-pink",
             "tags": [],
             "items": [
                 {
@@ -458,6 +466,7 @@
         {
             "id": "glasses-pulled-pink-frames",
             "label": "Glasses - Pulled Down - Pink Frames",
+            "icon": "pulled-pink",
             "tags": [],
             "items": [
                 {
@@ -513,6 +522,7 @@
         {
             "id": "glasses-red-frames",
             "label": "Glasses - Regular - Red Frames",
+            "icon": "face-red",
             "tags": [],
             "items": [
                 {
@@ -568,6 +578,7 @@
         {
             "id": "glasses-head-red-frames",
             "label": "Glasses - On Head - Red Frames",
+            "icon": "head-red",
             "tags": [],
             "items": [
                 {
@@ -623,6 +634,7 @@
         {
             "id": "glasses-pulled-red-frames",
             "label": "Glasses - Pulled Down - Red Frames",
+            "icon": "pulled-red",
             "tags": [],
             "items": [
                 {
@@ -678,6 +690,7 @@
         {
             "id": "glasses-silver-frames",
             "label": "Glasses - Regular - Silver Frames",
+            "icon": "face-silver",
             "tags": [],
             "items": [
                 {
@@ -733,6 +746,7 @@
         {
             "id": "glasses-head-silver-frames",
             "label": "Glasses - On Head - Silver Frames",
+            "icon": "head-silver",
             "tags": [],
             "items": [
                 {
@@ -788,6 +802,7 @@
         {
             "id": "glasses-pulled-silver-frames",
             "label": "Glasses - Pulled Down - Silver Frames",
+            "icon": "pulled-silver",
             "tags": [],
             "items": [
                 {
@@ -843,6 +858,7 @@
         {
             "id": "glasses-white-frames",
             "label": "Glasses - Regular - White Frames",
+            "icon": "face-white",
             "tags": [],
             "items": [
                 {
@@ -898,6 +914,7 @@
         {
             "id": "glasses-head-white-frames",
             "label": "Glasses - On Head - White Frames",
+            "icon": "head-white",
             "tags": [],
             "items": [
                 {
@@ -953,6 +970,7 @@
         {
             "id": "glasses-pulled-white-frames",
             "label": "Glasses - Pulled Down - White Frames",
+            "icon": "pulled-white",
             "tags": [],
             "items": [
                 {
