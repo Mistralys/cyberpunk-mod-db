@@ -21,6 +21,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
