@@ -17,6 +17,7 @@
         {
             "id": "bodysuits",
             "label": "Bodysuits",
+            "icon": "bodysuit",
             "tags": [
                 "Bodysuit",
                 "FullBody"
@@ -51,6 +52,7 @@
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Boots",
                 "Feet"
@@ -85,6 +87,7 @@
         {
             "id": "coats",
             "label": "Coats",
+            "icon": "coat",
             "tags": [
                 "Coat",
                 "FullBody"
@@ -119,6 +122,7 @@
         {
             "id": "glasses",
             "label": "Glasses",
+            "icon": "glasses",
             "tags": [
                 "Glasses",
                 "Head"
@@ -133,6 +137,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -167,6 +172,7 @@
         {
             "id": "hairs",
             "label": "Hairs",
+            "icon": "hair",
             "tags": [
                 "Hair",
                 "Head"
@@ -181,6 +187,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -215,6 +222,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
