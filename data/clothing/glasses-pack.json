@@ -12,11 +12,12 @@
         "Glasses",
         "Head"
     ],
-    "searchTweaks": "alvarez",
+    "searchTweaks": "alvarez leaf butterfly cloud fire wing",
     "itemCategories": [
         {
-            "id": "glasses-butterfly",
-            "label": "Glasses - Butterfly",
+            "id": "glasses-butterflies",
+            "label": "Glasses - Butterflies",
+            "icon": "butterfly",
             "tags": [],
             "items": [
                 {
@@ -70,8 +71,9 @@
             ]
         },
         {
-            "id": "glasses-cloud",
-            "label": "Glasses - Cloud",
+            "id": "glasses-clouds",
+            "label": "Glasses - Clouds",
+            "icon": "cloud",
             "tags": [],
             "items": [
                 {
@@ -127,6 +129,7 @@
         {
             "id": "glasses-fire",
             "label": "Glasses - Fire",
+            "icon": "fire",
             "tags": [],
             "items": [
                 {
@@ -182,6 +185,7 @@
         {
             "id": "glasses-leaves",
             "label": "Glasses - Leaves",
+            "icon": "leaf",
             "tags": [],
             "items": [
                 {
@@ -236,7 +240,8 @@
         },
         {
             "id": "glasses-wing",
-            "label": "Glasses - Wing",
+            "label": "Glasses - Wings",
+            "icon": "wing",
             "tags": [],
             "items": [
                 {
