@@ -3,7 +3,8 @@
 - Mods: Fixed missing category IDs for `tactical-belt`.
 - Mods: Fixed missing category IDs for `zip-up-dress`.
 - Mods: Fixed two misnamed item icon images for `aurore-modular-set`.
-- Mods: Recategorized items by chain style in `ziva-navel-chains`.
+- Mods: Re-categorized items by chain style in `ziva-navel-chains`.
+- Mods: Re-categorized items by type in `xrx-stockings`.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
