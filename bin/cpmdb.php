@@ -25,6 +25,7 @@ use function CPMDB\Assets\getAddCategoryArg;
 use function CPMDB\Assets\getAddScreenshotArg;
 use function CPMDB\Assets\getAteliersReferenceArg;
 use function CPMDB\Assets\getBuildPosesArg;
+use function CPMDB\Assets\getCategoryArg;
 use function CPMDB\Assets\getCETCodesArg;
 use function CPMDB\Assets\getCheckModArg;
 use function CPMDB\Assets\getCheckScreenshotsArg;
@@ -86,7 +87,7 @@ if(!empty($modID))
     }
 
     if(getCETCodesArg() !== null) {
-        generateCETCodes($modID);
+        generateCETCodes($modID, getCategoryArg());
         done();
     }
 
