@@ -20,8 +20,573 @@
     "comments": "The atelier is a separate download in another mod's files.",
     "itemCategories": [
         {
-            "id": "long-sleeved-tops-cropped",
-            "label": "Long Sleeved Tops - Cropped",
+            "id": "long-sleeves",
+            "label": "Long Top - Sleeves",
+            "icon": "long-sleeves",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sumi_top_hanako_full_long_black"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "sumi_top_hanako_full_long_black_blue"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "sumi_top_hanako_full_long_black_green"
+                },
+                {
+                    "name": "Black Nylon",
+                    "code": "sumi_top_hanako_full_long_black_nylon"
+                },
+                {
+                    "name": "Black Orange",
+                    "code": "sumi_top_hanako_full_long_black_orange"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "sumi_top_hanako_full_long_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "sumi_top_hanako_full_long_black_purple"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "sumi_top_hanako_full_long_black_red"
+                },
+                {
+                    "name": "Black Simple",
+                    "code": "sumi_top_hanako_full_long_black_simple"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sumi_top_hanako_full_long_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "sumi_top_hanako_full_long_burgundy"
+                },
+                {
+                    "name": "Corporate",
+                    "code": "sumi_top_hanako_full_long_corporate"
+                },
+                {
+                    "name": "Cream",
+                    "code": "sumi_top_hanako_full_long_cream"
+                },
+                {
+                    "name": "Gold",
+                    "code": "sumi_top_hanako_full_long_gold"
+                },
+                {
+                    "name": "Gold Black",
+                    "code": "sumi_top_hanako_full_long_gold_black"
+                },
+                {
+                    "name": "Gold Pattern",
+                    "code": "sumi_top_hanako_full_long_gold_pattern"
+                },
+                {
+                    "name": "Grey",
+                    "code": "sumi_top_hanako_full_long_grey"
+                },
+                {
+                    "name": "Hanako",
+                    "code": "sumi_top_hanako_full_long_hanako"
+                },
+                {
+                    "name": "Kitsch Black",
+                    "code": "sumi_top_hanako_full_long_kitsch_black"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "sumi_top_hanako_full_long_maroon"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "sumi_top_hanako_full_long_mustard"
+                },
+                {
+                    "name": "Olive",
+                    "code": "sumi_top_hanako_full_long_olive"
+                },
+                {
+                    "name": "Pink",
+                    "code": "sumi_top_hanako_full_long_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sumi_top_hanako_full_long_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sumi_top_hanako_full_long_red"
+                },
+                {
+                    "name": "Sage",
+                    "code": "sumi_top_hanako_full_long_sage"
+                },
+                {
+                    "name": "Silver",
+                    "code": "sumi_top_hanako_full_long_silver"
+                },
+                {
+                    "name": "Teal",
+                    "code": "sumi_top_hanako_full_long_teal"
+                },
+                {
+                    "name": "White",
+                    "code": "sumi_top_hanako_full_long_white"
+                }
+            ]
+        },
+        {
+            "id": "long-sleeves-sequins",
+            "label": "Long Top - Sleeves and sequins",
+            "icon": "long-sleeves-sequins",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sumi_top_hanako_full_long_black_snake"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sumi_top_hanako_full_long_blue_snake"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "sumi_top_hanako_full_long_burgundy_snake"
+                },
+                {
+                    "name": "Cream",
+                    "code": "sumi_top_hanako_full_long_cream_snake"
+                },
+                {
+                    "name": "Gold",
+                    "code": "sumi_top_hanako_full_long_gold_snake"
+                },
+                {
+                    "name": "Grey",
+                    "code": "sumi_top_hanako_full_long_grey_snake"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "sumi_top_hanako_full_long_maroon_snake"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "sumi_top_hanako_full_long_mustard_snake"
+                },
+                {
+                    "name": "Olive",
+                    "code": "sumi_top_hanako_full_long_olive_snake"
+                },
+                {
+                    "name": "Pink",
+                    "code": "sumi_top_hanako_full_long_pink_snake"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sumi_top_hanako_full_long_purple_snake"
+                },
+                {
+                    "name": "Red",
+                    "code": "sumi_top_hanako_full_long_red_snake"
+                },
+                {
+                    "name": "Sage",
+                    "code": "sumi_top_hanako_full_long_sage_snake"
+                },
+                {
+                    "name": "Silver",
+                    "code": "sumi_top_hanako_full_long_silver_snake"
+                },
+                {
+                    "name": "Teal",
+                    "code": "sumi_top_hanako_full_long_teal_snake"
+                },
+                {
+                    "name": "White",
+                    "code": "sumi_top_hanako_full_long_white_snake"
+                }
+            ]
+        },
+        {
+            "id": "long",
+            "label": "Long Top - Strapless",
+            "icon": "long",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sumi_top_hanako_full_none_black"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "sumi_top_hanako_full_none_black_blue"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "sumi_top_hanako_full_none_black_green"
+                },
+                {
+                    "name": "Black Nylon",
+                    "code": "sumi_top_hanako_full_none_black_nylon"
+                },
+                {
+                    "name": "Black Orange",
+                    "code": "sumi_top_hanako_full_none_black_orange"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "sumi_top_hanako_full_none_black_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "sumi_top_hanako_full_none_black_purple"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "sumi_top_hanako_full_none_black_red"
+                },
+                {
+                    "name": "Black Simple",
+                    "code": "sumi_top_hanako_full_none_black_simple"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sumi_top_hanako_full_none_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "sumi_top_hanako_full_none_burgundy"
+                },
+                {
+                    "name": "Corporate",
+                    "code": "sumi_top_hanako_full_none_corporate"
+                },
+                {
+                    "name": "Cream",
+                    "code": "sumi_top_hanako_full_none_cream"
+                },
+                {
+                    "name": "Gold",
+                    "code": "sumi_top_hanako_full_none_gold"
+                },
+                {
+                    "name": "Gold Black",
+                    "code": "sumi_top_hanako_full_none_gold_black"
+                },
+                {
+                    "name": "Gold Pattern",
+                    "code": "sumi_top_hanako_full_none_gold_pattern"
+                },
+                {
+                    "name": "Grey",
+                    "code": "sumi_top_hanako_full_none_grey"
+                },
+                {
+                    "name": "Hanako",
+                    "code": "sumi_top_hanako_full_none_hanako"
+                },
+                {
+                    "name": "Kitsch Black",
+                    "code": "sumi_top_hanako_full_none_kitsch_black"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "sumi_top_hanako_full_none_maroon"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "sumi_top_hanako_full_none_mustard"
+                },
+                {
+                    "name": "Olive",
+                    "code": "sumi_top_hanako_full_none_olive"
+                },
+                {
+                    "name": "Pink",
+                    "code": "sumi_top_hanako_full_none_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sumi_top_hanako_full_none_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sumi_top_hanako_full_none_red"
+                },
+                {
+                    "name": "Sage",
+                    "code": "sumi_top_hanako_full_none_sage"
+                },
+                {
+                    "name": "Silver",
+                    "code": "sumi_top_hanako_full_none_silver"
+                },
+                {
+                    "name": "Teal",
+                    "code": "sumi_top_hanako_full_none_teal"
+                },
+                {
+                    "name": "White",
+                    "code": "sumi_top_hanako_full_none_white"
+                }
+            ]
+        },
+        {
+            "id": "long-sequins",
+            "label": "Long Top - Strapless and sequins",
+            "icon": "long-sequins",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sumi_top_hanako_full_none_black_snake"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sumi_top_hanako_full_none_blue_snake"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "sumi_top_hanako_full_none_burgundy_snake"
+                },
+                {
+                    "name": "Cream",
+                    "code": "sumi_top_hanako_full_none_cream_snake"
+                },
+                {
+                    "name": "Gold",
+                    "code": "sumi_top_hanako_full_none_gold_snake"
+                },
+                {
+                    "name": "Grey",
+                    "code": "sumi_top_hanako_full_none_grey_snake"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "sumi_top_hanako_full_none_maroon_snake"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "sumi_top_hanako_full_none_mustard_snake"
+                },
+                {
+                    "name": "Olive",
+                    "code": "sumi_top_hanako_full_none_olive_snake"
+                },
+                {
+                    "name": "Pink",
+                    "code": "sumi_top_hanako_full_none_pink_snake"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sumi_top_hanako_full_none_purple_snake"
+                },
+                {
+                    "name": "Red",
+                    "code": "sumi_top_hanako_full_none_red_snake"
+                },
+                {
+                    "name": "Sage",
+                    "code": "sumi_top_hanako_full_none_sage_snake"
+                },
+                {
+                    "name": "Silver",
+                    "code": "sumi_top_hanako_full_none_silver_snake"
+                },
+                {
+                    "name": "Teal",
+                    "code": "sumi_top_hanako_full_none_teal_snake"
+                },
+                {
+                    "name": "White",
+                    "code": "sumi_top_hanako_full_none_white_snake"
+                }
+            ]
+        },
+        {
+            "id": "long-straps",
+            "label": "Long Top - Straps",
+            "icon": "long-straps",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sumi_top_hanako_full_tank_black"
+                },
+                {
+                    "name": "Black Nylon",
+                    "code": "sumi_top_hanako_full_tank_black_nylon"
+                },
+                {
+                    "name": "Black Simple",
+                    "code": "sumi_top_hanako_full_tank_black_simple"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sumi_top_hanako_full_tank_blue"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "sumi_top_hanako_full_tank_burgundy"
+                },
+                {
+                    "name": "Corporate",
+                    "code": "sumi_top_hanako_full_tank_corporate"
+                },
+                {
+                    "name": "Cream",
+                    "code": "sumi_top_hanako_full_tank_cream"
+                },
+                {
+                    "name": "Gold",
+                    "code": "sumi_top_hanako_full_tank_gold"
+                },
+                {
+                    "name": "Gold Black",
+                    "code": "sumi_top_hanako_full_tank_gold_black"
+                },
+                {
+                    "name": "Gold Pattern",
+                    "code": "sumi_top_hanako_full_tank_gold_pattern"
+                },
+                {
+                    "name": "Grey",
+                    "code": "sumi_top_hanako_full_tank_grey"
+                },
+                {
+                    "name": "Hanako",
+                    "code": "sumi_top_hanako_full_tank_hanako"
+                },
+                {
+                    "name": "Kitsch Black",
+                    "code": "sumi_top_hanako_full_tank_kitsch_black"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "sumi_top_hanako_full_tank_maroon"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "sumi_top_hanako_full_tank_mustard"
+                },
+                {
+                    "name": "Olive",
+                    "code": "sumi_top_hanako_full_tank_olive"
+                },
+                {
+                    "name": "Pink",
+                    "code": "sumi_top_hanako_full_tank_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sumi_top_hanako_full_tank_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "sumi_top_hanako_full_tank_red"
+                },
+                {
+                    "name": "Sage",
+                    "code": "sumi_top_hanako_full_tank_sage"
+                },
+                {
+                    "name": "Silver",
+                    "code": "sumi_top_hanako_full_tank_silver"
+                },
+                {
+                    "name": "Teal",
+                    "code": "sumi_top_hanako_full_tank_teal"
+                },
+                {
+                    "name": "White",
+                    "code": "sumi_top_hanako_full_tank_white"
+                }
+            ]
+        },
+        {
+            "id": "long-sequins-straps",
+            "label": "Long Top - Straps and sequins",
+            "icon": "long-sequins-straps",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sumi_top_hanako_full_tank_black_snake"
+                },
+                {
+                    "name": "Blue",
+                    "code": "sumi_top_hanako_full_tank_blue_snake"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "sumi_top_hanako_full_tank_burgundy_snake"
+                },
+                {
+                    "name": "Cream",
+                    "code": "sumi_top_hanako_full_tank_cream_snake"
+                },
+                {
+                    "name": "Gold",
+                    "code": "sumi_top_hanako_full_tank_gold_snake"
+                },
+                {
+                    "name": "Grey",
+                    "code": "sumi_top_hanako_full_tank_grey_snake"
+                },
+                {
+                    "name": "Maroon",
+                    "code": "sumi_top_hanako_full_tank_maroon_snake"
+                },
+                {
+                    "name": "Mustard",
+                    "code": "sumi_top_hanako_full_tank_mustard_snake"
+                },
+                {
+                    "name": "Olive",
+                    "code": "sumi_top_hanako_full_tank_olive_snake"
+                },
+                {
+                    "name": "Pink",
+                    "code": "sumi_top_hanako_full_tank_pink_snake"
+                },
+                {
+                    "name": "Purple",
+                    "code": "sumi_top_hanako_full_tank_purple_snake"
+                },
+                {
+                    "name": "Red",
+                    "code": "sumi_top_hanako_full_tank_red_snake"
+                },
+                {
+                    "name": "Sage",
+                    "code": "sumi_top_hanako_full_tank_sage_snake"
+                },
+                {
+                    "name": "Silver",
+                    "code": "sumi_top_hanako_full_tank_silver_snake"
+                },
+                {
+                    "name": "Teal",
+                    "code": "sumi_top_hanako_full_tank_teal_snake"
+                },
+                {
+                    "name": "White",
+                    "code": "sumi_top_hanako_full_tank_white_snake"
+                }
+            ]
+        },
+        {
+            "id": "short-sleeves",
+            "label": "Short Top - Sleeves",
+            "icon": "short-sleeves",
             "tags": [
                 "Arms",
                 "Sleeves"
@@ -146,8 +711,9 @@
             ]
         },
         {
-            "id": "long-sleeved-tops-sequins",
-            "label": "Long Sleeved Tops - Sequins",
+            "id": "short-sleeves-sequins",
+            "label": "Short Top - Sleeves and sequins",
+            "icon": "short-sleeves-sequins",
             "tags": [
                 "Arms",
                 "Sleeves"
@@ -220,8 +786,9 @@
             ]
         },
         {
-            "id": "sleeveless-tops-cropped",
-            "label": "Sleeveless Tops - Cropped",
+            "id": "short",
+            "label": "Short Top - Strapless",
+            "icon": "short",
             "tags": [],
             "items": [
                 {
@@ -343,8 +910,9 @@
             ]
         },
         {
-            "id": "sleeveless-tops-cropped-sequins",
-            "label": "Sleeveless Tops - Cropped - Sequins",
+            "id": "short-sequins",
+            "label": "Short Top - Strapless and sequins",
+            "icon": "short-sequins",
             "tags": [],
             "items": [
                 {
@@ -414,8 +982,9 @@
             ]
         },
         {
-            "id": "cropped-tank",
-            "label": "Cropped Tanks",
+            "id": "short-straps",
+            "label": "Short Top - Straps",
+            "icon": "short-straps",
             "tags": [],
             "items": [
                 {
@@ -513,8 +1082,9 @@
             ]
         },
         {
-            "id": "cropped-tank-sequins",
-            "label": "Cropped Tank - Sequins",
+            "id": "short-sequins-straps",
+            "label": "Short Top - Straps and sequins",
+            "icon": "short-sequins-straps",
             "tags": [],
             "items": [
                 {
@@ -580,564 +1150,6 @@
                 {
                     "name": "White",
                     "code": "sumi_top_hanako_crop_tank_white_snake"
-                }
-            ]
-        },
-        {
-            "id": "long-sleeves-full",
-            "label": "Long Sleeves - Full",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sumi_top_hanako_full_long_black"
-                },
-                {
-                    "name": "Black Blue",
-                    "code": "sumi_top_hanako_full_long_black_blue"
-                },
-                {
-                    "name": "Black Green",
-                    "code": "sumi_top_hanako_full_long_black_green"
-                },
-                {
-                    "name": "Black Nylon",
-                    "code": "sumi_top_hanako_full_long_black_nylon"
-                },
-                {
-                    "name": "Black Orange",
-                    "code": "sumi_top_hanako_full_long_black_orange"
-                },
-                {
-                    "name": "Black Pink",
-                    "code": "sumi_top_hanako_full_long_black_pink"
-                },
-                {
-                    "name": "Black Purple",
-                    "code": "sumi_top_hanako_full_long_black_purple"
-                },
-                {
-                    "name": "Black Red",
-                    "code": "sumi_top_hanako_full_long_black_red"
-                },
-                {
-                    "name": "Black Simple",
-                    "code": "sumi_top_hanako_full_long_black_simple"
-                },
-                {
-                    "name": "Blue",
-                    "code": "sumi_top_hanako_full_long_blue"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "sumi_top_hanako_full_long_burgundy"
-                },
-                {
-                    "name": "Corporate",
-                    "code": "sumi_top_hanako_full_long_corporate"
-                },
-                {
-                    "name": "Cream",
-                    "code": "sumi_top_hanako_full_long_cream"
-                },
-                {
-                    "name": "Gold",
-                    "code": "sumi_top_hanako_full_long_gold"
-                },
-                {
-                    "name": "Gold Black",
-                    "code": "sumi_top_hanako_full_long_gold_black"
-                },
-                {
-                    "name": "Gold Pattern",
-                    "code": "sumi_top_hanako_full_long_gold_pattern"
-                },
-                {
-                    "name": "Grey",
-                    "code": "sumi_top_hanako_full_long_grey"
-                },
-                {
-                    "name": "Hanako",
-                    "code": "sumi_top_hanako_full_long_hanako"
-                },
-                {
-                    "name": "Kitsch Black",
-                    "code": "sumi_top_hanako_full_long_kitsch_black"
-                },
-                {
-                    "name": "Maroon",
-                    "code": "sumi_top_hanako_full_long_maroon"
-                },
-                {
-                    "name": "Mustard",
-                    "code": "sumi_top_hanako_full_long_mustard"
-                },
-                {
-                    "name": "Olive",
-                    "code": "sumi_top_hanako_full_long_olive"
-                },
-                {
-                    "name": "Pink",
-                    "code": "sumi_top_hanako_full_long_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "sumi_top_hanako_full_long_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "sumi_top_hanako_full_long_red"
-                },
-                {
-                    "name": "Sage",
-                    "code": "sumi_top_hanako_full_long_sage"
-                },
-                {
-                    "name": "Silver",
-                    "code": "sumi_top_hanako_full_long_silver"
-                },
-                {
-                    "name": "Teal",
-                    "code": "sumi_top_hanako_full_long_teal"
-                },
-                {
-                    "name": "White",
-                    "code": "sumi_top_hanako_full_long_white"
-                }
-            ]
-        },
-        {
-            "id": "long-sleeves-full-sequins",
-            "label": "Long Sleeves - Full - Sequins",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sumi_top_hanako_full_long_black_snake"
-                },
-                {
-                    "name": "Blue",
-                    "code": "sumi_top_hanako_full_long_blue_snake"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "sumi_top_hanako_full_long_burgundy_snake"
-                },
-                {
-                    "name": "Cream",
-                    "code": "sumi_top_hanako_full_long_cream_snake"
-                },
-                {
-                    "name": "Gold",
-                    "code": "sumi_top_hanako_full_long_gold_snake"
-                },
-                {
-                    "name": "Grey",
-                    "code": "sumi_top_hanako_full_long_grey_snake"
-                },
-                {
-                    "name": "Maroon",
-                    "code": "sumi_top_hanako_full_long_maroon_snake"
-                },
-                {
-                    "name": "Mustard",
-                    "code": "sumi_top_hanako_full_long_mustard_snake"
-                },
-                {
-                    "name": "Olive",
-                    "code": "sumi_top_hanako_full_long_olive_snake"
-                },
-                {
-                    "name": "Pink",
-                    "code": "sumi_top_hanako_full_long_pink_snake"
-                },
-                {
-                    "name": "Purple",
-                    "code": "sumi_top_hanako_full_long_purple_snake"
-                },
-                {
-                    "name": "Red",
-                    "code": "sumi_top_hanako_full_long_red_snake"
-                },
-                {
-                    "name": "Sage",
-                    "code": "sumi_top_hanako_full_long_sage_snake"
-                },
-                {
-                    "name": "Silver",
-                    "code": "sumi_top_hanako_full_long_silver_snake"
-                },
-                {
-                    "name": "Teal",
-                    "code": "sumi_top_hanako_full_long_teal_snake"
-                },
-                {
-                    "name": "White",
-                    "code": "sumi_top_hanako_full_long_white_snake"
-                }
-            ]
-        },
-        {
-            "id": "sleeveless-full",
-            "label": "Sleeveless - Full",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sumi_top_hanako_full_none_black"
-                },
-                {
-                    "name": "Black Blue",
-                    "code": "sumi_top_hanako_full_none_black_blue"
-                },
-                {
-                    "name": "Black Green",
-                    "code": "sumi_top_hanako_full_none_black_green"
-                },
-                {
-                    "name": "Black Nylon",
-                    "code": "sumi_top_hanako_full_none_black_nylon"
-                },
-                {
-                    "name": "Black Orange",
-                    "code": "sumi_top_hanako_full_none_black_orange"
-                },
-                {
-                    "name": "Black Pink",
-                    "code": "sumi_top_hanako_full_none_black_pink"
-                },
-                {
-                    "name": "Black Purple",
-                    "code": "sumi_top_hanako_full_none_black_purple"
-                },
-                {
-                    "name": "Black Red",
-                    "code": "sumi_top_hanako_full_none_black_red"
-                },
-                {
-                    "name": "Black Simple",
-                    "code": "sumi_top_hanako_full_none_black_simple"
-                },
-                {
-                    "name": "Blue",
-                    "code": "sumi_top_hanako_full_none_blue"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "sumi_top_hanako_full_none_burgundy"
-                },
-                {
-                    "name": "Corporate",
-                    "code": "sumi_top_hanako_full_none_corporate"
-                },
-                {
-                    "name": "Cream",
-                    "code": "sumi_top_hanako_full_none_cream"
-                },
-                {
-                    "name": "Gold",
-                    "code": "sumi_top_hanako_full_none_gold"
-                },
-                {
-                    "name": "Gold Black",
-                    "code": "sumi_top_hanako_full_none_gold_black"
-                },
-                {
-                    "name": "Gold Pattern",
-                    "code": "sumi_top_hanako_full_none_gold_pattern"
-                },
-                {
-                    "name": "Grey",
-                    "code": "sumi_top_hanako_full_none_grey"
-                },
-                {
-                    "name": "Hanako",
-                    "code": "sumi_top_hanako_full_none_hanako"
-                },
-                {
-                    "name": "Kitsch Black",
-                    "code": "sumi_top_hanako_full_none_kitsch_black"
-                },
-                {
-                    "name": "Maroon",
-                    "code": "sumi_top_hanako_full_none_maroon"
-                },
-                {
-                    "name": "Mustard",
-                    "code": "sumi_top_hanako_full_none_mustard"
-                },
-                {
-                    "name": "Olive",
-                    "code": "sumi_top_hanako_full_none_olive"
-                },
-                {
-                    "name": "Pink",
-                    "code": "sumi_top_hanako_full_none_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "sumi_top_hanako_full_none_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "sumi_top_hanako_full_none_red"
-                },
-                {
-                    "name": "Sage",
-                    "code": "sumi_top_hanako_full_none_sage"
-                },
-                {
-                    "name": "Silver",
-                    "code": "sumi_top_hanako_full_none_silver"
-                },
-                {
-                    "name": "Teal",
-                    "code": "sumi_top_hanako_full_none_teal"
-                },
-                {
-                    "name": "White",
-                    "code": "sumi_top_hanako_full_none_white"
-                }
-            ]
-        },
-        {
-            "id": "sleeveless-full-sequins",
-            "label": "Sleeveless - Full - Sequins",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sumi_top_hanako_full_none_black_snake"
-                },
-                {
-                    "name": "Blue",
-                    "code": "sumi_top_hanako_full_none_blue_snake"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "sumi_top_hanako_full_none_burgundy_snake"
-                },
-                {
-                    "name": "Cream",
-                    "code": "sumi_top_hanako_full_none_cream_snake"
-                },
-                {
-                    "name": "Gold",
-                    "code": "sumi_top_hanako_full_none_gold_snake"
-                },
-                {
-                    "name": "Grey",
-                    "code": "sumi_top_hanako_full_none_grey_snake"
-                },
-                {
-                    "name": "Maroon",
-                    "code": "sumi_top_hanako_full_none_maroon_snake"
-                },
-                {
-                    "name": "Mustard",
-                    "code": "sumi_top_hanako_full_none_mustard_snake"
-                },
-                {
-                    "name": "Olive",
-                    "code": "sumi_top_hanako_full_none_olive_snake"
-                },
-                {
-                    "name": "Pink",
-                    "code": "sumi_top_hanako_full_none_pink_snake"
-                },
-                {
-                    "name": "Purple",
-                    "code": "sumi_top_hanako_full_none_purple_snake"
-                },
-                {
-                    "name": "Red",
-                    "code": "sumi_top_hanako_full_none_red_snake"
-                },
-                {
-                    "name": "Sage",
-                    "code": "sumi_top_hanako_full_none_sage_snake"
-                },
-                {
-                    "name": "Silver",
-                    "code": "sumi_top_hanako_full_none_silver_snake"
-                },
-                {
-                    "name": "Teal",
-                    "code": "sumi_top_hanako_full_none_teal_snake"
-                },
-                {
-                    "name": "White",
-                    "code": "sumi_top_hanako_full_none_white_snake"
-                }
-            ]
-        },
-        {
-            "id": "tanks-full",
-            "label": "Tanks - Full",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sumi_top_hanako_full_tank_black"
-                },
-                {
-                    "name": "Black Nylon",
-                    "code": "sumi_top_hanako_full_tank_black_nylon"
-                },
-                {
-                    "name": "Black Simple",
-                    "code": "sumi_top_hanako_full_tank_black_simple"
-                },
-                {
-                    "name": "Blue",
-                    "code": "sumi_top_hanako_full_tank_blue"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "sumi_top_hanako_full_tank_burgundy"
-                },
-                {
-                    "name": "Corporate",
-                    "code": "sumi_top_hanako_full_tank_corporate"
-                },
-                {
-                    "name": "Cream",
-                    "code": "sumi_top_hanako_full_tank_cream"
-                },
-                {
-                    "name": "Gold",
-                    "code": "sumi_top_hanako_full_tank_gold"
-                },
-                {
-                    "name": "Gold Black",
-                    "code": "sumi_top_hanako_full_tank_gold_black"
-                },
-                {
-                    "name": "Gold Pattern",
-                    "code": "sumi_top_hanako_full_tank_gold_pattern"
-                },
-                {
-                    "name": "Grey",
-                    "code": "sumi_top_hanako_full_tank_grey"
-                },
-                {
-                    "name": "Hanako",
-                    "code": "sumi_top_hanako_full_tank_hanako"
-                },
-                {
-                    "name": "Kitsch Black",
-                    "code": "sumi_top_hanako_full_tank_kitsch_black"
-                },
-                {
-                    "name": "Maroon",
-                    "code": "sumi_top_hanako_full_tank_maroon"
-                },
-                {
-                    "name": "Mustard",
-                    "code": "sumi_top_hanako_full_tank_mustard"
-                },
-                {
-                    "name": "Olive",
-                    "code": "sumi_top_hanako_full_tank_olive"
-                },
-                {
-                    "name": "Pink",
-                    "code": "sumi_top_hanako_full_tank_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "sumi_top_hanako_full_tank_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "sumi_top_hanako_full_tank_red"
-                },
-                {
-                    "name": "Sage",
-                    "code": "sumi_top_hanako_full_tank_sage"
-                },
-                {
-                    "name": "Silver",
-                    "code": "sumi_top_hanako_full_tank_silver"
-                },
-                {
-                    "name": "Teal",
-                    "code": "sumi_top_hanako_full_tank_teal"
-                },
-                {
-                    "name": "White",
-                    "code": "sumi_top_hanako_full_tank_white"
-                }
-            ]
-        },
-        {
-            "id": "tanks-full-sequins",
-            "label": "Tanks - Full -Sequins",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sumi_top_hanako_full_tank_black_snake"
-                },
-                {
-                    "name": "Blue",
-                    "code": "sumi_top_hanako_full_tank_blue_snake"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "sumi_top_hanako_full_tank_burgundy_snake"
-                },
-                {
-                    "name": "Cream",
-                    "code": "sumi_top_hanako_full_tank_cream_snake"
-                },
-                {
-                    "name": "Gold",
-                    "code": "sumi_top_hanako_full_tank_gold_snake"
-                },
-                {
-                    "name": "Grey",
-                    "code": "sumi_top_hanako_full_tank_grey_snake"
-                },
-                {
-                    "name": "Maroon",
-                    "code": "sumi_top_hanako_full_tank_maroon_snake"
-                },
-                {
-                    "name": "Mustard",
-                    "code": "sumi_top_hanako_full_tank_mustard_snake"
-                },
-                {
-                    "name": "Olive",
-                    "code": "sumi_top_hanako_full_tank_olive_snake"
-                },
-                {
-                    "name": "Pink",
-                    "code": "sumi_top_hanako_full_tank_pink_snake"
-                },
-                {
-                    "name": "Purple",
-                    "code": "sumi_top_hanako_full_tank_purple_snake"
-                },
-                {
-                    "name": "Red",
-                    "code": "sumi_top_hanako_full_tank_red_snake"
-                },
-                {
-                    "name": "Sage",
-                    "code": "sumi_top_hanako_full_tank_sage_snake"
-                },
-                {
-                    "name": "Silver",
-                    "code": "sumi_top_hanako_full_tank_silver_snake"
-                },
-                {
-                    "name": "Teal",
-                    "code": "sumi_top_hanako_full_tank_teal_snake"
-                },
-                {
-                    "name": "White",
-                    "code": "sumi_top_hanako_full_tank_white_snake"
                 }
             ]
         }
