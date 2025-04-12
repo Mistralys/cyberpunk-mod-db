@@ -26,6 +26,7 @@
         {
             "id": "bracers",
             "label": "Bracers",
+            "icon": "bracer",
             "tags": [
                 "Arms",
                 "Sleeves"
@@ -127,6 +128,7 @@
         {
             "id": "cage-tops",
             "label": "Cage Tops",
+            "icon": "cage",
             "tags": [
                 "Top",
                 "Torso"
@@ -228,6 +230,7 @@
         {
             "id": "dresses-latex",
             "label": "Dresses - Latex",
+            "icon": "latex",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -282,6 +285,7 @@
         {
             "id": "dresses-leather",
             "label": "Dresses - Leather",
+            "icon": "leather",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -336,6 +340,7 @@
         {
             "id": "dresses-silk",
             "label": "Dresses - Silk",
+            "icon": "silk",
             "tags": [
                 "Dress",
                 "FullBody"
