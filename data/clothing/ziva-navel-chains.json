@@ -13,119 +13,116 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "id": "chains-gold",
-            "label": "Chains - Gold",
+            "id": "circled-hearts",
+            "label": "Circled Hearts",
+            "icon": "hearts",
             "tags": [
                 "FullBody",
                 "Jewelry"
             ],
             "items": [
                 {
-                    "name": "Circled Hearts",
+                    "name": "Gold",
                     "code": "navchain_h"
                 },
                 {
-                    "name": "Double Circles and Pendants",
-                    "code": "navchain_g"
-                },
-                {
-                    "name": "Knots",
-                    "code": "navchain_f"
-                },
-                {
-                    "name": "Stars and Hearts",
-                    "code": "navchain_e"
-                }
-            ]
-        },
-        {
-            "id": "chains-green",
-            "label": "Green",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Circled Hearts",
+                    "name": "Green",
                     "code": "navchain_t"
                 },
                 {
-                    "name": "Double Circles and Pendants",
-                    "code": "navchain_s"
-                },
-                {
-                    "name": "Knots",
-                    "code": "navchain_r"
-                },
-                {
-                    "name": "Stars and Hearts",
-                    "code": "navchain_q"
-                }
-            ]
-        },
-        {
-            "id": "chains-red",
-            "label": "Red",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Circled Hearts",
+                    "name": "Red",
                     "code": "navchain_p"
                 },
                 {
-                    "name": "Double Circles and Pendants",
-                    "code": "navchain_o"
-                },
-                {
-                    "name": "Knots",
-                    "code": "navchain_n"
-                },
-                {
-                    "name": "Stars and Hearts",
-                    "code": "navchain_m"
-                }
-            ]
-        },
-        {
-            "id": "chains-silver",
-            "label": "Silver",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Circled Hearts",
+                    "name": "Silver",
                     "code": "navchain_d"
                 },
                 {
-                    "name": "Double Circles and Pendants",
-                    "code": "navchain_c"
-                },
-                {
-                    "name": "Knots",
-                    "code": "navchain_b"
-                },
-                {
-                    "name": "Stars and Hearts",
-                    "code": "navchain_a"
+                    "name": "White",
+                    "code": "navchain_l"
                 }
             ]
         },
         {
-            "id": "chains-white",
-            "label": "White",
+            "id": "double-circles",
+            "label": "Double Circles",
+            "icon": "circles",
             "tags": [],
             "items": [
                 {
-                    "name": "Circled Hearts",
-                    "code": "navchain_l"
+                    "name": "Gold",
+                    "code": "navchain_g"
                 },
                 {
-                    "name": "Double Circles and Pendants",
+                    "name": "Green",
+                    "code": "navchain_s"
+                },
+                {
+                    "name": "Red",
+                    "code": "navchain_o"
+                },
+                {
+                    "name": "Silver",
+                    "code": "navchain_c"
+                },
+                {
+                    "name": "White",
                     "code": "navchain_k"
+                }
+            ]
+        },
+        {
+            "id": "knots",
+            "label": "Knots",
+            "icon": "knots",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "navchain_f"
                 },
                 {
-                    "name": "Knots",
+                    "name": "Green",
+                    "code": "navchain_r"
+                },
+                {
+                    "name": "Red",
+                    "code": "navchain_n"
+                },
+                {
+                    "name": "Silver",
+                    "code": "navchain_b"
+                },
+                {
+                    "name": "White",
                     "code": "navchain_j"
+                }
+            ]
+        },
+        {
+            "id": "stars-hearts",
+            "label": "Stars and Hearts",
+            "icon": "stars",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Gold",
+                    "code": "navchain_e"
                 },
                 {
-                    "name": "Stars and Hearts",
+                    "name": "Green",
+                    "code": "navchain_q"
+                },
+                {
+                    "name": "Red",
+                    "code": "navchain_m"
+                },
+                {
+                    "name": "Silver",
+                    "code": "navchain_a"
+                },
+                {
+                    "name": "White",
                     "code": "navchain_i"
                 }
             ]
