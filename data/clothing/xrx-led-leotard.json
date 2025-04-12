@@ -20,6 +20,7 @@
         {
             "id": "leotards",
             "label": "Leotards",
+            "icon": "leotard",
             "tags": [],
             "items": [
                 {
