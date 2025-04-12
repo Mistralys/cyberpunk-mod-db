@@ -20,10 +20,11 @@
     ],
     "itemCategories": [
         {
-            "id": "shirts",
-            "label": "Shirts",
+            "id": "jackets",
+            "label": "Jackets",
+            "icon": "jacket",
             "tags": [
-                "Shirt",
+                "Jacket",
                 "Torso"
             ],
             "items": [
@@ -80,6 +81,7 @@
         {
             "id": "skirts",
             "label": "Skirts",
+            "icon": "skirt",
             "tags": [
                 "Legs",
                 "Skirt"
@@ -138,6 +140,7 @@
         {
             "id": "stockings",
             "label": "Stockings",
+            "icon": "stockings",
             "tags": [
                 "Legs",
                 "Stockings"
@@ -156,6 +159,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
