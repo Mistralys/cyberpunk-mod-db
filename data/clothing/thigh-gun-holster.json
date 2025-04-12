@@ -19,6 +19,7 @@
         {
             "id": "holsters",
             "label": "Holsters",
+            "icon": "holster",
             "tags": [],
             "items": [
                 {
