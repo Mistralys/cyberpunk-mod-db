@@ -22,8 +22,9 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "id": "stockings",
-            "label": "Stockings",
+            "id": "stockings-fishnet",
+            "label": "Stockings - Fishnet",
+            "icon": "fishnet",
             "tags": [],
             "items": [
                 {
@@ -31,56 +32,72 @@
                     "code": "xrxstock_b"
                 },
                 {
-                    "name": "Black Sheer",
-                    "code": "xrxstock_c"
-                },
-                {
-                    "name": "Black Spandex",
-                    "code": "xrxstock_a"
-                },
-                {
                     "name": "Blue Fishnet",
                     "code": "xrxstock_n"
-                },
-                {
-                    "name": "Blue Sheer",
-                    "code": "xrxstock_o"
-                },
-                {
-                    "name": "Blue Spandex",
-                    "code": "xrxstock_m"
                 },
                 {
                     "name": "Green Fishnet",
                     "code": "xrxstock_k"
                 },
                 {
-                    "name": "Green Sheer",
-                    "code": "xrxstock_l"
-                },
-                {
-                    "name": "Green Spandex",
-                    "code": "xrxstock_j"
-                },
-                {
                     "name": "Grey Fishnet",
                     "code": "xrxstock_e"
+                },
+                {
+                    "name": "Red Fishnet",
+                    "code": "xrxstock_h"
+                }
+            ]
+        },
+        {
+            "id": "stockings-sheer",
+            "label": "Stockings - Sheer",
+            "icon": "sheer",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Sheer",
+                    "code": "xrxstock_c"
+                },
+                {
+                    "name": "Blue Sheer",
+                    "code": "xrxstock_o"
+                },
+                {
+                    "name": "Green Sheer",
+                    "code": "xrxstock_l"
                 },
                 {
                     "name": "Grey Sheer",
                     "code": "xrxstock_f"
                 },
                 {
-                    "name": "Grey Spandex",
-                    "code": "xrxstock_d"
-                },
-                {
-                    "name": "Red Fishnet",
-                    "code": "xrxstock_h"
-                },
-                {
                     "name": "Red Sheer",
                     "code": "xrxstock_i"
+                }
+            ]
+        },
+        {
+            "id": "stockings-spandex",
+            "label": "Stockings - Spandex",
+            "icon": "spandex",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Spandex",
+                    "code": "xrxstock_a"
+                },
+                {
+                    "name": "Blue Spandex",
+                    "code": "xrxstock_m"
+                },
+                {
+                    "name": "Green Spandex",
+                    "code": "xrxstock_j"
+                },
+                {
+                    "name": "Grey Spandex",
+                    "code": "xrxstock_d"
                 },
                 {
                     "name": "Red Spandex",
