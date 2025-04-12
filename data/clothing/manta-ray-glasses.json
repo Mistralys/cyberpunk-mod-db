@@ -186,7 +186,7 @@
         {
             "id": "glasses-golden-frames",
             "label": "Glasses - Regular - Golden Frames",
-            "icon": "face-golden",
+            "icon": "face-gold",
             "tags": [],
             "items": [
                 {
@@ -242,7 +242,7 @@
         {
             "id": "glasses-head-golden-frames",
             "label": "Glasses - On Head - Gold Frames",
-            "icon": "head-golden",
+            "icon": "head-gold",
             "tags": [],
             "items": [
                 {
@@ -298,7 +298,7 @@
         {
             "id": "glasses-pulled-golden-frames",
             "label": "Glasses - Pulled Down - Gold Frames",
-            "icon": "pulled-golden",
+            "icon": "pulled-gold",
             "tags": [],
             "items": [
                 {
