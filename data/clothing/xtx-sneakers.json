@@ -29,6 +29,7 @@
         {
             "id": "sneakers",
             "label": "Sneakers",
+            "icon": "shoes",
             "tags": [],
             "items": [
                 {
