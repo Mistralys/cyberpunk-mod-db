@@ -18,6 +18,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -36,6 +37,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -58,6 +60,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
