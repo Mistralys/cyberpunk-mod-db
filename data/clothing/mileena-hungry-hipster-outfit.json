@@ -20,42 +20,9 @@
     ],
     "itemCategories": [
         {
-            "id": "boots",
-            "label": "Boots",
-            "tags": [
-                "Boots",
-                "Feet"
-            ],
-            "items": [
-                {
-                    "name": "Dark Purple",
-                    "code": "dusty_mileenahh_boots_03"
-                },
-                {
-                    "name": "Default",
-                    "code": "dusty_mileenahh_boots_default"
-                },
-                {
-                    "name": "Pink",
-                    "code": "dusty_mileenahh_boots_01"
-                },
-                {
-                    "name": "Red",
-                    "code": "dusty_mileenahh_boots_05"
-                },
-                {
-                    "name": "White",
-                    "code": "dusty_mileenahh_boots_02"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "dusty_mileenahh_boots_04"
-                }
-            ]
-        },
-        {
             "id": "chokers",
             "label": "Chokers",
+            "icon": "choker",
             "tags": [
                 "Choker",
                 "Neck"
@@ -90,6 +57,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -124,6 +92,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -158,6 +127,7 @@
         {
             "id": "masks",
             "label": "Masks",
+            "icon": "mask",
             "tags": [
                 "Head",
                 "Mask"
@@ -190,42 +160,79 @@
             ]
         },
         {
-            "id": "shirts",
-            "label": "Shirts",
+            "id": "shoes",
+            "label": "Shoes",
+            "icon": "shoes",
             "tags": [
-                "Shirt",
-                "Torso"
+                "Feet",
+                "Shoes"
             ],
             "items": [
                 {
                     "name": "Dark Purple",
-                    "code": "dusty_mileenahh_shirt_03"
+                    "code": "dusty_mileenahh_boots_03"
                 },
                 {
                     "name": "Default",
-                    "code": "dusty_mileenahh_shirt_default"
+                    "code": "dusty_mileenahh_boots_default"
                 },
                 {
                     "name": "Pink",
-                    "code": "dusty_mileenahh_shirt_01"
+                    "code": "dusty_mileenahh_boots_01"
                 },
                 {
                     "name": "Red",
-                    "code": "dusty_mileenahh_shirt_05"
+                    "code": "dusty_mileenahh_boots_05"
                 },
                 {
                     "name": "White",
-                    "code": "dusty_mileenahh_shirt_02"
+                    "code": "dusty_mileenahh_boots_02"
                 },
                 {
                     "name": "Yellow",
-                    "code": "dusty_mileenahh_shirt_04"
+                    "code": "dusty_mileenahh_boots_04"
                 }
             ]
         },
         {
             "id": "shorts",
             "label": "Shorts",
+            "icon": "shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
+            "items": [
+                {
+                    "name": "Dark Purple",
+                    "code": "dusty_mileenahh_shortalt_03"
+                },
+                {
+                    "name": "Default",
+                    "code": "dusty_mileenahh_shortalt_default"
+                },
+                {
+                    "name": "Pink",
+                    "code": "dusty_mileenahh_shortalt_01"
+                },
+                {
+                    "name": "Red",
+                    "code": "dusty_mileenahh_shortalt_05"
+                },
+                {
+                    "name": "White",
+                    "code": "dusty_mileenahh_shortalt_02"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "dusty_mileenahh_shortalt_04"
+                }
+            ]
+        },
+        {
+            "id": "shorts-hanging-belt",
+            "label": "Shorts - Hanging Belt",
+            "icon": "shorts-belt",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -258,36 +265,37 @@
             ]
         },
         {
-            "id": "shorts-alt",
-            "label": "Shorts - Alternate",
+            "id": "tops",
+            "label": "Tops",
+            "icon": "top",
             "tags": [
-                "Legs",
-                "Shorts"
+                "Top",
+                "Torso"
             ],
             "items": [
                 {
                     "name": "Dark Purple",
-                    "code": "dusty_mileenahh_shortalt_03"
+                    "code": "dusty_mileenahh_shirt_03"
                 },
                 {
                     "name": "Default",
-                    "code": "dusty_mileenahh_shortalt_default"
+                    "code": "dusty_mileenahh_shirt_default"
                 },
                 {
                     "name": "Pink",
-                    "code": "dusty_mileenahh_shortalt_01"
+                    "code": "dusty_mileenahh_shirt_01"
                 },
                 {
                     "name": "Red",
-                    "code": "dusty_mileenahh_shortalt_05"
+                    "code": "dusty_mileenahh_shirt_05"
                 },
                 {
                     "name": "White",
-                    "code": "dusty_mileenahh_shortalt_02"
+                    "code": "dusty_mileenahh_shirt_02"
                 },
                 {
                     "name": "Yellow",
-                    "code": "dusty_mileenahh_shortalt_04"
+                    "code": "dusty_mileenahh_shirt_04"
                 }
             ]
         }
