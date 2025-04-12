@@ -17,6 +17,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "FemV",
                 "Jacket",
@@ -93,6 +94,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "FemV",
                 "Legs",
@@ -141,6 +143,7 @@
         {
             "id": "shoes",
             "label": "Shoes",
+            "icon": "shoes",
             "tags": [
                 "Feet",
                 "FemV",
@@ -189,6 +192,7 @@
         {
             "id": "skirts",
             "label": "Skirts",
+            "icon": "skirt",
             "tags": [
                 "FemV",
                 "Legs",
@@ -232,6 +236,7 @@
         {
             "id": "stockings",
             "label": "Stockings",
+            "icon": "stockings",
             "tags": [
                 "FemV",
                 "FullBody"
