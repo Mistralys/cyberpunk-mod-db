@@ -18,11 +18,11 @@ photo mode setup every time.
 ## Step 2: Set up the photo mode
 
 - Use the AMM "Tools" menu to set the time to approximately 15:20.
-- Use one of the three pose slots stored in the savegame:
+- Use one of the three pose slots stored in the save-game:
   1. Pose 1: Full body shot
   2. Pose 2: Upper body shot
   3. Pose 3: Lower body shot
-- Make sure that the floor line is level with the photo mode's dotted guide lines.
+- Make sure that the floor line is level with the photo mode's dotted guidelines.
 - Once everything is set, avoid rotating the camera with the right mouse button. 
   Instead, use the character's position sliders to adjust the pose.
 
