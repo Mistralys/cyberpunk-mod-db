@@ -10,37 +10,92 @@
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
+        "Dress",
         "FemV",
         "FullBody"
     ],
     "itemCategories": [
         {
-            "id": "dresses",
-            "label": "Dresses",
-            "tags": [
-                "Dress",
-                "FullBody"
-            ],
+            "id": "dresses-fishnet",
+            "label": "Dresses - Fishnet",
+            "icon": "fishnet",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black Fishnet",
+                    "code": "wrap_dress_black_fishnet"
+                },
+                {
+                    "name": "Red Fishnet",
+                    "code": "wrap_dress_red_fishnet"
+                },
+                {
+                    "name": "White Fishnet",
+                    "code": "wrap_dress_white_fishnet"
+                }
+            ]
+        },
+        {
+            "id": "dresses-lace",
+            "label": "Dresses - Lace",
+            "icon": "lace",
+            "tags": [],
             "items": [
                 {
                     "name": "Beige Lace",
                     "code": "wrap_dress_beige_lace"
                 },
                 {
-                    "name": "Black",
-                    "code": "wrap_dress_black"
-                },
-                {
-                    "name": "Black Fishnet",
-                    "code": "wrap_dress_black_fishnet"
-                },
+                    "name": "Pink Lace",
+                    "code": "wrap_dress_pink_lace"
+                }
+            ]
+        },
+        {
+            "id": "dresses-latex",
+            "label": "Dresses - Latex",
+            "icon": "latex",
+            "tags": [],
+            "items": [
                 {
                     "name": "Black Latex",
                     "code": "wrap_dress_black_latex"
                 },
                 {
+                    "name": "Red Latex",
+                    "code": "wrap_dress_red_latex"
+                }
+            ]
+        },
+        {
+            "id": "dresses-sequin",
+            "label": "Dresses - Sequin",
+            "icon": "sequin",
+            "tags": [],
+            "items": [
+                {
                     "name": "Black Sequin",
                     "code": "wrap_dress_black_sequin"
+                },
+                {
+                    "name": "Blue Sequin",
+                    "code": "wrap_dress_blue_sequin"
+                },
+                {
+                    "name": "Red Sequin",
+                    "code": "wrap_dress_red_sequin"
+                }
+            ]
+        },
+        {
+            "id": "dresses-standard",
+            "label": "Dresses - Standard",
+            "icon": "standard",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "wrap_dress_black"
                 },
                 {
                     "name": "Blue",
@@ -49,14 +104,6 @@
                 {
                     "name": "Blue Purple",
                     "code": "wrap_dress_blue_purple"
-                },
-                {
-                    "name": "Blue Sequin",
-                    "code": "wrap_dress_blue_sequin"
-                },
-                {
-                    "name": "Blue Sky",
-                    "code": "wrap_dress_blue_sky"
                 },
                 {
                     "name": "Gold",
@@ -71,28 +118,12 @@
                     "code": "wrap_dress_pastel_pink"
                 },
                 {
-                    "name": "Pink Lace",
-                    "code": "wrap_dress_pink_lace"
-                },
-                {
                     "name": "Purple",
                     "code": "wrap_dress_purple"
                 },
                 {
                     "name": "Red",
                     "code": "wrap_dress_red"
-                },
-                {
-                    "name": "Red Fishnet",
-                    "code": "wrap_dress_red_fishnet"
-                },
-                {
-                    "name": "Red Latex",
-                    "code": "wrap_dress_red_latex"
-                },
-                {
-                    "name": "Red Sequin",
-                    "code": "wrap_dress_red_sequin"
                 },
                 {
                     "name": "Rose",
@@ -117,10 +148,6 @@
                 {
                     "name": "White",
                     "code": "wrap_dress_white"
-                },
-                {
-                    "name": "White Fishnet",
-                    "code": "wrap_dress_white_fishnet"
                 }
             ]
         }
