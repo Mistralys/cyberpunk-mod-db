@@ -76,6 +76,7 @@
         {
             "id": "helmets-wide",
             "label": "Helmets - Wide",
+            "icon": "helmet",
             "tags": [
                 "Head",
                 "Helmet"
