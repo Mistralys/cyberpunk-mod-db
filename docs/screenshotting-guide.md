@@ -25,3 +25,8 @@ photo mode setup every time.
 - Make sure that the floor line is level with the photo mode's dotted guide lines.
 - Once everything is set, avoid rotating the camera with the right mouse button. 
   Instead, use the character's position sliders to adjust the pose.
+
+## Useful poses
+
+- **Gloves**: Zwei Fashion [#15 "Dressed to Kill"](./Poses/zwei-fashion/10-15.jpg)
+- **Shoes**: Zwei Fashion [#14 "Force Manipulation"](./Poses/zwei-fashion/10-16.jpg)
