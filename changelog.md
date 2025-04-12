@@ -1,10 +1,13 @@
-## v2.2.5 - Fixes and tooling update
+## v2.2.5 - Fixes, tooling update and item icons
 - Mods: Fixed missing category IDs for `aria-tloak-suit`.
 - Mods: Fixed missing category IDs for `tactical-belt`.
 - Mods: Fixed missing category IDs for `zip-up-dress`.
 - Mods: Fixed two misnamed item icon images for `aurore-modular-set`.
+- Mods: Recategorized items by chain style in `ziva-navel-chains`.
+- Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
+- Tools: Added the `category` switch to the `cet` command.
 
 ## v2.2.4 - New mods and category updates
 - Mods: Added "Ada Wong Outfit Reworked" by apzurv.
