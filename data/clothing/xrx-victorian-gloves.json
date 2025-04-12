@@ -19,6 +19,7 @@
         {
             "id": "gloves-left",
             "label": "Gloves - Left",
+            "icon": "gloves",
             "tags": [],
             "items": [
                 {
@@ -64,6 +65,7 @@
         {
             "id": "gloves-right",
             "label": "Gloves - Right",
+            "icon": "gloves",
             "tags": [],
             "items": [
                 {
