@@ -22,6 +22,7 @@
       "bin/assets/add-screenshot.php",
       "bin/assets/build-release.php",
       "bin/assets/cet-codes.php",
+      "bin/assets/check-mod.php",
       "bin/assets/check-screenshots.php",
       "bin/assets/create-new.php",
       "bin/assets/functions.php",

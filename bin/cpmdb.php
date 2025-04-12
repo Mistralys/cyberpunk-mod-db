@@ -9,6 +9,7 @@ use function CPMB\Assets\getBuildReleaseArg;
 use function CPMDB\Assets\addCategory;
 use function CPMDB\Assets\addScreenshot;
 use function CPMDB\Assets\buildPoses;
+use function CPMDB\Assets\checkMod;
 use function CPMDB\Assets\checkScreenshots;
 use function CPMDB\Assets\createNew;
 use function CPMDB\Assets\displayMessages;
@@ -25,6 +26,7 @@ use function CPMDB\Assets\getAddScreenshotArg;
 use function CPMDB\Assets\getAteliersReferenceArg;
 use function CPMDB\Assets\getBuildPosesArg;
 use function CPMDB\Assets\getCETCodesArg;
+use function CPMDB\Assets\getCheckModArg;
 use function CPMDB\Assets\getCheckScreenshotsArg;
 use function CPMDB\Assets\getCLICommands;
 use function CPMDB\Assets\getCreateArg;
@@ -86,6 +88,11 @@ if(!empty($modID))
     if(getCETCodesArg() !== null) {
         generateCETCodes($modID);
         done();
+    }
+
+    if(getCheckModArg() !== null) {
+        checkMod($modID);
+        done(true);
     }
 }
 
@@ -164,7 +171,7 @@ if(getStatisticsArg() !== null) {
 showUsage();
 exit;
 
-function done() : never
+function done(bool $forceMessages=false) : never
 {
     $commands = getCLICommands();
 
@@ -176,9 +183,8 @@ function done() : never
         $commands['msg'] ??
         null;
 
-    if($show !== null) {
+    if($forceMessages || $show !== null) {
         displayMessages();
-
     }
 
     exit;
