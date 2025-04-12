@@ -24,6 +24,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [],
             "items": [
                 {
