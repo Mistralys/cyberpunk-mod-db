@@ -24,6 +24,7 @@
         {
             "id": "t-shirts",
             "label": "T-Shirts",
+            "icon": "shirt",
             "tags": [],
             "items": [
                 {
