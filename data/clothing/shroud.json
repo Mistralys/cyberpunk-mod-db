@@ -17,6 +17,7 @@
         {
             "id": "shroud-with-hair",
             "label": "Shroud - With hair",
+            "icon": "hair",
             "tags": [
                 "Hair"
             ],
@@ -62,6 +63,7 @@
         {
             "id": "shroud-without-hair",
             "label": "Without hair",
+            "icon": "nohair",
             "tags": [],
             "items": [
                 {
