@@ -29,6 +29,7 @@
         {
             "id": "hoodies",
             "label": "Hoodies",
+            "icon": "hoodie",
             "tags": [
                 "Head"
             ],
@@ -126,6 +127,7 @@
         {
             "id": "masks",
             "label": "Masks",
+            "icon": "mask",
             "tags": [
                 "Head",
                 "Mask"
@@ -224,6 +226,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -322,6 +325,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Arms",
                 "Sleeves",
