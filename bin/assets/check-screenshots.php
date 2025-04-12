@@ -37,24 +37,31 @@ function checkScreenshots() : void
 {
     logHeader('Checking screenshots');
 
-    $screenshotPath = __DIR__ . '/../../data/clothing/screens';
-
     foreach(getModFiles() as $file) {
         $modID = $file->getBaseName();
-        checkModScreenshots($modID, $screenshotPath);
-        checkModItemScreenshots($modID, $screenshotPath);
+        checkModScreenshots($modID);
+        checkModItemScreenshots($modID);
     }
 
     logInfo('DONE.');
     logEmptyLine();
 }
 
-function checkModItemScreenshots(string $modID, string $screenshotPath) : void
+function getScreenshotsPath() : string
 {
+    return __DIR__ . '/../../data/clothing/screens';
+}
+
+function checkModItemScreenshots(string $modID) : void
+{
+    logInfo('- Mod [%s] | Checking item screenshots...', $modID);
+
     $data = getModFile($modID)->getData();
+    $messages = false;
 
     foreach($data[KEY_ITEM_CATEGORIES] as $category) {
         if(!isset($category[KEY_CAT_ID])) {
+            $messages = true;
             addMessage('ERROR | Mod [%s] | Missing category ID.', $modID);
             logError('  ...Missing category ID.', $modID);
             continue;
@@ -64,20 +71,25 @@ function checkModItemScreenshots(string $modID, string $screenshotPath) : void
 
         $icon = $category[KEY_CAT_ICON] ?? '';
         if(empty($icon)) {
+            $messages = true;
             addMessage('ItemIcons | Mod [%s] | Category [%s] No icon specified.', $modID, $categoryID);
             logInfo('  ...Missing icon for [%s].', $categoryID);
             continue;
         }
 
-        checkItemIcon($modID, $categoryID, $icon, $screenshotPath);
+        checkItemIcon($modID, $categoryID, $icon);
+    }
+
+    if(!$messages) {
+        logInfo('  ...All OK.');
     }
 }
 
-function checkItemIcon(string $modID, string $categoryID, string $iconName, $screenshotPath) : void
+function checkItemIcon(string $modID, string $categoryID, string $iconName) : void
 {
     $path = sprintf(
         '%s/%s-item-%s',
-        $screenshotPath,
+        getScreenshotsPath(),
         $modID,
         $iconName
     );
@@ -98,13 +110,13 @@ function checkItemIcon(string $modID, string $categoryID, string $iconName, $scr
     logInfo('  ...Missing icon image [%s].', $iconName);
 }
 
-function checkModScreenshots(string $modID, string $screenshotPath) : void
+function checkModScreenshots(string $modID) : void
 {
-    logInfo('- Mod [%s]...', $modID);
+    logInfo('- Mod [%s] | Checking screenshots...', $modID);
 
     $path = sprintf(
         '%s/%s.jpg',
-        $screenshotPath,
+        getScreenshotsPath(),
         $modID
     );
 
@@ -116,6 +128,7 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
 
     $sidecarFiles = getModScreenshotSidecarFiles($modID);
     $tags = getModTags($modID);
+    $messages = false;
 
     // Check if mods that support MaleV have a screenshot for that version
     if(in_array('MaleV', $tags) && in_array('FemV', $tags) && !in_array($modID, IGNORE_MOD_MALE_V_SCREENSHOTS)) {
@@ -131,6 +144,7 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
         }
 
         if(!$found) {
+            $messages = true;
             addMessage(
                 'ModScreenshots | Mod [%s] | No screenshot detected for the MaleV version.',
                 $modID
@@ -141,6 +155,10 @@ function checkModScreenshots(string $modID, string $screenshotPath) : void
                 $modID
             );
         }
+    }
+
+    if(!$messages) {
+        logInfo('  ...All OK.');
     }
 }
 
