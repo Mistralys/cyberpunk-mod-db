@@ -38,6 +38,7 @@
         {
             "id": "gauntlets",
             "label": "Gauntlets",
+            "icon": "gauntlet",
             "tags": [
                 "Arms",
                 "Gloves",
@@ -57,6 +58,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
