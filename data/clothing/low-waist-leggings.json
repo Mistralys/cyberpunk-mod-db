@@ -27,6 +27,7 @@
         {
             "id": "leggings-fabric",
             "label": "Leggings - Fabric",
+            "icon": "fabric",
             "tags": [],
             "items": [
                 {
@@ -82,6 +83,7 @@
         {
             "id": "leggings-latex",
             "label": "Leggings - Latex",
+            "icon": "latex",
             "tags": [],
             "items": [
                 {
@@ -125,6 +127,7 @@
         {
             "id": "leggings-leather",
             "label": "Leggings - Leather",
+            "icon": "leather",
             "tags": [],
             "items": [
                 {
@@ -164,6 +167,7 @@
         {
             "id": "leggings-special",
             "label": "Leggings - Special",
+            "icon": "special",
             "tags": [],
             "items": [
                 {
