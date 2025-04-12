@@ -28,6 +28,7 @@
         {
             "id": "bags",
             "label": "Bags",
+            "icon": "bag",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -79,6 +80,7 @@
         {
             "id": "belts",
             "label": "Belts",
+            "icon": "belt",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -130,6 +132,7 @@
         {
             "id": "masks",
             "label": "Masks",
+            "icon": "mask",
             "tags": [
                 "Head",
                 "Mask"
@@ -180,6 +183,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -230,6 +234,7 @@
         {
             "id": "sleeves",
             "label": "Sleeves",
+            "icon": "sleeve",
             "tags": [
                 "Arms"
             ],
@@ -279,6 +284,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
