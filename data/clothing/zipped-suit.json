@@ -21,6 +21,7 @@
         {
             "id": "decals",
             "label": "Decals",
+            "icon": "decals",
             "tags": [
                 "Accessories"
             ],
@@ -50,6 +51,7 @@
         {
             "id": "sleeves",
             "label": "Sleeves",
+            "icon": "sleeves",
             "tags": [
                 "Arms"
             ],
@@ -117,6 +119,7 @@
         {
             "id": "zipper-shorts",
             "label": "Zipper Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -223,6 +226,7 @@
         {
             "id": "zipper-suits",
             "label": "Zipper Suits",
+            "icon": "suit",
             "tags": [
                 "FullBody"
             ],
@@ -328,6 +332,7 @@
         {
             "id": "zipper-tops",
             "label": "Zipper Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
