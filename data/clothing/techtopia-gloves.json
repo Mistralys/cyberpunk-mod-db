@@ -25,6 +25,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
