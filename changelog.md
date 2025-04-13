@@ -6,6 +6,8 @@
 - Mods: Re-categorized items by chain style in `ziva-navel-chains`.
 - Mods: Re-categorized items by type in `xrx-stockings`.
 - Mods: Re-categorized items by type in `wrap-around-dress`.
+- Mods: Re-categorized items by decal in `pozer-jacket-and-cyberdeck`.
+- Mods: Fixed the small cyberdeck item codes in `pozer-jacket-and-cyberdeck`.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
