@@ -19,10 +19,10 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
-            "id": "tops-bdsm",
-            "label": "Tops - BDSM",
+            "id": "tops-straps",
+            "label": "Tops - Straps",
+            "icon": "straps",
             "tags": [
-                "Skimpy",
                 "Skimpy"
             ],
             "items": [
@@ -112,10 +112,10 @@
             ]
         },
         {
-            "id": "tops-nsfw",
-            "label": "Tops - NSFW",
+            "id": "tops-braless",
+            "label": "Tops - Braless",
+            "icon": "braless",
             "tags": [
-                "Skimpy",
                 "Skimpy"
             ],
             "items": [
@@ -207,6 +207,7 @@
         {
             "id": "tops-standard",
             "label": "Tops - Standard",
+            "icon": "standard",
             "tags": [],
             "items": [
                 {
