@@ -18,10 +18,12 @@
         "GarmentSupport",
         "MaleV"
     ],
+    "comments": "NOTE: The decals require an additional file to be installed from the mod's downloads page.",
     "itemCategories": [
         {
             "id": "cyberdeck-armbands-large",
             "label": "Cyberdeck Armbands - Large",
+            "icon": "cyberdeck-large",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -56,6 +58,7 @@
         {
             "id": "cyberdeck-armbands-small",
             "label": "Cyberdeck Armbands - Small",
+            "icon": "cyberdeck",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -63,33 +66,34 @@
             "items": [
                 {
                     "name": "Blue",
-                    "code": "sumi_cyberdeck_armband_lg_blue"
+                    "code": "sumi_cyberdeck_armband_sm_blue"
                 },
                 {
                     "name": "Green",
-                    "code": "sumi_cyberdeck_armband_lg_green"
+                    "code": "sumi_cyberdeck_armband_sm_green"
                 },
                 {
                     "name": "Pink",
-                    "code": "sumi_cyberdeck_armband_lg_pink"
+                    "code": "sumi_cyberdeck_armband_sm_pink"
                 },
                 {
                     "name": "Purple",
-                    "code": "sumi_cyberdeck_armband_lg_purple"
+                    "code": "sumi_cyberdeck_armband_sm_purple"
                 },
                 {
                     "name": "Red",
-                    "code": "sumi_cyberdeck_armband_lg_red"
+                    "code": "sumi_cyberdeck_armband_sm_red"
                 },
                 {
                     "name": "Yellow",
-                    "code": "sumi_cyberdeck_armband_lg_yellow"
+                    "code": "sumi_cyberdeck_armband_sm_yellow"
                 }
             ]
         },
         {
             "id": "decals",
-            "label": "Decals",
+            "label": "Extra decals",
+            "icon": "decals",
             "tags": [
                 "Accessories",
                 "Decals",
@@ -141,10 +145,6 @@
                     "code": "sumi_netpozer_decal_samurai"
                 },
                 {
-                    "name": "Samurai Wolf",
-                    "code": "sumi_netpozer_decal_samuraiwolf"
-                },
-                {
                     "name": "Second Conflict",
                     "code": "sumi_netpozer_decal_secondconflict"
                 },
@@ -162,6 +162,10 @@
                 },
                 {
                     "name": "Wolf",
+                    "code": "sumi_netpozer_decal_samuraiwolf"
+                },
+                {
+                    "name": "Wolf",
                     "code": "sumi_netpozer_decal_wolf"
                 },
                 {
@@ -171,213 +175,237 @@
             ]
         },
         {
-            "id": "jackets-long-sleeves",
-            "label": "Jackets - Long Sleeves",
+            "id": "jackets-netwatch",
+            "label": "Jackets - Netwatch",
+            "icon": "jacket-netwatch",
             "tags": [
                 "Jacket",
                 "Torso"
             ],
             "items": [
                 {
-                    "name": "Netwatch Blue",
+                    "name": "Blue",
+                    "code": "sumi_net_pozer_jacket_netwatch_blue"
+                },
+                {
+                    "name": "Green",
+                    "code": "sumi_net_pozer_jacket_netwatch_green"
+                },
+                {
+                    "name": "Long sleeves - Blue",
                     "code": "sumi_net_pozer_jacket_long_netwatch_blue"
                 },
                 {
-                    "name": "Netwatch Green",
+                    "name": "Long sleeves - Green",
                     "code": "sumi_net_pozer_jacket_long_netwatch_green"
                 },
                 {
-                    "name": "Netwatch Pink",
+                    "name": "Long sleeves - Pink",
                     "code": "sumi_net_pozer_jacket_long_netwatch_pink"
                 },
                 {
-                    "name": "Netwatch Purple",
+                    "name": "Long sleeves - Purple",
                     "code": "sumi_net_pozer_jacket_long_netwatch_purple"
                 },
                 {
-                    "name": "Netwatch Red",
+                    "name": "Long sleeves - Red",
                     "code": "sumi_net_pozer_jacket_long_netwatch_red"
                 },
                 {
-                    "name": "Netwatch Yellow",
+                    "name": "Long sleeves - Yellow",
                     "code": "sumi_net_pozer_jacket_long_netwatch_yellow"
                 },
                 {
-                    "name": "None Blue",
-                    "code": "sumi_net_pozer_jacket_long_none_blue"
+                    "name": "Pink",
+                    "code": "sumi_net_pozer_jacket_netwatch_pink"
                 },
                 {
-                    "name": "None Green",
-                    "code": "sumi_net_pozer_jacket_long_none_green"
+                    "name": "Purple",
+                    "code": "sumi_net_pozer_jacket_netwatch_purple"
                 },
                 {
-                    "name": "None Pink",
-                    "code": "sumi_net_pozer_jacket_long_none_pink"
+                    "name": "Red",
+                    "code": "sumi_net_pozer_jacket_netwatch_red"
                 },
                 {
-                    "name": "None Purple",
-                    "code": "sumi_net_pozer_jacket_long_none_purple"
-                },
-                {
-                    "name": "None Red",
-                    "code": "sumi_net_pozer_jacket_long_none_red"
-                },
-                {
-                    "name": "None Yellow",
-                    "code": "sumi_net_pozer_jacket_long_none_yellow"
-                },
-                {
-                    "name": "Samurai Blue",
-                    "code": "sumi_net_pozer_jacket_long_samurai_blue"
-                },
-                {
-                    "name": "Samurai Green",
-                    "code": "sumi_net_pozer_jacket_long_samurai_green"
-                },
-                {
-                    "name": "Samurai Pink",
-                    "code": "sumi_net_pozer_jacket_long_samurai_pink"
-                },
-                {
-                    "name": "Samurai Purple",
-                    "code": "sumi_net_pozer_jacket_long_samurai_purple"
-                },
-                {
-                    "name": "Samurai Red",
-                    "code": "sumi_net_pozer_jacket_long_samurai_red"
-                },
-                {
-                    "name": "Samurai Yellow",
-                    "code": "sumi_net_pozer_jacket_long_samurai_yellow"
-                },
-                {
-                    "name": "Wolf Blue",
-                    "code": "sumi_net_pozer_jacket_long_wolf_blue"
-                },
-                {
-                    "name": "Wolf Green",
-                    "code": "sumi_net_pozer_jacket_long_wolf_green"
-                },
-                {
-                    "name": "Wolf Pink",
-                    "code": "sumi_net_pozer_jacket_long_wolf_pink"
-                },
-                {
-                    "name": "Wolf Purple",
-                    "code": "sumi_net_pozer_jacket_long_wolf_purple"
-                },
-                {
-                    "name": "Wolf Red",
-                    "code": "sumi_net_pozer_jacket_long_wolf_red"
-                },
-                {
-                    "name": "Wolf Yellow",
-                    "code": "sumi_net_pozer_jacket_long_wolf_yellow"
+                    "name": "Yellow",
+                    "code": "sumi_net_pozer_jacket_netwatch_yellow"
                 }
             ]
         },
         {
-            "id": "jackets-rolled-sleeves",
-            "label": "Jackets - Rolled Sleeves",
+            "id": "jackets-no-decals",
+            "label": "Jackets - No decals",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
             ],
             "items": [
                 {
-                    "name": "Netwatch Blue",
-                    "code": "sumi_net_pozer_jacket_netwatch_blue"
-                },
-                {
-                    "name": "Netwatch Green",
-                    "code": "sumi_net_pozer_jacket_netwatch_green"
-                },
-                {
-                    "name": "Netwatch Pink",
-                    "code": "sumi_net_pozer_jacket_netwatch_pink"
-                },
-                {
-                    "name": "Netwatch Purple",
-                    "code": "sumi_net_pozer_jacket_netwatch_purple"
-                },
-                {
-                    "name": "Netwatch Red",
-                    "code": "sumi_net_pozer_jacket_netwatch_red"
-                },
-                {
-                    "name": "Netwatch Yellow",
-                    "code": "sumi_net_pozer_jacket_netwatch_yellow"
-                },
-                {
-                    "name": "None Blue",
+                    "name": "Blue",
                     "code": "sumi_net_pozer_jacket_none_blue"
                 },
                 {
-                    "name": "None Green",
+                    "name": "Green",
                     "code": "sumi_net_pozer_jacket_none_green"
                 },
                 {
-                    "name": "None Pink",
+                    "name": "Long sleeves - Blue",
+                    "code": "sumi_net_pozer_jacket_long_none_blue"
+                },
+                {
+                    "name": "Long sleeves - Green",
+                    "code": "sumi_net_pozer_jacket_long_none_green"
+                },
+                {
+                    "name": "Long sleeves - Pink",
+                    "code": "sumi_net_pozer_jacket_long_none_pink"
+                },
+                {
+                    "name": "Long sleeves - Purple",
+                    "code": "sumi_net_pozer_jacket_long_none_purple"
+                },
+                {
+                    "name": "Long sleeves - Red",
+                    "code": "sumi_net_pozer_jacket_long_none_red"
+                },
+                {
+                    "name": "Pink",
                     "code": "sumi_net_pozer_jacket_none_pink"
                 },
                 {
-                    "name": "None Purple",
+                    "name": "Purple",
                     "code": "sumi_net_pozer_jacket_none_purple"
                 },
                 {
-                    "name": "None Red",
+                    "name": "Red",
                     "code": "sumi_net_pozer_jacket_none_red"
                 },
                 {
-                    "name": "None Yellow",
-                    "code": "sumi_net_pozer_jacket_none_yellow"
+                    "name": "Yellow",
+                    "code": "sumi_net_pozer_jacket_long_none_yellow"
                 },
                 {
-                    "name": "Samurai Blue",
+                    "name": "Yellow",
+                    "code": "sumi_net_pozer_jacket_none_yellow"
+                }
+            ]
+        },
+        {
+            "id": "jackets-samurai",
+            "label": "Jackets - Samurai",
+            "icon": "jacket-samurai",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Blue",
                     "code": "sumi_net_pozer_jacket_samurai_blue"
                 },
                 {
-                    "name": "Samurai Green",
+                    "name": "Green",
                     "code": "sumi_net_pozer_jacket_samurai_green"
                 },
                 {
-                    "name": "Samurai Pink",
+                    "name": "Long sleeves - Blue",
+                    "code": "sumi_net_pozer_jacket_long_samurai_blue"
+                },
+                {
+                    "name": "Long sleeves - Green",
+                    "code": "sumi_net_pozer_jacket_long_samurai_green"
+                },
+                {
+                    "name": "Long sleeves - Pink",
+                    "code": "sumi_net_pozer_jacket_long_samurai_pink"
+                },
+                {
+                    "name": "Long sleeves - Purple",
+                    "code": "sumi_net_pozer_jacket_long_samurai_purple"
+                },
+                {
+                    "name": "Long sleeves - Red",
+                    "code": "sumi_net_pozer_jacket_long_samurai_red"
+                },
+                {
+                    "name": "Long sleeves - Yellow",
+                    "code": "sumi_net_pozer_jacket_long_samurai_yellow"
+                },
+                {
+                    "name": "Pink",
                     "code": "sumi_net_pozer_jacket_samurai_pink"
                 },
                 {
-                    "name": "Samurai Purple",
+                    "name": "Purple",
                     "code": "sumi_net_pozer_jacket_samurai_purple"
                 },
                 {
-                    "name": "Samurai Red",
+                    "name": "Red",
                     "code": "sumi_net_pozer_jacket_samurai_red"
                 },
                 {
-                    "name": "Samurai Yellow",
+                    "name": "Yellow",
                     "code": "sumi_net_pozer_jacket_samurai_yellow"
-                },
+                }
+            ]
+        },
+        {
+            "id": "jackets-wolf",
+            "label": "Jackets - Wolf",
+            "icon": "jacket-wolf",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
                 {
-                    "name": "Wolf Blue",
+                    "name": "Blue",
                     "code": "sumi_net_pozer_jacket_wolf_blue"
                 },
                 {
-                    "name": "Wolf Green",
+                    "name": "Green",
                     "code": "sumi_net_pozer_jacket_wolf_green"
                 },
                 {
-                    "name": "Wolf Pink",
+                    "name": "Long sleeves - Blue",
+                    "code": "sumi_net_pozer_jacket_long_wolf_blue"
+                },
+                {
+                    "name": "Long sleeves - Green",
+                    "code": "sumi_net_pozer_jacket_long_wolf_green"
+                },
+                {
+                    "name": "Long sleeves - Pink",
+                    "code": "sumi_net_pozer_jacket_long_wolf_pink"
+                },
+                {
+                    "name": "Long sleeves - Purple",
+                    "code": "sumi_net_pozer_jacket_long_wolf_purple"
+                },
+                {
+                    "name": "Long sleeves - Red",
+                    "code": "sumi_net_pozer_jacket_long_wolf_red"
+                },
+                {
+                    "name": "Long sleeves - Yellow",
+                    "code": "sumi_net_pozer_jacket_long_wolf_yellow"
+                },
+                {
+                    "name": "Pink",
                     "code": "sumi_net_pozer_jacket_wolf_pink"
                 },
                 {
-                    "name": "Wolf Purple",
+                    "name": "Purple",
                     "code": "sumi_net_pozer_jacket_wolf_purple"
                 },
                 {
-                    "name": "Wolf Red",
+                    "name": "Red",
                     "code": "sumi_net_pozer_jacket_wolf_red"
                 },
                 {
-                    "name": "Wolf Yellow",
+                    "name": "Yellow",
                     "code": "sumi_net_pozer_jacket_wolf_yellow"
                 }
             ]
