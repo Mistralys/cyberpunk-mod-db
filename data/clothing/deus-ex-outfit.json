@@ -7,21 +7,17 @@
         "AlvarixPT"
     ],
     "tags": [
-        "Accessories",
-        "Arms",
         "Body-Vanilla",
         "Clothing",
         "Cosplay",
-        "Feet",
         "FemV",
-        "FullBody",
-        "Legs",
         "Outfit"
     ],
     "itemCategories": [
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Boots",
                 "Feet"
@@ -34,8 +30,24 @@
             ]
         },
         {
+            "id": "glasses",
+            "label": "Glasses",
+            "icon": "glasses",
+            "tags": [
+                "Glasses",
+                "Head"
+            ],
+            "items": [
+                {
+                    "name": "Specs",
+                    "code": "deusx_specs"
+                }
+            ]
+        },
+        {
             "id": "shorts",
             "label": "Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -48,22 +60,9 @@
             ]
         },
         {
-            "id": "specs",
-            "label": "Specs",
-            "tags": [
-                "Accessories",
-                "Waist"
-            ],
-            "items": [
-                {
-                    "name": "Specs",
-                    "code": "deusx_specs"
-                }
-            ]
-        },
-        {
             "id": "vests",
             "label": "Vests",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
