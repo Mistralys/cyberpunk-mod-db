@@ -29,6 +29,7 @@
         {
             "id": "dresses-floral-pattern",
             "label": "Dresses - Floral Pattern",
+            "icon": "floral",
             "tags": [],
             "items": [
                 {
@@ -80,6 +81,7 @@
         {
             "id": "dresses-regular",
             "label": "Dresses - Regular",
+            "icon": "regular",
             "tags": [],
             "items": [
                 {
