@@ -1,13 +1,15 @@
 ## v2.2.5 - Fixes, tooling update and item icons
-- Mods: Fixed missing category IDs for `aria-tloak-suit`.
-- Mods: Fixed missing category IDs for `tactical-belt`.
-- Mods: Fixed missing category IDs for `zip-up-dress`.
-- Mods: Fixed two misnamed item icon images for `aurore-modular-set`.
-- Mods: Re-categorized items by chain style in `ziva-navel-chains`.
-- Mods: Re-categorized items by type in `xrx-stockings`.
-- Mods: Re-categorized items by type in `wrap-around-dress`.
-- Mods: Re-categorized items by decal in `pozer-jacket-and-cyberdeck`.
-- Mods: Fixed the small cyberdeck item codes in `pozer-jacket-and-cyberdeck`.
+- Mods: `aria-tloak-suit`: Fixed missing category IDs.
+- Mods: `tactical-belt`: Fixed missing category IDs.
+- Mods: `zip-up-dress`: Fixed missing category IDs.
+- Mods: `aurore-modular-set`: Fixed two misnamed item icon images.
+- Mods: `ziva-navel-chains`: Re-categorized items by chain style.
+- Mods: `xrx-stockings`: Re-categorized items by type.
+- Mods: `wrap-around-dress`: Re-categorized items by type.
+- Mods: `pozer-jacket-and-cyberdeck`: Re-categorized items by decal.
+- Mods: `pozer-jacket-and-cyberdeck`: Fixed the small cyberdeck item codes.
+- Mods: `flash-posers-atelier`: Corrected shirts actually being jackets.
+- Mods: `flash-posers-atelier`: Fixed the ID of the neotac pants category.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
