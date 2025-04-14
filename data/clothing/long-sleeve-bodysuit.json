@@ -41,6 +41,7 @@
         {
             "id": "bodysuits-patterned",
             "label": "Bodysuits - Patterned",
+            "icon": "patterned",
             "tags": [],
             "items": [
                 {
@@ -144,6 +145,7 @@
         {
             "id": "bodysuits-plain",
             "label": "Bodysuits - Plain",
+            "icon": "plain",
             "tags": [],
             "items": [
                 {
@@ -217,8 +219,9 @@
             ]
         },
         {
-            "id": "bodysuits-poly",
-            "label": "Bodysuits - Poly",
+            "id": "bodysuits-polyester",
+            "label": "Bodysuits - Polyester",
+            "icon": "polyester",
             "tags": [],
             "items": [
                 {
