@@ -16,10 +16,11 @@
     ],
     "itemCategories": [
         {
-            "id": "combat-shirts",
-            "label": "Combat Shirts",
+            "id": "combat-jackets",
+            "label": "Jackets - Standard",
+            "icon": "jacket",
             "tags": [
-                "Shirt",
+                "Jacket",
                 "Torso"
             ],
             "items": [
@@ -74,11 +75,12 @@
             ]
         },
         {
-            "id": "combat-shirts-emissive",
-            "label": "Combat Shirts - Emissive",
+            "id": "combat-jackets-emissive",
+            "label": "Jackets - Emissive",
+            "icon": "jacket-emissive",
             "tags": [
                 "Emissive",
-                "Shirt",
+                "Jacket",
                 "Torso"
             ],
             "items": [
@@ -133,10 +135,11 @@
             ]
         },
         {
-            "id": "holstered-shirts",
-            "label": "Holstered Shirts",
+            "id": "holstered-jackets",
+            "label": "Jackets - Holstered",
+            "icon": "jacket-holstered",
             "tags": [
-                "Shirt",
+                "Jacket",
                 "Torso"
             ],
             "items": [
@@ -191,8 +194,9 @@
             ]
         },
         {
-            "id": "neotac-shirts",
+            "id": "neotac-pants",
             "label": "Neotac Pants",
+            "icon": "pants-neotac",
             "tags": [
                 "Legs",
                 "Pants"
@@ -251,6 +255,7 @@
         {
             "id": "riding-pants",
             "label": "Riding Pants",
+            "icon": "pants-riding",
             "tags": [
                 "Legs",
                 "Pants"
