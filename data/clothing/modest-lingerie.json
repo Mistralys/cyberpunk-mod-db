@@ -26,6 +26,7 @@
         {
             "id": "bodysuits",
             "label": "Bodysuits",
+            "icon": "bodysuit",
             "tags": [
                 "Bodysuit",
                 "FullBody",
@@ -78,6 +79,7 @@
         {
             "id": "bras",
             "label": "Bras",
+            "icon": "bra",
             "tags": [
                 "Bra",
                 "Lingerie",
@@ -126,6 +128,7 @@
         {
             "id": "corsets",
             "label": "Corsets",
+            "icon": "corset",
             "tags": [
                 "Corset",
                 "Lingerie",
@@ -170,6 +173,7 @@
         {
             "id": "xl-shirts",
             "label": "XL Shirts",
+            "icon": "shirt",
             "tags": [
                 "FullBody",
                 "Shirt",
