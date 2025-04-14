@@ -8,17 +8,17 @@
         "EzioMaverick"
     ],
     "tags": [
-        "FemV"
+        "Belt",
+        "FemV",
+        "Waist"
     ],
     "searchTweaks": "maverick",
     "itemCategories": [
         {
             "id": "belts",
             "label": "Belts",
-            "tags": [
-                "Belt",
-                "Waist"
-            ],
+            "icon": "standard",
+            "tags": [],
             "items": [
                 {
                     "name": "Black",
@@ -36,11 +36,10 @@
         },
         {
             "id": "belts-with-accessories",
-            "label": "With Accessories",
+            "label": "Belts - With Accessories",
+            "icon": "accessories",
             "tags": [
-                "Accessories",
-                "Belt",
-                "Waist"
+                "Accessories"
             ],
             "items": [
                 {
