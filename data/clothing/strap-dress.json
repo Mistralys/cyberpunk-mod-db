@@ -10,18 +10,19 @@
         "Body-Spawn0",
         "Body-Vanilla",
         "Clothing",
-        "FemV"
+        "FemV",
+        "Accessories",
+        "FullBody",
+        "Skimpy"
     ],
+    "comments": "The set of revealing strap dresses is a separate download in the mod's files.",
     "searchTweaks": "raider",
     "itemCategories": [
         {
             "id": "dresses-full-straps",
             "label": "Dresses - Full Straps",
-            "tags": [
-                "Accessories",
-                "FullBody",
-                "Skimpy"
-            ],
+            "icon": "dress",
+            "tags": [],
             "items": [
                 {
                     "name": "Black",
@@ -51,11 +52,8 @@
         {
             "id": "dresses-revealing-straps",
             "label": "Dresses - Revealing Straps",
-            "tags": [
-                "Accessories",
-                "FullBody",
-                "Skimpy"
-            ],
+            "icon": "revealing",
+            "tags": [],
             "items": [
                 {
                     "name": "Black",
