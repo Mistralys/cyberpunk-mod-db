@@ -10,6 +10,7 @@
 - Mods: `pozer-jacket-and-cyberdeck`: Fixed the small cyberdeck item codes.
 - Mods: `flash-posers-atelier`: Corrected shirts actually being jackets.
 - Mods: `flash-posers-atelier`: Fixed the ID of the neotac pants category.
+- Mods: `deus-ex-outfit`: Fixed mis-tagged glasses; Removed superfluous tags.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
