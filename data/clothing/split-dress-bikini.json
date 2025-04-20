@@ -15,46 +15,9 @@
     ],
     "itemCategories": [
         {
-            "id": "bikinis",
-            "label": "Bikinis",
-            "tags": [
-                "Skimpy",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "split_bikini_black"
-                },
-                {
-                    "name": "Brown",
-                    "code": "split_bikini_brown"
-                },
-                {
-                    "name": "Gold",
-                    "code": "split_bikini_gold"
-                },
-                {
-                    "name": "Gray",
-                    "code": "split_bikini_gray"
-                },
-                {
-                    "name": "Red",
-                    "code": "split_bikini_red"
-                },
-                {
-                    "name": "Silver",
-                    "code": "split_bikini_silver"
-                },
-                {
-                    "name": "White",
-                    "code": "split_bikini_white"
-                }
-            ]
-        },
-        {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -93,6 +56,7 @@
         {
             "id": "panties",
             "label": "Panties",
+            "icon": "panties",
             "tags": [
                 "Legs",
                 "Panties",
@@ -132,6 +96,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "bikini",
             "tags": [
                 "Top",
                 "Torso"
