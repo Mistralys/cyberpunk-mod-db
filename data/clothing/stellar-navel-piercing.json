@@ -16,6 +16,7 @@
         {
             "id": "piercings",
             "label": "Piercings",
+            "icon": "piercing",
             "tags": [
                 "Jewelry",
                 "Navel",
