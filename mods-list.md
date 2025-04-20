@@ -96,7 +96,7 @@ Total available files: 190
 * [Lace-Up Dress](data/clothing/lace-up-dress.json) by CaffeinatedRogue ([source](https://www.nexusmods.com/cyberpunk2077/mods/16927))
 * [Lace Lingerie](data/clothing/lace-lingerie.json) by xBaebsae ([source](https://www.nexusmods.com/cyberpunk2077/mods/7711))
 * [Leather Boots](data/clothing/leather-boots.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/15749))
-* [Leggings Spandex](data/clothing/spandex-leggins.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/10385))
+* [Leggings Spandex](data/clothing/spandex-leggings.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/10385))
 * [Lethal Outfit](data/clothing/lethal-outfit.json) by Aquelyras, NolaDreamer, Veegee and VeegeeAlvarez ([source](https://www.nexusmods.com/cyberpunk2077/mods/15867))
 * [Liquid Heart Earrings](data/clothing/liquid-heart-earrings.json) by cyb3rsn4k3 ([source](https://www.nexusmods.com/cyberpunk2077/mods/14190))
 * [Lizzy Wizzy Headset](data/clothing/lizzy-wizzy-headset.json) by LilyDelta ([source](https://www.nexusmods.com/cyberpunk2077/mods/16467))
