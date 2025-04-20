@@ -25,6 +25,7 @@
         {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [],
             "items": [
                 {
