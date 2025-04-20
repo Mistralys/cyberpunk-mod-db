@@ -15,6 +15,7 @@
         {
             "id": "coats",
             "label": "Coats",
+            "icon": "coat",
             "tags": [
                 "Coat",
                 "FullBody"
