@@ -20,6 +20,7 @@
         {
             "id": "hairclips-3-stars-right",
             "label": "Hairclips - 3 Stars Right",
+            "icon": "3-right",
             "tags": [],
             "items": [
                 {
@@ -79,6 +80,7 @@
         {
             "id": "hairclips-4-stars-left",
             "label": "Hairclips - 4 Stars Left",
+            "icon": "4-left",
             "tags": [],
             "items": [
                 {
@@ -138,6 +140,7 @@
         {
             "id": "hairclips-5-stars-top",
             "label": "Hairclips - 5 Stars Top",
+            "icon": "5-top",
             "tags": [],
             "items": [
                 {
@@ -197,6 +200,7 @@
         {
             "id": "hairclips-2-stars-left-right",
             "label": "Hairclips - Two Stars Left and Right",
+            "icon": "2-both",
             "tags": [],
             "items": [
                 {
