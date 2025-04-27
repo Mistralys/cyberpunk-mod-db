@@ -19,71 +19,13 @@
         "FemV",
         "Outfit"
     ],
+    "comments": "The bras are cut very low, and show the nipples. They are made to be used with the transparent suits, not as a standalone item. The panties are also cut very low, and showed the pubic hair. They are made to be used with the transparent suits, not as a standalone item. The lace panties are made to be used with the transparent suits, not as a standalone item.",
     "searchTweaks": "leader suit",
     "itemCategories": [
         {
-            "id": "lingerie-bottoms",
-            "label": "Lingerie Bottoms",
-            "tags": [
-                "Legs",
-                "Lingerie",
-                "Panties",
-                "Underwear"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "sub_nanosuit_lingerie_bottom_black"
-                },
-                {
-                    "name": "Black (Alternate)",
-                    "code": "sub_nanosuit_lingerie_bottom_alt_black"
-                },
-                {
-                    "name": "Green",
-                    "code": "sub_nanosuit_lingerie_bottom_green"
-                },
-                {
-                    "name": "Green (Alternate)",
-                    "code": "sub_nanosuit_lingerie_bottom_alt_green"
-                },
-                {
-                    "name": "Red",
-                    "code": "sub_nanosuit_lingerie_bottom_red"
-                },
-                {
-                    "name": "Red (Alternate)",
-                    "code": "sub_nanosuit_lingerie_bottom_alt_red"
-                },
-                {
-                    "name": "Rose",
-                    "code": "sub_nanosuit_lingerie_bottom_rose"
-                },
-                {
-                    "name": "Rose (Alternate)",
-                    "code": "sub_nanosuit_lingerie_bottom_alt_rose"
-                },
-                {
-                    "name": "Tan",
-                    "code": "sub_nanosuit_lingerie_bottom_tan"
-                },
-                {
-                    "name": "Tan (Alternate)",
-                    "code": "sub_nanosuit_lingerie_bottom_alt_tan"
-                },
-                {
-                    "name": "White",
-                    "code": "sub_nanosuit_lingerie_bottom_white"
-                },
-                {
-                    "name": "White (Alternate)",
-                    "code": "sub_nanosuit_lingerie_bottom_alt_white"
-                }
-            ]
-        },
-        {
-            "id": "lingerie-tops",
-            "label": "Lingerie Tops",
+            "id": "bras",
+            "label": "Bras",
+            "icon": "bra",
             "tags": [
                 "Bra",
                 "Lingerie",
@@ -118,60 +60,146 @@
             ]
         },
         {
+            "id": "additions",
+            "label": "Decorations",
+            "icon": "decorations",
+            "tags": [
+                "Accessories",
+                "Toggles"
+            ],
+            "items": [
+                {
+                    "name": "Less bright",
+                    "code": "sub_nanosuit_addition_lessbright"
+                },
+                {
+                    "name": "Standard",
+                    "code": "sub_nanosuit_addition_default"
+                }
+            ]
+        },
+        {
+            "id": "panties",
+            "label": "Panties",
+            "icon": "panties",
+            "tags": [
+                "Legs",
+                "Lingerie",
+                "Panties",
+                "Underwear"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_nanosuit_lingerie_bottom_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_nanosuit_lingerie_bottom_green"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_nanosuit_lingerie_bottom_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_nanosuit_lingerie_bottom_rose"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_nanosuit_lingerie_bottom_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "sub_nanosuit_lingerie_bottom_white"
+                }
+            ]
+        },
+        {
+            "id": "panties-lace",
+            "label": "Panties - Lace",
+            "icon": "panties-lace",
+            "tags": [
+                "Legs",
+                "Lingerie",
+                "Panties",
+                "Underwear"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_black"
+                },
+                {
+                    "name": "Green",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_green"
+                },
+                {
+                    "name": "Red",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_red"
+                },
+                {
+                    "name": "Rose",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_rose"
+                },
+                {
+                    "name": "Tan",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_tan"
+                },
+                {
+                    "name": "White",
+                    "code": "sub_nanosuit_lingerie_bottom_alt_white"
+                }
+            ]
+        },
+        {
             "id": "suits",
-            "label": "Suits",
+            "label": "Suits - Solid Color",
+            "icon": "suit",
             "tags": [
                 "FullBody",
                 "Suit"
             ],
             "items": [
                 {
-                    "name": "Addition (Default)",
-                    "code": "sub_nanosuit_addition_default"
-                },
-                {
-                    "name": "Addition (Less Bright)",
-                    "code": "sub_nanosuit_addition_lessbright"
-                },
-                {
                     "name": "Black",
                     "code": "sub_nanosuit_black"
                 },
                 {
-                    "name": "Default",
+                    "name": "Standard",
                     "code": "sub_nanosuit_default"
-                },
-                {
-                    "name": "Default (Transparent)",
-                    "code": "sub_nanosuit_default_transparent",
-                    "tags": [
-                        "Transparent"
-                    ]
-                },
-                {
-                    "name": "Default (Transparent Full)",
-                    "code": "sub_nanosuit_default_transparent_full",
-                    "tags": [
-                        "Transparent"
-                    ]
                 },
                 {
                     "name": "White",
                     "code": "sub_nanosuit_white"
+                }
+            ]
+        },
+        {
+            "id": "suits",
+            "label": "Suits - With transparency",
+            "icon": "suit-transparent",
+            "tags": [
+                "FullBody",
+                "Suit",
+                "Transparent"
+            ],
+            "items": [
+                {
+                    "name": "Standard - Semi-Transparent",
+                    "code": "sub_nanosuit_default_transparent"
                 },
                 {
-                    "name": "White (Transparent)",
-                    "code": "sub_nanosuit_white_transparent",
-                    "tags": [
-                        "Transparent"
-                    ]
+                    "name": "Standard - Transparent",
+                    "code": "sub_nanosuit_default_transparent_full"
                 },
                 {
-                    "name": "White (Transparent Full)",
-                    "code": "sub_nanosuit_white_transparent_full",
-                    "tags": [
-                        "Transparent"
-                    ]
+                    "name": "White - Semi-Transparent",
+                    "code": "sub_nanosuit_white_transparent"
+                },
+                {
+                    "name": "White - Transparent",
+                    "code": "sub_nanosuit_white_transparent_full"
                 }
             ]
         }
