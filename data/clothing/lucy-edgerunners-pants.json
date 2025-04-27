@@ -22,7 +22,9 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
+                "Feet",
                 "Legs",
                 "Pants"
             ],
