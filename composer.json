@@ -33,6 +33,7 @@
       "bin/assets/generate-pose-packs.php",
       "bin/assets/key-defs.php",
       "bin/assets/normalize.php",
+      "bin/assets/ignores.php",
       "bin/assets/pose-packs.php",
       "bin/assets/search-terms.php"
     ]

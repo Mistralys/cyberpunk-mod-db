@@ -9,17 +9,6 @@ use AppUtils\FileHelper\JSONFile;
 
 const GLOBAL_SCREEN_SIDECAR_FILES = '__cpmdb_screen_sidecar_files';
 
-/**
- * Mods where not having a screenshot for the
- * MaleV version can be ignored.
- */
-const IGNORE_MOD_MALE_V_SCREENSHOTS = array(
-    'xtx-sneakers',
-    'biker-boots',
-    'leather-boots',
-    'military-boots'
-);
-
 function getCheckScreenshotsArg() : ?string
 {
     $commands = getCLICommands();
