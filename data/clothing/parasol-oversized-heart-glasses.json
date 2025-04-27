@@ -21,6 +21,7 @@
         {
             "id": "glasses-clear-lens-with-grille",
             "label": "Glasses - Clear Lens - With Grille",
+            "icon": "clear-grille",
             "tags": [],
             "items": [
                 {
@@ -44,6 +45,7 @@
         {
             "id": "glasses-clear-lens-no-grille",
             "label": "Glasses - Clear Lens - No Grille",
+            "icon": "clear",
             "tags": [],
             "items": [
                 {
@@ -67,6 +69,7 @@
         {
             "id": "glasses-sunglasses-no-grille",
             "label": "Glasses - Sunglasses - With Grille",
+            "icon": "solar",
             "tags": [],
             "items": [
                 {
