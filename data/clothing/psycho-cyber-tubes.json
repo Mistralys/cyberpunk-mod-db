@@ -15,10 +15,12 @@
         "MaleV"
     ],
     "searchTweaks": "raider",
+    "comments": "NOTE: The \"Both Arms\" set is a separate download, which does not require Equipment-EX. It does not allow mixing colors.",
     "itemCategories": [
         {
             "id": "cyber-tubes-both-arms",
             "label": "Cyber-Tubes - Both Arms",
+            "icon": "both",
             "tags": [],
             "items": [
                 {
@@ -107,6 +109,7 @@
         {
             "id": "cyber-tubes-left-arm",
             "label": "Cyber-Tubes - Left Arm",
+            "icon": "left",
             "tags": [],
             "items": [
                 {
@@ -195,6 +198,7 @@
         {
             "id": "cyber-tubes-right-arm",
             "label": "Cyber-Tubes - Right Arm",
+            "icon": "right",
             "tags": [],
             "items": [
                 {
