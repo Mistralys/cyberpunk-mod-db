@@ -29,4 +29,4 @@ photo mode setup every time.
 ## Useful poses
 
 - **Gloves**: Zwei Fashion [#15 "Dressed to Kill"](./Poses/zwei-fashion/10-15.jpg)
-- **Shoes**: Zwei Fashion [#14 "Force Manipulation"](./Poses/zwei-fashion/10-16.jpg)
+- **Shoes**: Zwei Fashion [#14 "Force Manipulation"](./Poses/zwei-fashion/10-15.jpg)
