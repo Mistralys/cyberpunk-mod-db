@@ -24,6 +24,7 @@
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [],
             "items": [
                 {
