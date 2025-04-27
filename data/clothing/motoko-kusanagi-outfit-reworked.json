@@ -17,35 +17,35 @@
         "motoko-kusanagi-jacket-and-bodysuit"
     ],
     "comments": "Inspired by the character from the movie 'Ghost in the Shell'.",
-    "searchTweaks": "maverick",
+    "searchTweaks": "maverick suit",
     "itemCategories": [
         {
-            "id": "outfits",
-            "label": "Outfits",
-            "icon": "suit",
+            "id": "bodysuits",
+            "label": "Bodysuits",
+            "icon": "top",
+            "tags": [
+                "Bodysuit",
+                "FullBody"
+            ],
             "items": [
                 {
-                    "name": "Full Outfit",
-                    "code": "motofl_a",
-                    "tags": [
-                        "FullBody",
-                        "Suit"
-                    ]
+                    "name": "Standard",
+                    "code": "mototp_a"
                 }
             ]
         },
         {
-            "id": "jackets",
-            "label": "Jackets",
-            "icon": "top",
+            "id": "outfits",
+            "label": "Outfits",
+            "icon": "suit",
+            "tags": [
+                "FullBody",
+                "Outfit"
+            ],
             "items": [
                 {
-                    "name": "Top Only",
-                    "code": "mototp_a",
-                    "tags": [
-                        "Top",
-                        "Torso"
-                    ]
+                    "name": "Full Outfit",
+                    "code": "motofl_a"
                 }
             ]
         }
