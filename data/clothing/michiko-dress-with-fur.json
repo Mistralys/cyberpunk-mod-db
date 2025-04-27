@@ -19,6 +19,7 @@
         {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -69,6 +70,7 @@
         {
             "id": "furs",
             "label": "Furs",
+            "icon": "fur",
             "tags": [
                 "Accessories",
                 "Arms"
