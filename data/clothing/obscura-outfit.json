@@ -31,6 +31,7 @@
         {
             "id": "blazers",
             "label": "Blazers",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -53,6 +54,7 @@
         {
             "id": "bodysuits",
             "label": "Bodysuits",
+            "icon": "bodysuit",
             "tags": [
                 "Bodysuit",
                 "FullBody"
