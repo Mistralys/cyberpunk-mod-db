@@ -17,6 +17,7 @@
         {
             "id": "outfits",
             "label": "Outfits",
+            "icon": "outfit",
             "tags": [
                 "FullBody",
                 "Outfit"
