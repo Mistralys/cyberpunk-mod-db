@@ -19,6 +19,7 @@
         {
             "id": "elbow-pads",
             "label": "Elbow Pads",
+            "icon": "pad",
             "tags": [],
             "items": [
                 {
