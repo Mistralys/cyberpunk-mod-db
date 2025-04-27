@@ -5,7 +5,7 @@
     "atelierName": "NC Fashion",
     "authors": [
         "Apzurv",
-        "Eziomaverick"
+        "EzioMaverick"
     ],
     "tags": [
         "Body-Vanilla",
@@ -22,30 +22,30 @@
         {
             "id": "bodysuits",
             "label": "Bodysuits",
-            "tags": [],
+            "icon": "bodysuit",
+            "tags": [
+                "FullBody",
+                "Bodysuit"
+            ],
             "items": [
                 {
-                    "name": "Bodysuit",
-                    "code": "motoko_bodysuit_moto",
-                    "tags": [
-                        "FullBody",
-                        "Suit"
-                    ]
+                    "name": "Black",
+                    "code": "motoko_bodysuit_moto"
                 }
             ]
         },
         {
             "id": "jackets",
             "label": "Jackets",
-            "tags": [],
+            "icon": "jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
             "items": [
                 {
-                    "name": "Jacket",
-                    "code": "motoko_jack_motoj",
-                    "tags": [
-                        "Jacket",
-                        "Torso"
-                    ]
+                    "name": "Grey",
+                    "code": "motoko_jack_motoj"
                 }
             ]
         }
