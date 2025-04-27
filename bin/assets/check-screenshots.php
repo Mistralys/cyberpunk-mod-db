@@ -58,7 +58,14 @@ function checkModItemScreenshots(string $modID) : void
 
         $categoryID = $category[KEY_CAT_ID];
 
-        $icon = $category[KEY_CAT_ICON] ?? '';
+        if(!isset($category[KEY_CAT_ICON])) {
+            $messages = true;
+            addMessage('ItemIcons | Mod [%s] | Category [%s] | The icon key is missing.', $modID, $categoryID);
+            logInfo('  ...The `icon` key is missing for [%s].', $categoryID);
+            continue;
+        }
+
+        $icon = $category[KEY_CAT_ICON];
         if(empty($icon)) {
             $messages = true;
             addMessage('ItemIcons | Mod [%s] | Category [%s] No icon specified.', $modID, $categoryID);
