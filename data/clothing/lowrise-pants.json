@@ -19,6 +19,7 @@
         {
             "id": "pants-regular",
             "label": "Pants - Regular",
+            "icon": "regular",
             "tags": [
                 "Legs",
                 "Pants"
@@ -85,6 +86,7 @@
         {
             "id": "pants-silk",
             "label": "Pants - Silk",
+            "icon": "silk",
             "tags": [
                 "Legs",
                 "Pants"
