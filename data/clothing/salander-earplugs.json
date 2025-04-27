@@ -15,6 +15,7 @@
         {
             "id": "earplugs",
             "label": "Earplugs",
+            "icon": "earplug",
             "tags": [
                 "Earring",
                 "Head",

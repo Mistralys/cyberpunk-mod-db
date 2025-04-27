@@ -22,6 +22,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -48,6 +49,7 @@
         {
             "id": "suits",
             "label": "Suits",
+            "icon": "suit",
             "tags": [
                 "FullBody",
                 "Reflective",
