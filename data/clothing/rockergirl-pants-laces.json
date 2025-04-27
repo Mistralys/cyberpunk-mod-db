@@ -27,6 +27,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [],
             "items": [
                 {
