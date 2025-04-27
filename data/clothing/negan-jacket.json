@@ -9,13 +9,16 @@
     "tags": [
         "Body-Vanilla",
         "Clothing",
+        "GarmentSupport",
         "Jacket",
         "Torso"
     ],
+    "comments": "NOTE: The Male V version is a separate download in the mod's files section.",
     "itemCategories": [
         {
             "id": "jackets-femv",
-            "label": "Jackets - Female V",
+            "label": "Jackets - Fem V",
+            "icon": "jacket",
             "tags": [
                 "Body-Hyst-Angel",
                 "Body-Hyst-EBB",
@@ -64,6 +67,7 @@
         {
             "id": "jackets-malev",
             "label": "Jackets - Male V",
+            "icon": "jacket-male",
             "tags": [
                 "MaleV"
             ],
