@@ -19,6 +19,7 @@
         {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [
                 "Dress",
                 "FullBody"
