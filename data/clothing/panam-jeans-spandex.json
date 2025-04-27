@@ -20,6 +20,7 @@
         {
             "id": "jeans",
             "label": "Jeans",
+            "icon": "pants",
             "tags": [],
             "items": [
                 {
