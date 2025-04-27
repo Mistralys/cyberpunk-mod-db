@@ -41,6 +41,7 @@
         {
             "id": "chestplates",
             "label": "Chestplates",
+            "icon": "chestplate",
             "tags": [
                 "Torso"
             ],
@@ -130,6 +131,7 @@
         {
             "id": "neck-covers",
             "label": "Neck Covers",
+            "icon": "collar",
             "tags": [
                 "Accessories",
                 "Choker",
@@ -221,6 +223,7 @@
         {
             "id": "shoulder-straps-a-left",
             "label": "Shoulder Straps A - Left",
+            "icon": "straps-a",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -279,6 +282,7 @@
         {
             "id": "shoulder-straps-a-right",
             "label": "Shoulder Straps A - Right",
+            "icon": "straps-a",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -337,6 +341,7 @@
         {
             "id": "shoulder-straps-b-left",
             "label": "Shoulder Straps B - Left",
+            "icon": "straps-b",
             "tags": [
                 "Accessories",
                 "Arms"
@@ -395,6 +400,7 @@
         {
             "id": "shoulder-straps-b-right",
             "label": "Shoulder Straps B - Right",
+            "icon": "straps-b",
             "tags": [
                 "Accessories",
                 "Arms"
