@@ -23,8 +23,92 @@
     "comments": "No garment support, and not planned.",
     "itemCategories": [
         {
-            "id": "luxe-shorts",
-            "label": "Luxe Shorts",
+            "id": "bras",
+            "label": "Bras",
+            "icon": "bra",
+            "tags": [
+                "Bra",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "luxe_top_black"
+                },
+                {
+                    "name": "Black Envy",
+                    "code": "luxe_top_black_envy"
+                },
+                {
+                    "name": "Blue",
+                    "code": "luxe_top_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "luxe_top_brown"
+                },
+                {
+                    "name": "Garden Party",
+                    "code": "luxe_top_garden_party"
+                },
+                {
+                    "name": "Green",
+                    "code": "luxe_top_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "luxe_top_grey"
+                },
+                {
+                    "name": "Guns and Roses",
+                    "code": "luxe_top_guns_and_roses"
+                },
+                {
+                    "name": "Heart Ache",
+                    "code": "luxe_top_heart_ache"
+                },
+                {
+                    "name": "Jaded Mystery",
+                    "code": "luxe_top_jaded_mystery"
+                },
+                {
+                    "name": "Peony Party",
+                    "code": "luxe_top_peony_party"
+                },
+                {
+                    "name": "Pink",
+                    "code": "luxe_top_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "luxe_top_purple"
+                },
+                {
+                    "name": "Queen of Hearts",
+                    "code": "luxe_top_queen_of_hearts"
+                },
+                {
+                    "name": "Red",
+                    "code": "luxe_top_red"
+                },
+                {
+                    "name": "Rouge",
+                    "code": "luxe_top_rouge"
+                },
+                {
+                    "name": "Solstice Dreams",
+                    "code": "luxe_top_solstice_dreams"
+                },
+                {
+                    "name": "White",
+                    "code": "luxe_top_white"
+                }
+            ]
+        },
+        {
+            "id": "panties",
+            "label": "Panties",
+            "icon": "panties",
             "tags": [
                 "Body-Hyst-EBBNRB",
                 "Body-Hyst-EBBPRB",
@@ -106,88 +190,6 @@
                 {
                     "name": "White",
                     "code": "luxe_shorts_white"
-                }
-            ]
-        },
-        {
-            "id": "luxe-tops",
-            "label": "Luxe Tops",
-            "tags": [
-                "Bra",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "luxe_top_black"
-                },
-                {
-                    "name": "Black Envy",
-                    "code": "luxe_top_black_envy"
-                },
-                {
-                    "name": "Blue",
-                    "code": "luxe_top_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "luxe_top_brown"
-                },
-                {
-                    "name": "Garden Party",
-                    "code": "luxe_top_garden_party"
-                },
-                {
-                    "name": "Green",
-                    "code": "luxe_top_green"
-                },
-                {
-                    "name": "Grey",
-                    "code": "luxe_top_grey"
-                },
-                {
-                    "name": "Guns and Roses",
-                    "code": "luxe_top_guns_and_roses"
-                },
-                {
-                    "name": "Heart Ache",
-                    "code": "luxe_top_heart_ache"
-                },
-                {
-                    "name": "Jaded Mystery",
-                    "code": "luxe_top_jaded_mystery"
-                },
-                {
-                    "name": "Peony Party",
-                    "code": "luxe_top_peony_party"
-                },
-                {
-                    "name": "Pink",
-                    "code": "luxe_top_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "luxe_top_purple"
-                },
-                {
-                    "name": "Queen of Hearts",
-                    "code": "luxe_top_queen_of_hearts"
-                },
-                {
-                    "name": "Red",
-                    "code": "luxe_top_red"
-                },
-                {
-                    "name": "Rouge",
-                    "code": "luxe_top_rouge"
-                },
-                {
-                    "name": "Solstice Dreams",
-                    "code": "luxe_top_solstice_dreams"
-                },
-                {
-                    "name": "White",
-                    "code": "luxe_top_white"
                 }
             ]
         }
