@@ -25,6 +25,7 @@
         {
             "id": "body-suits",
             "label": "Body Suits",
+            "icon": "bodysuit",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -67,6 +68,7 @@
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Boots",
                 "Feet"
@@ -109,6 +111,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Arms",
                 "Sleeves",
@@ -153,6 +156,7 @@
         {
             "id": "visors",
             "label": "Visors",
+            "icon": "glasses",
             "tags": [
                 "Glasses",
                 "Head"
