@@ -16,6 +16,7 @@
         {
             "id": "glasses",
             "label": "Glasses",
+            "icon": "glasses",
             "tags": [
                 "Glasses",
                 "Head"
@@ -66,6 +67,7 @@
         {
             "id": "lenses",
             "label": "Lenses",
+            "icon": "lenses",
             "tags": [
                 "Glasses",
                 "Head"
@@ -92,6 +94,7 @@
         {
             "id": "toggles",
             "label": "Toggles",
+            "icon": "toggle",
             "tags": [
                 "Toggles"
             ],
