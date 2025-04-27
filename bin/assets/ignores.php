@@ -13,5 +13,6 @@ const IGNORE_MOD_MALE_V_SCREENSHOTS = array(
     'biker-boots',
     'leather-boots',
     'military-boots',
-    'simple-elbow-pads'
+    'simple-elbow-pads',
+    'simple-chain-bracelet'
 );
