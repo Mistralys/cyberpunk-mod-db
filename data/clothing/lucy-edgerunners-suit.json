@@ -23,6 +23,7 @@
         {
             "id": "suits",
             "label": "Suits",
+            "icon": "suit",
             "tags": [
                 "FullBody",
                 "Reflective",
