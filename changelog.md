@@ -16,6 +16,7 @@
 - Mods: `hanako-dress`: Split items into two categories: Dress and Coat.
 - Mods: `evangelion-plugsuits`: Split the suits up for the different characters.
 - Mods: `elegant-dress`: Split the dresses into two categories.
+- Mods: `cyberdeck-collection`: Completely re-categorized for a more logical structure.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
