@@ -20,7 +20,7 @@
         {
             "id": "necklaces",
             "label": "Necklaces",
-            "tags": [],
+            "icon": "necklace",
             "items": [
                 {
                     "name": "Necklace",
