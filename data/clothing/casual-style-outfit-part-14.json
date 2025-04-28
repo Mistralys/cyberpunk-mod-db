@@ -24,6 +24,7 @@
         {
             "id": "jackets-cotton",
             "label": "Jackets - Cotton",
+            "icon": "jacket-cotton",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -66,6 +67,7 @@
         {
             "id": "skirts-cotton",
             "label": "Skirts - Cotton",
+            "icon": "skirt-cotton",
             "tags": [
                 "Legs",
                 "Skirt"
@@ -108,6 +110,7 @@
         {
             "id": "jackets-leather",
             "label": "Jackets - Leather",
+            "icon": "jacket-leather",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -150,6 +153,7 @@
         {
             "id": "skirts-leather",
             "label": "Skirts - Leather",
+            "icon": "skirt-leather",
             "tags": [
                 "Legs",
                 "Skirt"
