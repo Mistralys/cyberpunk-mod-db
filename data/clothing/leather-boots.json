@@ -18,6 +18,7 @@
         {
             "id": "boots",
             "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Boots",
                 "Feet"
