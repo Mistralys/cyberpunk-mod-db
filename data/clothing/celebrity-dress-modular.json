@@ -21,6 +21,7 @@
         {
             "id": "bras",
             "label": "Bras",
+            "icon": "bra",
             "tags": [
                 "Bra",
                 "Torso",
@@ -104,6 +105,7 @@
         {
             "id": "full-dresses",
             "label": "Full Dresses",
+            "icon": "outfit",
             "tags": [
                 "Dress",
                 "FullBody"
@@ -146,6 +148,7 @@
         {
             "id": "rings-left",
             "label": "Rings - Left",
+            "icon": "rings",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -172,6 +175,7 @@
         {
             "id": "rings-right",
             "label": "Rings - Right",
+            "icon": "rings",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -198,8 +202,10 @@
         {
             "id": "skirts",
             "label": "Skirts",
+            "icon": "dress",
             "tags": [
                 "Legs",
+                "Dress",
                 "Skirt"
             ],
             "items": [
