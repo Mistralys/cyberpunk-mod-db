@@ -15,5 +15,6 @@ const IGNORE_MOD_MALE_V_SCREENSHOTS = array(
     'military-boots',
     'simple-elbow-pads',
     'simple-chain-bracelet',
-    'salander-earplugs'
+    'salander-earplugs',
+    'lizzy-wizzy-headset'
 );
