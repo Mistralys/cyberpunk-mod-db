@@ -12,11 +12,12 @@
         "Cosplay"
     ],
     "comments": "The three items are separate downloads.",
-    "searchTweaks": "maverick",
+    "searchTweaks": "maverick suit",
     "itemCategories": [
         {
             "id": "bodysuits",
-            "label": "Body Suits",
+            "label": "Bodysuits",
+            "icon": "bodysuit",
             "tags": [
                 "AutoScale",
                 "Body-Gymfiend",
@@ -66,6 +67,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "AutoScale",
                 "Body-Gymfiend",
@@ -143,6 +145,7 @@
         {
             "id": "necklaces",
             "label": "Necklaces",
+            "icon": "necklace",
             "tags": [
                 "FemV",
                 "Jewelry",
