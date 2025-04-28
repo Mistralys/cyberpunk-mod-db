@@ -22,6 +22,7 @@
         {
             "id": "shorts",
             "label": "Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -56,6 +57,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
