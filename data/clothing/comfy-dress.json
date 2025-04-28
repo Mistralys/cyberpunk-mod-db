@@ -12,6 +12,7 @@
         "Body-Adonis",
         "Body-Atlas",
         "Body-EVB",
+        "Body-Elegy",
         "Body-Flat",
         "Body-Gymfiend",
         "Body-Hyst-Angel",
@@ -20,6 +21,7 @@
         "Body-Hyst-EBBP",
         "Body-Hyst-EBBPRB",
         "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
         "Body-Solo",
         "Body-VTK-Small",
         "Body-Vanilla",
@@ -34,7 +36,7 @@
         {
             "id": "dresses",
             "label": "Dresses",
-            "tags": [],
+            "icon": "dress",
             "items": [
                 {
                     "name": "Chrome Gold",
