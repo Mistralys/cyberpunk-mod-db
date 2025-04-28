@@ -22,9 +22,11 @@
         {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [
                 "Dress",
-                "FullBody"
+                "FullBody",
+                "Reflective"
             ],
             "items": [
                 {
@@ -52,9 +54,11 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
-                "Torso"
+                "Torso",
+                "Reflective"
             ],
             "items": [
                 {
