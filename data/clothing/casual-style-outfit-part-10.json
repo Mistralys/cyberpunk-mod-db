@@ -17,10 +17,11 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "id": "boots",
-            "label": "Boots",
+            "id": "shoes",
+            "label": "Shoes",
+            "icon": "shoes",
             "tags": [
-                "Boots",
+                "Shoes",
                 "Feet"
             ],
             "items": [
@@ -49,6 +50,7 @@
         {
             "id": "bras",
             "label": "Bras",
+            "icon": "bra",
             "tags": [
                 "Bra",
                 "Lingerie",
@@ -81,6 +83,7 @@
         {
             "id": "capes",
             "label": "Capes",
+            "icon": "cape",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -111,6 +114,7 @@
         {
             "id": "chest-shoulder-guards",
             "label": "Chest and shoulder guards",
+            "icon": "shoulder-guard",
             "tags": [
                 "Torso"
             ],
@@ -140,6 +144,7 @@
         {
             "id": "corsets",
             "label": "Corsets",
+            "icon": "corset",
             "tags": [
                 "Corset",
                 "Torso"
@@ -170,6 +175,7 @@
         {
             "id": "gloves-left",
             "label": "Gloves - Left",
+            "icon": "glove-left",
             "tags": [
                 "Arms",
                 "Gloves",
@@ -201,6 +207,7 @@
         {
             "id": "gloves-right",
             "label": "Gloves Right",
+            "icon": "glove-right",
             "tags": [
                 "Arms",
                 "Gloves",
@@ -232,6 +239,7 @@
         {
             "id": "harnesses",
             "label": "Harnesses",
+            "icon": "harness",
             "tags": [
                 "Accessories",
                 "Waist"
@@ -260,8 +268,9 @@
             ]
         },
         {
-            "id": "hats",
+            "id": "masks",
             "label": "Masks",
+            "icon": "mask",
             "tags": [
                 "Head",
                 "Mask"
@@ -290,8 +299,9 @@
             ]
         },
         {
-            "id": "jackets",
-            "label": "Necks",
+            "id": "chokers",
+            "label": "Chokers",
+            "icon": "choker",
             "tags": [
                 "Choker",
                 "Neck"
@@ -320,8 +330,9 @@
             ]
         },
         {
-            "id": "pants",
-            "label": "Pants",
+            "id": "shorts",
+            "label": "Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Pants"
@@ -352,6 +363,7 @@
         {
             "id": "panties",
             "label": "Panties",
+            "icon": "panties",
             "tags": [
                 "Legs",
                 "Panties",
@@ -381,10 +393,11 @@
             ]
         },
         {
-            "id": "shirts",
-            "label": "Shirts",
+            "id": "tops",
+            "label": "Tops",
+            "icon": "top",
             "tags": [
-                "Shirt",
+                "Top",
                 "Torso"
             ],
             "items": [
@@ -413,6 +426,7 @@
         {
             "id": "skirts",
             "label": "Skirts",
+            "icon": "skirt",
             "tags": [
                 "Legs",
                 "Skirt"
@@ -443,6 +457,7 @@
         {
             "id": "stockings",
             "label": "Stockings",
+            "icon": "stockings",
             "tags": [
                 "Legs",
                 "Stockings"
