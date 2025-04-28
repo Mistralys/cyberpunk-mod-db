@@ -18,6 +18,7 @@
         {
             "id": "belts",
             "label": "Belts",
+            "icon": "belt",
             "tags": [
                 "Accessories",
                 "Belt",
@@ -33,6 +34,7 @@
         {
             "id": "collars",
             "label": "Collars",
+            "icon": "collar",
             "tags": [
                 "Accessories",
                 "Choker",
@@ -49,6 +51,7 @@
         {
             "id": "suits",
             "label": "Suits",
+            "icon": "suit",
             "tags": [
                 "Bodysuit",
                 "FullBody"
