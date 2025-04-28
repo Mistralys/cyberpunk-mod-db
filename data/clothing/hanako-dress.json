@@ -16,41 +16,40 @@
     "searchTweaks": "maverick",
     "itemCategories": [
         {
-            "id": "dresses",
-            "label": "Dresses",
-            "tags": [],
+            "id": "coats",
+            "label": "Coats",
+            "icon": "coat",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
             "items": [
                 {
-                    "name": "Black Dress",
-                    "code": "hand_a",
-                    "tags": [
-                        "Dress",
-                        "FullBody"
-                    ]
+                    "name": "Black",
+                    "code": "hanj_a"
                 },
                 {
-                    "name": "Black Jacket",
-                    "code": "hanj_a",
-                    "tags": [
-                        "Jacket",
-                        "Torso"
-                    ]
+                    "name": "White",
+                    "code": "hanj_b"
+                }
+            ]
+        },
+        {
+            "id": "dresses",
+            "label": "Dresses",
+            "icon": "dress",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "hand_a"
                 },
                 {
-                    "name": "White Dress",
-                    "code": "hand_b",
-                    "tags": [
-                        "Dress",
-                        "FullBody"
-                    ]
-                },
-                {
-                    "name": "White Jacket",
-                    "code": "hanj_b",
-                    "tags": [
-                        "Jacket",
-                        "Torso"
-                    ]
+                    "name": "White",
+                    "code": "hand_b"
                 }
             ]
         }
