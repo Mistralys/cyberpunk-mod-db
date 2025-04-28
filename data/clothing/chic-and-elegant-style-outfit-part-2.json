@@ -24,6 +24,7 @@
         {
             "id": "belts",
             "label": "Belts",
+            "icon": "belt",
             "tags": [
                 "Belt",
                 "Waist"
@@ -50,6 +51,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -84,6 +86,7 @@
         {
             "id": "shorts",
             "label": "Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -118,6 +121,7 @@
         {
             "id": "skirts",
             "label": "Skirts",
+            "icon": "skirt",
             "tags": [
                 "Legs",
                 "Skirt"
