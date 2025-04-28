@@ -23,6 +23,7 @@
         {
             "id": "skirts",
             "label": "Skirts",
+            "icon": "skirt",
             "tags": [
                 "Legs",
                 "Skirt"
