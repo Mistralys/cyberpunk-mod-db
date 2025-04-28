@@ -23,6 +23,7 @@
         {
             "id": "decals",
             "label": "Decals",
+            "icon": "decal",
             "tags": [
                 "Accessories",
                 "Decals"
@@ -233,6 +234,7 @@
         {
             "id": "tshirts",
             "label": "T-Shirts",
+            "icon": "tshirt",
             "tags": [
                 "GarmentSupport",
                 "Shirt",
@@ -290,11 +292,12 @@
             ]
         },
         {
-            "id": "tshirts-pockets",
-            "label": "T-Shirts - With Pockets",
+            "id": "pockets",
+            "label": "Pockets",
+            "icon": "pocket",
             "tags": [
                 "GarmentSupport",
-                "Shirt",
+                "Accessories",
                 "Torso"
             ],
             "items": [
