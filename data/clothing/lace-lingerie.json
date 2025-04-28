@@ -14,17 +14,18 @@
         "Clothing",
         "FemV",
         "Lingerie",
-        "Outfit"
+        "Outfit",
+        "Underwear"
     ],
     "searchTweaks": "seven",
     "itemCategories": [
         {
             "id": "lace-panties",
             "label": "Lace Panties",
+            "icon": "panties",
             "tags": [
                 "Legs",
-                "Panties",
-                "Underwear"
+                "Panties"
             ],
             "items": [
                 {
@@ -48,10 +49,10 @@
         {
             "id": "lace-tops",
             "label": "Lace Tops",
+            "icon": "bra",
             "tags": [
                 "Bra",
-                "Torso",
-                "Underwear"
+                "Torso"
             ],
             "items": [
                 {
