@@ -22,8 +22,8 @@
     "itemCategories": [
         {
             "id": "skirts-denim",
-            "label": "Skirts - Denim",
-            "tags": [],
+            "label": "Denim",
+            "icon": "denim",
             "items": [
                 {
                     "name": "Black",
@@ -69,8 +69,8 @@
         },
         {
             "id": "skirts-latex",
-            "label": "Skirts - Latex",
-            "tags": [],
+            "label": "Latex",
+            "icon": "latex",
             "items": [
                 {
                     "name": "Black Pink",
@@ -116,8 +116,8 @@
         },
         {
             "id": "skirts-patterned",
-            "label": "Skirts - Patterned",
-            "tags": [],
+            "label": "Patterned",
+            "icon": "patterned",
             "items": [
                 {
                     "name": "Aliens",
@@ -163,7 +163,8 @@
         },
         {
             "id": "skirts-sequins",
-            "label": "Skirts - Sequins",
+            "label": "Sequins",
+            "icon": "sequins",
             "tags": [
                 "Reflective"
             ],
