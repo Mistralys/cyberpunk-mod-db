@@ -22,11 +22,13 @@
     "linkedMods": [
         "evangelion-misato-outfit"
     ],
-    "searchTweaks": "lion suit",
+    "searchTweaks": "lion suit band",
+    "comments": "Inspired by the anime 'Neon Genesis Evangelion'. NOTE: In my tests, the headbands made the hair disappear.",
     "itemCategories": [
         {
             "id": "headbands",
             "label": "Headbands",
+            "icon": "headband",
             "tags": [
                 "Accessories",
                 "Head"
@@ -52,27 +54,39 @@
         },
         {
             "id": "suits",
-            "label": "Suits",
+            "label": "Suits - Rei Ayanami",
+            "icon": "suit-rei",
             "tags": [
                 "FullBody",
                 "Suit"
             ],
             "items": [
                 {
-                    "name": "Asuka Plugsuit",
-                    "code": "asuka_plugsuit"
-                },
-                {
-                    "name": "Asuka Plugsuit (Metallic)",
-                    "code": "asuka_plugsuit_metallic"
-                },
-                {
-                    "name": "Rei Plugsuit",
+                    "name": "Red",
                     "code": "rei_plugsuit"
                 },
                 {
-                    "name": "Rei Plugsuit (Metallic)",
+                    "name": "Red metallic",
                     "code": "rei_plugsuit_metallic"
+                }
+            ]
+        },
+        {
+            "id": "suits",
+            "label": "Suits - Asuka Langley",
+            "icon": "suit-asuka",
+            "tags": [
+                "FullBody",
+                "Suit"
+            ],
+            "items": [
+                {
+                    "name": "White",
+                    "code": "asuka_plugsuit"
+                },
+                {
+                    "name": "White metallic",
+                    "code": "asuka_plugsuit_metallic"
                 }
             ]
         }
