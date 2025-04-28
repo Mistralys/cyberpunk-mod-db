@@ -21,6 +21,7 @@
         {
             "id": "shoes-leather",
             "label": "Shoes - Leather",
+            "icon": "leather",
             "tags": [],
             "items": [
                 {
@@ -60,6 +61,7 @@
         {
             "id": "shoes-standard",
             "label": "Shoes - Standard",
+            "icon": "default",
             "tags": [],
             "items": [
                 {
@@ -87,6 +89,7 @@
         {
             "id": "shoes-velvet",
             "label": "Shoes - Velvet",
+            "icon": "velvet",
             "tags": [],
             "items": [
                 {
