@@ -18,6 +18,7 @@
         {
             "id": "knuckle-spikes-both-hands",
             "label": "Knuckle Spkies - Both Hands",
+            "icon": "both",
             "tags": [],
             "items": [
                 {
@@ -105,6 +106,7 @@
         {
             "id": "knuckle-spikes-left-hand",
             "label": "Knuckle Spikes - Left Hand",
+            "icon": "left",
             "tags": [],
             "items": [
                 {
@@ -192,6 +194,7 @@
         {
             "id": "knuckle-spikes-right-hand",
             "label": "Knuckle Spikes - Right Hand",
+            "icon": "right",
             "tags": [],
             "items": [
                 {
