@@ -18,10 +18,11 @@
         {
             "id": "skulls",
             "label": "Skulls",
+            "icon": "head",
             "tags": [],
             "items": [
                 {
-                    "name": "Skull",
+                    "name": "Standard",
                     "code": "cyber_skull_mask"
                 }
             ]
