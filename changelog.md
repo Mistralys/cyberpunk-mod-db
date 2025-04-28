@@ -15,6 +15,7 @@
 - Mods: `nanosuit`: Added more item categories to better represent the available variants.
 - Mods: `hanako-dress`: Split items into two categories: Dress and Coat.
 - Mods: `evangelion-plugsuits`: Split the suits up for the different characters.
+- Mods: `elegant-dress`: Split the dresses into two categories.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
