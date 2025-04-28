@@ -29,6 +29,7 @@
         {
             "id": "gloves-left",
             "label": "Gloves - Left",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -59,6 +60,7 @@
         {
             "id": "gloves-right",
             "label": "Gloves - Right",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -89,6 +91,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -119,6 +122,7 @@
         {
             "id": "masks",
             "label": "Masks",
+            "icon": "mask",
             "tags": [
                 "Head",
                 "Mask"
@@ -149,6 +153,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -179,7 +184,9 @@
         {
             "id": "shoes",
             "label": "Shoes",
+            "icon": "boots",
             "tags": [
+                "Boots",
                 "Feet",
                 "Shoes"
             ],
@@ -209,6 +216,7 @@
         {
             "id": "sleeves-left",
             "label": "Sleeves - Left",
+            "icon": "sleeves",
             "tags": [
                 "Arms"
             ],
@@ -238,6 +246,7 @@
         {
             "id": "sleeves-right",
             "label": "Sleeves - Right",
+            "icon": "sleeves",
             "tags": [
                 "Arms"
             ],
@@ -267,6 +276,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
