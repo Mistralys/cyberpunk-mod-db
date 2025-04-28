@@ -20,7 +20,7 @@
         {
             "id": "bracelets-both-arms",
             "label": "Bracelets - Both Arms",
-            "tags": [],
+            "icon": "bracelets",
             "items": [
                 {
                     "name": "Barbie",
@@ -67,7 +67,7 @@
         {
             "id": "bracelets-left-arm",
             "label": "Bracelets - Left Arm",
-            "tags": [],
+            "icon": "bracelets",
             "items": [
                 {
                     "name": "Barbie",
@@ -114,7 +114,7 @@
         {
             "id": "bracelets-right-arm",
             "label": "Bracelets - Right Arm",
-            "tags": [],
+            "icon": "bracelets",
             "items": [
                 {
                     "name": "Barbie",
