@@ -18,6 +18,7 @@
         {
             "id": "knife-holsters",
             "label": "Knife Holsters",
+            "icon": "holster",
             "tags": [],
             "items": [
                 {
