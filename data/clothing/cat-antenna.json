@@ -18,6 +18,7 @@
         {
             "id": "antennae",
             "label": "Antennae",
+            "icon": "antenna",
             "tags": [],
             "items": [
                 {
