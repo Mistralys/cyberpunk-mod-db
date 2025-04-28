@@ -13,6 +13,7 @@
 - Mods: `deus-ex-outfit`: Fixed mis-tagged glasses; Removed superfluous tags.
 - Mods: `spandex-leggings`: Fixed a typo in the mod name.
 - Mods: `nanosuit`: Added more item categories to better represent the available variants.
+- Mods: `hanako-dress`: Split items into two categories: Dress and Coat.
 - Mods: Ongoing item icon additions.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
