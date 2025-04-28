@@ -10,16 +10,18 @@
         "Body-Hyst",
         "Body-Vanilla",
         "Clothing",
-        "FemV"
+        "FemV",
+        "FullBody"
     ],
     "searchTweaks": "ware",
     "itemCategories": [
         {
-            "id": "fashionware-emissive",
-            "label": "Fashionware - Emissive",
+            "id": "emissive",
+            "label": "Emissive",
+            "icon": "emissive",
             "tags": [
-                "Emissive",
-                "FullBody"
+                "Emissive"
+
             ],
             "items": [
                 {
@@ -65,12 +67,12 @@
             ]
         },
         {
-            "id": "fashionware-moving",
-            "label": "Fashionware - Moving",
+            "id": "moving",
+            "label": "Moving",
+            "icon": "moving",
             "tags": [
                 "Animated",
-                "Emissive",
-                "FullBody"
+                "Emissive"
             ],
             "items": [
                 {
@@ -84,12 +86,12 @@
             ]
         },
         {
-            "id": "fashionware-pulse",
-            "label": "Fashionware - Pulse",
+            "id": "pulsating",
+            "label": "Pulsating",
+            "icon": "pulsating",
             "tags": [
                 "Animated",
-                "Emissive",
-                "FullBody"
+                "Emissive"
             ],
             "items": [
                 {
@@ -135,11 +137,9 @@
             ]
         },
         {
-            "id": "fashionware-regular",
-            "label": "Fashionware - Regular",
-            "tags": [
-                "FullBody"
-            ],
+            "id": "regular",
+            "label": "Regular",
+            "icon": "standard",
             "items": [
                 {
                     "name": "Gold",
