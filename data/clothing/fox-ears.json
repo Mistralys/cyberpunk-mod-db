@@ -18,6 +18,7 @@
         {
             "id": "ears-big",
             "label": "Ears - Big",
+            "icon": "big",
             "tags": [
                 "Accessories",
                 "Head"
@@ -60,6 +61,7 @@
         {
             "id": "ears-normal",
             "label": "Ears - Normal",
+            "icon": "regular",
             "tags": [
                 "Accessories",
                 "Head"
@@ -102,6 +104,7 @@
         {
             "id": "ears-small",
             "label": "Ears - Small",
+            "icon": "small",
             "tags": [
                 "Accessories",
                 "Head"
@@ -142,8 +145,9 @@
             ]
         },
         {
-            "id": "tail-big",
-            "label": "Tails - Big",
+            "id": "tails",
+            "label": "Tails",
+            "icon": "tail",
             "tags": [
                 "Accessories",
                 "Legs",
