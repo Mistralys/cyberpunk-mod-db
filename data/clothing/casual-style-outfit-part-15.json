@@ -24,6 +24,7 @@
         {
             "id": "harnesses",
             "label": "Harnesses",
+            "icon": "harness",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -56,11 +57,12 @@
             ]
         },
         {
-            "id": "shoes",
-            "label": "Shoes",
+            "id": "boots",
+            "label": "Boots",
+            "icon": "boots",
             "tags": [
                 "Feet",
-                "Shoes"
+                "Boots"
             ],
             "items": [
                 {
@@ -92,6 +94,7 @@
         {
             "id": "shoulder-ropes",
             "label": "Shoulder Ropes",
+            "icon": "shoulder-rope",
             "tags": [
                 "Accessories",
                 "Torso"
@@ -126,6 +129,7 @@
         {
             "id": "suits",
             "label": "Suits",
+            "icon": "suit",
             "tags": [
                 "FullBody",
                 "Suit"
@@ -164,6 +168,7 @@
         {
             "id": "tactical-belts",
             "label": "Tactical Belts",
+            "icon": "belt",
             "tags": [
                 "Belt",
                 "Waist"
@@ -198,6 +203,7 @@
         {
             "id": "waist-bands",
             "label": "Waist Bands",
+            "icon": "belt-pouch",
             "tags": [
                 "Belt",
                 "Waist"
@@ -232,6 +238,7 @@
         {
             "id": "waist-ropes",
             "label": "Waist Ropes",
+            "icon": "rope-belt",
             "tags": [
                 "Belt",
                 "Waist"
