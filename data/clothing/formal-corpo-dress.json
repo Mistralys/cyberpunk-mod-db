@@ -20,6 +20,7 @@
         {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [],
             "items": [
                 {
@@ -89,6 +90,7 @@
         {
             "id": "mini-dresses",
             "label": "Mini Dresses",
+            "icon": "mini",
             "tags": [],
             "items": [
                 {
