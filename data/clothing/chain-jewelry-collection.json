@@ -21,6 +21,7 @@
         {
             "id": "bracelets-1-left",
             "label": "Bracelets Nr 1 - Left",
+            "icon": "bracelet-1",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -151,6 +152,7 @@
         {
             "id": "bracelets-1-right",
             "label": "Bracelets Nr 1 - Right",
+            "icon": "bracelet-1",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -281,6 +283,7 @@
         {
             "id": "bracelet-2-left",
             "label": "Bracelets Nr 2 - Left",
+            "icon": "bracelet-2",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -411,6 +414,7 @@
         {
             "id": "bracelet-2-right",
             "label": "Bracelets Nr 2 - Right",
+            "icon": "bracelet-2",
             "tags": [
                 "Arms",
                 "Bracelet"
@@ -541,6 +545,7 @@
         {
             "id": "necklaces-1",
             "label": "Necklaces Nr 1",
+            "icon": "necklace-1",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -672,6 +677,7 @@
         {
             "id": "necklaces-2",
             "label": "Necklaces Nr 2",
+            "icon": "necklace-2",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -803,6 +809,7 @@
         {
             "id": "necklaces-3",
             "label": "Necklaces Nr 3",
+            "icon": "necklace-3",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -934,6 +941,7 @@
         {
             "id": "necklaces-4",
             "label": "Necklaces Nr 4",
+            "icon": "necklace-4",
             "tags": [
                 "Neck",
                 "Necklace",
@@ -1065,6 +1073,7 @@
         {
             "id": "necklaces-5",
             "label": "Necklaces Nr 5",
+            "icon": "necklace-5",
             "tags": [
                 "Neck",
                 "Necklace"
@@ -1195,6 +1204,7 @@
         {
             "id": "necklaces-6",
             "label": "Necklaces Nr 6",
+            "icon": "necklace-6",
             "tags": [
                 "Neck",
                 "Necklace"
