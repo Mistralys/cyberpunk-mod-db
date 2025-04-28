@@ -19,15 +19,18 @@
         "Body-Vanilla",
         "Clothing",
         "FemV",
-        "Jacket",
         "MaleV",
+        "Neck",
         "Torso"
     ],
     "itemCategories": [
         {
             "id": "hoodies",
             "label": "Hoodies",
-            "tags": [],
+            "icon": "hoodie",
+            "tags": [
+                "Accessories"
+            ],
             "items": [
                 {
                     "name": "Angel White",
@@ -130,7 +133,10 @@
         {
             "id": "vests",
             "label": "Vests",
-            "tags": [],
+            "icon": "vest",
+            "tags": [
+                "Jacket"
+            ],
             "items": [
                 {
                     "name": "Angel White",
