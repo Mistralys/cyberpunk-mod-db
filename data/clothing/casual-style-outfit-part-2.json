@@ -28,6 +28,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -78,6 +79,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -128,6 +130,7 @@
         {
             "id": "belts-pants",
             "label": "Belts - Pants",
+            "icon": "belt",
             "tags": [
                 "Belt",
                 "Waist"
@@ -178,6 +181,7 @@
         {
             "id": "shoes-glossy",
             "label": "Shoes - Glossy",
+            "icon": "shoes",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -228,6 +232,7 @@
         {
             "id": "shoes-matte",
             "label": "Shoes - Matte",
+            "icon": "shoes-matte",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -278,6 +283,7 @@
         {
             "id": "shorts",
             "label": "Shorts",
+            "icon": "shorts",
             "tags": [
                 "Legs",
                 "Shorts"
@@ -328,6 +334,7 @@
         {
             "id": "belts-shorts",
             "label": "Belts - Shorts",
+            "icon": "belt-small",
             "tags": [
                 "Belt",
                 "Waist"
@@ -378,6 +385,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
