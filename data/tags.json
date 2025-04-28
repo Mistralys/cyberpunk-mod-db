@@ -118,6 +118,25 @@
             }
         ]
     },
+    "Body-Elegy": {
+        "description": "Body with improved proportions, successor to Project Valentine.",
+        "category": "Mods - Body Mods - FemV",
+        "aliases": [
+            "elegy",
+            "elegy-body",
+            "elegybody"
+        ],
+        "links": [
+            {
+                "label": "Nexus",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/19821"
+            },
+            {
+                "label": "Project Valentine",
+                "url": "https://www.nexusmods.com/cyberpunk2077/mods/4256"
+            }
+        ]
+    },
     "Body-Flat": {
         "description": "Flat chested body",
         "category": "Mods - Body Mods - FemV",
