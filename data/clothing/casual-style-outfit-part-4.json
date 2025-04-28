@@ -28,6 +28,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -78,6 +79,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -126,8 +128,9 @@
             ]
         },
         {
-            "id": "jackets-short",
-            "label": "Jackets - Short",
+            "id": "jackets",
+            "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -178,6 +181,7 @@
         {
             "id": "knife-holsters",
             "label": "Knife Holsters",
+            "icon": "knife",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -226,61 +230,12 @@
             ]
         },
         {
-            "id": "pants",
-            "label": "Pants",
-            "tags": [
-                "Legs",
-                "Pants"
-            ],
-            "items": [
-                {
-                    "name": "Army Green",
-                    "code": "veegee_casual_pt4_pants_amygreen_leather"
-                },
-                {
-                    "name": "Beige",
-                    "code": "veegee_casual_pt4_pants_beige_leather"
-                },
-                {
-                    "name": "Black",
-                    "code": "veegee_casual_pt4_pants_black_leather"
-                },
-                {
-                    "name": "Blue",
-                    "code": "veegee_casual_pt4_pants_blue_leather"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegee_casual_pt4_pants_brown_leather"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegee_casual_pt4_pants_pink_leather"
-                },
-                {
-                    "name": "Purple",
-                    "code": "veegee_casual_pt4_pants_purple_leather"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_casual_pt4_pants_red_leather"
-                },
-                {
-                    "name": "White",
-                    "code": "veegee_casual_pt4_pants_white_leather"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "veegee_casual_pt4_pants_yellow_leather"
-                }
-            ]
-        },
-        {
             "id": "shoes",
             "label": "Shoes",
+            "icon": "boots",
             "tags": [
-                "Feet",
-                "Shoes"
+                "Boots",
+                "Feet"
             ],
             "items": [
                 {
@@ -326,8 +281,60 @@
             ]
         },
         {
+            "id": "shorts",
+            "label": "Shorts",
+            "icon": "shorts",
+            "tags": [
+                "Legs",
+                "Shorts"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "veegee_casual_pt4_pants_amygreen_leather"
+                },
+                {
+                    "name": "Beige",
+                    "code": "veegee_casual_pt4_pants_beige_leather"
+                },
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt4_pants_black_leather"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt4_pants_blue_leather"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt4_pants_brown_leather"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt4_pants_pink_leather"
+                },
+                {
+                    "name": "Purple",
+                    "code": "veegee_casual_pt4_pants_purple_leather"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt4_pants_red_leather"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt4_pants_white_leather"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt4_pants_yellow_leather"
+                }
+            ]
+        },
+        {
             "id": "stockings",
             "label": "Stockings",
+            "icon": "stockings",
             "tags": [
                 "Legs",
                 "Stockings"
@@ -354,6 +361,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
