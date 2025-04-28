@@ -9,6 +9,7 @@
     "tags": [
         "Clothing",
         "FemV",
+        "Dress",
         "FullBody",
         "Reflective"
     ],
@@ -17,7 +18,7 @@
         {
             "id": "blouses",
             "label": "Blouses",
-            "tags": [],
+            "icon": "dress",
             "items": [
                 {
                     "name": "Gold",
