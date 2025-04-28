@@ -14,10 +14,12 @@
         "Outfit"
     ],
     "searchTweaks": "alvarez",
+    "comments": "The jacket is very close to the skin. In my tests, very few other tops or bras fit below it.",
     "itemCategories": [
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -58,8 +60,9 @@
             ]
         },
         {
-            "id": "leg-belts-and-dagger",
-            "label": "Leg Belts and Dagger",
+            "id": "dagger-holster",
+            "label": "Dagger Holster",
+            "icon": "knife",
             "tags": [
                 "Accessories",
                 "Legs"
@@ -102,6 +105,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -144,6 +148,7 @@
         {
             "id": "shoes",
             "label": "Shoes",
+            "icon": "shoes",
             "tags": [
                 "Feet",
                 "Shoes"
@@ -186,6 +191,7 @@
         {
             "id": "tops",
             "label": "Tops",
+            "icon": "top",
             "tags": [
                 "Top",
                 "Torso"
