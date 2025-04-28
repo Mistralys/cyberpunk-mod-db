@@ -26,7 +26,7 @@
         {
             "id": "matte-textured-dresses",
             "label": "Matte and Textured Dresses",
-            "tags": [],
+            "icon": "matte-textured",
             "items": [
                 {
                     "name": "Black",
@@ -73,7 +73,7 @@
         {
             "id": "matte-plain-dresses",
             "label": "Matte Plain Dresses",
-            "tags": [],
+            "icon": "matte",
             "items": [
                 {
                     "name": "Black",
@@ -120,7 +120,7 @@
         {
             "id": "shiny-textured-dresses",
             "label": "Shiny and Textured Dresses",
-            "tags": [],
+            "icon": "shiny-textured",
             "items": [
                 {
                     "name": "Black",
@@ -167,7 +167,7 @@
         {
             "id": "shiny-plain-dresses",
             "label": "Shiny Plain Dresses",
-            "tags": [],
+            "icon": "shiny",
             "items": [
                 {
                     "name": "Black",
