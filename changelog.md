@@ -17,7 +17,9 @@
 - Mods: `evangelion-plugsuits`: Split the suits up for the different characters.
 - Mods: `elegant-dress`: Split the dresses into two categories.
 - Mods: `cyberdeck-collection`: Completely re-categorized for a more logical structure.
+- Mods: `comfy-dress`: Updated to v2.0 with new refits.
 - Mods: Ongoing item icon additions.
+- Tags: Added the `Body-Elegy` tag.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
 - Tools: Added the `category` switch to the `cet` command.
