@@ -18,7 +18,8 @@
 - Mods: `elegant-dress`: Split the dresses into two categories.
 - Mods: `cyberdeck-collection`: Completely re-categorized for a more logical structure.
 - Mods: `comfy-dress`: Updated to v2.0 with new refits.
-- Mods: `casual-style-outfit-4`: Tweaked category names to better reflect the items.
+- Mods: `casual-style-outfit-part-4`: Tweaked category names to better reflect the items.
+- Mods: `casual-style-outfit-part-10`: Tweaked category names to better reflect the items.
 - Mods: Ongoing item icon additions.
 - Tags: Added the `Body-Elegy` tag.
 - Tools: Added the `show-messages` command switch to display all collected messages.
