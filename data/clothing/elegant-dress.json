@@ -22,6 +22,7 @@
         {
             "id": "dresses",
             "label": "Dresses",
+            "icon": "dress",
             "tags": [],
             "items": [
                 {
@@ -53,6 +54,22 @@
                     "code": "hyst_elegant_dress_red"
                 },
                 {
+                    "name": "White",
+                    "code": "hyst_elegant_dress_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "hyst_elegant_dress_yellow"
+                }
+            ]
+        },
+        {
+            "id": "dresses-sequins",
+            "label": "Dresses - Sequins",
+            "icon": "sequins",
+            "tags": [],
+            "items": [
+                {
                     "name": "Sequin",
                     "code": "hyst_elegant_dress_sequin"
                 },
@@ -75,14 +92,6 @@
                 {
                     "name": "Sequin Green",
                     "code": "hyst_elegant_dress_sequingreen"
-                },
-                {
-                    "name": "White",
-                    "code": "hyst_elegant_dress_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "hyst_elegant_dress_yellow"
                 }
             ]
         }
