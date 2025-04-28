@@ -20,6 +20,7 @@
         {
             "id": "glasses-black-frames",
             "label": "Glasses - Black Frames",
+            "icon": "black",
             "tags": [],
             "items": [
                 {
@@ -59,6 +60,7 @@
         {
             "id": "glasses-white-frames",
             "label": "Glasses - White Frames",
+            "icon": "white",
             "tags": [],
             "items": [
                 {
@@ -98,6 +100,7 @@
         {
             "id": "glasses-head-black-frames",
             "label": "Glasses - On Head - Black Frames",
+            "icon": "black-head",
             "tags": [],
             "items": [
                 {
@@ -137,6 +140,7 @@
         {
             "id": "glasses-head-white-frames",
             "label": "Glasses - On Head - White Frames",
+            "icon": "white-head",
             "tags": [],
             "items": [
                 {
