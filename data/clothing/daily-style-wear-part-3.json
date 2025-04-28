@@ -21,7 +21,7 @@
         {
             "id": "vests-plunging-neckline",
             "label": "Vests - Plunging Neckline",
-            "tags": [],
+            "icon": "plunging",
             "items": [
                 {
                     "name": "Black",
@@ -60,7 +60,7 @@
         {
             "id": "vests-v-neckline",
             "label": "Vests - V-Neckline",
-            "tags": [],
+            "icon": "vneck",
             "items": [
                 {
                     "name": "Black",
