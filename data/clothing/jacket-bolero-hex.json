@@ -23,6 +23,7 @@
         {
             "id": "jackets",
             "label": "Jackets",
+            "icon": "jacket",
             "tags": [],
             "items": [
                 {
