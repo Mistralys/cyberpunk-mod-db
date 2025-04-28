@@ -19,6 +19,7 @@
         {
             "id": "bracelets",
             "label": "Bracelets",
+            "icon": "bracelet",
             "tags": [],
             "items": [
                 {
