@@ -232,72 +232,12 @@
             ]
         },
         {
-            "id": "tshirts",
-            "label": "T-Shirts",
-            "icon": "tshirt",
-            "tags": [
-                "GarmentSupport",
-                "Shirt",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "yv_casual_tshirt_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "yv_casual_tshirt_blue"
-                },
-                {
-                    "name": "Dots",
-                    "code": "yv_casual_tshirt_dots"
-                },
-                {
-                    "name": "Green",
-                    "code": "yv_casual_tshirt_green"
-                },
-                {
-                    "name": "Grey",
-                    "code": "yv_casual_tshirt_grey"
-                },
-                {
-                    "name": "Purple",
-                    "code": "yv_casual_tshirt_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "yv_casual_tshirt_red"
-                },
-                {
-                    "name": "Shiny",
-                    "code": "yv_casual_tshirt_shiny"
-                },
-                {
-                    "name": "Sky",
-                    "code": "yv_casual_tshirt_sky"
-                },
-                {
-                    "name": "Stripes",
-                    "code": "yv_casual_tshirt_stripes"
-                },
-                {
-                    "name": "White",
-                    "code": "yv_casual_tshirt_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "yv_casual_tshirt_yellow"
-                }
-            ]
-        },
-        {
             "id": "pockets",
             "label": "Pockets",
             "icon": "pocket",
             "tags": [
-                "GarmentSupport",
                 "Accessories",
+                "GarmentSupport",
                 "Torso"
             ],
             "items": [
@@ -372,6 +312,66 @@
                 {
                     "name": "Yellow",
                     "code": "yv_casual_tshirt_pocket_yellow"
+                }
+            ]
+        },
+        {
+            "id": "tshirts",
+            "label": "T-Shirts",
+            "icon": "tshirt",
+            "tags": [
+                "GarmentSupport",
+                "Shirt",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_casual_tshirt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "yv_casual_tshirt_blue"
+                },
+                {
+                    "name": "Dots",
+                    "code": "yv_casual_tshirt_dots"
+                },
+                {
+                    "name": "Green",
+                    "code": "yv_casual_tshirt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "yv_casual_tshirt_grey"
+                },
+                {
+                    "name": "Purple",
+                    "code": "yv_casual_tshirt_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "yv_casual_tshirt_red"
+                },
+                {
+                    "name": "Shiny",
+                    "code": "yv_casual_tshirt_shiny"
+                },
+                {
+                    "name": "Sky",
+                    "code": "yv_casual_tshirt_sky"
+                },
+                {
+                    "name": "Stripes",
+                    "code": "yv_casual_tshirt_stripes"
+                },
+                {
+                    "name": "White",
+                    "code": "yv_casual_tshirt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "yv_casual_tshirt_yellow"
                 }
             ]
         }

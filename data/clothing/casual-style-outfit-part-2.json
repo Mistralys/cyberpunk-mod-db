@@ -26,6 +26,108 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
+            "id": "belts-pants",
+            "label": "Belts - Pants",
+            "icon": "belt",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_pants_full_belt_yellow"
+                }
+            ]
+        },
+        {
+            "id": "belts-shorts",
+            "label": "Belts - Shorts",
+            "icon": "belt-small",
+            "tags": [
+                "Belt",
+                "Waist"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegeexdave_casual_p2_pants_belt_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegeexdave_casual_p2_pants_belt_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegeexdave_casual_p2_pants_belt_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegeexdave_casual_p2_pants_belt_green"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegeexdave_casual_p2_pants_belt_grey"
+                },
+                {
+                    "name": "OG",
+                    "code": "veegeexdave_casual_p2_pants_belt_og"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegeexdave_casual_p2_pants_belt_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegeexdave_casual_p2_pants_belt_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegeexdave_casual_p2_pants_belt_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegeexdave_casual_p2_pants_belt_yellow"
+                }
+            ]
+        },
+        {
             "id": "jackets",
             "label": "Jackets",
             "icon": "jacket",
@@ -124,57 +226,6 @@
                 {
                     "name": "Yellow",
                     "code": "veegeexdave_casual_p2_pants_full_yellow"
-                }
-            ]
-        },
-        {
-            "id": "belts-pants",
-            "label": "Belts - Pants",
-            "icon": "belt",
-            "tags": [
-                "Belt",
-                "Waist"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_brown"
-                },
-                {
-                    "name": "Green",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_green"
-                },
-                {
-                    "name": "Grey",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_grey"
-                },
-                {
-                    "name": "OG",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_og"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_pink"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_red"
-                },
-                {
-                    "name": "White",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "veegeexdave_casual_p2_pants_full_belt_yellow"
                 }
             ]
         },
@@ -328,57 +379,6 @@
                 {
                     "name": "Yellow",
                     "code": "veegeexdave_casual_p2_pants_yellow"
-                }
-            ]
-        },
-        {
-            "id": "belts-shorts",
-            "label": "Belts - Shorts",
-            "icon": "belt-small",
-            "tags": [
-                "Belt",
-                "Waist"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "veegeexdave_casual_p2_pants_belt_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "veegeexdave_casual_p2_pants_belt_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegeexdave_casual_p2_pants_belt_brown"
-                },
-                {
-                    "name": "Green",
-                    "code": "veegeexdave_casual_p2_pants_belt_green"
-                },
-                {
-                    "name": "Grey",
-                    "code": "veegeexdave_casual_p2_pants_belt_grey"
-                },
-                {
-                    "name": "OG",
-                    "code": "veegeexdave_casual_p2_pants_belt_og"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegeexdave_casual_p2_pants_belt_pink"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegeexdave_casual_p2_pants_belt_red"
-                },
-                {
-                    "name": "White",
-                    "code": "veegeexdave_casual_p2_pants_belt_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "veegeexdave_casual_p2_pants_belt_yellow"
                 }
             ]
         },

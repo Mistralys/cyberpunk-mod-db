@@ -571,97 +571,6 @@
             ]
         },
         {
-            "id": "knee-pads-left",
-            "label": "Para Knee Pads - Left",
-            "icon": "knee-pad",
-            "tags": [
-                "Accessories",
-                "Legs"
-            ],
-            "items": [
-                {
-                    "name": "Alpine",
-                    "code": "scorpion_armor_pads_para_knee_l_alpine_alpine_alpine"
-                },
-                {
-                    "name": "Arctic",
-                    "code": "scorpion_armor_pads_para_knee_l_arctic_arctic_arctic"
-                },
-                {
-                    "name": "Arid",
-                    "code": "scorpion_armor_pads_para_knee_l_arid_arid_arid"
-                },
-                {
-                    "name": "Barghest",
-                    "code": "scorpion_armor_pads_para_knee_l_barghest_barghest_barghest"
-                },
-                {
-                    "name": "Black",
-                    "code": "scorpion_armor_pads_para_knee_l_black_black_black"
-                },
-                {
-                    "name": "Desert",
-                    "code": "scorpion_armor_pads_para_knee_l_desert_desert_desert"
-                },
-                {
-                    "name": "Digital",
-                    "code": "scorpion_armor_pads_para_knee_l_digital_digital_digital"
-                },
-                {
-                    "name": "Enforcer",
-                    "code": "scorpion_armor_pads_para_knee_l_enforcer_enforcer_enforcer"
-                },
-                {
-                    "name": "Kangtao",
-                    "code": "scorpion_armor_pads_para_knee_l_kangtao_kangtao_kangtao"
-                },
-                {
-                    "name": "Lazarus",
-                    "code": "scorpion_armor_pads_para_knee_l_lazarus_lazarus_lazarus"
-                },
-                {
-                    "name": "Militech",
-                    "code": "scorpion_armor_pads_para_knee_l_militech_militech_militech"
-                },
-                {
-                    "name": "Nightops",
-                    "code": "scorpion_armor_pads_para_knee_l_nightops_nightops_nightops"
-                },
-                {
-                    "name": "Sand",
-                    "code": "scorpion_armor_pads_para_knee_l_sand_sand_sand"
-                },
-                {
-                    "name": "Specops",
-                    "code": "scorpion_armor_pads_para_knee_l_specops_specops_specops"
-                },
-                {
-                    "name": "Tan",
-                    "code": "scorpion_armor_pads_para_knee_l_tan_tan_tan"
-                },
-                {
-                    "name": "Trauma",
-                    "code": "scorpion_armor_pads_para_knee_l_trauma_trauma_trauma"
-                },
-                {
-                    "name": "Urban",
-                    "code": "scorpion_armor_pads_para_knee_l_urban_urban_urban"
-                },
-                {
-                    "name": "Void",
-                    "code": "scorpion_armor_pads_para_knee_l_void_void_void"
-                },
-                {
-                    "name": "White",
-                    "code": "scorpion_armor_pads_para_knee_l_white_white_white"
-                },
-                {
-                    "name": "Zealot",
-                    "code": "scorpion_armor_pads_para_knee_l_zealot_zealot_zealot"
-                }
-            ]
-        },
-        {
             "id": "knee-pads-right",
             "label": "Para Knee Pad - Right",
             "icon": "knee-pad",
@@ -749,6 +658,97 @@
                 {
                     "name": "Zealot",
                     "code": "scorpion_armor_pads_para_knee_r_zealot_zealot_zealot"
+                }
+            ]
+        },
+        {
+            "id": "knee-pads-left",
+            "label": "Para Knee Pads - Left",
+            "icon": "knee-pad",
+            "tags": [
+                "Accessories",
+                "Legs"
+            ],
+            "items": [
+                {
+                    "name": "Alpine",
+                    "code": "scorpion_armor_pads_para_knee_l_alpine_alpine_alpine"
+                },
+                {
+                    "name": "Arctic",
+                    "code": "scorpion_armor_pads_para_knee_l_arctic_arctic_arctic"
+                },
+                {
+                    "name": "Arid",
+                    "code": "scorpion_armor_pads_para_knee_l_arid_arid_arid"
+                },
+                {
+                    "name": "Barghest",
+                    "code": "scorpion_armor_pads_para_knee_l_barghest_barghest_barghest"
+                },
+                {
+                    "name": "Black",
+                    "code": "scorpion_armor_pads_para_knee_l_black_black_black"
+                },
+                {
+                    "name": "Desert",
+                    "code": "scorpion_armor_pads_para_knee_l_desert_desert_desert"
+                },
+                {
+                    "name": "Digital",
+                    "code": "scorpion_armor_pads_para_knee_l_digital_digital_digital"
+                },
+                {
+                    "name": "Enforcer",
+                    "code": "scorpion_armor_pads_para_knee_l_enforcer_enforcer_enforcer"
+                },
+                {
+                    "name": "Kangtao",
+                    "code": "scorpion_armor_pads_para_knee_l_kangtao_kangtao_kangtao"
+                },
+                {
+                    "name": "Lazarus",
+                    "code": "scorpion_armor_pads_para_knee_l_lazarus_lazarus_lazarus"
+                },
+                {
+                    "name": "Militech",
+                    "code": "scorpion_armor_pads_para_knee_l_militech_militech_militech"
+                },
+                {
+                    "name": "Nightops",
+                    "code": "scorpion_armor_pads_para_knee_l_nightops_nightops_nightops"
+                },
+                {
+                    "name": "Sand",
+                    "code": "scorpion_armor_pads_para_knee_l_sand_sand_sand"
+                },
+                {
+                    "name": "Specops",
+                    "code": "scorpion_armor_pads_para_knee_l_specops_specops_specops"
+                },
+                {
+                    "name": "Tan",
+                    "code": "scorpion_armor_pads_para_knee_l_tan_tan_tan"
+                },
+                {
+                    "name": "Trauma",
+                    "code": "scorpion_armor_pads_para_knee_l_trauma_trauma_trauma"
+                },
+                {
+                    "name": "Urban",
+                    "code": "scorpion_armor_pads_para_knee_l_urban_urban_urban"
+                },
+                {
+                    "name": "Void",
+                    "code": "scorpion_armor_pads_para_knee_l_void_void_void"
+                },
+                {
+                    "name": "White",
+                    "code": "scorpion_armor_pads_para_knee_l_white_white_white"
+                },
+                {
+                    "name": "Zealot",
+                    "code": "scorpion_armor_pads_para_knee_l_zealot_zealot_zealot"
                 }
             ]
         },

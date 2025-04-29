@@ -8,8 +8,8 @@
     ],
     "tags": [
         "Clothing",
-        "FemV",
         "Dress",
+        "FemV",
         "FullBody",
         "Reflective"
     ],
@@ -28,7 +28,8 @@
                     "name": "Silver",
                     "code": "PinkyDude_ChromedLongBlouse_Silver"
                 }
-            ]
+            ],
+            "tags": []
         }
     ]
 }

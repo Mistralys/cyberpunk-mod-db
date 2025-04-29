@@ -65,7 +65,8 @@
                     "name": "Yellow",
                     "code": "breezy_chic_skirt_denimyellow"
                 }
-            ]
+            ],
+            "tags": []
         },
         {
             "id": "skirts-latex",
@@ -112,7 +113,8 @@
                     "name": "Tan Brown",
                     "code": "breezy_chic_skirt_latextanbrown"
                 }
-            ]
+            ],
+            "tags": []
         },
         {
             "id": "skirts-patterned",
@@ -159,7 +161,8 @@
                     "name": "Wisps",
                     "code": "breezy_chic_skirt_patternwisps"
                 }
-            ]
+            ],
+            "tags": []
         },
         {
             "id": "skirts-sequins",

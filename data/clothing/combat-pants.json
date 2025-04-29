@@ -15,8 +15,8 @@
         "FemV",
         "MaleV"
     ],
-    "searchTweaks": "alvarez",
     "comments": "The refits and Male V versions are separate downloads. The Male V and Fem V versions are mutually exclusive.",
+    "searchTweaks": "alvarez",
     "itemCategories": [
         {
             "id": "pants",

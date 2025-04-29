@@ -128,6 +128,57 @@
             ]
         },
         {
+            "id": "shoes",
+            "label": "Boots",
+            "icon": "boots",
+            "tags": [
+                "Feet",
+                "Shoes"
+            ],
+            "items": [
+                {
+                    "name": "Army Green",
+                    "code": "davexveegee_assassin_pt2_shoes_amygreen"
+                },
+                {
+                    "name": "Beige",
+                    "code": "davexveegee_assassin_pt2_shoes_beige"
+                },
+                {
+                    "name": "Black",
+                    "code": "davexveegee_assassin_pt2_shoes_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "davexveegee_assassin_pt2_shoes_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "davexveegee_assassin_pt2_shoes_brown"
+                },
+                {
+                    "name": "Pink",
+                    "code": "davexveegee_assassin_pt2_shoes_pink"
+                },
+                {
+                    "name": "Purple",
+                    "code": "davexveegee_assassin_pt2_shoes_purple"
+                },
+                {
+                    "name": "Red",
+                    "code": "davexveegee_assassin_pt2_shoes_red"
+                },
+                {
+                    "name": "White",
+                    "code": "davexveegee_assassin_pt2_shoes_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "davexveegee_assassin_pt2_shoes_yellow"
+                }
+            ]
+        },
+        {
             "id": "bras",
             "label": "Bras",
             "icon": "bras",
@@ -432,57 +483,6 @@
                 {
                     "name": "Yellow",
                     "code": "davexveegee_assassin_pt2_chest_vest_yellow"
-                }
-            ]
-        },
-        {
-            "id": "shoes",
-            "label": "Boots",
-            "icon": "boots",
-            "tags": [
-                "Feet",
-                "Shoes"
-            ],
-            "items": [
-                {
-                    "name": "Army Green",
-                    "code": "davexveegee_assassin_pt2_shoes_amygreen"
-                },
-                {
-                    "name": "Beige",
-                    "code": "davexveegee_assassin_pt2_shoes_beige"
-                },
-                {
-                    "name": "Black",
-                    "code": "davexveegee_assassin_pt2_shoes_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "davexveegee_assassin_pt2_shoes_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "davexveegee_assassin_pt2_shoes_brown"
-                },
-                {
-                    "name": "Pink",
-                    "code": "davexveegee_assassin_pt2_shoes_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "davexveegee_assassin_pt2_shoes_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "davexveegee_assassin_pt2_shoes_red"
-                },
-                {
-                    "name": "White",
-                    "code": "davexveegee_assassin_pt2_shoes_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "davexveegee_assassin_pt2_shoes_yellow"
                 }
             ]
         },

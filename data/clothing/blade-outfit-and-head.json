@@ -35,25 +35,6 @@
             ]
         },
         {
-            "id": "coats-vest",
-            "label": "Coats - With vest",
-            "icon": "coat-vest",
-            "tags": [
-                "Coat",
-                "FullBody"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "tq_blade_long_jacket_black"
-                },
-                {
-                    "name": "Grey and Red",
-                    "code": "tq_blade_long_jacket"
-                }
-            ]
-        },
-        {
             "id": "coats-no-vest",
             "label": "Coats - No Vest",
             "icon": "coat-no-vest",
@@ -69,6 +50,25 @@
                 {
                     "name": "Grey and Red",
                     "code": "tq_blade_long_jacket_no_vest"
+                }
+            ]
+        },
+        {
+            "id": "coats-vest",
+            "label": "Coats - With vest",
+            "icon": "coat-vest",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "tq_blade_long_jacket_black"
+                },
+                {
+                    "name": "Grey and Red",
+                    "code": "tq_blade_long_jacket"
                 }
             ]
         },

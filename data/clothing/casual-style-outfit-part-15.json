@@ -22,6 +22,41 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
+            "id": "boots",
+            "label": "Boots",
+            "icon": "boots",
+            "tags": [
+                "Boots",
+                "Feet"
+            ],
+            "items": [
+                {
+                    "name": "Color 1",
+                    "code": "veegee_casual_pt15_shoes_color1"
+                },
+                {
+                    "name": "Color 2",
+                    "code": "veegee_casual_pt15_shoes_color2"
+                },
+                {
+                    "name": "Color 3",
+                    "code": "veegee_casual_pt15_shoes_color3"
+                },
+                {
+                    "name": "Color 4",
+                    "code": "veegee_casual_pt15_shoes_color4"
+                },
+                {
+                    "name": "Color 5",
+                    "code": "veegee_casual_pt15_shoes_color5"
+                },
+                {
+                    "name": "Color 6",
+                    "code": "veegee_casual_pt15_shoes_color6"
+                }
+            ]
+        },
+        {
             "id": "harnesses",
             "label": "Harnesses",
             "icon": "harness",
@@ -53,41 +88,6 @@
                 {
                     "name": "Color 6",
                     "code": "veegee_casual_pt15_harness_color6"
-                }
-            ]
-        },
-        {
-            "id": "boots",
-            "label": "Boots",
-            "icon": "boots",
-            "tags": [
-                "Feet",
-                "Boots"
-            ],
-            "items": [
-                {
-                    "name": "Color 1",
-                    "code": "veegee_casual_pt15_shoes_color1"
-                },
-                {
-                    "name": "Color 2",
-                    "code": "veegee_casual_pt15_shoes_color2"
-                },
-                {
-                    "name": "Color 3",
-                    "code": "veegee_casual_pt15_shoes_color3"
-                },
-                {
-                    "name": "Color 4",
-                    "code": "veegee_casual_pt15_shoes_color4"
-                },
-                {
-                    "name": "Color 5",
-                    "code": "veegee_casual_pt15_shoes_color5"
-                },
-                {
-                    "name": "Color 6",
-                    "code": "veegee_casual_pt15_shoes_color6"
                 }
             ]
         },

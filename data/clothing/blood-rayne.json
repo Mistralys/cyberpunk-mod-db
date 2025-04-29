@@ -32,21 +32,6 @@
             ]
         },
         {
-            "id": "dresses",
-            "label": "Dresses",
-            "icon": "robe",
-            "tags": [
-                "Dress",
-                "FullBody"
-            ],
-            "items": [
-                {
-                    "name": "Dress",
-                    "code": "rayne_dress"
-                }
-            ]
-        },
-        {
             "id": "dress-boots",
             "label": "Dress Boots",
             "icon": "boots",
@@ -58,6 +43,21 @@
                 {
                     "name": "Dress Boots",
                     "code": "rayne_dress_boots"
+                }
+            ]
+        },
+        {
+            "id": "dresses",
+            "label": "Dresses",
+            "icon": "robe",
+            "tags": [
+                "Dress",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Dress",
+                    "code": "rayne_dress"
                 }
             ]
         },

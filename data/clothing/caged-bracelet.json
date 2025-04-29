@@ -62,7 +62,8 @@
                     "name": "Silver",
                     "code": "breezy_caged_bracelet_both_silver"
                 }
-            ]
+            ],
+            "tags": []
         },
         {
             "id": "bracelets-left-arm",
@@ -109,7 +110,8 @@
                     "name": "Silver",
                     "code": "breezy_caged_bracelet_left_silver"
                 }
-            ]
+            ],
+            "tags": []
         },
         {
             "id": "bracelets-right-arm",
@@ -156,7 +158,8 @@
                     "name": "Silver",
                     "code": "breezy_caged_bracelet_right_silver"
                 }
-            ]
+            ],
+            "tags": []
         }
     ]
 }

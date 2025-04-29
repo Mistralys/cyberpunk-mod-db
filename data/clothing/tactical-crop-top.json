@@ -19,99 +19,6 @@
     "searchTweaks": "shield",
     "itemCategories": [
         {
-            "id": "tops-straps",
-            "label": "Tops - Straps",
-            "icon": "straps",
-            "tags": [
-                "Skimpy"
-            ],
-            "items": [
-                {
-                    "name": "BBCorps",
-                    "code": "Adshield_Tac_Crop_Top_BBCorps_LL_BDSM"
-                },
-                {
-                    "name": "Black",
-                    "code": "Adshield_Tac_Crop_Top_Black_Le_BDSM"
-                },
-                {
-                    "name": "Black",
-                    "code": "Adshield_Tac_Crop_Top_Black_LL_BDSM"
-                },
-                {
-                    "name": "Black Blue",
-                    "code": "Adshield_Tac_Crop_Top_BlackBlue_FL_BDSM"
-                },
-                {
-                    "name": "Black Gold",
-                    "code": "Adshield_Tac_Crop_Top_BlackGold_FL_BDSM"
-                },
-                {
-                    "name": "Black Green",
-                    "code": "Adshield_Tac_Crop_Top_BlackGreen_FL_BDSM"
-                },
-                {
-                    "name": "Black Grey",
-                    "code": "Adshield_Tac_Crop_Top_BlackGrey_FL_BDSM"
-                },
-                {
-                    "name": "Black Pink",
-                    "code": "Adshield_Tac_Crop_Top_BlackPink_FL_BDSM"
-                },
-                {
-                    "name": "Black Red",
-                    "code": "Adshield_Tac_Crop_Top_BlackRed_FL_BDSM"
-                },
-                {
-                    "name": "Black Yellow",
-                    "code": "Adshield_Tac_Crop_Top_BlackYellow_FL_BDSM"
-                },
-                {
-                    "name": "DIY",
-                    "code": "Adshield_Tac_Crop_Top_DIY_BDSM",
-                    "tags": [
-                        "DIY"
-                    ]
-                },
-                {
-                    "name": "Militech",
-                    "code": "Adshield_Tac_Crop_Top_Militech_FF_BDSM"
-                },
-                {
-                    "name": "Olive",
-                    "code": "Adshield_Tac_Crop_Top_Olive_FF_BDSM"
-                },
-                {
-                    "name": "Orange Black",
-                    "code": "Adshield_Tac_Crop_Top_OrangeBlack_FL_BDSM"
-                },
-                {
-                    "name": "Pink Black",
-                    "code": "Adshield_Tac_Crop_Top_PinkBlack_FL_BDSM"
-                },
-                {
-                    "name": "Red",
-                    "code": "Adshield_Tac_Crop_Top_Red_LL_BDSM"
-                },
-                {
-                    "name": "Red Black",
-                    "code": "Adshield_Tac_Crop_Top_RedBlack_FL_BDSM"
-                },
-                {
-                    "name": "Tan",
-                    "code": "Adshield_Tac_Crop_Top_Tan_FF_BDSM"
-                },
-                {
-                    "name": "White",
-                    "code": "Adshield_Tac_Crop_Top_White_LL_BDSM"
-                },
-                {
-                    "name": "Yellow Black",
-                    "code": "Adshield_Tac_Crop_Top_YellowBlack_FL_BDSM"
-                }
-            ]
-        },
-        {
             "id": "tops-braless",
             "label": "Tops - Braless",
             "icon": "braless",
@@ -292,6 +199,99 @@
                 {
                     "name": "Yellow Black",
                     "code": "Adshield_Tac_Crop_Top_YellowBlack_FL"
+                }
+            ]
+        },
+        {
+            "id": "tops-straps",
+            "label": "Tops - Straps",
+            "icon": "straps",
+            "tags": [
+                "Skimpy"
+            ],
+            "items": [
+                {
+                    "name": "BBCorps",
+                    "code": "Adshield_Tac_Crop_Top_BBCorps_LL_BDSM"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_Le_BDSM"
+                },
+                {
+                    "name": "Black",
+                    "code": "Adshield_Tac_Crop_Top_Black_LL_BDSM"
+                },
+                {
+                    "name": "Black Blue",
+                    "code": "Adshield_Tac_Crop_Top_BlackBlue_FL_BDSM"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "Adshield_Tac_Crop_Top_BlackGold_FL_BDSM"
+                },
+                {
+                    "name": "Black Green",
+                    "code": "Adshield_Tac_Crop_Top_BlackGreen_FL_BDSM"
+                },
+                {
+                    "name": "Black Grey",
+                    "code": "Adshield_Tac_Crop_Top_BlackGrey_FL_BDSM"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "Adshield_Tac_Crop_Top_BlackPink_FL_BDSM"
+                },
+                {
+                    "name": "Black Red",
+                    "code": "Adshield_Tac_Crop_Top_BlackRed_FL_BDSM"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "Adshield_Tac_Crop_Top_BlackYellow_FL_BDSM"
+                },
+                {
+                    "name": "DIY",
+                    "code": "Adshield_Tac_Crop_Top_DIY_BDSM",
+                    "tags": [
+                        "DIY"
+                    ]
+                },
+                {
+                    "name": "Militech",
+                    "code": "Adshield_Tac_Crop_Top_Militech_FF_BDSM"
+                },
+                {
+                    "name": "Olive",
+                    "code": "Adshield_Tac_Crop_Top_Olive_FF_BDSM"
+                },
+                {
+                    "name": "Orange Black",
+                    "code": "Adshield_Tac_Crop_Top_OrangeBlack_FL_BDSM"
+                },
+                {
+                    "name": "Pink Black",
+                    "code": "Adshield_Tac_Crop_Top_PinkBlack_FL_BDSM"
+                },
+                {
+                    "name": "Red",
+                    "code": "Adshield_Tac_Crop_Top_Red_LL_BDSM"
+                },
+                {
+                    "name": "Red Black",
+                    "code": "Adshield_Tac_Crop_Top_RedBlack_FL_BDSM"
+                },
+                {
+                    "name": "Tan",
+                    "code": "Adshield_Tac_Crop_Top_Tan_FF_BDSM"
+                },
+                {
+                    "name": "White",
+                    "code": "Adshield_Tac_Crop_Top_White_LL_BDSM"
+                },
+                {
+                    "name": "Yellow Black",
+                    "code": "Adshield_Tac_Crop_Top_YellowBlack_FL_BDSM"
                 }
             ]
         }

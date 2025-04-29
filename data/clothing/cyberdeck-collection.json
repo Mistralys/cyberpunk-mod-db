@@ -14,8 +14,8 @@
         "Body-Hyst-RB",
         "Body-Vanilla"
     ],
-    "searchTweaks": "deck shield",
     "comments": "All cyberdecks come with a tight and a wide leg strap to match your outfit.",
+    "searchTweaks": "deck shield",
     "itemCategories": [
         {
             "id": "alt-large-stickers",

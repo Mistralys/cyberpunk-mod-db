@@ -58,46 +58,6 @@
             ]
         },
         {
-            "id": "glasses-white-frames",
-            "label": "Glasses - White Frames",
-            "icon": "white",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Clear",
-                    "code": "bby_casino_aviators_face_clear_white"
-                },
-                {
-                    "name": "Dark Red",
-                    "code": "bby_casino_aviators_face_darkred_white"
-                },
-                {
-                    "name": "Dark Tint",
-                    "code": "bby_casino_aviators_face_darktint_white"
-                },
-                {
-                    "name": "Light Tint",
-                    "code": "bby_casino_aviators_face_lighttint_white"
-                },
-                {
-                    "name": "Mirrored",
-                    "code": "bby_casino_aviators_face_mirrored_white"
-                },
-                {
-                    "name": "Orange",
-                    "code": "bby_casino_aviators_face_orange_white"
-                },
-                {
-                    "name": "Sepia",
-                    "code": "bby_casino_aviators_face_sepia_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "bby_casino_aviators_face_yellow_white"
-                }
-            ]
-        },
-        {
             "id": "glasses-head-black-frames",
             "label": "Glasses - On Head - Black Frames",
             "icon": "black-head",
@@ -174,6 +134,46 @@
                 {
                     "name": "Yellow",
                     "code": "bby_casino_aviators_head_yellow_white"
+                }
+            ]
+        },
+        {
+            "id": "glasses-white-frames",
+            "label": "Glasses - White Frames",
+            "icon": "white",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Clear",
+                    "code": "bby_casino_aviators_face_clear_white"
+                },
+                {
+                    "name": "Dark Red",
+                    "code": "bby_casino_aviators_face_darkred_white"
+                },
+                {
+                    "name": "Dark Tint",
+                    "code": "bby_casino_aviators_face_darktint_white"
+                },
+                {
+                    "name": "Light Tint",
+                    "code": "bby_casino_aviators_face_lighttint_white"
+                },
+                {
+                    "name": "Mirrored",
+                    "code": "bby_casino_aviators_face_mirrored_white"
+                },
+                {
+                    "name": "Orange",
+                    "code": "bby_casino_aviators_face_orange_white"
+                },
+                {
+                    "name": "Sepia",
+                    "code": "bby_casino_aviators_face_sepia_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "bby_casino_aviators_face_yellow_white"
                 }
             ]
         }

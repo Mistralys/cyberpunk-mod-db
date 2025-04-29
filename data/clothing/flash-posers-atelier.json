@@ -16,65 +16,6 @@
     ],
     "itemCategories": [
         {
-            "id": "combat-jackets",
-            "label": "Jackets - Standard",
-            "icon": "jacket",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black, Shiny",
-                    "code": "jerinski_xl_combat_shirt_black_c_blackshiny"
-                },
-                {
-                    "name": "Black Coral",
-                    "code": "jerinski_xl_combat_shirt_black_coral_c_black"
-                },
-                {
-                    "name": "Black Gold",
-                    "code": "jerinski_xl_combat_shirt_black_gold_c_blackshiny"
-                },
-                {
-                    "name": "Black Pink",
-                    "code": "jerinski_xl_combat_shirt_black_pink_c_pink"
-                },
-                {
-                    "name": "Black Purple",
-                    "code": "jerinski_xl_combat_shirt_black_purple_c_blackshiny"
-                },
-                {
-                    "name": "Black Yellow",
-                    "code": "jerinski_xl_combat_shirt_black_yellow_c_black"
-                },
-                {
-                    "name": "Grey Red",
-                    "code": "jerinski_xl_combat_shirt_grey_red_c_grey"
-                },
-                {
-                    "name": "Maxtac",
-                    "code": "jerinski_xl_combat_shirt_maxtac_c_blackmatte"
-                },
-                {
-                    "name": "Olive",
-                    "code": "jerinski_xl_combat_shirt_olive_clean_c_olive"
-                },
-                {
-                    "name": "Orange",
-                    "code": "jerinski_xl_combat_shirt_orange_c_black"
-                },
-                {
-                    "name": "Purple Rose",
-                    "code": "jerinski_xl_combat_shirt_purple_rose_c_black"
-                },
-                {
-                    "name": "White Silk",
-                    "code": "jerinski_xl_combat_shirt_white_silk_c_white"
-                }
-            ]
-        },
-        {
             "id": "combat-jackets-emissive",
             "label": "Jackets - Emissive",
             "icon": "jacket-emissive",
@@ -190,6 +131,65 @@
                 {
                     "name": "White Silk",
                     "code": "jerinski_xl_holster_shirt_white_silk"
+                }
+            ]
+        },
+        {
+            "id": "combat-jackets",
+            "label": "Jackets - Standard",
+            "icon": "jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black, Shiny",
+                    "code": "jerinski_xl_combat_shirt_black_c_blackshiny"
+                },
+                {
+                    "name": "Black Coral",
+                    "code": "jerinski_xl_combat_shirt_black_coral_c_black"
+                },
+                {
+                    "name": "Black Gold",
+                    "code": "jerinski_xl_combat_shirt_black_gold_c_blackshiny"
+                },
+                {
+                    "name": "Black Pink",
+                    "code": "jerinski_xl_combat_shirt_black_pink_c_pink"
+                },
+                {
+                    "name": "Black Purple",
+                    "code": "jerinski_xl_combat_shirt_black_purple_c_blackshiny"
+                },
+                {
+                    "name": "Black Yellow",
+                    "code": "jerinski_xl_combat_shirt_black_yellow_c_black"
+                },
+                {
+                    "name": "Grey Red",
+                    "code": "jerinski_xl_combat_shirt_grey_red_c_grey"
+                },
+                {
+                    "name": "Maxtac",
+                    "code": "jerinski_xl_combat_shirt_maxtac_c_blackmatte"
+                },
+                {
+                    "name": "Olive",
+                    "code": "jerinski_xl_combat_shirt_olive_clean_c_olive"
+                },
+                {
+                    "name": "Orange",
+                    "code": "jerinski_xl_combat_shirt_orange_c_black"
+                },
+                {
+                    "name": "Purple Rose",
+                    "code": "jerinski_xl_combat_shirt_purple_rose_c_black"
+                },
+                {
+                    "name": "White Silk",
+                    "code": "jerinski_xl_combat_shirt_white_silk_c_white"
                 }
             ]
         },

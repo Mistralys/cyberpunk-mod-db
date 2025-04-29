@@ -55,7 +55,8 @@
                     "name": "White",
                     "code": "GabriellaxVeegee_daily_wear_pt3_vest1_white"
                 }
-            ]
+            ],
+            "tags": []
         },
         {
             "id": "vests-v-neckline",
@@ -94,7 +95,8 @@
                     "name": "White",
                     "code": "GabriellaxVeegee_daily_wear_pt3_vest2_white"
                 }
-            ]
+            ],
+            "tags": []
         }
     ]
 }

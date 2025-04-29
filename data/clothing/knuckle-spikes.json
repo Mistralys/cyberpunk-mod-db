@@ -16,94 +16,6 @@
     ],
     "itemCategories": [
         {
-            "id": "knuckle-spikes-both-hands",
-            "label": "Knuckle Spkies - Both Hands",
-            "icon": "both",
-            "tags": [],
-            "items": [
-                {
-                    "name": "Alien Green",
-                    "code": "breezy_knuckle_spikes_bothhands_aliengreen"
-                },
-                {
-                    "name": "Angel White",
-                    "code": "breezy_knuckle_spikes_bothhands_angelwhite"
-                },
-                {
-                    "name": "Baja Blast",
-                    "code": "breezy_knuckle_spikes_bothhands_bajablast"
-                },
-                {
-                    "name": "Banana",
-                    "code": "breezy_knuckle_spikes_bothhands_banana"
-                },
-                {
-                    "name": "Barbie",
-                    "code": "breezy_knuckle_spikes_bothhands_barbie"
-                },
-                {
-                    "name": "Blood Orange",
-                    "code": "breezy_knuckle_spikes_bothhands_bloodorange"
-                },
-                {
-                    "name": "Bronze",
-                    "code": "breezy_knuckle_spikes_bothhands_bronze"
-                },
-                {
-                    "name": "Cherry Bomb",
-                    "code": "breezy_knuckle_spikes_bothhands_cherrybomb"
-                },
-                {
-                    "name": "Cream",
-                    "code": "breezy_knuckle_spikes_bothhands_cream"
-                },
-                {
-                    "name": "Crow",
-                    "code": "breezy_knuckle_spikes_bothhands_crow"
-                },
-                {
-                    "name": "Electric Purple",
-                    "code": "breezy_knuckle_spikes_bothhands_electricpurple"
-                },
-                {
-                    "name": "Gold",
-                    "code": "breezy_knuckle_spikes_bothhands_gold"
-                },
-                {
-                    "name": "Hershey",
-                    "code": "breezy_knuckle_spikes_bothhands_hershey"
-                },
-                {
-                    "name": "Jade",
-                    "code": "breezy_knuckle_spikes_bothhands_jade"
-                },
-                {
-                    "name": "Magenta",
-                    "code": "breezy_knuckle_spikes_bothhands_magenta"
-                },
-                {
-                    "name": "Periwinkle",
-                    "code": "breezy_knuckle_spikes_bothhands_periwinkle"
-                },
-                {
-                    "name": "Royal Blue",
-                    "code": "breezy_knuckle_spikes_bothhands_royalblue"
-                },
-                {
-                    "name": "Sea Glass",
-                    "code": "breezy_knuckle_spikes_bothhands_seaglass"
-                },
-                {
-                    "name": "Silver",
-                    "code": "breezy_knuckle_spikes_bothhands_silver"
-                },
-                {
-                    "name": "Sunkissed",
-                    "code": "breezy_knuckle_spikes_bothhands_sunkissed"
-                }
-            ]
-        },
-        {
             "id": "knuckle-spikes-left-hand",
             "label": "Knuckle Spikes - Left Hand",
             "icon": "left",
@@ -276,6 +188,94 @@
                 {
                     "name": "Sunkissed",
                     "code": "breezy_knuckle_spikes_righthand_sunkissed"
+                }
+            ]
+        },
+        {
+            "id": "knuckle-spikes-both-hands",
+            "label": "Knuckle Spkies - Both Hands",
+            "icon": "both",
+            "tags": [],
+            "items": [
+                {
+                    "name": "Alien Green",
+                    "code": "breezy_knuckle_spikes_bothhands_aliengreen"
+                },
+                {
+                    "name": "Angel White",
+                    "code": "breezy_knuckle_spikes_bothhands_angelwhite"
+                },
+                {
+                    "name": "Baja Blast",
+                    "code": "breezy_knuckle_spikes_bothhands_bajablast"
+                },
+                {
+                    "name": "Banana",
+                    "code": "breezy_knuckle_spikes_bothhands_banana"
+                },
+                {
+                    "name": "Barbie",
+                    "code": "breezy_knuckle_spikes_bothhands_barbie"
+                },
+                {
+                    "name": "Blood Orange",
+                    "code": "breezy_knuckle_spikes_bothhands_bloodorange"
+                },
+                {
+                    "name": "Bronze",
+                    "code": "breezy_knuckle_spikes_bothhands_bronze"
+                },
+                {
+                    "name": "Cherry Bomb",
+                    "code": "breezy_knuckle_spikes_bothhands_cherrybomb"
+                },
+                {
+                    "name": "Cream",
+                    "code": "breezy_knuckle_spikes_bothhands_cream"
+                },
+                {
+                    "name": "Crow",
+                    "code": "breezy_knuckle_spikes_bothhands_crow"
+                },
+                {
+                    "name": "Electric Purple",
+                    "code": "breezy_knuckle_spikes_bothhands_electricpurple"
+                },
+                {
+                    "name": "Gold",
+                    "code": "breezy_knuckle_spikes_bothhands_gold"
+                },
+                {
+                    "name": "Hershey",
+                    "code": "breezy_knuckle_spikes_bothhands_hershey"
+                },
+                {
+                    "name": "Jade",
+                    "code": "breezy_knuckle_spikes_bothhands_jade"
+                },
+                {
+                    "name": "Magenta",
+                    "code": "breezy_knuckle_spikes_bothhands_magenta"
+                },
+                {
+                    "name": "Periwinkle",
+                    "code": "breezy_knuckle_spikes_bothhands_periwinkle"
+                },
+                {
+                    "name": "Royal Blue",
+                    "code": "breezy_knuckle_spikes_bothhands_royalblue"
+                },
+                {
+                    "name": "Sea Glass",
+                    "code": "breezy_knuckle_spikes_bothhands_seaglass"
+                },
+                {
+                    "name": "Silver",
+                    "code": "breezy_knuckle_spikes_bothhands_silver"
+                },
+                {
+                    "name": "Sunkissed",
+                    "code": "breezy_knuckle_spikes_bothhands_sunkissed"
                 }
             ]
         }

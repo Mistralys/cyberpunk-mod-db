@@ -21,7 +21,6 @@
             "icon": "emissive",
             "tags": [
                 "Emissive"
-
             ],
             "items": [
                 {
@@ -156,7 +155,8 @@
                     "name": "Silver",
                     "code": "body_fashionware_silver"
                 }
-            ]
+            ],
+            "tags": []
         }
     ]
 }

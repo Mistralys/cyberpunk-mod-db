@@ -13,52 +13,9 @@
         "FemV",
         "Outfit"
     ],
-    "searchTweaks": "alvarez",
     "comments": "The jacket is very close to the skin. In my tests, very few other tops or bras fit below it.",
+    "searchTweaks": "alvarez",
     "itemCategories": [
-        {
-            "id": "jackets",
-            "label": "Jackets",
-            "icon": "jacket",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "veegee_casual_pt21_jacket_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "veegee_casual_pt21_jacket_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegee_casual_pt21_jacket_brown"
-                },
-                {
-                    "name": "Green",
-                    "code": "veegee_casual_pt21_jacket_green"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegee_casual_pt21_jacket_pink"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_casual_pt21_jacket_red"
-                },
-                {
-                    "name": "White",
-                    "code": "veegee_casual_pt21_jacket_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "veegee_casual_pt21_jacket_yellow"
-                }
-            ]
-        },
         {
             "id": "dagger-holster",
             "label": "Dagger Holster",
@@ -99,6 +56,49 @@
                 {
                     "name": "Yellow",
                     "code": "veegee_casual_pt21_legbelt_yellow"
+                }
+            ]
+        },
+        {
+            "id": "jackets",
+            "label": "Jackets",
+            "icon": "jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt21_jacket_black"
+                },
+                {
+                    "name": "Blue",
+                    "code": "veegee_casual_pt21_jacket_blue"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt21_jacket_brown"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt21_jacket_green"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt21_jacket_pink"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt21_jacket_red"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt21_jacket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "veegee_casual_pt21_jacket_yellow"
                 }
             ]
         },

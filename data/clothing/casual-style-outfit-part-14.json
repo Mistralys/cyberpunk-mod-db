@@ -65,49 +65,6 @@
             ]
         },
         {
-            "id": "skirts-cotton",
-            "label": "Skirts - Cotton",
-            "icon": "skirt-cotton",
-            "tags": [
-                "Legs",
-                "Skirt"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "veegee_casual_pt14_skirt_black_cotton"
-                },
-                {
-                    "name": "Brown",
-                    "code": "veegee_casual_pt14_skirt_brown_cotton"
-                },
-                {
-                    "name": "Green",
-                    "code": "veegee_casual_pt14_skirt_green_cotton"
-                },
-                {
-                    "name": "Grey",
-                    "code": "veegee_casual_pt14_skirt_grey_cotton"
-                },
-                {
-                    "name": "Pink",
-                    "code": "veegee_casual_pt14_skirt_pink_cotton"
-                },
-                {
-                    "name": "Red",
-                    "code": "veegee_casual_pt14_skirt_red_cotton"
-                },
-                {
-                    "name": "Tan",
-                    "code": "veegee_casual_pt14_skirt_tan_cotton"
-                },
-                {
-                    "name": "White",
-                    "code": "veegee_casual_pt14_skirt_white_cotton"
-                }
-            ]
-        },
-        {
             "id": "jackets-leather",
             "label": "Jackets - Leather",
             "icon": "jacket-leather",
@@ -147,6 +104,49 @@
                 {
                     "name": "White",
                     "code": "veegee_casual_pt14_jacket_white_leather"
+                }
+            ]
+        },
+        {
+            "id": "skirts-cotton",
+            "label": "Skirts - Cotton",
+            "icon": "skirt-cotton",
+            "tags": [
+                "Legs",
+                "Skirt"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "veegee_casual_pt14_skirt_black_cotton"
+                },
+                {
+                    "name": "Brown",
+                    "code": "veegee_casual_pt14_skirt_brown_cotton"
+                },
+                {
+                    "name": "Green",
+                    "code": "veegee_casual_pt14_skirt_green_cotton"
+                },
+                {
+                    "name": "Grey",
+                    "code": "veegee_casual_pt14_skirt_grey_cotton"
+                },
+                {
+                    "name": "Pink",
+                    "code": "veegee_casual_pt14_skirt_pink_cotton"
+                },
+                {
+                    "name": "Red",
+                    "code": "veegee_casual_pt14_skirt_red_cotton"
+                },
+                {
+                    "name": "Tan",
+                    "code": "veegee_casual_pt14_skirt_tan_cotton"
+                },
+                {
+                    "name": "White",
+                    "code": "veegee_casual_pt14_skirt_white_cotton"
                 }
             ]
         },

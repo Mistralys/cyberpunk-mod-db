@@ -15,35 +15,6 @@
     "searchTweaks": "raider",
     "itemCategories": [
         {
-            "id": "belts-short",
-            "label": "Belts - Short",
-            "icon": "belt-short",
-            "tags": [
-                "Accessories",
-                "Belt",
-                "Physics",
-                "Waist"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "raid_gzel_belts_black"
-                },
-                {
-                    "name": "Gold",
-                    "code": "raid_gzel_belts_gold"
-                },
-                {
-                    "name": "Silver",
-                    "code": "raid_gzel_belts_silver"
-                },
-                {
-                    "name": "White",
-                    "code": "raid_gzel_belts_white"
-                }
-            ]
-        },
-        {
             "id": "belts-long",
             "label": "Belts - Long",
             "icon": "belt-long",
@@ -73,53 +44,31 @@
             ]
         },
         {
-            "id": "jackets",
-            "label": "Jackets",
-            "icon": "jacket",
+            "id": "belts-short",
+            "label": "Belts - Short",
+            "icon": "belt-short",
             "tags": [
-                "Jacket",
-                "Torso"
+                "Accessories",
+                "Belt",
+                "Physics",
+                "Waist"
             ],
             "items": [
                 {
                     "name": "Black",
-                    "code": "raid_gzel_jaket_black"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "raid_gzel_jaket_burgundy"
-                },
-                {
-                    "name": "Cyan",
-                    "code": "raid_gzel_jaket_cyan"
+                    "code": "raid_gzel_belts_black"
                 },
                 {
                     "name": "Gold",
-                    "code": "raid_gzel_jaket_gold"
-                },
-                {
-                    "name": "Green",
-                    "code": "raid_gzel_jaket_green"
-                },
-                {
-                    "name": "Navy",
-                    "code": "raid_gzel_jaket_navy"
-                },
-                {
-                    "name": "Silk",
-                    "code": "raid_gzel_jaket_silk"
+                    "code": "raid_gzel_belts_gold"
                 },
                 {
                     "name": "Silver",
-                    "code": "raid_gzel_jaket_silver"
+                    "code": "raid_gzel_belts_silver"
                 },
                 {
                     "name": "White",
-                    "code": "raid_gzel_jaket_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "raid_gzel_jaket_yellow"
+                    "code": "raid_gzel_belts_white"
                 }
             ]
         },
@@ -246,6 +195,57 @@
                     "tags": [
                         "Emissive"
                     ]
+                }
+            ]
+        },
+        {
+            "id": "jackets",
+            "label": "Jackets",
+            "icon": "jacket",
+            "tags": [
+                "Jacket",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "raid_gzel_jaket_black"
+                },
+                {
+                    "name": "Burgundy",
+                    "code": "raid_gzel_jaket_burgundy"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "raid_gzel_jaket_cyan"
+                },
+                {
+                    "name": "Gold",
+                    "code": "raid_gzel_jaket_gold"
+                },
+                {
+                    "name": "Green",
+                    "code": "raid_gzel_jaket_green"
+                },
+                {
+                    "name": "Navy",
+                    "code": "raid_gzel_jaket_navy"
+                },
+                {
+                    "name": "Silk",
+                    "code": "raid_gzel_jaket_silk"
+                },
+                {
+                    "name": "Silver",
+                    "code": "raid_gzel_jaket_silver"
+                },
+                {
+                    "name": "White",
+                    "code": "raid_gzel_jaket_white"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "raid_gzel_jaket_yellow"
                 }
             ]
         },

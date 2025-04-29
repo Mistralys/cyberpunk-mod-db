@@ -17,37 +17,6 @@
     "searchTweaks": "alvarez",
     "itemCategories": [
         {
-            "id": "shoes",
-            "label": "Shoes",
-            "icon": "shoes",
-            "tags": [
-                "Shoes",
-                "Feet"
-            ],
-            "items": [
-                {
-                    "name": "Style 1",
-                    "code": "veegee_casual_pt10_boots_color1"
-                },
-                {
-                    "name": "Style 2",
-                    "code": "veegee_casual_pt10_boots_color2"
-                },
-                {
-                    "name": "Style 3",
-                    "code": "veegee_casual_pt10_boots_color3"
-                },
-                {
-                    "name": "Style 4",
-                    "code": "veegee_casual_pt10_boots_color4"
-                },
-                {
-                    "name": "Style 5",
-                    "code": "veegee_casual_pt10_boots_color5"
-                }
-            ]
-        },
-        {
             "id": "bras",
             "label": "Bras",
             "icon": "bra",
@@ -138,6 +107,37 @@
                 {
                     "name": "Style 5",
                     "code": "veegee_casual_pt10_chest_color5"
+                }
+            ]
+        },
+        {
+            "id": "chokers",
+            "label": "Chokers",
+            "icon": "choker",
+            "tags": [
+                "Choker",
+                "Neck"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_neck_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_neck_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_neck_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_neck_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_neck_color5"
                 }
             ]
         },
@@ -299,68 +299,6 @@
             ]
         },
         {
-            "id": "chokers",
-            "label": "Chokers",
-            "icon": "choker",
-            "tags": [
-                "Choker",
-                "Neck"
-            ],
-            "items": [
-                {
-                    "name": "Style 1",
-                    "code": "veegee_casual_pt10_neck_color1"
-                },
-                {
-                    "name": "Style 2",
-                    "code": "veegee_casual_pt10_neck_color2"
-                },
-                {
-                    "name": "Style 3",
-                    "code": "veegee_casual_pt10_neck_color3"
-                },
-                {
-                    "name": "Style 4",
-                    "code": "veegee_casual_pt10_neck_color4"
-                },
-                {
-                    "name": "Style 5",
-                    "code": "veegee_casual_pt10_neck_color5"
-                }
-            ]
-        },
-        {
-            "id": "shorts",
-            "label": "Shorts",
-            "icon": "shorts",
-            "tags": [
-                "Legs",
-                "Pants"
-            ],
-            "items": [
-                {
-                    "name": "Style 1",
-                    "code": "veegee_casual_pt10_pants_color1"
-                },
-                {
-                    "name": "Style 2",
-                    "code": "veegee_casual_pt10_pants_color2"
-                },
-                {
-                    "name": "Style 3",
-                    "code": "veegee_casual_pt10_pants_color3"
-                },
-                {
-                    "name": "Style 4",
-                    "code": "veegee_casual_pt10_pants_color4"
-                },
-                {
-                    "name": "Style 5",
-                    "code": "veegee_casual_pt10_pants_color5"
-                }
-            ]
-        },
-        {
             "id": "panties",
             "label": "Panties",
             "icon": "panties",
@@ -393,33 +331,64 @@
             ]
         },
         {
-            "id": "tops",
-            "label": "Tops",
-            "icon": "top",
+            "id": "shoes",
+            "label": "Shoes",
+            "icon": "shoes",
             "tags": [
-                "Top",
-                "Torso"
+                "Feet",
+                "Shoes"
             ],
             "items": [
                 {
                     "name": "Style 1",
-                    "code": "veegee_casual_pt10_shirt_color1"
+                    "code": "veegee_casual_pt10_boots_color1"
                 },
                 {
                     "name": "Style 2",
-                    "code": "veegee_casual_pt10_shirt_color2"
+                    "code": "veegee_casual_pt10_boots_color2"
                 },
                 {
                     "name": "Style 3",
-                    "code": "veegee_casual_pt10_shirt_color3"
+                    "code": "veegee_casual_pt10_boots_color3"
                 },
                 {
                     "name": "Style 4",
-                    "code": "veegee_casual_pt10_shirt_color4"
+                    "code": "veegee_casual_pt10_boots_color4"
                 },
                 {
                     "name": "Style 5",
-                    "code": "veegee_casual_pt10_shirt_color5"
+                    "code": "veegee_casual_pt10_boots_color5"
+                }
+            ]
+        },
+        {
+            "id": "shorts",
+            "label": "Shorts",
+            "icon": "shorts",
+            "tags": [
+                "Legs",
+                "Pants"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_pants_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_pants_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_pants_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_pants_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_pants_color5"
                 }
             ]
         },
@@ -482,6 +451,37 @@
                 {
                     "name": "Style 5",
                     "code": "veegee_casual_pt10_stockings_color5"
+                }
+            ]
+        },
+        {
+            "id": "tops",
+            "label": "Tops",
+            "icon": "top",
+            "tags": [
+                "Top",
+                "Torso"
+            ],
+            "items": [
+                {
+                    "name": "Style 1",
+                    "code": "veegee_casual_pt10_shirt_color1"
+                },
+                {
+                    "name": "Style 2",
+                    "code": "veegee_casual_pt10_shirt_color2"
+                },
+                {
+                    "name": "Style 3",
+                    "code": "veegee_casual_pt10_shirt_color3"
+                },
+                {
+                    "name": "Style 4",
+                    "code": "veegee_casual_pt10_shirt_color4"
+                },
+                {
+                    "name": "Style 5",
+                    "code": "veegee_casual_pt10_shirt_color5"
                 }
             ]
         }
