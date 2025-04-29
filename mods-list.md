@@ -1,6 +1,6 @@
 # Mod JSON files
 
-Total available files: 190
+Total available files: 189
 
 * [Ada Wong Outfit Reworked](data/clothing/ada-wong-outfit-reworked.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7234))
 * [Alt's Actual Gloves](data/clothing/alts-gloves.json) by Kwek ([source](https://www.nexusmods.com/cyberpunk2077/mods/7130))
@@ -18,7 +18,6 @@ Total available files: 190
 * [Atelier for Flash Posers](data/clothing/flash-posers-atelier.json) by jerinski ([source](https://www.nexusmods.com/cyberpunk2077/mods/8886))
 * [Aurore Modular Set](data/clothing/aurore-modular-set.json) by MONSTERaider ([source](https://www.nexusmods.com/cyberpunk2077/mods/12099))
 * [Aviator Glasses](data/clothing/aviator-glasses.json) by Kwek and kweknexuss ([source](https://www.nexusmods.com/cyberpunk2077/mods/7803))
-* [Bad Cop Outfit](data/clothing/bad-cop-outfit.json) by AlvarixPT ([source](https://www.nexusmods.com/cyberpunk2077/mods/9515))
 * [Basic Tees](data/clothing/basic-tees.json) by Halkuonn ([source](https://www.nexusmods.com/cyberpunk2077/mods/11309))
 * [Bayonetta 2 Earrings](data/clothing/bayonetta-2-earrings.json) by LeoBoy and LeoBoy88 ([source](https://www.nexusmods.com/cyberpunk2077/mods/19042))
 * [Beaded Choker](data/clothing/beaded-choker.json) by complectedd and mistshield ([source](https://www.nexusmods.com/cyberpunk2077/mods/6978))
@@ -115,7 +114,7 @@ Total available files: 190
 * [Military Combat Armor](data/clothing/military-combat-armor.json) by Gorefiend and ScorpionTank ([source](https://www.nexusmods.com/cyberpunk2077/mods/13212))
 * [Mirror's Edge - Faith Outfit](data/clothing/mirrors-edge-faith-outfit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4599))
 * [Modest Lingerie](data/clothing/modest-lingerie.json) by Nemiepies ([source](https://www.nexusmods.com/cyberpunk2077/mods/17909))
-* [Motoko Kusanagi Jacket and Bodysuit](data/clothing/motoko-kusanagi-jacket-and-bodysuit.json) by Apzurv and Eziomaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4853))
+* [Motoko Kusanagi Jacket and Bodysuit](data/clothing/motoko-kusanagi-jacket-and-bodysuit.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/4853))
 * [Motoko Kusanagi Outfit Reworked](data/clothing/motoko-kusanagi-outfit-reworked.json) by Apzurv and EzioMaverick ([source](https://www.nexusmods.com/cyberpunk2077/mods/7613))
 * [Nanosuit](data/clothing/nanosuit.json) by Subleader ([source](https://www.nexusmods.com/cyberpunk2077/mods/14677))
 * [Negan Jacket](data/clothing/negan-jacket.json) by Rosslin ([source](https://www.nexusmods.com/cyberpunk2077/mods/17382))

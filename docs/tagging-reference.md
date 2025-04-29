@@ -111,6 +111,7 @@ is holographic. Searching for holographic items will return only the holographic
 ### Mods - Body Mods - FemV
 
 - `Body-EVB` - Enhanced Vanilla Body; No refits needed [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/11489)
+- `Body-Elegy` - Body with improved proportions, successor to Project Valentine. [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/19821) [Project Valentine](https://www.nexusmods.com/cyberpunk2077/mods/4256)
 - `Body-Flat` - Flat chested body [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/6883)
 - `Body-Hyst` - Enhanced Big Breasts, Realistic Butt, and more [Nexus](https://next.nexusmods.com/profile/LxRHyst/mods?gameId=3333)
 - `Body-Hyst-Angel` - New improved version of the other Hyst body mods [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/14896)

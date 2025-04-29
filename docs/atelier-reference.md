@@ -77,9 +77,8 @@ Mods: 3 | Authors: Adshield | [Source](https://www.nexusmods.com/cyberpunk2077/m
 
 ### Alvarix Custom Store
 
-Mods: 8 | Authors: AlvarixPT | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+Mods: 7 | Authors: AlvarixPT | [Source](https://www.nexusmods.com/cyberpunk2077/mods/4602)
 
-- [Bad Cop Outfit](https://www.nexusmods.com/cyberpunk2077/mods/9515)
 - [BloodRayne Outfits and Hair](https://www.nexusmods.com/cyberpunk2077/mods/8446)
 - [Deus Ex Outfit](https://www.nexusmods.com/cyberpunk2077/mods/4601)
 - [Evangelion Plugsuits](https://www.nexusmods.com/cyberpunk2077/mods/11511)
