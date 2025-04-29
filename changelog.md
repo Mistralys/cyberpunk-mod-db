@@ -1,4 +1,5 @@
 ## v2.3.0 - The item icon update
+- Screenshots: Added item screenshots for all 583 item categories.
 - Mods: `aria-tloak-suit`: Fixed missing category IDs.
 - Mods: `tactical-belt`: Fixed missing category IDs.
 - Mods: `zip-up-dress`: Fixed missing category IDs.
@@ -21,7 +22,6 @@
 - Mods: `casual-style-outfit-part-4`: Tweaked category names to better reflect the items.
 - Mods: `casual-style-outfit-part-10`: Tweaked category names to better reflect the items.
 - Mods: Removed `bad-cop-outfit`, as it did not fit the overall quality and direction.
-- Mods: Ongoing item icon additions.
 - Tags: Added the `Body-Elegy` tag.
 - Tools: Added the `show-messages` command switch to display all collected messages.
 - Tools: The screenshot checker now also checks item icons.
