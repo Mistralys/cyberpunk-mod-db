@@ -45,7 +45,7 @@ to place the file in the `data/clothing` folder.
 2. Open the created file `data/clothing/mod-id.json`.
 3. Fill in the basic details, excluding items.
 
-See the [command line tools reference](command-line-tools.md) for details. 
+See the [command line tools reference][] for details. 
 
 ## Step 3: Adding the items
 
@@ -76,8 +76,8 @@ Typically, the CET codes are found in the following locations:
 
 At its most basic level, items are added manually to the `items` list
 of a category, using the CET codes as specified in the mod's description.
-Use the `add-category` command ([documentation](https://github.com/Mistralys/cyberpunk-mod-db/blob/main/docs/command-line-tools.md#adding-an-item-category)) 
-to append the skeleton for a new category in your file.
+Use the [add-category command][] to append the skeleton for a new category 
+in your file.
 
 **Determining item names:**
 
@@ -115,7 +115,7 @@ items. The tagging system is hierarchical:
 - Category-level tags: Must be shared by all items in the category.
 - Item-level tags: Specific to the item.
 
-Please refer to the [tagging reference](tagging-reference.md) for a list of
+Please refer to the [tagging reference][] for a list of
 tags that can be used. 
 
 ## Step 5: Submitting JSON files
@@ -130,52 +130,13 @@ in order, the mod will be added to the database. In the process, the JSON
 structure will be normalized (items sorted alphabetically, keys reordered, 
 etc.). You don't have to worry about doing this on your end.
 
-If you use tags that are not in the [tagging reference](tagging-reference.md),
+If you use tags that are not in the [tagging reference][],
 I will consider adding or replacing them.
 
 ## Mod Screenshots
 
-### The Philosophy
-
-The mod screenshots are uniform to best showcase the items the mods add. 
-The goal is to provide a clear view of the items, and to make it easy
-to compare them.
-
-The original mod pages are linked in the database, so it's easy to go there to
-check out more screenshots and details.
-
-### How to contribute screenshots
-
-Right now screenshots are done solely by me. I plan to add a guide to make it
-possible for contributors to add their own screenshots in the future. 
-
-### Multiple screenshots
-
-Several screenshots can be added for a mod. In this case, a JSON sidecar file
-is used to describe them and define the order in which they are displayed. This
-file must be placed in the `data/clothing/screens` folder, and be named after
-the mod ID: `mod-id.json`.
-
-The screenshots can have freeform suffixes, which are used to identify them
-in the sidecar file. Example:
-
-- `xrx-led-leotard.jpg` - The main screenshot.
-- `xrx-led-leotard-nighttime.jpg` - The nighttime screenshot.
-- `xrx-led-leotard.json` - The sidecar file.
-
-JSON Structure:
-
-```json
-{
-  "nighttime": {
-    "title": "Lights as seen in the dark"
-  }
-}
-```
-
-As you can see, the suffixes are used as keys in the sidecar file. For the
-moment, only the `title` key is used, but more keys may be added in the future
-as the need arises.
+Right now screenshots are done solely by me. If you feel adventurous,
+you can have a look at my process in the [Screenshotting guide][].
 
 ## JSON Structure Reference
 
@@ -249,7 +210,7 @@ as the need arises.
         - `code`: The item's code (either in the mod description, or in the mod's `yaml` file).
         - `tags`: Optional: Tags specific to the item.
 
-See the [tagging reference](tagging-reference.md) for more information on how to use
+See the [tagging reference][] for more information on how to use
 tags, and which ones can be used.
 
 > NOTE: Browse the existing JSON files to see how the data is structured.
@@ -259,3 +220,7 @@ tags, and which ones can be used.
 [Appearance Menu Mod]: https://www.nexusmods.com/cyberpunk2077/mods/790
 [Wardrobe Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/5145
 [Character Customization Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/3930
+[tagging reference]: tagging-reference.md
+[Screenshotting guide]: screenshotting-guide.md
+[add-category command]: command-line-tools.md#adding-an-item-category
+[command line tools reference]: command-line-tools.md
