@@ -16,6 +16,7 @@
         {
             "id": "closed-jackets-camo",
             "label": "Closed Jackets - Camo",
+            "icon": "c-camo",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -46,6 +47,7 @@
         {
             "id": "closed-jackets-combo-1",
             "label": "Closed Jackets - Combo 1",
+            "icon": "c-combo-1",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -76,6 +78,7 @@
         {
             "id": "closed-jackets-combo-2",
             "label": "Closed Jackets - Combo 2",
+            "icon": "c-combo-2",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -126,6 +129,7 @@
         {
             "id": "closed-jackets-flannel",
             "label": "Closed Jackets - Flannel",
+            "icon": "c-flannel",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -156,6 +160,7 @@
         {
             "id": "closed-jackets-leather",
             "label": "Closed Jackets - Leather",
+            "icon": "c-leather",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -206,6 +211,7 @@
         {
             "id": "closed-jackets-plaid",
             "label": "Closed Jackets - Plaid",
+            "icon": "c-plaid",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -256,6 +262,7 @@
         {
             "id": "closed-jackets-solid-color",
             "label": "Closed Jackets - Solid color",
+            "icon": "c-solid",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -286,6 +293,7 @@
         {
             "id": "closed-jackets-two-tone",
             "label": "Closed Jackets - Two-tone",
+            "icon": "c-two-tone",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -336,6 +344,7 @@
         {
             "id": "open-jackets-camo",
             "label": "Open Jackets - Camo",
+            "icon": "o-camo",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -366,6 +375,7 @@
         {
             "id": "open-jackets-combo-1",
             "label": "Open Jackets - Combo 1",
+            "icon": "o-combo-1",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -396,6 +406,7 @@
         {
             "id": "open-jackets-combo-2",
             "label": "Open Jackets - Combo 2",
+            "icon": "o-combo-2",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -446,6 +457,7 @@
         {
             "id": "open-jackets-flannel",
             "label": "Open Jackets - Flannel",
+            "icon": "o-flannel",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -476,6 +488,7 @@
         {
             "id": "open-jackets-leather",
             "label": "Open Jackets - Leather",
+            "icon": "o-leather",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -526,6 +539,7 @@
         {
             "id": "open-jackets-plaid",
             "label": "Open Jackets - Plaid",
+            "icon": "o-plaid",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -576,6 +590,7 @@
         {
             "id": "open-jackets-solid-color",
             "label": "Open Jackets - Solid color",
+            "icon": "o-solid",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -606,6 +621,7 @@
         {
             "id": "open-jackets-two-tone",
             "label": "Open Jackets - Two-tone",
+            "icon": "o-two-tone",
             "tags": [
                 "Jacket",
                 "Torso"
@@ -656,6 +672,7 @@
         {
             "id": "toggles",
             "label": "Toggles",
+            "icon": "toggles",
             "tags": [
                 "Accessories",
                 "Toggles"
