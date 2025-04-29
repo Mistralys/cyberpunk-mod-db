@@ -21,12 +21,12 @@ screenshots.
 
 ## Some statistics
 
-- 190 clothing mod details collected
-- 569 item categories
-- 5434 individual items
-- 261 individually crafted screenshots
+- 189 clothing mod details collected
+- 583 item categories
+- 5421 individual items
+- 786 individually crafted screenshots
 - 56 known virtual atelier mods
-- 102 tags to categorize mods and items
+- 103 tags to categorize mods and items
 - 72 known mod authors
 
 ## Accessing the Database
