@@ -18,6 +18,7 @@
         {
             "id": "blade-heads",
             "label": "Blade Heads",
+            "icon": "head",
             "tags": [
                 "Accessories",
                 "Head"
@@ -34,8 +35,9 @@
             ]
         },
         {
-            "id": "coats",
-            "label": "Coats",
+            "id": "coats-vest",
+            "label": "Coats - With vest",
+            "icon": "coat-vest",
             "tags": [
                 "Coat",
                 "FullBody"
@@ -46,15 +48,26 @@
                     "code": "tq_blade_long_jacket_black"
                 },
                 {
-                    "name": "Black (No Vest)",
+                    "name": "Grey and Red",
+                    "code": "tq_blade_long_jacket"
+                }
+            ]
+        },
+        {
+            "id": "coats-no-vest",
+            "label": "Coats - No Vest",
+            "icon": "coat-no-vest",
+            "tags": [
+                "Coat",
+                "FullBody"
+            ],
+            "items": [
+                {
+                    "name": "Black",
                     "code": "tq_blade_long_jacket_no_vest_black"
                 },
                 {
                     "name": "Grey and Red",
-                    "code": "tq_blade_long_jacket"
-                },
-                {
-                    "name": "Grey and Red (No Vest)",
                     "code": "tq_blade_long_jacket_no_vest"
                 }
             ]
@@ -62,6 +75,7 @@
         {
             "id": "earrings",
             "label": "Earrings",
+            "icon": "earrings",
             "tags": [
                 "Earring",
                 "Head",
@@ -77,6 +91,7 @@
         {
             "id": "glasses",
             "label": "Glasses",
+            "icon": "glasses",
             "tags": [
                 "Glasses",
                 "Head"
@@ -98,6 +113,7 @@
         {
             "id": "gloves",
             "label": "Gloves",
+            "icon": "gloves",
             "tags": [
                 "Gloves",
                 "Hands"
@@ -116,6 +132,7 @@
         {
             "id": "pants",
             "label": "Pants",
+            "icon": "pants",
             "tags": [
                 "Legs",
                 "Pants"
@@ -134,6 +151,7 @@
         {
             "id": "swords",
             "label": "Swords",
+            "icon": "sword",
             "tags": [
                 "Accessories",
                 "Torso"
