@@ -1,14 +1,17 @@
 {
     "mod": "Techtopia Gloves",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/9000",
+    "modVersion": "1.2",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/7848",
     "atelierName": "DBRV n CO Virtual Store",
     "authors": [
         "DBRV"
     ],
     "tags": [
+        "AutoScale",
         "Body-EVB",
         "Body-Gymfiend",
+        "Body-Hyst-Angel",
         "Body-Hyst-Angel",
         "Body-Hyst-EBB",
         "Body-Hyst-EBBPRB",
