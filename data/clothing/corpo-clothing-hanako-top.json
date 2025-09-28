@@ -1,6 +1,7 @@
 {
     "mod": "Corpo Clothing - Hanako Top",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/17586",
+    "modVersion": "1.2",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/16261?tab=files",
     "atelierName": "SumiStyle Corporate Atelier",
     "authors": [
@@ -90,12 +91,20 @@
                     "code": "sumi_top_hanako_full_long_gold_pattern"
                 },
                 {
+                    "name": "Green",
+                    "code": "sumi_top_hanako_full_long_green"
+                },
+                {
                     "name": "Grey",
                     "code": "sumi_top_hanako_full_long_grey"
                 },
                 {
                     "name": "Hanako",
                     "code": "sumi_top_hanako_full_long_hanako"
+                },
+                {
+                    "name": "Indigo",
+                    "code": "sumi_top_hanako_full_long_indigo"
                 },
                 {
                     "name": "Kitsch Black",
@@ -170,8 +179,16 @@
                     "code": "sumi_top_hanako_full_long_gold_snake"
                 },
                 {
+                    "name": "Green",
+                    "code": "sumi_top_hanako_full_long_green_snake"
+                },
+                {
                     "name": "Grey",
                     "code": "sumi_top_hanako_full_long_grey_snake"
+                },
+                {
+                    "name": "Indigo",
+                    "code": "sumi_top_hanako_full_long_indigo_snake"
                 },
                 {
                     "name": "Maroon",
