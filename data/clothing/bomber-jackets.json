@@ -13,7 +13,7 @@
         "Clothing",
         "FemV"
     ],
-    "description": "Also see the optional files to change collar textures and/or remove logos on the jackets.",
+    "comments": "Also see the optional files to change collar textures and/or remove logos on the jackets.",
     "itemCategories": [
         {
             "id": "open-jackets-camo",
@@ -142,8 +142,16 @@
                     "code": "rm_outer_bjacket_open_flannel_blue"
                 },
                 {
+                    "name": "Cyan",
+                    "code": "rm_outer_bjacket_open_flannel_cyan"
+                },
+                {
                     "name": "Green Blue",
                     "code": "rm_outer_bjacket_open_flannel_greenblue"
+                },
+                {
+                    "name": "Purple",
+                    "code": "rm_outer_bjacket_open_flannel_purple"
                 },
                 {
                     "name": "Purple",
@@ -156,14 +164,6 @@
                 {
                     "name": "Yellow",
                     "code": "rm_outer_bjacket_open_flannel_yellow"
-                },
-                {
-                    "name": "Cyan",
-                    "code": "rm_outer_bjacket_open_flannel_cyan"
-                },
-                {
-                    "name": "Purple",
-                    "code": "rm_outer_bjacket_open_flannel_purple"
                 },
                 {
                     "name": "Yellow",
@@ -365,10 +365,6 @@
             ],
             "items": [
                 {
-                    "name": "No Hood",
-                    "code": "rm_outer_bjacket_toggle_nohood"
-                },
-                {
                     "name": "Closed",
                     "code": "rm_outer_bjacket_toggle_closed"
                 },
@@ -379,6 +375,10 @@
                 {
                     "name": "Closed (Cuffs) FPP",
                     "code": "rm_outer_bjacket_toggle_closed_cuffs_fpp"
+                },
+                {
+                    "name": "No Hood",
+                    "code": "rm_outer_bjacket_toggle_nohood"
                 },
                 {
                     "name": "Open (Cuffs)",
