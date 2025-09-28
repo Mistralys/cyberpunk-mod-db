@@ -1,6 +1,7 @@
 {
     "mod": "Summer Outfit",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/12331",
+    "modVersion": "1.2",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/8704",
     "atelierName": "Nola Dreamer and Aquelyras Atelier",
     "authors": [
@@ -8,6 +9,16 @@
         "NolaDreamer"
     ],
     "tags": [
+        "AutoScale",
+        "Body-Hyst-EBB",
+        "Body-Hyst-EBBP",
+        "Body-Hyst-EBBPRB",
+        "Body-Hyst-EBBRB",
+        "Body-Hyst-RB",
+        "Body-Lush",
+        "Body-SoLush",
+        "Body-Solo",
+        "Body-VTK-VanillaHD",
         "Body-Vanilla",
         "Clothing",
         "FemV",
