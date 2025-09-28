@@ -108,6 +108,10 @@ function normalizeFile(JSONFile $file) : void
         unset($converted[KEY_COMMENTS]);
     }
 
+    if(empty($converted[KEY_MOD_VERSION])) {
+        unset($converted[KEY_MOD_VERSION]);
+    }
+
     if(empty($converted[KEY_LINKED_MODS])) {
         unset($converted[KEY_LINKED_MODS]);
     } else {
