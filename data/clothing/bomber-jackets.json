@@ -1,6 +1,7 @@
 {
     "mod": "Bomber Jackets",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/19132",
+    "modVersion": "1.1",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14210",
     "atelierName": "Raem's Atelier Store",
     "authors": [
@@ -12,335 +13,8 @@
         "Clothing",
         "FemV"
     ],
+    "description": "Also see the optional files to change collar textures and/or remove logos on the jackets.",
     "itemCategories": [
-        {
-            "id": "closed-jackets-camo",
-            "label": "Closed Jackets - Camo",
-            "icon": "c-camo",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "rm_outer_bjacket_closed_camo_black"
-                },
-                {
-                    "name": "Desert",
-                    "code": "rm_outer_bjacket_closed_camo_desert"
-                },
-                {
-                    "name": "Light",
-                    "code": "rm_outer_bjacket_closed_camo_light"
-                },
-                {
-                    "name": "White",
-                    "code": "rm_outer_bjacket_closed_camo_white"
-                },
-                {
-                    "name": "Woodland",
-                    "code": "rm_outer_bjacket_closed_camo_woodland"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-combo-1",
-            "label": "Closed Jackets - Combo 1",
-            "icon": "c-combo-1",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black Blue",
-                    "code": "rm_outer_bjacket_closed_combo1_blackblue"
-                },
-                {
-                    "name": "Black Green",
-                    "code": "rm_outer_bjacket_closed_combo1_blackgreen"
-                },
-                {
-                    "name": "Black Grey",
-                    "code": "rm_outer_bjacket_closed_combo1_blackgrey"
-                },
-                {
-                    "name": "Black Pink",
-                    "code": "rm_outer_bjacket_closed_combo1_blackpink"
-                },
-                {
-                    "name": "Black Red",
-                    "code": "rm_outer_bjacket_closed_combo1_blackred"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-combo-2",
-            "label": "Closed Jackets - Combo 2",
-            "icon": "c-combo-2",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black Beige",
-                    "code": "rm_outer_bjacket_closed_combo2_blackbeige"
-                },
-                {
-                    "name": "Black Burgundy",
-                    "code": "rm_outer_bjacket_closed_combo2_blackburgundy"
-                },
-                {
-                    "name": "Black Olive",
-                    "code": "rm_outer_bjacket_closed_combo2_blackolive"
-                },
-                {
-                    "name": "Black Petrol",
-                    "code": "rm_outer_bjacket_closed_combo2_blackpetrol"
-                },
-                {
-                    "name": "Black White",
-                    "code": "rm_outer_bjacket_closed_combo2_blackwhite"
-                },
-                {
-                    "name": "White Black",
-                    "code": "rm_outer_bjacket_closed_combo2_whiteblack"
-                },
-                {
-                    "name": "White Burgundy",
-                    "code": "rm_outer_bjacket_closed_combo2_whiteburgundy"
-                },
-                {
-                    "name": "White Navy",
-                    "code": "rm_outer_bjacket_closed_combo2_whitenavy"
-                },
-                {
-                    "name": "White Peach",
-                    "code": "rm_outer_bjacket_closed_combo2_whitepeach"
-                },
-                {
-                    "name": "White Petrol",
-                    "code": "rm_outer_bjacket_closed_combo2_whitepetrol"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-flannel",
-            "label": "Closed Jackets - Flannel",
-            "icon": "c-flannel",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Blue",
-                    "code": "rm_outer_bjacket_closed_flannel_blue"
-                },
-                {
-                    "name": "Green Blue",
-                    "code": "rm_outer_bjacket_closed_flannel_greenblue"
-                },
-                {
-                    "name": "Purple",
-                    "code": "rm_outer_bjacket_closed_flannel_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "rm_outer_bjacket_closed_flannel_red"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "rm_outer_bjacket_closed_flannel_yellow"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-leather",
-            "label": "Closed Jackets - Leather",
-            "icon": "c-leather",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Black",
-                    "code": "rm_outer_bjacket_closed_leather_black"
-                },
-                {
-                    "name": "Blue",
-                    "code": "rm_outer_bjacket_closed_leather_blue"
-                },
-                {
-                    "name": "Brown",
-                    "code": "rm_outer_bjacket_closed_leather_brown"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "rm_outer_bjacket_closed_leather_burgundy"
-                },
-                {
-                    "name": "Charcoal",
-                    "code": "rm_outer_bjacket_closed_leather_charcoal"
-                },
-                {
-                    "name": "Cognac",
-                    "code": "rm_outer_bjacket_closed_leather_cognac"
-                },
-                {
-                    "name": "Green",
-                    "code": "rm_outer_bjacket_closed_leather_green"
-                },
-                {
-                    "name": "Olive",
-                    "code": "rm_outer_bjacket_closed_leather_olive"
-                },
-                {
-                    "name": "Red",
-                    "code": "rm_outer_bjacket_closed_leather_red"
-                },
-                {
-                    "name": "Tan",
-                    "code": "rm_outer_bjacket_closed_leather_tan"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-plaid",
-            "label": "Closed Jackets - Plaid",
-            "icon": "c-plaid",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Blue",
-                    "code": "rm_outer_bjacket_closed_plaid_blue"
-                },
-                {
-                    "name": "Cyan",
-                    "code": "rm_outer_bjacket_closed_plaid_cyan"
-                },
-                {
-                    "name": "Green",
-                    "code": "rm_outer_bjacket_closed_plaid_green"
-                },
-                {
-                    "name": "Orange",
-                    "code": "rm_outer_bjacket_closed_plaid_orange"
-                },
-                {
-                    "name": "Pink",
-                    "code": "rm_outer_bjacket_closed_plaid_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "rm_outer_bjacket_closed_plaid_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "rm_outer_bjacket_closed_plaid_red"
-                },
-                {
-                    "name": "Rose",
-                    "code": "rm_outer_bjacket_closed_plaid_rose"
-                },
-                {
-                    "name": "White",
-                    "code": "rm_outer_bjacket_closed_plaid_white"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "rm_outer_bjacket_closed_plaid_yellow"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-solid-color",
-            "label": "Closed Jackets - Solid color",
-            "icon": "c-solid",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Blue",
-                    "code": "rm_outer_bjacket_closed_solid_blue"
-                },
-                {
-                    "name": "Charcoal",
-                    "code": "rm_outer_bjacket_closed_solid_charcoal"
-                },
-                {
-                    "name": "Grey",
-                    "code": "rm_outer_bjacket_closed_solid_grey"
-                },
-                {
-                    "name": "Olive",
-                    "code": "rm_outer_bjacket_closed_solid_olive"
-                },
-                {
-                    "name": "Red",
-                    "code": "rm_outer_bjacket_closed_solid_red"
-                }
-            ]
-        },
-        {
-            "id": "closed-jackets-two-tone",
-            "label": "Closed Jackets - Two-tone",
-            "icon": "c-two-tone",
-            "tags": [
-                "Jacket",
-                "Torso"
-            ],
-            "items": [
-                {
-                    "name": "Blue",
-                    "code": "rm_outer_bjacket_closed_twotone_blue"
-                },
-                {
-                    "name": "Chartreuse",
-                    "code": "rm_outer_bjacket_closed_twotone_chartreuse"
-                },
-                {
-                    "name": "Cyan",
-                    "code": "rm_outer_bjacket_closed_twotone_cyan"
-                },
-                {
-                    "name": "Green",
-                    "code": "rm_outer_bjacket_closed_twotone_green"
-                },
-                {
-                    "name": "Orange",
-                    "code": "rm_outer_bjacket_closed_twotone_orange"
-                },
-                {
-                    "name": "Pink",
-                    "code": "rm_outer_bjacket_closed_twotone_pink"
-                },
-                {
-                    "name": "Purple",
-                    "code": "rm_outer_bjacket_closed_twotone_purple"
-                },
-                {
-                    "name": "Red",
-                    "code": "rm_outer_bjacket_closed_twotone_red"
-                },
-                {
-                    "name": "Rose",
-                    "code": "rm_outer_bjacket_closed_twotone_rose"
-                },
-                {
-                    "name": "Yellow",
-                    "code": "rm_outer_bjacket_closed_twotone_yellow"
-                }
-            ]
-        },
         {
             "id": "open-jackets-camo",
             "label": "Open Jackets - Camo",
@@ -478,6 +152,18 @@
                 {
                     "name": "Red",
                     "code": "rm_outer_bjacket_open_flannel_red"
+                },
+                {
+                    "name": "Yellow",
+                    "code": "rm_outer_bjacket_open_flannel_yellow"
+                },
+                {
+                    "name": "Cyan",
+                    "code": "rm_outer_bjacket_open_flannel_cyan"
+                },
+                {
+                    "name": "Purple",
+                    "code": "rm_outer_bjacket_open_flannel_purple"
                 },
                 {
                     "name": "Yellow",
@@ -679,24 +365,28 @@
             ],
             "items": [
                 {
-                    "name": "Hood Cuffs",
-                    "code": "rm_outer_bjacket_toggle_hood_cuffs"
-                },
-                {
-                    "name": "Hood Cuffs FPP",
-                    "code": "rm_outer_bjacket_toggle_hood_cuffs_fpp"
-                },
-                {
                     "name": "No Hood",
                     "code": "rm_outer_bjacket_toggle_nohood"
                 },
                 {
-                    "name": "No Hood Cuffs",
-                    "code": "rm_outer_bjacket_toggle_nohood_cuffs"
+                    "name": "Closed",
+                    "code": "rm_outer_bjacket_toggle_closed"
                 },
                 {
-                    "name": "No Hood Cuffs FPP",
-                    "code": "rm_outer_bjacket_toggle_nohood_cuffs_fpp"
+                    "name": "Closed (Cuffs)",
+                    "code": "rm_outer_bjacket_toggle_closed_cuffs"
+                },
+                {
+                    "name": "Closed (Cuffs) FPP",
+                    "code": "rm_outer_bjacket_toggle_closed_cuffs_fpp"
+                },
+                {
+                    "name": "Open (Cuffs)",
+                    "code": "rm_outer_bjacket_toggle_open_cuffs"
+                },
+                {
+                    "name": "Open (Cuffs) FPP",
+                    "code": "rm_outer_bjacket_toggle_open_cuffs_fpp"
                 }
             ]
         }
