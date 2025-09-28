@@ -1,6 +1,7 @@
 {
     "mod": "Low Waist Leggings",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/19257",
+    "modVersion": "1.0.1",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12939",
     "atelierName": "Mayo Virtual Atelier",
     "authors": [
@@ -8,12 +9,14 @@
         "NotMayoSan"
     ],
     "tags": [
+        "Body-EVB",
         "Body-Hyst-Angel",
         "Body-Hyst-EBB",
         "Body-Hyst-EBBP",
         "Body-Hyst-EBBPRB",
         "Body-Hyst-EBBRB",
         "Body-Hyst-RB",
+        "Body-VTK-VanillaHD",
         "Body-Vanilla",
         "Clothing",
         "FemV",
