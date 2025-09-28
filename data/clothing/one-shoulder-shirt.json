@@ -1,12 +1,14 @@
 {
     "mod": "One-Shoulder Shirt",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/7267",
+    "modVersion": "1.2",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/5114",
     "atelierName": "Nola Dreamer Boutique",
     "authors": [
         "NolaDreamer"
     ],
     "tags": [
+        "Body-Hyst-Angel",
         "Body-Hyst-EBB",
         "Body-Hyst-EBBP",
         "Body-Hyst-EBBPRB",
