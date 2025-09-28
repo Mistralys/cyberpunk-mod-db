@@ -1,6 +1,7 @@
 {
     "mod": "Knife Holster Torso",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/15042",
+    "modVersion": "0.3",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/12637",
     "atelierName": "Voidwear Virtual Atelier",
     "authors": [
@@ -13,8 +14,34 @@
         "FemV",
         "Torso"
     ],
+    "comments": "The knife color toggles can be used in the Equipment-EX wardrobe.",
     "searchTweaks": "into void",
     "itemCategories": [
+        {
+            "id": "color-toggles",
+            "label": "Knife Color Toggles",
+            "tags": [
+                "Toggles"
+            ],
+            "items": [
+                {
+                    "name": "Black",
+                    "code": "yv_knife_holster_torso_knives_black"
+                },
+                {
+                    "name": "Carbon",
+                    "code": "yv_knife_holster_torso_knives_carbon"
+                },
+                {
+                    "name": "Gold",
+                    "code": "yv_knife_holster_torso_knives_gold"
+                },
+                {
+                    "name": "Silver",
+                    "code": "yv_knife_holster_torso_knives_silver"
+                }
+            ]
+        },
         {
             "id": "knife-holsters",
             "label": "Knife Holsters",
