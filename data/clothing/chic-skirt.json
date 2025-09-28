@@ -1,13 +1,16 @@
 {
     "mod": "Chic Skirt",
     "url": "https://www.nexusmods.com/cyberpunk2077/mods/16149",
+    "modVersion": "2.0",
     "atelier": "https://www.nexusmods.com/cyberpunk2077/mods/14744",
     "atelierName": "Breezy's Clothing Emporium",
     "authors": [
         "Breezypunk"
     ],
     "tags": [
+        "Body-EVB",
         "Body-Gymfiend",
+        "Body-Hyst-Angel",
         "Body-Hyst-EBBPRB",
         "Body-Hyst-EBBRB",
         "Body-Hyst-RB",
