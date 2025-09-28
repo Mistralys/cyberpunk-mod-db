@@ -1,3 +1,22 @@
+## v2.3.1 - Item updates
+- Mods: `summer-outfit`: Updated info to version 1.2 with more refits.
+- Mods: `chic-skirt`: Updated info to version 2.0 with Angel body support.
+- Mods: `terchtopia-gloves`: Updated info to version 1.2 with Angel body support.
+- Mods: `rockergirl-pants-laces`: Updated info to v1.2.
+- Mods: `low-waist-leggings`: Updated info to v1.0.1.
+- Mods: `street-outfit`: Updated body refit info for v1.2.
+- Mods: `one-shoulder-shirt`: Updated info for v1.2.
+- Mods: `corpo-clothing-hanako-top`: Updated info and item codes for v1.2. 
+- Mods: `bomber-jackets`: Updated info and item codes for v1.1.
+- Mods: `knife-holster-torso`: Updated info and item codes for v0.3.
+- Mods: Removed ScorpionTank's military series.
+- Core: Added the `modVersion` property to set the official version of the mod used in the DB.
+
+> Regarding ScorpionTank's mods: The new Zenitex military clothing series adds 
+> a whole set of features tied to the clothing. While this is very well done as
+> usual, these items are not just clothing anymore, and do not fit into the database
+> because of it. 
+
 ## v2.3.0 - The item icon update
 - Screenshots: Added item screenshots for all 583 item categories.
 - Mods: `aria-tloak-suit`: Fixed missing category IDs.
